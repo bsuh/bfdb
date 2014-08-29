@@ -172,8 +172,18 @@ def parse_bb_multiple_elem_attack(process_info):
     return buffs
 
 def parse_bb_element_change(process_info):
-    return {'element change type': elements[process_info[0]],
-            'element change turns': int(process_info[6])}
+    elements_added = []
+
+    if int(process_info[0]) != 0:
+        elements_added.append(elements[process_info[0]])
+    if int(process_info[1]) != 0:
+        elements_added.append(elements[process_info[1]])
+    if int(process_info[2]) != 0:
+        raise 'Guessed path'
+        elements_added.append(elements[process_info[2]])
+
+    return {'elements added': elements_added,
+            'elements added turns': int(process_info[6])}
 
 def parse_bb_increase_bb_gauge(process_info):
     return {'increase bb gauge': int(process_info[0])/100}
@@ -207,7 +217,11 @@ def parse_bb_process(process_type, process_info):
 def parse_bb_level(process_types, process_infos):
     process_data = {}
     for process_type, process_info in zip(process_types, process_infos):
-        process_data.update(parse_bb_process(process_type, process_info))
+        bb_data = parse_bb_process(process_type, process_info)
+        if 'elements added' in bb_data and 'elements added' in process_data:
+            data['elements added'] += bb_data.pop('elements added')
+
+        process_data.update(bb_data)
 
     return process_data
 

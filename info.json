@@ -1149,8 +1149,10 @@
           "bb atk%": 500,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 12,
           "lord damage range": "9831~10980",
           "random attack": true
@@ -1159,8 +1161,10 @@
           "bb atk%": 510,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 12,
           "lord damage range": "9993~11161",
           "random attack": true
@@ -1169,8 +1173,10 @@
           "bb atk%": 520,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 12,
           "lord damage range": "10155~11342",
           "random attack": true
@@ -1179,8 +1185,10 @@
           "bb atk%": 530,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 12,
           "lord damage range": "10318~11523",
           "random attack": true
@@ -1189,8 +1197,10 @@
           "bb atk%": 540,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 12,
           "lord damage range": "10480~11705",
           "random attack": true
@@ -1199,8 +1209,10 @@
           "bb atk%": 550,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 12,
           "lord damage range": "10643~11886",
           "random attack": true
@@ -1209,8 +1221,10 @@
           "bb atk%": 560,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 12,
           "lord damage range": "10804~12067",
           "random attack": true
@@ -1219,8 +1233,10 @@
           "bb atk%": 570,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 12,
           "lord damage range": "10968~12249",
           "random attack": true
@@ -1229,8 +1245,10 @@
           "bb atk%": 580,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 12,
           "lord damage range": "11129~12430",
           "random attack": true
@@ -1239,8 +1257,10 @@
           "bb atk%": 590,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 12,
           "lord damage range": "11291~12611",
           "random attack": true
@@ -1281,8 +1301,10 @@
           "bb atk%": 700,
           "bb flat atk": 150,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 15,
           "increase bb gauge gradual": 2,
           "increase bb gauge gradual turns": 3,
@@ -1293,8 +1315,10 @@
           "bb atk%": 710,
           "bb flat atk": 150,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 15,
           "increase bb gauge gradual": 2,
           "increase bb gauge gradual turns": 3,
@@ -1305,8 +1329,10 @@
           "bb atk%": 720,
           "bb flat atk": 150,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 15,
           "increase bb gauge gradual": 2,
           "increase bb gauge gradual turns": 3,
@@ -1317,8 +1343,10 @@
           "bb atk%": 730,
           "bb flat atk": 150,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 15,
           "increase bb gauge gradual": 2,
           "increase bb gauge gradual turns": 3,
@@ -1329,8 +1357,10 @@
           "bb atk%": 740,
           "bb flat atk": 150,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 15,
           "increase bb gauge gradual": 2,
           "increase bb gauge gradual turns": 3,
@@ -1341,8 +1371,10 @@
           "bb atk%": 750,
           "bb flat atk": 150,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 15,
           "increase bb gauge gradual": 2,
           "increase bb gauge gradual turns": 3,
@@ -1353,8 +1385,10 @@
           "bb atk%": 760,
           "bb flat atk": 150,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 15,
           "increase bb gauge gradual": 2,
           "increase bb gauge gradual turns": 3,
@@ -1365,8 +1399,10 @@
           "bb atk%": 770,
           "bb flat atk": 150,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 15,
           "increase bb gauge gradual": 2,
           "increase bb gauge gradual turns": 3,
@@ -1377,8 +1413,10 @@
           "bb atk%": 780,
           "bb flat atk": 150,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 15,
           "increase bb gauge gradual": 2,
           "increase bb gauge gradual turns": 3,
@@ -1389,8 +1427,10 @@
           "bb atk%": 800,
           "bb flat atk": 150,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 15,
           "increase bb gauge gradual": 2,
           "increase bb gauge gradual turns": 3,
@@ -1832,80 +1872,100 @@
           "bb atk%": 250,
           "bb flat atk": 50,
           "bc cost": 15,
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "4452~4973"
         },
         {
           "bb atk%": 260,
           "bb flat atk": 50,
           "bc cost": 15,
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "4578~5113"
         },
         {
           "bb atk%": 270,
           "bb flat atk": 50,
           "bc cost": 15,
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "4703~5254"
         },
         {
           "bb atk%": 280,
           "bb flat atk": 50,
           "bc cost": 15,
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "4830~5394"
         },
         {
           "bb atk%": 290,
           "bb flat atk": 50,
           "bc cost": 15,
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "4955~5534"
         },
         {
           "bb atk%": 300,
           "bb flat atk": 50,
           "bc cost": 15,
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "5082~5676"
         },
         {
           "bb atk%": 310,
           "bb flat atk": 50,
           "bc cost": 15,
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "5207~5816"
         },
         {
           "bb atk%": 320,
           "bb flat atk": 50,
           "bc cost": 15,
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "5334~5957"
         },
         {
           "bb atk%": 330,
           "bb flat atk": 50,
           "bc cost": 15,
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "5459~6097"
         },
         {
           "bb atk%": 350,
           "bb flat atk": 50,
           "bc cost": 15,
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "5711~6379"
         }
       ],
@@ -1964,80 +2024,100 @@
           "bb atk%": 340,
           "bb flat atk": 50,
           "bc cost": 16,
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "7916~8842"
         },
         {
           "bb atk%": 350,
           "bb flat atk": 50,
           "bc cost": 16,
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "8095~9041"
         },
         {
           "bb atk%": 360,
           "bb flat atk": 50,
           "bc cost": 16,
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "8274~9241"
         },
         {
           "bb atk%": 370,
           "bb flat atk": 50,
           "bc cost": 16,
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "8453~9441"
         },
         {
           "bb atk%": 380,
           "bb flat atk": 50,
           "bc cost": 16,
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "8632~9640"
         },
         {
           "bb atk%": 390,
           "bb flat atk": 50,
           "bc cost": 16,
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "8810~9840"
         },
         {
           "bb atk%": 400,
           "bb flat atk": 50,
           "bc cost": 16,
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "8990~10041"
         },
         {
           "bb atk%": 410,
           "bb flat atk": 50,
           "bc cost": 16,
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "9169~10240"
         },
         {
           "bb atk%": 420,
           "bb flat atk": 50,
           "bc cost": 16,
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "9348~10440"
         },
         {
           "bb atk%": 440,
           "bb flat atk": 50,
           "bc cost": 16,
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "9705~10839"
         }
       ],
@@ -2101,8 +2181,10 @@
           "bc cost": 24,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "6890~7694"
         },
         {
@@ -2112,8 +2194,10 @@
           "bc cost": 24,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "7105~7935"
         },
         {
@@ -2123,8 +2207,10 @@
           "bc cost": 24,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "7319~8174"
         },
         {
@@ -2134,8 +2220,10 @@
           "bc cost": 24,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "7533~8414"
         },
         {
@@ -2145,8 +2233,10 @@
           "bc cost": 24,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "7748~8653"
         },
         {
@@ -2156,8 +2246,10 @@
           "bc cost": 24,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "7963~8894"
         },
         {
@@ -2167,8 +2259,10 @@
           "bc cost": 24,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "8177~9133"
         },
         {
@@ -2178,8 +2272,10 @@
           "bc cost": 24,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "8392~9373"
         },
         {
@@ -2189,8 +2285,10 @@
           "bc cost": 24,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "8606~9612"
         },
         {
@@ -2200,8 +2298,10 @@
           "bc cost": 24,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "9037~10093"
         }
       ],
@@ -2235,80 +2335,100 @@
           "bb atk%": 300,
           "bb flat atk": 50,
           "bc cost": 15,
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "6151~6870"
         },
         {
           "bb atk%": 310,
           "bb flat atk": 50,
           "bc cost": 15,
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "6303~7039"
         },
         {
           "bb atk%": 320,
           "bb flat atk": 50,
           "bc cost": 15,
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "6455~7210"
         },
         {
           "bb atk%": 330,
           "bb flat atk": 50,
           "bc cost": 15,
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "6608~7380"
         },
         {
           "bb atk%": 340,
           "bb flat atk": 50,
           "bc cost": 15,
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "6760~7551"
         },
         {
           "bb atk%": 350,
           "bb flat atk": 50,
           "bc cost": 15,
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "6914~7722"
         },
         {
           "bb atk%": 360,
           "bb flat atk": 50,
           "bc cost": 15,
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "7067~7892"
         },
         {
           "bb atk%": 370,
           "bb flat atk": 50,
           "bc cost": 15,
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "7219~8063"
         },
         {
           "bb atk%": 380,
           "bb flat atk": 50,
           "bc cost": 15,
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "7372~8233"
         },
         {
           "bb atk%": 400,
           "bb flat atk": 50,
           "bc cost": 15,
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "7677~8574"
         }
       ],
@@ -3701,80 +3821,100 @@
           "buff turns": 3,
           "def% buff": 60,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth"
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 18,
           "buff turns": 3,
           "def% buff": 65,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth"
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 18,
           "buff turns": 3,
           "def% buff": 70,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth"
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 18,
           "buff turns": 3,
           "def% buff": 75,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth"
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 18,
           "buff turns": 3,
           "def% buff": 80,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth"
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 18,
           "buff turns": 3,
           "def% buff": 85,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth"
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 18,
           "buff turns": 3,
           "def% buff": 90,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth"
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 18,
           "buff turns": 3,
           "def% buff": 95,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth"
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 18,
           "buff turns": 3,
           "def% buff": 100,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth"
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 18,
           "buff turns": 3,
           "def% buff": 110,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth"
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3
         }
       ],
       "name": "Tempest Wall"
@@ -3829,8 +3969,10 @@
           "buff turns": 3,
           "def% buff": 65,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "4984~5567"
         },
         {
@@ -3840,8 +3982,10 @@
           "buff turns": 3,
           "def% buff": 70,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "5123~5723"
         },
         {
@@ -3851,8 +3995,10 @@
           "buff turns": 3,
           "def% buff": 75,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "5263~5879"
         },
         {
@@ -3862,8 +4008,10 @@
           "buff turns": 3,
           "def% buff": 80,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "5403~6035"
         },
         {
@@ -3873,8 +4021,10 @@
           "buff turns": 3,
           "def% buff": 85,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "5543~6191"
         },
         {
@@ -3884,8 +4034,10 @@
           "buff turns": 3,
           "def% buff": 90,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "5683~6348"
         },
         {
@@ -3895,8 +4047,10 @@
           "buff turns": 3,
           "def% buff": 95,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "5823~6504"
         },
         {
@@ -3906,8 +4060,10 @@
           "buff turns": 3,
           "def% buff": 100,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "5963~6660"
         },
         {
@@ -3917,8 +4073,10 @@
           "buff turns": 3,
           "def% buff": 105,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "6102~6816"
         },
         {
@@ -3928,8 +4086,10 @@
           "buff turns": 3,
           "def% buff": 115,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth",
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3,
           "lord damage range": "6382~7128"
         }
       ],
@@ -4054,80 +4214,100 @@
           "buff turns": 3,
           "def% buff": 50,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth"
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 18,
           "buff turns": 3,
           "def% buff": 55,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth"
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 18,
           "buff turns": 3,
           "def% buff": 60,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth"
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 18,
           "buff turns": 3,
           "def% buff": 65,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth"
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 18,
           "buff turns": 3,
           "def% buff": 70,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth"
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 18,
           "buff turns": 3,
           "def% buff": 75,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth"
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 18,
           "buff turns": 3,
           "def% buff": 80,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth"
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 18,
           "buff turns": 3,
           "def% buff": 85,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth"
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 18,
           "buff turns": 3,
           "def% buff": 90,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth"
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 18,
           "buff turns": 3,
           "def% buff": 100,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth"
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3
         }
       ],
       "name": "Brilliant Guard"
@@ -4423,80 +4603,100 @@
           "bb atk%": 120,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "4190~4680"
         },
         {
           "bb atk%": 130,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "4376~4888"
         },
         {
           "bb atk%": 140,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "4563~5096"
         },
         {
           "bb atk%": 150,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "4749~5304"
         },
         {
           "bb atk%": 160,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "4935~5512"
         },
         {
           "bb atk%": 170,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "5121~5720"
         },
         {
           "bb atk%": 180,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "5308~5928"
         },
         {
           "bb atk%": 190,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "5494~6136"
         },
         {
           "bb atk%": 200,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "5680~6344"
         },
         {
           "bb atk%": 220,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "6053~6760"
         }
       ],
@@ -4556,8 +4756,10 @@
           "buff turns": 3,
           "def% buff": 60,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "6611~7384"
         },
         {
@@ -4567,8 +4769,10 @@
           "buff turns": 3,
           "def% buff": 65,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "6798~7592"
         },
         {
@@ -4578,8 +4782,10 @@
           "buff turns": 3,
           "def% buff": 70,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "6984~7800"
         },
         {
@@ -4589,8 +4795,10 @@
           "buff turns": 3,
           "def% buff": 75,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "7170~8008"
         },
         {
@@ -4600,8 +4808,10 @@
           "buff turns": 3,
           "def% buff": 80,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "7356~8216"
         },
         {
@@ -4611,8 +4821,10 @@
           "buff turns": 3,
           "def% buff": 85,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "7543~8424"
         },
         {
@@ -4622,8 +4834,10 @@
           "buff turns": 3,
           "def% buff": 90,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "7729~8632"
         },
         {
@@ -4633,8 +4847,10 @@
           "buff turns": 3,
           "def% buff": 95,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "7915~8840"
         },
         {
@@ -4644,8 +4860,10 @@
           "buff turns": 3,
           "def% buff": 100,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "8101~9048"
         },
         {
@@ -4655,8 +4873,10 @@
           "buff turns": 3,
           "def% buff": 110,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "8474~9464"
         }
       ],
@@ -7008,62 +7228,82 @@
       "levels": [
         {
           "bc cost": 16,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "negate status ails turns": 3
         },
         {
           "bc cost": 16,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "negate status ails turns": 3
         },
         {
           "bc cost": 15,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "negate status ails turns": 3
         },
         {
           "bc cost": 15,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "negate status ails turns": 3
         },
         {
           "bc cost": 14,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "negate status ails turns": 3
         },
         {
           "bc cost": 14,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "negate status ails turns": 3
         },
         {
           "bc cost": 13,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "negate status ails turns": 3
         },
         {
           "bc cost": 13,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "negate status ails turns": 3
         },
         {
           "bc cost": 12,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "negate status ails turns": 3
         },
         {
           "bc cost": 11,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "negate status ails turns": 3
         }
       ],
@@ -8583,8 +8823,10 @@
           "bb atk%": 200,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "hits": 8,
           "lord damage range": "4319~4824",
           "random attack": true
@@ -8593,8 +8835,10 @@
           "bb atk%": 210,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "hits": 8,
           "lord damage range": "4460~4981",
           "random attack": true
@@ -8603,8 +8847,10 @@
           "bb atk%": 220,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "hits": 8,
           "lord damage range": "4600~5138",
           "random attack": true
@@ -8613,8 +8859,10 @@
           "bb atk%": 230,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "hits": 8,
           "lord damage range": "4741~5295",
           "random attack": true
@@ -8623,8 +8871,10 @@
           "bb atk%": 240,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "hits": 8,
           "lord damage range": "4882~5453",
           "random attack": true
@@ -8633,8 +8883,10 @@
           "bb atk%": 250,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "hits": 8,
           "lord damage range": "5023~5610",
           "random attack": true
@@ -8643,8 +8895,10 @@
           "bb atk%": 260,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "hits": 8,
           "lord damage range": "5164~5767",
           "random attack": true
@@ -8653,8 +8907,10 @@
           "bb atk%": 270,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "hits": 8,
           "lord damage range": "5306~5925",
           "random attack": true
@@ -8663,8 +8919,10 @@
           "bb atk%": 280,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "hits": 8,
           "lord damage range": "5446~6082",
           "random attack": true
@@ -8673,8 +8931,10 @@
           "bb atk%": 300,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "hits": 8,
           "lord damage range": "5728~6398",
           "random attack": true
@@ -9391,8 +9651,10 @@
           "bb atk%": 300,
           "bb flat atk": 100,
           "bc cost": 21,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "hits": 11,
           "lord damage range": "6838~7637",
           "random attack": true
@@ -9401,8 +9663,10 @@
           "bb atk%": 310,
           "bb flat atk": 100,
           "bc cost": 21,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "hits": 11,
           "lord damage range": "7007~7826",
           "random attack": true
@@ -9411,8 +9675,10 @@
           "bb atk%": 320,
           "bb flat atk": 100,
           "bc cost": 21,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "hits": 11,
           "lord damage range": "7175~8014",
           "random attack": true
@@ -9421,8 +9687,10 @@
           "bb atk%": 330,
           "bb flat atk": 100,
           "bc cost": 21,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "hits": 11,
           "lord damage range": "7344~8202",
           "random attack": true
@@ -9431,8 +9699,10 @@
           "bb atk%": 340,
           "bb flat atk": 100,
           "bc cost": 21,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "hits": 11,
           "lord damage range": "7513~8390",
           "random attack": true
@@ -9441,8 +9711,10 @@
           "bb atk%": 350,
           "bb flat atk": 100,
           "bc cost": 21,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "hits": 11,
           "lord damage range": "7681~8578",
           "random attack": true
@@ -9451,8 +9723,10 @@
           "bb atk%": 360,
           "bb flat atk": 100,
           "bc cost": 21,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "hits": 11,
           "lord damage range": "7850~8767",
           "random attack": true
@@ -9461,8 +9735,10 @@
           "bb atk%": 370,
           "bb flat atk": 100,
           "bc cost": 21,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "hits": 11,
           "lord damage range": "8018~8955",
           "random attack": true
@@ -9471,8 +9747,10 @@
           "bb atk%": 380,
           "bb flat atk": 100,
           "bc cost": 21,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "hits": 11,
           "lord damage range": "8186~9143",
           "random attack": true
@@ -9481,8 +9759,10 @@
           "bb atk%": 400,
           "bb flat atk": 100,
           "bc cost": 21,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "hits": 11,
           "lord damage range": "8525~9521",
           "random attack": true
@@ -9679,8 +9959,10 @@
           "bb atk%": 300,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 8,
           "lord damage range": "5624~6281",
           "random attack": true
@@ -9689,8 +9971,10 @@
           "bb atk%": 310,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 8,
           "lord damage range": "5762~6435",
           "random attack": true
@@ -9699,8 +9983,10 @@
           "bb atk%": 320,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 8,
           "lord damage range": "5901~6590",
           "random attack": true
@@ -9709,8 +9995,10 @@
           "bb atk%": 330,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 8,
           "lord damage range": "6038~6744",
           "random attack": true
@@ -9719,8 +10007,10 @@
           "bb atk%": 340,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 8,
           "lord damage range": "6177~6899",
           "random attack": true
@@ -9729,8 +10019,10 @@
           "bb atk%": 350,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 8,
           "lord damage range": "6314~7053",
           "random attack": true
@@ -9739,8 +10031,10 @@
           "bb atk%": 360,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 8,
           "lord damage range": "6453~7207",
           "random attack": true
@@ -9749,8 +10043,10 @@
           "bb atk%": 370,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 8,
           "lord damage range": "6592~7362",
           "random attack": true
@@ -9759,8 +10055,10 @@
           "bb atk%": 380,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 8,
           "lord damage range": "6730~7517",
           "random attack": true
@@ -9769,8 +10067,10 @@
           "bb atk%": 400,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 8,
           "lord damage range": "7007~7826",
           "random attack": true
@@ -12087,62 +12387,82 @@
       "levels": [
         {
           "bc cost": 27,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge": 7
         },
         {
           "bc cost": 27,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge": 7
         },
         {
           "bc cost": 26,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge": 7
         },
         {
           "bc cost": 26,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge": 7
         },
         {
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge": 7
         },
         {
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge": 7
         },
         {
           "bc cost": 24,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge": 7
         },
         {
           "bc cost": 24,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge": 7
         },
         {
           "bc cost": 23,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge": 7
         },
         {
           "bc cost": 21,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge": 7
         }
       ],
@@ -12385,62 +12705,82 @@
       "levels": [
         {
           "bc cost": 28,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge": 5
         },
         {
           "bc cost": 28,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge": 5
         },
         {
           "bc cost": 27,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge": 5
         },
         {
           "bc cost": 27,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge": 5
         },
         {
           "bc cost": 26,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge": 5
         },
         {
           "bc cost": 26,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge": 5
         },
         {
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge": 5
         },
         {
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge": 5
         },
         {
           "bc cost": 24,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge": 5
         },
         {
           "bc cost": 22,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge": 5
         }
       ],
@@ -12579,80 +12919,100 @@
           "buff turns": 3,
           "crit% buff": 30,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark"
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 20,
           "buff turns": 3,
           "crit% buff": 32,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark"
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 20,
           "buff turns": 3,
           "crit% buff": 34,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark"
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 20,
           "buff turns": 3,
           "crit% buff": 36,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark"
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 20,
           "buff turns": 3,
           "crit% buff": 38,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark"
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 20,
           "buff turns": 3,
           "crit% buff": 40,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark"
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 20,
           "buff turns": 3,
           "crit% buff": 42,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark"
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 20,
           "buff turns": 3,
           "crit% buff": 44,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark"
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 20,
           "buff turns": 3,
           "crit% buff": 46,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark"
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 20,
           "buff turns": 3,
           "crit% buff": 50,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark"
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3
         }
       ],
       "name": "Destruction Mode"
@@ -12698,80 +13058,100 @@
           "buff turns": 3,
           "crit% buff": 40,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark"
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 22,
           "buff turns": 3,
           "crit% buff": 42,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark"
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 22,
           "buff turns": 3,
           "crit% buff": 44,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark"
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 22,
           "buff turns": 3,
           "crit% buff": 46,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark"
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 22,
           "buff turns": 3,
           "crit% buff": 48,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark"
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 22,
           "buff turns": 3,
           "crit% buff": 50,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark"
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 22,
           "buff turns": 3,
           "crit% buff": 52,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark"
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 22,
           "buff turns": 3,
           "crit% buff": 54,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark"
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 22,
           "buff turns": 3,
           "crit% buff": 56,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark"
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 22,
           "buff turns": 3,
           "crit% buff": 60,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark"
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3
         }
       ],
       "name": "Destruction Mode II"
@@ -12817,80 +13197,100 @@
           "buff turns": 3,
           "crit% buff": 40,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark"
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 22,
           "buff turns": 3,
           "crit% buff": 42,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark"
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 22,
           "buff turns": 3,
           "crit% buff": 44,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark"
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 22,
           "buff turns": 3,
           "crit% buff": 46,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark"
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 21,
           "buff turns": 3,
           "crit% buff": 48,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark"
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 21,
           "buff turns": 3,
           "crit% buff": 50,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark"
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 21,
           "buff turns": 3,
           "crit% buff": 52,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark"
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 21,
           "buff turns": 3,
           "crit% buff": 54,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark"
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 21,
           "buff turns": 3,
           "crit% buff": 56,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark"
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 20,
           "buff turns": 3,
           "crit% buff": 60,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark"
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3
         }
       ],
       "name": "Destruction Mode III"
@@ -12959,8 +13359,10 @@
           "buff turns": 3,
           "crit% buff": 40,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "lord damage range": "5281~5898"
         },
         {
@@ -12970,8 +13372,10 @@
           "buff turns": 3,
           "crit% buff": 42,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "lord damage range": "5429~6064"
         },
         {
@@ -12981,8 +13385,10 @@
           "buff turns": 3,
           "crit% buff": 44,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "lord damage range": "5578~6229"
         },
         {
@@ -12992,8 +13398,10 @@
           "buff turns": 3,
           "crit% buff": 46,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "lord damage range": "5726~6394"
         },
         {
@@ -13003,8 +13411,10 @@
           "buff turns": 3,
           "crit% buff": 48,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "lord damage range": "5874~6560"
         },
         {
@@ -13014,8 +13424,10 @@
           "buff turns": 3,
           "crit% buff": 50,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "lord damage range": "6023~6726"
         },
         {
@@ -13025,8 +13437,10 @@
           "buff turns": 3,
           "crit% buff": 52,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "lord damage range": "6171~6892"
         },
         {
@@ -13036,8 +13450,10 @@
           "buff turns": 3,
           "crit% buff": 54,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "lord damage range": "6319~7057"
         },
         {
@@ -13047,8 +13463,10 @@
           "buff turns": 3,
           "crit% buff": 56,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "lord damage range": "6467~7222"
         },
         {
@@ -13058,8 +13476,10 @@
           "buff turns": 3,
           "crit% buff": 60,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "lord damage range": "6764~7554"
         }
       ],
@@ -14770,62 +15190,82 @@
       "levels": [
         {
           "bc cost": 28,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge": 8
         },
         {
           "bc cost": 28,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge": 8
         },
         {
           "bc cost": 27,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge": 8
         },
         {
           "bc cost": 27,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge": 8
         },
         {
           "bc cost": 26,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge": 8
         },
         {
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge": 8
         },
         {
           "bc cost": 24,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge": 8
         },
         {
           "bc cost": 23,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge": 8
         },
         {
           "bc cost": 22,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge": 8
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge": 8
         }
       ],
@@ -14881,8 +15321,10 @@
           "bb atk%": 250,
           "bb flat atk": 100,
           "bc cost": 30,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge gradual": 5,
           "increase bb gauge gradual turns": 3,
           "lord damage range": "7018~7838"
@@ -14891,8 +15333,10 @@
           "bb atk%": 260,
           "bb flat atk": 100,
           "bc cost": 29,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge gradual": 5,
           "increase bb gauge gradual turns": 3,
           "lord damage range": "7217~8060"
@@ -14901,8 +15345,10 @@
           "bb atk%": 270,
           "bb flat atk": 100,
           "bc cost": 28,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge gradual": 5,
           "increase bb gauge gradual turns": 3,
           "lord damage range": "7413~8280"
@@ -14911,8 +15357,10 @@
           "bb atk%": 280,
           "bb flat atk": 100,
           "bc cost": 27,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge gradual": 5,
           "increase bb gauge gradual turns": 3,
           "lord damage range": "7612~8502"
@@ -14921,8 +15369,10 @@
           "bb atk%": 290,
           "bb flat atk": 100,
           "bc cost": 26,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge gradual": 5,
           "increase bb gauge gradual turns": 3,
           "lord damage range": "7810~8722"
@@ -14931,8 +15381,10 @@
           "bb atk%": 300,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge gradual": 5,
           "increase bb gauge gradual turns": 3,
           "lord damage range": "8008~8944"
@@ -14941,8 +15393,10 @@
           "bb atk%": 310,
           "bb flat atk": 100,
           "bc cost": 24,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge gradual": 5,
           "increase bb gauge gradual turns": 3,
           "lord damage range": "8205~9164"
@@ -14951,8 +15405,10 @@
           "bb atk%": 320,
           "bb flat atk": 100,
           "bc cost": 23,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge gradual": 5,
           "increase bb gauge gradual turns": 3,
           "lord damage range": "8404~9386"
@@ -14961,8 +15417,10 @@
           "bb atk%": 330,
           "bb flat atk": 100,
           "bc cost": 22,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge gradual": 5,
           "increase bb gauge gradual turns": 3,
           "lord damage range": "8601~9606"
@@ -14971,8 +15429,10 @@
           "bb atk%": 350,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "increase bb gauge gradual": 5,
           "increase bb gauge gradual turns": 3,
           "lord damage range": "8996~10048"
@@ -15805,80 +16265,100 @@
       "levels": [
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 1300,
           "gradual heal low": 1000,
           "gradual heal turns": 3
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 1320,
           "gradual heal low": 1020,
           "gradual heal turns": 3
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 1340,
           "gradual heal low": 1040,
           "gradual heal turns": 3
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 1360,
           "gradual heal low": 1060,
           "gradual heal turns": 3
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 1380,
           "gradual heal low": 1080,
           "gradual heal turns": 3
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 1400,
           "gradual heal low": 1100,
           "gradual heal turns": 3
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 1420,
           "gradual heal low": 1120,
           "gradual heal turns": 3
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 1440,
           "gradual heal low": 1140,
           "gradual heal turns": 3
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 1460,
           "gradual heal low": 1160,
           "gradual heal turns": 3
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 1500,
           "gradual heal low": 1180,
           "gradual heal turns": 3
@@ -15932,8 +16412,10 @@
           "bb atk%": 250,
           "bb flat atk": 100,
           "bc cost": 13,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 1800,
           "gradual heal low": 1500,
           "gradual heal turns": 3,
@@ -15943,8 +16425,10 @@
           "bb atk%": 260,
           "bb flat atk": 100,
           "bc cost": 13,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 1830,
           "gradual heal low": 1530,
           "gradual heal turns": 3,
@@ -15954,8 +16438,10 @@
           "bb atk%": 270,
           "bb flat atk": 100,
           "bc cost": 13,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 1860,
           "gradual heal low": 1560,
           "gradual heal turns": 3,
@@ -15965,8 +16451,10 @@
           "bb atk%": 280,
           "bb flat atk": 100,
           "bc cost": 13,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 1890,
           "gradual heal low": 1590,
           "gradual heal turns": 3,
@@ -15976,8 +16464,10 @@
           "bb atk%": 290,
           "bb flat atk": 100,
           "bc cost": 13,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 1920,
           "gradual heal low": 1620,
           "gradual heal turns": 3,
@@ -15987,8 +16477,10 @@
           "bb atk%": 300,
           "bb flat atk": 100,
           "bc cost": 13,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 1950,
           "gradual heal low": 1650,
           "gradual heal turns": 3,
@@ -15998,8 +16490,10 @@
           "bb atk%": 310,
           "bb flat atk": 100,
           "bc cost": 13,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 1980,
           "gradual heal low": 1680,
           "gradual heal turns": 3,
@@ -16009,8 +16503,10 @@
           "bb atk%": 320,
           "bb flat atk": 100,
           "bc cost": 13,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 2010,
           "gradual heal low": 1710,
           "gradual heal turns": 3,
@@ -16020,8 +16516,10 @@
           "bb atk%": 330,
           "bb flat atk": 100,
           "bc cost": 13,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 2040,
           "gradual heal low": 1740,
           "gradual heal turns": 3,
@@ -16031,8 +16529,10 @@
           "bb atk%": 350,
           "bb flat atk": 100,
           "bc cost": 13,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 2100,
           "gradual heal low": 1800,
           "gradual heal turns": 3,
@@ -20308,80 +20808,100 @@
           "bc cost": 18,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire"
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3
         },
         {
           "atk% buff": 65,
           "bc cost": 18,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire"
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3
         },
         {
           "atk% buff": 70,
           "bc cost": 18,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire"
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3
         },
         {
           "atk% buff": 75,
           "bc cost": 18,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire"
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3
         },
         {
           "atk% buff": 80,
           "bc cost": 18,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire"
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3
         },
         {
           "atk% buff": 85,
           "bc cost": 18,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire"
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3
         },
         {
           "atk% buff": 90,
           "bc cost": 18,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire"
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3
         },
         {
           "atk% buff": 95,
           "bc cost": 18,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire"
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3
         },
         {
           "atk% buff": 100,
           "bc cost": 18,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire"
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3
         },
         {
           "atk% buff": 110,
           "bc cost": 18,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire"
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3
         }
       ],
       "name": "Crimson Changer"
@@ -20449,8 +20969,10 @@
           "bc cost": 15,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "7543~8425"
         },
         {
@@ -20460,8 +20982,10 @@
           "bc cost": 15,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "7813~8725"
         },
         {
@@ -20471,8 +20995,10 @@
           "bc cost": 15,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "8082~9026"
         },
         {
@@ -20482,8 +21008,10 @@
           "bc cost": 15,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "8351~9326"
         },
         {
@@ -20493,8 +21021,10 @@
           "bc cost": 15,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "8621~9628"
         },
         {
@@ -20504,8 +21034,10 @@
           "bc cost": 15,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "8890~9928"
         },
         {
@@ -20515,8 +21047,10 @@
           "bc cost": 15,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "9159~10229"
         },
         {
@@ -20526,8 +21060,10 @@
           "bc cost": 15,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "9428~10530"
         },
         {
@@ -20537,8 +21073,10 @@
           "bc cost": 15,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "9697~10830"
         },
         {
@@ -20548,8 +21086,10 @@
           "bc cost": 15,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "10236~11432"
         }
       ],
@@ -21680,71 +22220,101 @@
         {
           "bb atk%": 100,
           "bc cost": 30,
-          "element change turns": 2,
-          "element change type": "light",
+          "elements added": [
+            "light",
+            "dark"
+          ],
+          "elements added turns": 2,
           "lord damage range": "3352~3744"
         },
         {
           "bb atk%": 110,
           "bc cost": 30,
-          "element change turns": 2,
-          "element change type": "light",
+          "elements added": [
+            "light",
+            "dark"
+          ],
+          "elements added turns": 2,
           "lord damage range": "3520~3931"
         },
         {
           "bb atk%": 120,
           "bc cost": 30,
-          "element change turns": 2,
-          "element change type": "light",
+          "elements added": [
+            "light",
+            "dark"
+          ],
+          "elements added turns": 2,
           "lord damage range": "3687~4118"
         },
         {
           "bb atk%": 130,
           "bc cost": 30,
-          "element change turns": 2,
-          "element change type": "light",
+          "elements added": [
+            "light",
+            "dark"
+          ],
+          "elements added turns": 2,
           "lord damage range": "3855~4305"
         },
         {
           "bb atk%": 140,
           "bc cost": 30,
-          "element change turns": 2,
-          "element change type": "light",
+          "elements added": [
+            "light",
+            "dark"
+          ],
+          "elements added turns": 2,
           "lord damage range": "4023~4492"
         },
         {
           "bb atk%": 150,
           "bc cost": 30,
-          "element change turns": 2,
-          "element change type": "light",
+          "elements added": [
+            "light",
+            "dark"
+          ],
+          "elements added turns": 2,
           "lord damage range": "4190~4680"
         },
         {
           "bb atk%": 160,
           "bc cost": 30,
-          "element change turns": 2,
-          "element change type": "light",
+          "elements added": [
+            "light",
+            "dark"
+          ],
+          "elements added turns": 2,
           "lord damage range": "4358~4867"
         },
         {
           "bb atk%": 170,
           "bc cost": 30,
-          "element change turns": 2,
-          "element change type": "light",
+          "elements added": [
+            "light",
+            "dark"
+          ],
+          "elements added turns": 2,
           "lord damage range": "4525~5054"
         },
         {
           "bb atk%": 180,
           "bc cost": 30,
-          "element change turns": 2,
-          "element change type": "light",
+          "elements added": [
+            "light",
+            "dark"
+          ],
+          "elements added turns": 2,
           "lord damage range": "4693~5241"
         },
         {
           "bb atk%": 200,
           "bc cost": 30,
-          "element change turns": 2,
-          "element change type": "light",
+          "elements added": [
+            "light",
+            "dark"
+          ],
+          "elements added turns": 2,
           "lord damage range": "5028~5616"
         }
       ],
@@ -30253,80 +30823,100 @@
       "levels": [
         {
           "bc cost": 23,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 900,
           "gradual heal low": 800,
           "gradual heal turns": 3
         },
         {
           "bc cost": 23,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 920,
           "gradual heal low": 820,
           "gradual heal turns": 3
         },
         {
           "bc cost": 23,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 940,
           "gradual heal low": 840,
           "gradual heal turns": 3
         },
         {
           "bc cost": 23,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 960,
           "gradual heal low": 860,
           "gradual heal turns": 3
         },
         {
           "bc cost": 23,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 980,
           "gradual heal low": 880,
           "gradual heal turns": 3
         },
         {
           "bc cost": 23,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 1000,
           "gradual heal low": 900,
           "gradual heal turns": 3
         },
         {
           "bc cost": 23,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 1020,
           "gradual heal low": 920,
           "gradual heal turns": 3
         },
         {
           "bc cost": 23,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 1040,
           "gradual heal low": 940,
           "gradual heal turns": 3
         },
         {
           "bc cost": 23,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 1060,
           "gradual heal low": 960,
           "gradual heal turns": 3
         },
         {
           "bc cost": 23,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 1080,
           "gradual heal low": 980,
           "gradual heal turns": 3
@@ -31904,80 +32494,100 @@
           "bb atk%": 120,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "lord damage range": "3757~4196"
         },
         {
           "bb atk%": 130,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "lord damage range": "3923~4382"
         },
         {
           "bb atk%": 140,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "lord damage range": "4090~4568"
         },
         {
           "bb atk%": 150,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "lord damage range": "4256~4754"
         },
         {
           "bb atk%": 160,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "lord damage range": "4423~4941"
         },
         {
           "bb atk%": 170,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "lord damage range": "4591~5127"
         },
         {
           "bb atk%": 180,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "lord damage range": "4757~5313"
         },
         {
           "bb atk%": 190,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "lord damage range": "4924~5499"
         },
         {
           "bb atk%": 200,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "lord damage range": "5090~5685"
         },
         {
           "bb atk%": 220,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "lord damage range": "5423~6056"
         }
       ],
@@ -32033,8 +32643,10 @@
           "bb atk%": 500,
           "bb flat atk": 50,
           "bc cost": 10,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "injury%": 80,
           "lord damage range": "10042~11215",
           "paralysis%": 80
@@ -32043,8 +32655,10 @@
           "bb atk%": 510,
           "bb flat atk": 50,
           "bc cost": 10,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "injury%": 81,
           "lord damage range": "10207~11400",
           "paralysis%": 81
@@ -32053,8 +32667,10 @@
           "bb atk%": 520,
           "bb flat atk": 50,
           "bc cost": 10,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "injury%": 82,
           "lord damage range": "10374~11586",
           "paralysis%": 82
@@ -32063,8 +32679,10 @@
           "bb atk%": 530,
           "bb flat atk": 50,
           "bc cost": 10,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "injury%": 83,
           "lord damage range": "10541~11772",
           "paralysis%": 83
@@ -32073,8 +32691,10 @@
           "bb atk%": 540,
           "bb flat atk": 50,
           "bc cost": 10,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "injury%": 84,
           "lord damage range": "10708~11958",
           "paralysis%": 84
@@ -32083,8 +32703,10 @@
           "bb atk%": 550,
           "bb flat atk": 50,
           "bc cost": 10,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "injury%": 85,
           "lord damage range": "10874~12145",
           "paralysis%": 85
@@ -32093,8 +32715,10 @@
           "bb atk%": 560,
           "bb flat atk": 50,
           "bc cost": 10,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "injury%": 86,
           "lord damage range": "11041~12331",
           "paralysis%": 86
@@ -32103,8 +32727,10 @@
           "bb atk%": 570,
           "bb flat atk": 50,
           "bc cost": 10,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "injury%": 87,
           "lord damage range": "11208~12517",
           "paralysis%": 87
@@ -32113,8 +32739,10 @@
           "bb atk%": 580,
           "bb flat atk": 50,
           "bc cost": 10,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "injury%": 88,
           "lord damage range": "11374~12703",
           "paralysis%": 88
@@ -32123,8 +32751,10 @@
           "bb atk%": 600,
           "bb flat atk": 50,
           "bc cost": 10,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "injury%": 90,
           "lord damage range": "11707~13075",
           "paralysis%": 90
@@ -32233,8 +32863,10 @@
           "bb atk%": 500,
           "bb flat atk": 100,
           "bc cost": 22,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "hits": 14,
           "lord damage range": "12329~13769",
           "random attack": true
@@ -32243,8 +32875,10 @@
           "bb atk%": 510,
           "bb flat atk": 100,
           "bc cost": 22,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "hits": 14,
           "lord damage range": "12533~13997",
           "random attack": true
@@ -32253,8 +32887,10 @@
           "bb atk%": 520,
           "bb flat atk": 100,
           "bc cost": 22,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "hits": 14,
           "lord damage range": "12737~14225",
           "random attack": true
@@ -32263,8 +32899,10 @@
           "bb atk%": 530,
           "bb flat atk": 100,
           "bc cost": 22,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "hits": 14,
           "lord damage range": "12941~14452",
           "random attack": true
@@ -32273,8 +32911,10 @@
           "bb atk%": 540,
           "bb flat atk": 100,
           "bc cost": 22,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "hits": 14,
           "lord damage range": "13145~14680",
           "random attack": true
@@ -32283,8 +32923,10 @@
           "bb atk%": 550,
           "bb flat atk": 100,
           "bc cost": 22,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "hits": 14,
           "lord damage range": "13348~14908",
           "random attack": true
@@ -32293,8 +32935,10 @@
           "bb atk%": 560,
           "bb flat atk": 100,
           "bc cost": 22,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "hits": 14,
           "lord damage range": "13552~15136",
           "random attack": true
@@ -32303,8 +32947,10 @@
           "bb atk%": 570,
           "bb flat atk": 100,
           "bc cost": 22,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "hits": 14,
           "lord damage range": "13756~15363",
           "random attack": true
@@ -32313,8 +32959,10 @@
           "bb atk%": 580,
           "bb flat atk": 100,
           "bc cost": 22,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "hits": 14,
           "lord damage range": "13960~15591",
           "random attack": true
@@ -32323,8 +32971,10 @@
           "bb atk%": 590,
           "bb flat atk": 100,
           "bc cost": 22,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "hits": 14,
           "lord damage range": "14164~15819",
           "random attack": true
@@ -32386,8 +33036,10 @@
           "bb flat atk": 100,
           "bc cost": 20,
           "bc drop rate% buff": 12,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "lord damage range": "7230~8075"
         },
         {
@@ -32395,8 +33047,10 @@
           "bb flat atk": 100,
           "bc cost": 20,
           "bc drop rate% buff": 13,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "lord damage range": "7434~8303"
         },
         {
@@ -32404,8 +33058,10 @@
           "bb flat atk": 100,
           "bc cost": 20,
           "bc drop rate% buff": 14,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "lord damage range": "7638~8531"
         },
         {
@@ -32413,8 +33069,10 @@
           "bb flat atk": 100,
           "bc cost": 20,
           "bc drop rate% buff": 15,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "lord damage range": "7842~8758"
         },
         {
@@ -32422,8 +33080,10 @@
           "bb flat atk": 100,
           "bc cost": 20,
           "bc drop rate% buff": 16,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "lord damage range": "8046~8986"
         },
         {
@@ -32431,8 +33091,10 @@
           "bb flat atk": 100,
           "bc cost": 20,
           "bc drop rate% buff": 17,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "lord damage range": "8250~9214"
         },
         {
@@ -32440,8 +33102,10 @@
           "bb flat atk": 100,
           "bc cost": 20,
           "bc drop rate% buff": 18,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "lord damage range": "8454~9442"
         },
         {
@@ -32449,8 +33113,10 @@
           "bb flat atk": 100,
           "bc cost": 20,
           "bc drop rate% buff": 19,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "lord damage range": "8658~9669"
         },
         {
@@ -32458,8 +33124,10 @@
           "bb flat atk": 100,
           "bc cost": 20,
           "bc drop rate% buff": 20,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "lord damage range": "8862~9897"
         },
         {
@@ -32467,8 +33135,10 @@
           "bb flat atk": 100,
           "bc cost": 20,
           "bc drop rate% buff": 22,
-          "element change turns": 3,
-          "element change type": "thunder",
+          "elements added": [
+            "thunder"
+          ],
+          "elements added turns": 3,
           "lord damage range": "9270~10353"
         }
       ],
@@ -32946,80 +33616,100 @@
           "bb atk%": 70,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "lord damage range": "2108~2355"
         },
         {
           "bb atk%": 80,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "lord damage range": "2227~2488"
         },
         {
           "bb atk%": 90,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "lord damage range": "2346~2620"
         },
         {
           "bb atk%": 100,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "lord damage range": "2465~2753"
         },
         {
           "bb atk%": 110,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "lord damage range": "2583~2886"
         },
         {
           "bb atk%": 120,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "lord damage range": "2701~3018"
         },
         {
           "bb atk%": 130,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "lord damage range": "2821~3151"
         },
         {
           "bb atk%": 140,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "lord damage range": "2939~3283"
         },
         {
           "bb atk%": 150,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "lord damage range": "3058~3416"
         },
         {
           "bb atk%": 170,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "lord damage range": "3295~3680"
         }
       ],
@@ -35004,62 +35694,82 @@
       "levels": [
         {
           "bc cost": 15,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "negate status ails turns": 3
         },
         {
           "bc cost": 15,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "negate status ails turns": 3
         },
         {
           "bc cost": 14,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "negate status ails turns": 3
         },
         {
           "bc cost": 14,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "negate status ails turns": 3
         },
         {
           "bc cost": 13,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "negate status ails turns": 3
         },
         {
           "bc cost": 13,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "negate status ails turns": 3
         },
         {
           "bc cost": 12,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "negate status ails turns": 3
         },
         {
           "bc cost": 12,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "negate status ails turns": 3
         },
         {
           "bc cost": 11,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "negate status ails turns": 3
         },
         {
           "bc cost": 10,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "negate status ails turns": 3
         }
       ],
@@ -35119,8 +35829,10 @@
           "bb atk%": 200,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "lord damage range": "5043~5632",
           "negate status ails turns": 3
         },
@@ -35128,8 +35840,10 @@
           "bb atk%": 210,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "lord damage range": "5207~5816",
           "negate status ails turns": 3
         },
@@ -35137,8 +35851,10 @@
           "bb atk%": 220,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "lord damage range": "5373~6000",
           "negate status ails turns": 3
         },
@@ -35146,8 +35862,10 @@
           "bb atk%": 230,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "lord damage range": "5537~6184",
           "negate status ails turns": 3
         },
@@ -35155,8 +35873,10 @@
           "bb atk%": 240,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "lord damage range": "5702~6368",
           "negate status ails turns": 3
         },
@@ -35164,8 +35884,10 @@
           "bb atk%": 250,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "lord damage range": "5867~6554",
           "negate status ails turns": 3
         },
@@ -35173,8 +35895,10 @@
           "bb atk%": 260,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "lord damage range": "6033~6738",
           "negate status ails turns": 3
         },
@@ -35182,8 +35906,10 @@
           "bb atk%": 270,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "lord damage range": "6198~6922",
           "negate status ails turns": 3
         },
@@ -35191,8 +35917,10 @@
           "bb atk%": 280,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "lord damage range": "6362~7106",
           "negate status ails turns": 3
         },
@@ -35200,8 +35928,10 @@
           "bb atk%": 300,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "lord damage range": "6693~7475",
           "negate status ails turns": 3
         }
@@ -35427,62 +36157,82 @@
       "levels": [
         {
           "bc cost": 17,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "negate status ails turns": 3
         },
         {
           "bc cost": 17,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "negate status ails turns": 3
         },
         {
           "bc cost": 17,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "negate status ails turns": 3
         },
         {
           "bc cost": 17,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "negate status ails turns": 3
         },
         {
           "bc cost": 16,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "negate status ails turns": 3
         },
         {
           "bc cost": 16,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "negate status ails turns": 3
         },
         {
           "bc cost": 16,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "negate status ails turns": 3
         },
         {
           "bc cost": 16,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "negate status ails turns": 3
         },
         {
           "bc cost": 16,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "negate status ails turns": 3
         },
         {
           "bc cost": 15,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "negate status ails turns": 3
         }
       ],
@@ -36862,80 +37612,100 @@
           "bb atk%": 90,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "3054~3411"
         },
         {
           "bb atk%": 100,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "3210~3585"
         },
         {
           "bb atk%": 110,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "3365~3759"
         },
         {
           "bb atk%": 120,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "3521~3933"
         },
         {
           "bb atk%": 130,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "3678~4108"
         },
         {
           "bb atk%": 140,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "3833~4281"
         },
         {
           "bb atk%": 150,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "3989~4456"
         },
         {
           "bb atk%": 160,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "4145~4630"
         },
         {
           "bb atk%": 170,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "4301~4803"
         },
         {
           "bb atk%": 190,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "4612~5152"
         }
       ],
@@ -37501,80 +38271,100 @@
           "bc cost": 18,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire"
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3
         },
         {
           "atk% buff": 55,
           "bc cost": 18,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire"
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3
         },
         {
           "atk% buff": 60,
           "bc cost": 18,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire"
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3
         },
         {
           "atk% buff": 65,
           "bc cost": 18,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire"
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3
         },
         {
           "atk% buff": 70,
           "bc cost": 18,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire"
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3
         },
         {
           "atk% buff": 75,
           "bc cost": 18,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire"
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3
         },
         {
           "atk% buff": 80,
           "bc cost": 18,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire"
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3
         },
         {
           "atk% buff": 85,
           "bc cost": 18,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire"
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3
         },
         {
           "atk% buff": 90,
           "bc cost": 18,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire"
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3
         },
         {
           "atk% buff": 100,
           "bc cost": 18,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire"
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3
         }
       ],
       "name": "Ignite Changer"
@@ -38138,8 +38928,10 @@
           "bb atk%": 200,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 7,
           "lord damage range": "3559~3975",
           "random attack": true
@@ -38148,8 +38940,10 @@
           "bb atk%": 210,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 7,
           "lord damage range": "3675~4104",
           "random attack": true
@@ -38158,8 +38952,10 @@
           "bb atk%": 220,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 7,
           "lord damage range": "3790~4233",
           "random attack": true
@@ -38168,8 +38964,10 @@
           "bb atk%": 230,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 7,
           "lord damage range": "3906~4362",
           "random attack": true
@@ -38178,8 +38976,10 @@
           "bb atk%": 240,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 7,
           "lord damage range": "4021~4491",
           "random attack": true
@@ -38188,8 +38988,10 @@
           "bb atk%": 250,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 7,
           "lord damage range": "4136~4620",
           "random attack": true
@@ -38198,8 +39000,10 @@
           "bb atk%": 260,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 7,
           "lord damage range": "4252~4749",
           "random attack": true
@@ -38208,8 +39012,10 @@
           "bb atk%": 270,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 7,
           "lord damage range": "4367~4878",
           "random attack": true
@@ -38218,8 +39024,10 @@
           "bb atk%": 280,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 7,
           "lord damage range": "4483~5007",
           "random attack": true
@@ -38228,8 +39036,10 @@
           "bb atk%": 300,
           "bb flat atk": 100,
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "light",
+          "elements added": [
+            "light"
+          ],
+          "elements added turns": 3,
           "hits": 7,
           "lord damage range": "4715~5266",
           "random attack": true
@@ -44503,80 +45313,100 @@
       "levels": [
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 700,
           "gradual heal low": 600,
           "gradual heal turns": 3
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 720,
           "gradual heal low": 620,
           "gradual heal turns": 3
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 740,
           "gradual heal low": 640,
           "gradual heal turns": 3
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 760,
           "gradual heal low": 660,
           "gradual heal turns": 3
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 780,
           "gradual heal low": 680,
           "gradual heal turns": 3
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 800,
           "gradual heal low": 700,
           "gradual heal turns": 3
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 820,
           "gradual heal low": 720,
           "gradual heal turns": 3
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 840,
           "gradual heal low": 740,
           "gradual heal turns": 3
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 860,
           "gradual heal low": 760,
           "gradual heal turns": 3
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "gradual heal high": 880,
           "gradual heal low": 780,
           "gradual heal turns": 3
@@ -45213,71 +46043,91 @@
       "levels": [
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 1300,
           "heal low": 900
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 1340,
           "heal low": 940
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 1380,
           "heal low": 980
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 1420,
           "heal low": 1020
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 1460,
           "heal low": 1060
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 1500,
           "heal low": 1100
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 1540,
           "heal low": 1140
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 1580,
           "heal low": 1180
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 1620,
           "heal low": 1220
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 1660,
           "heal low": 1260
         }
@@ -47034,80 +47884,100 @@
           "bc cost": 17,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire"
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3
         },
         {
           "atk% buff": 44,
           "bc cost": 17,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire"
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3
         },
         {
           "atk% buff": 48,
           "bc cost": 17,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire"
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3
         },
         {
           "atk% buff": 52,
           "bc cost": 17,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire"
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3
         },
         {
           "atk% buff": 56,
           "bc cost": 17,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire"
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3
         },
         {
           "atk% buff": 60,
           "bc cost": 17,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire"
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3
         },
         {
           "atk% buff": 64,
           "bc cost": 17,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire"
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3
         },
         {
           "atk% buff": 68,
           "bc cost": 17,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire"
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3
         },
         {
           "atk% buff": 72,
           "bc cost": 17,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire"
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3
         },
         {
           "atk% buff": 80,
           "bc cost": 17,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "fire"
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3
         }
       ],
       "name": "Flame Changer"
@@ -48666,80 +49536,100 @@
           "bb atk%": 70,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "2289~2557"
         },
         {
           "bb atk%": 80,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "2419~2701"
         },
         {
           "bb atk%": 90,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "2548~2846"
         },
         {
           "bb atk%": 100,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "2677~2991"
         },
         {
           "bb atk%": 110,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "2806~3134"
         },
         {
           "bb atk%": 120,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "2935~3279"
         },
         {
           "bb atk%": 130,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "3064~3423"
         },
         {
           "bb atk%": 140,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "3194~3568"
         },
         {
           "bb atk%": 150,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "3324~3712"
         },
         {
           "bb atk%": 170,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "fire",
+          "elements added": [
+            "fire"
+          ],
+          "elements added turns": 3,
           "lord damage range": "3582~4000"
         }
       ],
@@ -49234,80 +50124,100 @@
           "buff turns": 3,
           "def% buff": 40,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth"
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 17,
           "buff turns": 3,
           "def% buff": 44,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth"
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 17,
           "buff turns": 3,
           "def% buff": 48,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth"
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 17,
           "buff turns": 3,
           "def% buff": 52,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth"
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 17,
           "buff turns": 3,
           "def% buff": 56,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth"
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 17,
           "buff turns": 3,
           "def% buff": 60,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth"
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 17,
           "buff turns": 3,
           "def% buff": 64,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth"
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 17,
           "buff turns": 3,
           "def% buff": 68,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth"
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 17,
           "buff turns": 3,
           "def% buff": 72,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth"
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3
         },
         {
           "bc cost": 17,
           "buff turns": 3,
           "def% buff": 80,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "earth"
+          "elements added": [
+            "earth"
+          ],
+          "elements added turns": 3
         }
       ],
       "name": "Bright Enchantment "
@@ -54885,80 +55795,100 @@
           "bb atk%": 90,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "lord damage range": "2784~3110"
         },
         {
           "bb atk%": 100,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "lord damage range": "2927~3269"
         },
         {
           "bb atk%": 110,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "lord damage range": "3069~3427"
         },
         {
           "bb atk%": 120,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "lord damage range": "3210~3585"
         },
         {
           "bb atk%": 130,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "lord damage range": "3352~3744"
         },
         {
           "bb atk%": 140,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "lord damage range": "3493~3902"
         },
         {
           "bb atk%": 150,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "lord damage range": "3636~4061"
         },
         {
           "bb atk%": 160,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "lord damage range": "3777~4219"
         },
         {
           "bb atk%": 170,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "lord damage range": "3919~4377"
         },
         {
           "bb atk%": 190,
           "bb flat atk": 100,
           "bc cost": 25,
-          "element change turns": 3,
-          "element change type": "water",
+          "elements added": [
+            "water"
+          ],
+          "elements added turns": 3,
           "lord damage range": "4202~4693"
         }
       ],
@@ -59181,71 +60111,91 @@
       "levels": [
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 1700,
           "heal low": 1400
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 1740,
           "heal low": 1440
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 1780,
           "heal low": 1480
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 1820,
           "heal low": 1520
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 1860,
           "heal low": 1560
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 1900,
           "heal low": 1600
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 1940,
           "heal low": 1640
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 1980,
           "heal low": 1680
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 2020,
           "heal low": 1720
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 2060,
           "heal low": 1760
         }
@@ -61999,71 +62949,91 @@
       "levels": [
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 2000,
           "heal low": 1700
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 2040,
           "heal low": 1740
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 2080,
           "heal low": 1780
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 2120,
           "heal low": 1820
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 2160,
           "heal low": 1860
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 2200,
           "heal low": 1900
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 2240,
           "heal low": 1940
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 2280,
           "heal low": 1980
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 2320,
           "heal low": 2020
         },
         {
           "bc cost": 20,
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 2360,
           "heal low": 2060
         }
@@ -62104,8 +63074,10 @@
           "bc cost": 24,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 3500,
           "heal low": 3000,
           "rec% buff": 30
@@ -62114,8 +63086,10 @@
           "bc cost": 24,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 3600,
           "heal low": 3100,
           "rec% buff": 35
@@ -62124,8 +63098,10 @@
           "bc cost": 24,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 3700,
           "heal low": 3200,
           "rec% buff": 40
@@ -62134,8 +63110,10 @@
           "bc cost": 24,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 3800,
           "heal low": 3300,
           "rec% buff": 45
@@ -62144,8 +63122,10 @@
           "bc cost": 24,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 3900,
           "heal low": 3400,
           "rec% buff": 50
@@ -62154,8 +63134,10 @@
           "bc cost": 24,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 4000,
           "heal low": 3500,
           "rec% buff": 55
@@ -62164,8 +63146,10 @@
           "bc cost": 24,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 4100,
           "heal low": 3600,
           "rec% buff": 60
@@ -62174,8 +63158,10 @@
           "bc cost": 24,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 4200,
           "heal low": 3700,
           "rec% buff": 65
@@ -62184,8 +63170,10 @@
           "bc cost": 24,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 4300,
           "heal low": 3800,
           "rec% buff": 70
@@ -62194,8 +63182,10 @@
           "bc cost": 24,
           "buff turns": 3,
           "element buffed": "all",
-          "element change turns": 3,
-          "element change type": "dark",
+          "elements added": [
+            "dark"
+          ],
+          "elements added turns": 3,
           "heal high": 4500,
           "heal low": 4000,
           "rec% buff": 80
