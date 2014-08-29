@@ -157,7 +157,7 @@ def parse_bb_multiple_elem_attack(process_info):
     buffs = dict()
 
     if int(process_info[3]) != 0:
-        buffs['bb atk%'] = int(process_info[0])
+        buffs['bb atk%'] = int(process_info[3])
     if int(process_info[4]) != 0:
         buffs['bb flat atk'] = int(process_info[4])
     if int(process_info[5]) != 0:

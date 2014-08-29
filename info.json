@@ -4685,63 +4685,63 @@
       "hits": 10,
       "levels": [
         {
-          "bb atk%": 1,
+          "bb atk%": 90,
           "bc cost": 30,
-          "lord damage range": "1336~1493",
+          "lord damage range": "2514~2809",
           "weaken%": 25
         },
         {
-          "bb atk%": 1,
+          "bb atk%": 100,
           "bc cost": 30,
-          "lord damage range": "1336~1493",
+          "lord damage range": "2647~2957",
           "weaken%": 27
         },
         {
-          "bb atk%": 1,
+          "bb atk%": 110,
           "bc cost": 30,
-          "lord damage range": "1336~1493",
+          "lord damage range": "2780~3105",
           "weaken%": 29
         },
         {
-          "bb atk%": 1,
+          "bb atk%": 120,
           "bc cost": 30,
-          "lord damage range": "1336~1493",
+          "lord damage range": "2912~3253",
           "weaken%": 31
         },
         {
-          "bb atk%": 1,
+          "bb atk%": 130,
           "bc cost": 30,
-          "lord damage range": "1336~1493",
+          "lord damage range": "3045~3400",
           "weaken%": 33
         },
         {
-          "bb atk%": 1,
+          "bb atk%": 140,
           "bc cost": 30,
-          "lord damage range": "1336~1493",
+          "lord damage range": "3176~3548",
           "weaken%": 35
         },
         {
-          "bb atk%": 1,
+          "bb atk%": 150,
           "bc cost": 30,
-          "lord damage range": "1336~1493",
+          "lord damage range": "3310~3697",
           "weaken%": 37
         },
         {
-          "bb atk%": 1,
+          "bb atk%": 160,
           "bc cost": 30,
-          "lord damage range": "1336~1493",
+          "lord damage range": "3442~3844",
           "weaken%": 39
         },
         {
-          "bb atk%": 1,
+          "bb atk%": 170,
           "bc cost": 30,
-          "lord damage range": "1336~1493",
+          "lord damage range": "3574~3992",
           "weaken%": 41
         },
         {
-          "bb atk%": 1,
+          "bb atk%": 180,
           "bc cost": 30,
-          "lord damage range": "1336~1493",
+          "lord damage range": "3706~4140",
           "weaken%": 45
         }
       ],
@@ -5509,64 +5509,64 @@
       "hits": 9,
       "levels": [
         {
-          "bb atk%": 4,
+          "bb atk%": 90,
           "bc cost": 30,
           "injury%": 25,
-          "lord damage range": "1428~1596"
+          "lord damage range": "2610~2916"
         },
         {
-          "bb atk%": 4,
+          "bb atk%": 100,
           "bc cost": 30,
           "injury%": 27,
-          "lord damage range": "1428~1596"
+          "lord damage range": "2748~3070"
         },
         {
-          "bb atk%": 4,
+          "bb atk%": 110,
           "bc cost": 30,
           "injury%": 29,
-          "lord damage range": "1428~1596"
+          "lord damage range": "2885~3222"
         },
         {
-          "bb atk%": 4,
+          "bb atk%": 120,
           "bc cost": 30,
           "injury%": 31,
-          "lord damage range": "1428~1596"
+          "lord damage range": "3023~3376"
         },
         {
-          "bb atk%": 4,
+          "bb atk%": 130,
           "bc cost": 30,
           "injury%": 33,
-          "lord damage range": "1428~1596"
+          "lord damage range": "3160~3529"
         },
         {
-          "bb atk%": 4,
+          "bb atk%": 140,
           "bc cost": 30,
           "injury%": 35,
-          "lord damage range": "1428~1596"
+          "lord damage range": "3297~3683"
         },
         {
-          "bb atk%": 4,
+          "bb atk%": 150,
           "bc cost": 30,
           "injury%": 37,
-          "lord damage range": "1428~1596"
+          "lord damage range": "3436~3837"
         },
         {
-          "bb atk%": 4,
+          "bb atk%": 160,
           "bc cost": 30,
           "injury%": 39,
-          "lord damage range": "1428~1596"
+          "lord damage range": "3572~3990"
         },
         {
-          "bb atk%": 4,
+          "bb atk%": 170,
           "bc cost": 30,
           "injury%": 41,
-          "lord damage range": "1428~1596"
+          "lord damage range": "3710~4144"
         },
         {
-          "bb atk%": 4,
+          "bb atk%": 180,
           "bc cost": 30,
           "injury%": 45,
-          "lord damage range": "1428~1596"
+          "lord damage range": "3847~4297"
         }
       ],
       "name": "7th Shinto Form: Denshin"
@@ -14361,63 +14361,63 @@
       "hits": 7,
       "levels": [
         {
-          "bb atk%": 2,
+          "bb atk%": 70,
           "bc cost": 25,
-          "lord damage range": "1163~1298",
+          "lord damage range": "1938~2165",
           "poison%": 25
         },
         {
-          "bb atk%": 2,
+          "bb atk%": 80,
           "bc cost": 25,
-          "lord damage range": "1163~1298",
+          "lord damage range": "2052~2293",
           "poison%": 27
         },
         {
-          "bb atk%": 2,
+          "bb atk%": 90,
           "bc cost": 25,
-          "lord damage range": "1163~1298",
+          "lord damage range": "2166~2420",
           "poison%": 29
         },
         {
-          "bb atk%": 2,
+          "bb atk%": 100,
           "bc cost": 25,
-          "lord damage range": "1163~1298",
+          "lord damage range": "2281~2548",
           "poison%": 31
         },
         {
-          "bb atk%": 2,
+          "bb atk%": 110,
           "bc cost": 25,
-          "lord damage range": "1163~1298",
+          "lord damage range": "2394~2674",
           "poison%": 33
         },
         {
-          "bb atk%": 2,
+          "bb atk%": 120,
           "bc cost": 25,
-          "lord damage range": "1163~1298",
+          "lord damage range": "2509~2802",
           "poison%": 35
         },
         {
-          "bb atk%": 2,
+          "bb atk%": 130,
           "bc cost": 25,
-          "lord damage range": "1163~1298",
+          "lord damage range": "2623~2929",
           "poison%": 37
         },
         {
-          "bb atk%": 2,
+          "bb atk%": 140,
           "bc cost": 25,
-          "lord damage range": "1163~1298",
+          "lord damage range": "2737~3057",
           "poison%": 39
         },
         {
-          "bb atk%": 2,
+          "bb atk%": 150,
           "bc cost": 25,
-          "lord damage range": "1163~1298",
+          "lord damage range": "2850~3184",
           "poison%": 41
         },
         {
-          "bb atk%": 2,
+          "bb atk%": 160,
           "bc cost": 25,
-          "lord damage range": "1163~1298",
+          "lord damage range": "2965~3312",
           "poison%": 45
         }
       ],
@@ -17624,63 +17624,63 @@
       "hits": 8,
       "levels": [
         {
-          "bb atk%": 1,
+          "bb atk%": 70,
           "bc cost": 25,
-          "lord damage range": "1117~1249",
+          "lord damage range": "1883~2103",
           "weaken%": 25
         },
         {
-          "bb atk%": 1,
+          "bb atk%": 80,
           "bc cost": 25,
-          "lord damage range": "1117~1249",
+          "lord damage range": "1993~2227",
           "weaken%": 27
         },
         {
-          "bb atk%": 1,
+          "bb atk%": 90,
           "bc cost": 25,
-          "lord damage range": "1117~1249",
+          "lord damage range": "2104~2351",
           "weaken%": 29
         },
         {
-          "bb atk%": 1,
+          "bb atk%": 100,
           "bc cost": 25,
-          "lord damage range": "1117~1249",
+          "lord damage range": "2216~2475",
           "weaken%": 31
         },
         {
-          "bb atk%": 1,
+          "bb atk%": 110,
           "bc cost": 25,
-          "lord damage range": "1117~1249",
+          "lord damage range": "2327~2598",
           "weaken%": 33
         },
         {
-          "bb atk%": 1,
+          "bb atk%": 120,
           "bc cost": 25,
-          "lord damage range": "1117~1249",
+          "lord damage range": "2437~2722",
           "weaken%": 35
         },
         {
-          "bb atk%": 1,
+          "bb atk%": 130,
           "bc cost": 25,
-          "lord damage range": "1117~1249",
+          "lord damage range": "2548~2846",
           "weaken%": 37
         },
         {
-          "bb atk%": 1,
+          "bb atk%": 140,
           "bc cost": 25,
-          "lord damage range": "1117~1249",
+          "lord damage range": "2659~2970",
           "weaken%": 39
         },
         {
-          "bb atk%": 1,
+          "bb atk%": 150,
           "bc cost": 25,
-          "lord damage range": "1117~1249",
+          "lord damage range": "2769~3094",
           "weaken%": 41
         },
         {
-          "bb atk%": 1,
+          "bb atk%": 160,
           "bc cost": 25,
-          "lord damage range": "1117~1249",
+          "lord damage range": "2880~3217",
           "weaken%": 45
         }
       ],
@@ -21678,74 +21678,74 @@
       "hits": 13,
       "levels": [
         {
-          "bb atk%": 5,
+          "bb atk%": 100,
           "bc cost": 30,
           "element change turns": 2,
           "element change type": "light",
-          "lord damage range": "1760~1965"
+          "lord damage range": "3352~3744"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 110,
           "bc cost": 30,
           "element change turns": 2,
           "element change type": "light",
-          "lord damage range": "1760~1965"
+          "lord damage range": "3520~3931"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 120,
           "bc cost": 30,
           "element change turns": 2,
           "element change type": "light",
-          "lord damage range": "1760~1965"
+          "lord damage range": "3687~4118"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 130,
           "bc cost": 30,
           "element change turns": 2,
           "element change type": "light",
-          "lord damage range": "1760~1965"
+          "lord damage range": "3855~4305"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 140,
           "bc cost": 30,
           "element change turns": 2,
           "element change type": "light",
-          "lord damage range": "1760~1965"
+          "lord damage range": "4023~4492"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 150,
           "bc cost": 30,
           "element change turns": 2,
           "element change type": "light",
-          "lord damage range": "1760~1965"
+          "lord damage range": "4190~4680"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 160,
           "bc cost": 30,
           "element change turns": 2,
           "element change type": "light",
-          "lord damage range": "1760~1965"
+          "lord damage range": "4358~4867"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 170,
           "bc cost": 30,
           "element change turns": 2,
           "element change type": "light",
-          "lord damage range": "1760~1965"
+          "lord damage range": "4525~5054"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 180,
           "bc cost": 30,
           "element change turns": 2,
           "element change type": "light",
-          "lord damage range": "1760~1965"
+          "lord damage range": "4693~5241"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 200,
           "bc cost": 30,
           "element change turns": 2,
           "element change type": "light",
-          "lord damage range": "1760~1965"
+          "lord damage range": "5028~5616"
         }
       ],
       "name": "Leader's Barrage"
@@ -33246,54 +33246,54 @@
       "hits": 9,
       "levels": [
         {
-          "bb atk%": 5,
+          "bb atk%": 80,
           "bc cost": 22,
-          "lord damage range": "1319~1473"
+          "lord damage range": "2262~2527"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 85,
           "bc cost": 22,
-          "lord damage range": "1319~1473"
+          "lord damage range": "2325~2596"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 90,
           "bc cost": 22,
-          "lord damage range": "1319~1473"
+          "lord damage range": "2388~2667"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 95,
           "bc cost": 22,
-          "lord damage range": "1319~1473"
+          "lord damage range": "2450~2737"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 100,
           "bc cost": 22,
-          "lord damage range": "1319~1473"
+          "lord damage range": "2514~2808"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 105,
           "bc cost": 22,
-          "lord damage range": "1319~1473"
+          "lord damage range": "2576~2877"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 110,
           "bc cost": 22,
-          "lord damage range": "1319~1473"
+          "lord damage range": "2639~2948"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 115,
           "bc cost": 22,
-          "lord damage range": "1319~1473"
+          "lord damage range": "2701~3018"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 120,
           "bc cost": 22,
-          "lord damage range": "1319~1473"
+          "lord damage range": "2765~3088"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 130,
           "bc cost": 22,
-          "lord damage range": "1319~1473"
+          "lord damage range": "2890~3228"
         }
       ],
       "name": "Nether Gate"
@@ -35116,93 +35116,93 @@
       "hits": 15,
       "levels": [
         {
-          "bb atk%": 1,
+          "bb atk%": 200,
           "bb flat atk": 100,
           "bc cost": 20,
           "element change turns": 3,
           "element change type": "light",
-          "lord damage range": "1759~1964",
+          "lord damage range": "5043~5632",
           "negate status ails turns": 3
         },
         {
-          "bb atk%": 1,
+          "bb atk%": 210,
           "bb flat atk": 100,
           "bc cost": 20,
           "element change turns": 3,
           "element change type": "light",
-          "lord damage range": "1759~1964",
+          "lord damage range": "5207~5816",
           "negate status ails turns": 3
         },
         {
-          "bb atk%": 1,
+          "bb atk%": 220,
           "bb flat atk": 100,
           "bc cost": 20,
           "element change turns": 3,
           "element change type": "light",
-          "lord damage range": "1759~1964",
+          "lord damage range": "5373~6000",
           "negate status ails turns": 3
         },
         {
-          "bb atk%": 1,
+          "bb atk%": 230,
           "bb flat atk": 100,
           "bc cost": 20,
           "element change turns": 3,
           "element change type": "light",
-          "lord damage range": "1759~1964",
+          "lord damage range": "5537~6184",
           "negate status ails turns": 3
         },
         {
-          "bb atk%": 1,
+          "bb atk%": 240,
           "bb flat atk": 100,
           "bc cost": 20,
           "element change turns": 3,
           "element change type": "light",
-          "lord damage range": "1759~1964",
+          "lord damage range": "5702~6368",
           "negate status ails turns": 3
         },
         {
-          "bb atk%": 1,
+          "bb atk%": 250,
           "bb flat atk": 100,
           "bc cost": 20,
           "element change turns": 3,
           "element change type": "light",
-          "lord damage range": "1759~1964",
+          "lord damage range": "5867~6554",
           "negate status ails turns": 3
         },
         {
-          "bb atk%": 1,
+          "bb atk%": 260,
           "bb flat atk": 100,
           "bc cost": 20,
           "element change turns": 3,
           "element change type": "light",
-          "lord damage range": "1759~1964",
+          "lord damage range": "6033~6738",
           "negate status ails turns": 3
         },
         {
-          "bb atk%": 1,
+          "bb atk%": 270,
           "bb flat atk": 100,
           "bc cost": 20,
           "element change turns": 3,
           "element change type": "light",
-          "lord damage range": "1759~1964",
+          "lord damage range": "6198~6922",
           "negate status ails turns": 3
         },
         {
-          "bb atk%": 1,
+          "bb atk%": 280,
           "bb flat atk": 100,
           "bc cost": 20,
           "element change turns": 3,
           "element change type": "light",
-          "lord damage range": "1759~1964",
+          "lord damage range": "6362~7106",
           "negate status ails turns": 3
         },
         {
-          "bb atk%": 1,
+          "bb atk%": 300,
           "bb flat atk": 100,
           "bc cost": 20,
           "element change turns": 3,
           "element change type": "light",
-          "lord damage range": "1759~1964",
+          "lord damage range": "6693~7475",
           "negate status ails turns": 3
         }
       ],
@@ -38048,54 +38048,54 @@
       "hits": 8,
       "levels": [
         {
-          "bb atk%": 6,
+          "bb atk%": 50,
           "bc cost": 18,
-          "lord damage range": "1234~1379"
+          "lord damage range": "1746~1951"
         },
         {
-          "bb atk%": 6,
+          "bb atk%": 60,
           "bc cost": 18,
-          "lord damage range": "1234~1379"
+          "lord damage range": "1862~2081"
         },
         {
-          "bb atk%": 6,
+          "bb atk%": 70,
           "bc cost": 18,
-          "lord damage range": "1234~1379"
+          "lord damage range": "1979~2211"
         },
         {
-          "bb atk%": 6,
+          "bb atk%": 80,
           "bc cost": 18,
-          "lord damage range": "1234~1379"
+          "lord damage range": "2095~2341"
         },
         {
-          "bb atk%": 6,
+          "bb atk%": 90,
           "bc cost": 18,
-          "lord damage range": "1234~1379"
+          "lord damage range": "2212~2471"
         },
         {
-          "bb atk%": 6,
+          "bb atk%": 100,
           "bc cost": 18,
-          "lord damage range": "1234~1379"
+          "lord damage range": "2329~2602"
         },
         {
-          "bb atk%": 6,
+          "bb atk%": 110,
           "bc cost": 18,
-          "lord damage range": "1234~1379"
+          "lord damage range": "2446~2732"
         },
         {
-          "bb atk%": 6,
+          "bb atk%": 120,
           "bc cost": 18,
-          "lord damage range": "1234~1379"
+          "lord damage range": "2562~2862"
         },
         {
-          "bb atk%": 6,
+          "bb atk%": 130,
           "bc cost": 18,
-          "lord damage range": "1234~1379"
+          "lord damage range": "2678~2992"
         },
         {
-          "bb atk%": 6,
+          "bb atk%": 150,
           "bc cost": 18,
-          "lord damage range": "1234~1379"
+          "lord damage range": "2911~3252"
         }
       ],
       "name": "Euthanasia"
@@ -41552,54 +41552,54 @@
       "hits": 10,
       "levels": [
         {
-          "bb atk%": 6,
+          "bb atk%": 70,
           "bc cost": 23,
-          "lord damage range": "1468~1640"
+          "lord damage range": "2355~2630"
         },
         {
-          "bb atk%": 6,
+          "bb atk%": 80,
           "bc cost": 23,
-          "lord damage range": "1468~1640"
+          "lord damage range": "2493~2785"
         },
         {
-          "bb atk%": 6,
+          "bb atk%": 90,
           "bc cost": 23,
-          "lord damage range": "1468~1640"
+          "lord damage range": "2632~2940"
         },
         {
-          "bb atk%": 6,
+          "bb atk%": 100,
           "bc cost": 23,
-          "lord damage range": "1468~1640"
+          "lord damage range": "2771~3095"
         },
         {
-          "bb atk%": 6,
+          "bb atk%": 110,
           "bc cost": 23,
-          "lord damage range": "1468~1640"
+          "lord damage range": "2908~3248"
         },
         {
-          "bb atk%": 6,
+          "bb atk%": 120,
           "bc cost": 23,
-          "lord damage range": "1468~1640"
+          "lord damage range": "3047~3403"
         },
         {
-          "bb atk%": 6,
+          "bb atk%": 130,
           "bc cost": 23,
-          "lord damage range": "1468~1640"
+          "lord damage range": "3185~3558"
         },
         {
-          "bb atk%": 6,
+          "bb atk%": 140,
           "bc cost": 23,
-          "lord damage range": "1468~1640"
+          "lord damage range": "3324~3713"
         },
         {
-          "bb atk%": 6,
+          "bb atk%": 150,
           "bc cost": 23,
-          "lord damage range": "1468~1640"
+          "lord damage range": "3464~3868"
         },
         {
-          "bb atk%": 6,
+          "bb atk%": 170,
           "bc cost": 23,
-          "lord damage range": "1468~1640"
+          "lord damage range": "3740~4177"
         }
       ],
       "name": "Extinction"
@@ -41735,7 +41735,7 @@
     "base hp": 4240,
     "base rec": 1624,
     "bb": {
-      "desc": "2 combo powerful Earth attack on all enemies & adds change of ignoring opponents' Def when attacking for all allies for 2 turns",
+      "desc": "2 combo powerful Earth attack on all enemies & adds chance of ignoring opponents' Def when attacking for all allies for 2 turns",
       "hit dmg% distribution": [
         50,
         50
@@ -41846,7 +41846,7 @@
     "lord rec": 2037,
     "rarity": 6,
     "sbb": {
-      "desc": "2 combo massive Earth attack on all enemies, adds change of ignoring opponents' Def when attacking for all allies for 2 turns & fully recovers own HP for 3 turns",
+      "desc": "2 combo massive Earth attack on all enemies, adds chance of ignoring opponents' Def when attacking for all allies for 2 turns & fully recovers own HP for 3 turns",
       "hit dmg% distribution": [
         50,
         50
@@ -42880,64 +42880,64 @@
       "hits": 6,
       "levels": [
         {
-          "bb atk%": 3,
+          "bb atk%": 70,
           "bc cost": 25,
           "curse%": 25,
-          "lord damage range": "1111~1241"
+          "lord damage range": "1835~2050"
         },
         {
-          "bb atk%": 3,
+          "bb atk%": 80,
           "bc cost": 25,
           "curse%": 27,
-          "lord damage range": "1111~1241"
+          "lord damage range": "1944~2171"
         },
         {
-          "bb atk%": 3,
+          "bb atk%": 90,
           "bc cost": 25,
           "curse%": 29,
-          "lord damage range": "1111~1241"
+          "lord damage range": "2051~2292"
         },
         {
-          "bb atk%": 3,
+          "bb atk%": 100,
           "bc cost": 25,
           "curse%": 31,
-          "lord damage range": "1111~1241"
+          "lord damage range": "2160~2412"
         },
         {
-          "bb atk%": 3,
+          "bb atk%": 110,
           "bc cost": 25,
           "curse%": 33,
-          "lord damage range": "1111~1241"
+          "lord damage range": "2268~2533"
         },
         {
-          "bb atk%": 3,
+          "bb atk%": 120,
           "bc cost": 25,
           "curse%": 35,
-          "lord damage range": "1111~1241"
+          "lord damage range": "2375~2654"
         },
         {
-          "bb atk%": 3,
+          "bb atk%": 130,
           "bc cost": 25,
           "curse%": 37,
-          "lord damage range": "1111~1241"
+          "lord damage range": "2484~2774"
         },
         {
-          "bb atk%": 3,
+          "bb atk%": 140,
           "bc cost": 25,
           "curse%": 39,
-          "lord damage range": "1111~1241"
+          "lord damage range": "2592~2895"
         },
         {
-          "bb atk%": 3,
+          "bb atk%": 150,
           "bc cost": 25,
           "curse%": 41,
-          "lord damage range": "1111~1241"
+          "lord damage range": "2700~3016"
         },
         {
-          "bb atk%": 3,
+          "bb atk%": 160,
           "bc cost": 25,
           "curse%": 45,
-          "lord damage range": "1111~1241"
+          "lord damage range": "2808~3136"
         }
       ],
       "name": "Land of Green"
@@ -46819,54 +46819,54 @@
       "hits": 10,
       "levels": [
         {
-          "bb atk%": 5,
+          "bb atk%": 70,
           "bc cost": 23,
-          "lord damage range": "1284~1434"
+          "lord damage range": "2078~2322"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 80,
           "bc cost": 23,
-          "lord damage range": "1284~1434"
+          "lord damage range": "2201~2459"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 90,
           "bc cost": 23,
-          "lord damage range": "1284~1434"
+          "lord damage range": "2324~2595"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 100,
           "bc cost": 23,
-          "lord damage range": "1284~1434"
+          "lord damage range": "2447~2733"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 110,
           "bc cost": 23,
-          "lord damage range": "1284~1434"
+          "lord damage range": "2569~2869"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 120,
           "bc cost": 23,
-          "lord damage range": "1284~1434"
+          "lord damage range": "2691~3005"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 130,
           "bc cost": 23,
-          "lord damage range": "1284~1434"
+          "lord damage range": "2813~3142"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 140,
           "bc cost": 23,
-          "lord damage range": "1284~1434"
+          "lord damage range": "2935~3279"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 150,
           "bc cost": 23,
-          "lord damage range": "1284~1434"
+          "lord damage range": "3058~3416"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 170,
           "bc cost": 23,
-          "lord damage range": "1284~1434"
+          "lord damage range": "3302~3688"
         }
       ],
       "name": "Cathedral Photon"
@@ -47812,64 +47812,64 @@
       "hits": 9,
       "levels": [
         {
-          "bb atk%": 3,
+          "bb atk%": 90,
           "bc cost": 30,
           "curse%": 25,
-          "lord damage range": "1342~1499"
+          "lord damage range": "2477~2766"
         },
         {
-          "bb atk%": 3,
+          "bb atk%": 100,
           "bc cost": 30,
           "curse%": 27,
-          "lord damage range": "1342~1499"
+          "lord damage range": "2607~2912"
         },
         {
-          "bb atk%": 3,
+          "bb atk%": 110,
           "bc cost": 30,
           "curse%": 29,
-          "lord damage range": "1342~1499"
+          "lord damage range": "2737~3057"
         },
         {
-          "bb atk%": 3,
+          "bb atk%": 120,
           "bc cost": 30,
           "curse%": 31,
-          "lord damage range": "1342~1499"
+          "lord damage range": "2868~3203"
         },
         {
-          "bb atk%": 3,
+          "bb atk%": 130,
           "bc cost": 30,
           "curse%": 33,
-          "lord damage range": "1342~1499"
+          "lord damage range": "2997~3347"
         },
         {
-          "bb atk%": 3,
+          "bb atk%": 140,
           "bc cost": 30,
           "curse%": 35,
-          "lord damage range": "1342~1499"
+          "lord damage range": "3129~3494"
         },
         {
-          "bb atk%": 3,
+          "bb atk%": 150,
           "bc cost": 30,
           "curse%": 37,
-          "lord damage range": "1342~1499"
+          "lord damage range": "3259~3640"
         },
         {
-          "bb atk%": 3,
+          "bb atk%": 160,
           "bc cost": 30,
           "curse%": 39,
-          "lord damage range": "1342~1499"
+          "lord damage range": "3389~3785"
         },
         {
-          "bb atk%": 3,
+          "bb atk%": 170,
           "bc cost": 30,
           "curse%": 41,
-          "lord damage range": "1342~1499"
+          "lord damage range": "3520~3931"
         },
         {
-          "bb atk%": 3,
+          "bb atk%": 180,
           "bc cost": 30,
           "curse%": 45,
-          "lord damage range": "1342~1499"
+          "lord damage range": "3649~4075"
         }
       ],
       "name": "Mother Earth's Pulse"
@@ -52115,7 +52115,7 @@
     "lord rec": 1983,
     "rarity": 6,
     "sbb": {
-      "desc": "Greatly recovers HP for all allies, boosts critical hit rate for 3 turns",
+      "desc": "Greatly recovers HP for all allies, boosts critical hit rate for 3 turns, and renders self able to withstand a KO",
       "levels": [
         {
           "bc cost": 20,
@@ -53138,63 +53138,63 @@
       "hits": 9,
       "levels": [
         {
-          "bb atk%": 2,
+          "bb atk%": 90,
           "bc cost": 30,
-          "lord damage range": "1389~1552",
+          "lord damage range": "2588~2892",
           "poison%": 25
         },
         {
-          "bb atk%": 2,
+          "bb atk%": 100,
           "bc cost": 30,
-          "lord damage range": "1389~1552",
+          "lord damage range": "2726~3045",
           "poison%": 27
         },
         {
-          "bb atk%": 2,
+          "bb atk%": 110,
           "bc cost": 30,
-          "lord damage range": "1389~1552",
+          "lord damage range": "2862~3196",
           "poison%": 29
         },
         {
-          "bb atk%": 2,
+          "bb atk%": 120,
           "bc cost": 30,
-          "lord damage range": "1389~1552",
+          "lord damage range": "2998~3348",
           "poison%": 31
         },
         {
-          "bb atk%": 2,
+          "bb atk%": 130,
           "bc cost": 30,
-          "lord damage range": "1389~1552",
+          "lord damage range": "3135~3501",
           "poison%": 33
         },
         {
-          "bb atk%": 2,
+          "bb atk%": 140,
           "bc cost": 30,
-          "lord damage range": "1389~1552",
+          "lord damage range": "3270~3653",
           "poison%": 35
         },
         {
-          "bb atk%": 2,
+          "bb atk%": 150,
           "bc cost": 30,
-          "lord damage range": "1389~1552",
+          "lord damage range": "3408~3806",
           "poison%": 37
         },
         {
-          "bb atk%": 2,
+          "bb atk%": 160,
           "bc cost": 30,
-          "lord damage range": "1389~1552",
+          "lord damage range": "3543~3958",
           "poison%": 39
         },
         {
-          "bb atk%": 2,
+          "bb atk%": 170,
           "bc cost": 30,
-          "lord damage range": "1389~1552",
+          "lord damage range": "3679~4110",
           "poison%": 41
         },
         {
-          "bb atk%": 2,
+          "bb atk%": 180,
           "bc cost": 30,
-          "lord damage range": "1389~1552",
+          "lord damage range": "3817~4262",
           "poison%": 45
         }
       ],
@@ -53247,54 +53247,54 @@
       "hits": 8,
       "levels": [
         {
-          "bb atk%": 5,
+          "bb atk%": 50,
           "bc cost": 18,
-          "lord damage range": "1052~1176"
+          "lord damage range": "1505~1681"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 60,
           "bc cost": 18,
-          "lord damage range": "1052~1176"
+          "lord damage range": "1604~1792"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 70,
           "bc cost": 18,
-          "lord damage range": "1052~1176"
+          "lord damage range": "1705~1905"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 80,
           "bc cost": 18,
-          "lord damage range": "1052~1176"
+          "lord damage range": "1806~2017"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 90,
           "bc cost": 18,
-          "lord damage range": "1052~1176"
+          "lord damage range": "1907~2129"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 100,
           "bc cost": 18,
-          "lord damage range": "1052~1176"
+          "lord damage range": "2007~2242"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 110,
           "bc cost": 18,
-          "lord damage range": "1052~1176"
+          "lord damage range": "2106~2353"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 120,
           "bc cost": 18,
-          "lord damage range": "1052~1176"
+          "lord damage range": "2207~2465"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 130,
           "bc cost": 18,
-          "lord damage range": "1052~1176"
+          "lord damage range": "2308~2578"
         },
         {
-          "bb atk%": 5,
+          "bb atk%": 150,
           "bc cost": 18,
-          "lord damage range": "1052~1176"
+          "lord damage range": "2509~2802"
         }
       ],
       "name": "Flash Effect"
@@ -62919,64 +62919,64 @@
       "hits": 7,
       "levels": [
         {
-          "bb atk%": 4,
+          "bb atk%": 70,
           "bc cost": 25,
           "injury%": 25,
-          "lord damage range": "1198~1338"
+          "lord damage range": "1958~2188"
         },
         {
-          "bb atk%": 4,
+          "bb atk%": 80,
           "bc cost": 25,
           "injury%": 27,
-          "lord damage range": "1198~1338"
+          "lord damage range": "2074~2317"
         },
         {
-          "bb atk%": 4,
+          "bb atk%": 90,
           "bc cost": 25,
           "injury%": 29,
-          "lord damage range": "1198~1338"
+          "lord damage range": "2189~2446"
         },
         {
-          "bb atk%": 4,
+          "bb atk%": 100,
           "bc cost": 25,
           "injury%": 31,
-          "lord damage range": "1198~1338"
+          "lord damage range": "2305~2575"
         },
         {
-          "bb atk%": 4,
+          "bb atk%": 110,
           "bc cost": 25,
           "injury%": 33,
-          "lord damage range": "1198~1338"
+          "lord damage range": "2420~2702"
         },
         {
-          "bb atk%": 4,
+          "bb atk%": 120,
           "bc cost": 25,
           "injury%": 35,
-          "lord damage range": "1198~1338"
+          "lord damage range": "2535~2831"
         },
         {
-          "bb atk%": 4,
+          "bb atk%": 130,
           "bc cost": 25,
           "injury%": 37,
-          "lord damage range": "1198~1338"
+          "lord damage range": "2650~2960"
         },
         {
-          "bb atk%": 4,
+          "bb atk%": 140,
           "bc cost": 25,
           "injury%": 39,
-          "lord damage range": "1198~1338"
+          "lord damage range": "2765~3089"
         },
         {
-          "bb atk%": 4,
+          "bb atk%": 150,
           "bc cost": 25,
           "injury%": 41,
-          "lord damage range": "1198~1338"
+          "lord damage range": "2881~3218"
         },
         {
-          "bb atk%": 4,
+          "bb atk%": 160,
           "bc cost": 25,
           "injury%": 45,
-          "lord damage range": "1198~1338"
+          "lord damage range": "2996~3346"
         }
       ],
       "name": "3rd Shinto Form: Ikazuchi"
