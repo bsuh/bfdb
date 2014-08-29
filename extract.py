@@ -155,7 +155,17 @@ def parse_bb_boost_spark_damage(process_info):
 
 def parse_bb_multiple_elem_attack(process_info):
     buffs = dict()
+    elements_added = []
 
+    if int(process_info[0]) != 0:
+        elements_added.append(elements[process_info[0]])
+    if int(process_info[1]) != 0:
+        elements_added.append(elements[process_info[1]])
+    if int(process_info[2]) != 0:
+        elements_added.append(elements[process_info[2]])
+
+    if len(elements_added) != 0:
+        buffs['bb elements'] = elements_added
     if int(process_info[3]) != 0:
         buffs['bb atk%'] = int(process_info[3])
     if int(process_info[4]) != 0:
@@ -220,6 +230,9 @@ def parse_bb_level(process_types, process_infos):
         bb_data = parse_bb_process(process_type, process_info)
         if 'elements added' in bb_data and 'elements added' in process_data:
             data['elements added'] += bb_data.pop('elements added')
+
+        if 'bb elements' in bb_data and 'bb elements' in process_data:
+            data['bb elements'] += bb_data.pop('bb elements')
 
         process_data.update(bb_data)
 

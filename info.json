@@ -4906,60 +4906,100 @@
       "levels": [
         {
           "bb atk%": 90,
+          "bb elements": [
+            "fire",
+            "light"
+          ],
           "bc cost": 30,
           "lord damage range": "2514~2809",
           "weaken%": 25
         },
         {
           "bb atk%": 100,
+          "bb elements": [
+            "fire",
+            "light"
+          ],
           "bc cost": 30,
           "lord damage range": "2647~2957",
           "weaken%": 27
         },
         {
           "bb atk%": 110,
+          "bb elements": [
+            "fire",
+            "light"
+          ],
           "bc cost": 30,
           "lord damage range": "2780~3105",
           "weaken%": 29
         },
         {
           "bb atk%": 120,
+          "bb elements": [
+            "fire",
+            "light"
+          ],
           "bc cost": 30,
           "lord damage range": "2912~3253",
           "weaken%": 31
         },
         {
           "bb atk%": 130,
+          "bb elements": [
+            "fire",
+            "light"
+          ],
           "bc cost": 30,
           "lord damage range": "3045~3400",
           "weaken%": 33
         },
         {
           "bb atk%": 140,
+          "bb elements": [
+            "fire",
+            "light"
+          ],
           "bc cost": 30,
           "lord damage range": "3176~3548",
           "weaken%": 35
         },
         {
           "bb atk%": 150,
+          "bb elements": [
+            "fire",
+            "light"
+          ],
           "bc cost": 30,
           "lord damage range": "3310~3697",
           "weaken%": 37
         },
         {
           "bb atk%": 160,
+          "bb elements": [
+            "fire",
+            "light"
+          ],
           "bc cost": 30,
           "lord damage range": "3442~3844",
           "weaken%": 39
         },
         {
           "bb atk%": 170,
+          "bb elements": [
+            "fire",
+            "light"
+          ],
           "bc cost": 30,
           "lord damage range": "3574~3992",
           "weaken%": 41
         },
         {
           "bb atk%": 180,
+          "bb elements": [
+            "fire",
+            "light"
+          ],
           "bc cost": 30,
           "lord damage range": "3706~4140",
           "weaken%": 45
@@ -5730,60 +5770,100 @@
       "levels": [
         {
           "bb atk%": 90,
+          "bb elements": [
+            "thunder",
+            "light"
+          ],
           "bc cost": 30,
           "injury%": 25,
           "lord damage range": "2610~2916"
         },
         {
           "bb atk%": 100,
+          "bb elements": [
+            "thunder",
+            "light"
+          ],
           "bc cost": 30,
           "injury%": 27,
           "lord damage range": "2748~3070"
         },
         {
           "bb atk%": 110,
+          "bb elements": [
+            "thunder",
+            "light"
+          ],
           "bc cost": 30,
           "injury%": 29,
           "lord damage range": "2885~3222"
         },
         {
           "bb atk%": 120,
+          "bb elements": [
+            "thunder",
+            "light"
+          ],
           "bc cost": 30,
           "injury%": 31,
           "lord damage range": "3023~3376"
         },
         {
           "bb atk%": 130,
+          "bb elements": [
+            "thunder",
+            "light"
+          ],
           "bc cost": 30,
           "injury%": 33,
           "lord damage range": "3160~3529"
         },
         {
           "bb atk%": 140,
+          "bb elements": [
+            "thunder",
+            "light"
+          ],
           "bc cost": 30,
           "injury%": 35,
           "lord damage range": "3297~3683"
         },
         {
           "bb atk%": 150,
+          "bb elements": [
+            "thunder",
+            "light"
+          ],
           "bc cost": 30,
           "injury%": 37,
           "lord damage range": "3436~3837"
         },
         {
           "bb atk%": 160,
+          "bb elements": [
+            "thunder",
+            "light"
+          ],
           "bc cost": 30,
           "injury%": 39,
           "lord damage range": "3572~3990"
         },
         {
           "bb atk%": 170,
+          "bb elements": [
+            "thunder",
+            "light"
+          ],
           "bc cost": 30,
           "injury%": 41,
           "lord damage range": "3710~4144"
         },
         {
           "bb atk%": 180,
+          "bb elements": [
+            "thunder",
+            "light"
+          ],
           "bc cost": 30,
           "injury%": 45,
           "lord damage range": "3847~4297"
@@ -14782,60 +14862,100 @@
       "levels": [
         {
           "bb atk%": 70,
+          "bb elements": [
+            "water",
+            "dark"
+          ],
           "bc cost": 25,
           "lord damage range": "1938~2165",
           "poison%": 25
         },
         {
           "bb atk%": 80,
+          "bb elements": [
+            "water",
+            "dark"
+          ],
           "bc cost": 25,
           "lord damage range": "2052~2293",
           "poison%": 27
         },
         {
           "bb atk%": 90,
+          "bb elements": [
+            "water",
+            "dark"
+          ],
           "bc cost": 25,
           "lord damage range": "2166~2420",
           "poison%": 29
         },
         {
           "bb atk%": 100,
+          "bb elements": [
+            "water",
+            "dark"
+          ],
           "bc cost": 25,
           "lord damage range": "2281~2548",
           "poison%": 31
         },
         {
           "bb atk%": 110,
+          "bb elements": [
+            "water",
+            "dark"
+          ],
           "bc cost": 25,
           "lord damage range": "2394~2674",
           "poison%": 33
         },
         {
           "bb atk%": 120,
+          "bb elements": [
+            "water",
+            "dark"
+          ],
           "bc cost": 25,
           "lord damage range": "2509~2802",
           "poison%": 35
         },
         {
           "bb atk%": 130,
+          "bb elements": [
+            "water",
+            "dark"
+          ],
           "bc cost": 25,
           "lord damage range": "2623~2929",
           "poison%": 37
         },
         {
           "bb atk%": 140,
+          "bb elements": [
+            "water",
+            "dark"
+          ],
           "bc cost": 25,
           "lord damage range": "2737~3057",
           "poison%": 39
         },
         {
           "bb atk%": 150,
+          "bb elements": [
+            "water",
+            "dark"
+          ],
           "bc cost": 25,
           "lord damage range": "2850~3184",
           "poison%": 41
         },
         {
           "bb atk%": 160,
+          "bb elements": [
+            "water",
+            "dark"
+          ],
           "bc cost": 25,
           "lord damage range": "2965~3312",
           "poison%": 45
@@ -18125,60 +18245,100 @@
       "levels": [
         {
           "bb atk%": 70,
+          "bb elements": [
+            "fire",
+            "light"
+          ],
           "bc cost": 25,
           "lord damage range": "1883~2103",
           "weaken%": 25
         },
         {
           "bb atk%": 80,
+          "bb elements": [
+            "fire",
+            "light"
+          ],
           "bc cost": 25,
           "lord damage range": "1993~2227",
           "weaken%": 27
         },
         {
           "bb atk%": 90,
+          "bb elements": [
+            "fire",
+            "light"
+          ],
           "bc cost": 25,
           "lord damage range": "2104~2351",
           "weaken%": 29
         },
         {
           "bb atk%": 100,
+          "bb elements": [
+            "fire",
+            "light"
+          ],
           "bc cost": 25,
           "lord damage range": "2216~2475",
           "weaken%": 31
         },
         {
           "bb atk%": 110,
+          "bb elements": [
+            "fire",
+            "light"
+          ],
           "bc cost": 25,
           "lord damage range": "2327~2598",
           "weaken%": 33
         },
         {
           "bb atk%": 120,
+          "bb elements": [
+            "fire",
+            "light"
+          ],
           "bc cost": 25,
           "lord damage range": "2437~2722",
           "weaken%": 35
         },
         {
           "bb atk%": 130,
+          "bb elements": [
+            "fire",
+            "light"
+          ],
           "bc cost": 25,
           "lord damage range": "2548~2846",
           "weaken%": 37
         },
         {
           "bb atk%": 140,
+          "bb elements": [
+            "fire",
+            "light"
+          ],
           "bc cost": 25,
           "lord damage range": "2659~2970",
           "weaken%": 39
         },
         {
           "bb atk%": 150,
+          "bb elements": [
+            "fire",
+            "light"
+          ],
           "bc cost": 25,
           "lord damage range": "2769~3094",
           "weaken%": 41
         },
         {
           "bb atk%": 160,
+          "bb elements": [
+            "fire",
+            "light"
+          ],
           "bc cost": 25,
           "lord damage range": "2880~3217",
           "weaken%": 45
@@ -22219,6 +22379,10 @@
       "levels": [
         {
           "bb atk%": 100,
+          "bb elements": [
+            "light",
+            "dark"
+          ],
           "bc cost": 30,
           "elements added": [
             "light",
@@ -22229,6 +22393,10 @@
         },
         {
           "bb atk%": 110,
+          "bb elements": [
+            "light",
+            "dark"
+          ],
           "bc cost": 30,
           "elements added": [
             "light",
@@ -22239,6 +22407,10 @@
         },
         {
           "bb atk%": 120,
+          "bb elements": [
+            "light",
+            "dark"
+          ],
           "bc cost": 30,
           "elements added": [
             "light",
@@ -22249,6 +22421,10 @@
         },
         {
           "bb atk%": 130,
+          "bb elements": [
+            "light",
+            "dark"
+          ],
           "bc cost": 30,
           "elements added": [
             "light",
@@ -22259,6 +22435,10 @@
         },
         {
           "bb atk%": 140,
+          "bb elements": [
+            "light",
+            "dark"
+          ],
           "bc cost": 30,
           "elements added": [
             "light",
@@ -22269,6 +22449,10 @@
         },
         {
           "bb atk%": 150,
+          "bb elements": [
+            "light",
+            "dark"
+          ],
           "bc cost": 30,
           "elements added": [
             "light",
@@ -22279,6 +22463,10 @@
         },
         {
           "bb atk%": 160,
+          "bb elements": [
+            "light",
+            "dark"
+          ],
           "bc cost": 30,
           "elements added": [
             "light",
@@ -22289,6 +22477,10 @@
         },
         {
           "bb atk%": 170,
+          "bb elements": [
+            "light",
+            "dark"
+          ],
           "bc cost": 30,
           "elements added": [
             "light",
@@ -22299,6 +22491,10 @@
         },
         {
           "bb atk%": 180,
+          "bb elements": [
+            "light",
+            "dark"
+          ],
           "bc cost": 30,
           "elements added": [
             "light",
@@ -22309,6 +22505,10 @@
         },
         {
           "bb atk%": 200,
+          "bb elements": [
+            "light",
+            "dark"
+          ],
           "bc cost": 30,
           "elements added": [
             "light",
@@ -33937,51 +34137,91 @@
       "levels": [
         {
           "bb atk%": 80,
+          "bb elements": [
+            "light",
+            "dark"
+          ],
           "bc cost": 22,
           "lord damage range": "2262~2527"
         },
         {
           "bb atk%": 85,
+          "bb elements": [
+            "light",
+            "dark"
+          ],
           "bc cost": 22,
           "lord damage range": "2325~2596"
         },
         {
           "bb atk%": 90,
+          "bb elements": [
+            "light",
+            "dark"
+          ],
           "bc cost": 22,
           "lord damage range": "2388~2667"
         },
         {
           "bb atk%": 95,
+          "bb elements": [
+            "light",
+            "dark"
+          ],
           "bc cost": 22,
           "lord damage range": "2450~2737"
         },
         {
           "bb atk%": 100,
+          "bb elements": [
+            "light",
+            "dark"
+          ],
           "bc cost": 22,
           "lord damage range": "2514~2808"
         },
         {
           "bb atk%": 105,
+          "bb elements": [
+            "light",
+            "dark"
+          ],
           "bc cost": 22,
           "lord damage range": "2576~2877"
         },
         {
           "bb atk%": 110,
+          "bb elements": [
+            "light",
+            "dark"
+          ],
           "bc cost": 22,
           "lord damage range": "2639~2948"
         },
         {
           "bb atk%": 115,
+          "bb elements": [
+            "light",
+            "dark"
+          ],
           "bc cost": 22,
           "lord damage range": "2701~3018"
         },
         {
           "bb atk%": 120,
+          "bb elements": [
+            "light",
+            "dark"
+          ],
           "bc cost": 22,
           "lord damage range": "2765~3088"
         },
         {
           "bb atk%": 130,
+          "bb elements": [
+            "light",
+            "dark"
+          ],
           "bc cost": 22,
           "lord damage range": "2890~3228"
         }
@@ -35827,6 +36067,11 @@
       "levels": [
         {
           "bb atk%": 200,
+          "bb elements": [
+            "fire",
+            "water",
+            "earth"
+          ],
           "bb flat atk": 100,
           "bc cost": 20,
           "elements added": [
@@ -35838,6 +36083,11 @@
         },
         {
           "bb atk%": 210,
+          "bb elements": [
+            "fire",
+            "water",
+            "earth"
+          ],
           "bb flat atk": 100,
           "bc cost": 20,
           "elements added": [
@@ -35849,6 +36099,11 @@
         },
         {
           "bb atk%": 220,
+          "bb elements": [
+            "fire",
+            "water",
+            "earth"
+          ],
           "bb flat atk": 100,
           "bc cost": 20,
           "elements added": [
@@ -35860,6 +36115,11 @@
         },
         {
           "bb atk%": 230,
+          "bb elements": [
+            "fire",
+            "water",
+            "earth"
+          ],
           "bb flat atk": 100,
           "bc cost": 20,
           "elements added": [
@@ -35871,6 +36131,11 @@
         },
         {
           "bb atk%": 240,
+          "bb elements": [
+            "fire",
+            "water",
+            "earth"
+          ],
           "bb flat atk": 100,
           "bc cost": 20,
           "elements added": [
@@ -35882,6 +36147,11 @@
         },
         {
           "bb atk%": 250,
+          "bb elements": [
+            "fire",
+            "water",
+            "earth"
+          ],
           "bb flat atk": 100,
           "bc cost": 20,
           "elements added": [
@@ -35893,6 +36163,11 @@
         },
         {
           "bb atk%": 260,
+          "bb elements": [
+            "fire",
+            "water",
+            "earth"
+          ],
           "bb flat atk": 100,
           "bc cost": 20,
           "elements added": [
@@ -35904,6 +36179,11 @@
         },
         {
           "bb atk%": 270,
+          "bb elements": [
+            "fire",
+            "water",
+            "earth"
+          ],
           "bb flat atk": 100,
           "bc cost": 20,
           "elements added": [
@@ -35915,6 +36195,11 @@
         },
         {
           "bb atk%": 280,
+          "bb elements": [
+            "fire",
+            "water",
+            "earth"
+          ],
           "bb flat atk": 100,
           "bc cost": 20,
           "elements added": [
@@ -35926,6 +36211,11 @@
         },
         {
           "bb atk%": 300,
+          "bb elements": [
+            "fire",
+            "water",
+            "earth"
+          ],
           "bb flat atk": 100,
           "bc cost": 20,
           "elements added": [
@@ -38839,51 +39129,101 @@
       "levels": [
         {
           "bb atk%": 50,
+          "bb elements": [
+            "dark",
+            "water",
+            "earth"
+          ],
           "bc cost": 18,
           "lord damage range": "1746~1951"
         },
         {
           "bb atk%": 60,
+          "bb elements": [
+            "dark",
+            "water",
+            "earth"
+          ],
           "bc cost": 18,
           "lord damage range": "1862~2081"
         },
         {
           "bb atk%": 70,
+          "bb elements": [
+            "dark",
+            "water",
+            "earth"
+          ],
           "bc cost": 18,
           "lord damage range": "1979~2211"
         },
         {
           "bb atk%": 80,
+          "bb elements": [
+            "dark",
+            "water",
+            "earth"
+          ],
           "bc cost": 18,
           "lord damage range": "2095~2341"
         },
         {
           "bb atk%": 90,
+          "bb elements": [
+            "dark",
+            "water",
+            "earth"
+          ],
           "bc cost": 18,
           "lord damage range": "2212~2471"
         },
         {
           "bb atk%": 100,
+          "bb elements": [
+            "dark",
+            "water",
+            "earth"
+          ],
           "bc cost": 18,
           "lord damage range": "2329~2602"
         },
         {
           "bb atk%": 110,
+          "bb elements": [
+            "dark",
+            "water",
+            "earth"
+          ],
           "bc cost": 18,
           "lord damage range": "2446~2732"
         },
         {
           "bb atk%": 120,
+          "bb elements": [
+            "dark",
+            "water",
+            "earth"
+          ],
           "bc cost": 18,
           "lord damage range": "2562~2862"
         },
         {
           "bb atk%": 130,
+          "bb elements": [
+            "dark",
+            "water",
+            "earth"
+          ],
           "bc cost": 18,
           "lord damage range": "2678~2992"
         },
         {
           "bb atk%": 150,
+          "bb elements": [
+            "dark",
+            "water",
+            "earth"
+          ],
           "bc cost": 18,
           "lord damage range": "2911~3252"
         }
@@ -42363,51 +42703,101 @@
       "levels": [
         {
           "bb atk%": 70,
+          "bb elements": [
+            "dark",
+            "water",
+            "earth"
+          ],
           "bc cost": 23,
           "lord damage range": "2355~2630"
         },
         {
           "bb atk%": 80,
+          "bb elements": [
+            "dark",
+            "water",
+            "earth"
+          ],
           "bc cost": 23,
           "lord damage range": "2493~2785"
         },
         {
           "bb atk%": 90,
+          "bb elements": [
+            "dark",
+            "water",
+            "earth"
+          ],
           "bc cost": 23,
           "lord damage range": "2632~2940"
         },
         {
           "bb atk%": 100,
+          "bb elements": [
+            "dark",
+            "water",
+            "earth"
+          ],
           "bc cost": 23,
           "lord damage range": "2771~3095"
         },
         {
           "bb atk%": 110,
+          "bb elements": [
+            "dark",
+            "water",
+            "earth"
+          ],
           "bc cost": 23,
           "lord damage range": "2908~3248"
         },
         {
           "bb atk%": 120,
+          "bb elements": [
+            "dark",
+            "water",
+            "earth"
+          ],
           "bc cost": 23,
           "lord damage range": "3047~3403"
         },
         {
           "bb atk%": 130,
+          "bb elements": [
+            "dark",
+            "water",
+            "earth"
+          ],
           "bc cost": 23,
           "lord damage range": "3185~3558"
         },
         {
           "bb atk%": 140,
+          "bb elements": [
+            "dark",
+            "water",
+            "earth"
+          ],
           "bc cost": 23,
           "lord damage range": "3324~3713"
         },
         {
           "bb atk%": 150,
+          "bb elements": [
+            "dark",
+            "water",
+            "earth"
+          ],
           "bc cost": 23,
           "lord damage range": "3464~3868"
         },
         {
           "bb atk%": 170,
+          "bb elements": [
+            "dark",
+            "water",
+            "earth"
+          ],
           "bc cost": 23,
           "lord damage range": "3740~4177"
         }
@@ -43691,60 +44081,100 @@
       "levels": [
         {
           "bb atk%": 70,
+          "bb elements": [
+            "earth",
+            "dark"
+          ],
           "bc cost": 25,
           "curse%": 25,
           "lord damage range": "1835~2050"
         },
         {
           "bb atk%": 80,
+          "bb elements": [
+            "earth",
+            "dark"
+          ],
           "bc cost": 25,
           "curse%": 27,
           "lord damage range": "1944~2171"
         },
         {
           "bb atk%": 90,
+          "bb elements": [
+            "earth",
+            "dark"
+          ],
           "bc cost": 25,
           "curse%": 29,
           "lord damage range": "2051~2292"
         },
         {
           "bb atk%": 100,
+          "bb elements": [
+            "earth",
+            "dark"
+          ],
           "bc cost": 25,
           "curse%": 31,
           "lord damage range": "2160~2412"
         },
         {
           "bb atk%": 110,
+          "bb elements": [
+            "earth",
+            "dark"
+          ],
           "bc cost": 25,
           "curse%": 33,
           "lord damage range": "2268~2533"
         },
         {
           "bb atk%": 120,
+          "bb elements": [
+            "earth",
+            "dark"
+          ],
           "bc cost": 25,
           "curse%": 35,
           "lord damage range": "2375~2654"
         },
         {
           "bb atk%": 130,
+          "bb elements": [
+            "earth",
+            "dark"
+          ],
           "bc cost": 25,
           "curse%": 37,
           "lord damage range": "2484~2774"
         },
         {
           "bb atk%": 140,
+          "bb elements": [
+            "earth",
+            "dark"
+          ],
           "bc cost": 25,
           "curse%": 39,
           "lord damage range": "2592~2895"
         },
         {
           "bb atk%": 150,
+          "bb elements": [
+            "earth",
+            "dark"
+          ],
           "bc cost": 25,
           "curse%": 41,
           "lord damage range": "2700~3016"
         },
         {
           "bb atk%": 160,
+          "bb elements": [
+            "earth",
+            "dark"
+          ],
           "bc cost": 25,
           "curse%": 45,
           "lord damage range": "2808~3136"
@@ -47670,51 +48100,101 @@
       "levels": [
         {
           "bb atk%": 70,
+          "bb elements": [
+            "light",
+            "fire",
+            "thunder"
+          ],
           "bc cost": 23,
           "lord damage range": "2078~2322"
         },
         {
           "bb atk%": 80,
+          "bb elements": [
+            "light",
+            "fire",
+            "thunder"
+          ],
           "bc cost": 23,
           "lord damage range": "2201~2459"
         },
         {
           "bb atk%": 90,
+          "bb elements": [
+            "light",
+            "fire",
+            "thunder"
+          ],
           "bc cost": 23,
           "lord damage range": "2324~2595"
         },
         {
           "bb atk%": 100,
+          "bb elements": [
+            "light",
+            "fire",
+            "thunder"
+          ],
           "bc cost": 23,
           "lord damage range": "2447~2733"
         },
         {
           "bb atk%": 110,
+          "bb elements": [
+            "light",
+            "fire",
+            "thunder"
+          ],
           "bc cost": 23,
           "lord damage range": "2569~2869"
         },
         {
           "bb atk%": 120,
+          "bb elements": [
+            "light",
+            "fire",
+            "thunder"
+          ],
           "bc cost": 23,
           "lord damage range": "2691~3005"
         },
         {
           "bb atk%": 130,
+          "bb elements": [
+            "light",
+            "fire",
+            "thunder"
+          ],
           "bc cost": 23,
           "lord damage range": "2813~3142"
         },
         {
           "bb atk%": 140,
+          "bb elements": [
+            "light",
+            "fire",
+            "thunder"
+          ],
           "bc cost": 23,
           "lord damage range": "2935~3279"
         },
         {
           "bb atk%": 150,
+          "bb elements": [
+            "light",
+            "fire",
+            "thunder"
+          ],
           "bc cost": 23,
           "lord damage range": "3058~3416"
         },
         {
           "bb atk%": 170,
+          "bb elements": [
+            "light",
+            "fire",
+            "thunder"
+          ],
           "bc cost": 23,
           "lord damage range": "3302~3688"
         }
@@ -48683,60 +49163,100 @@
       "levels": [
         {
           "bb atk%": 90,
+          "bb elements": [
+            "earth",
+            "dark"
+          ],
           "bc cost": 30,
           "curse%": 25,
           "lord damage range": "2477~2766"
         },
         {
           "bb atk%": 100,
+          "bb elements": [
+            "earth",
+            "dark"
+          ],
           "bc cost": 30,
           "curse%": 27,
           "lord damage range": "2607~2912"
         },
         {
           "bb atk%": 110,
+          "bb elements": [
+            "earth",
+            "dark"
+          ],
           "bc cost": 30,
           "curse%": 29,
           "lord damage range": "2737~3057"
         },
         {
           "bb atk%": 120,
+          "bb elements": [
+            "earth",
+            "dark"
+          ],
           "bc cost": 30,
           "curse%": 31,
           "lord damage range": "2868~3203"
         },
         {
           "bb atk%": 130,
+          "bb elements": [
+            "earth",
+            "dark"
+          ],
           "bc cost": 30,
           "curse%": 33,
           "lord damage range": "2997~3347"
         },
         {
           "bb atk%": 140,
+          "bb elements": [
+            "earth",
+            "dark"
+          ],
           "bc cost": 30,
           "curse%": 35,
           "lord damage range": "3129~3494"
         },
         {
           "bb atk%": 150,
+          "bb elements": [
+            "earth",
+            "dark"
+          ],
           "bc cost": 30,
           "curse%": 37,
           "lord damage range": "3259~3640"
         },
         {
           "bb atk%": 160,
+          "bb elements": [
+            "earth",
+            "dark"
+          ],
           "bc cost": 30,
           "curse%": 39,
           "lord damage range": "3389~3785"
         },
         {
           "bb atk%": 170,
+          "bb elements": [
+            "earth",
+            "dark"
+          ],
           "bc cost": 30,
           "curse%": 41,
           "lord damage range": "3520~3931"
         },
         {
           "bb atk%": 180,
+          "bb elements": [
+            "earth",
+            "dark"
+          ],
           "bc cost": 30,
           "curse%": 45,
           "lord damage range": "3649~4075"
@@ -54049,60 +54569,100 @@
       "levels": [
         {
           "bb atk%": 90,
+          "bb elements": [
+            "water",
+            "dark"
+          ],
           "bc cost": 30,
           "lord damage range": "2588~2892",
           "poison%": 25
         },
         {
           "bb atk%": 100,
+          "bb elements": [
+            "water",
+            "dark"
+          ],
           "bc cost": 30,
           "lord damage range": "2726~3045",
           "poison%": 27
         },
         {
           "bb atk%": 110,
+          "bb elements": [
+            "water",
+            "dark"
+          ],
           "bc cost": 30,
           "lord damage range": "2862~3196",
           "poison%": 29
         },
         {
           "bb atk%": 120,
+          "bb elements": [
+            "water",
+            "dark"
+          ],
           "bc cost": 30,
           "lord damage range": "2998~3348",
           "poison%": 31
         },
         {
           "bb atk%": 130,
+          "bb elements": [
+            "water",
+            "dark"
+          ],
           "bc cost": 30,
           "lord damage range": "3135~3501",
           "poison%": 33
         },
         {
           "bb atk%": 140,
+          "bb elements": [
+            "water",
+            "dark"
+          ],
           "bc cost": 30,
           "lord damage range": "3270~3653",
           "poison%": 35
         },
         {
           "bb atk%": 150,
+          "bb elements": [
+            "water",
+            "dark"
+          ],
           "bc cost": 30,
           "lord damage range": "3408~3806",
           "poison%": 37
         },
         {
           "bb atk%": 160,
+          "bb elements": [
+            "water",
+            "dark"
+          ],
           "bc cost": 30,
           "lord damage range": "3543~3958",
           "poison%": 39
         },
         {
           "bb atk%": 170,
+          "bb elements": [
+            "water",
+            "dark"
+          ],
           "bc cost": 30,
           "lord damage range": "3679~4110",
           "poison%": 41
         },
         {
           "bb atk%": 180,
+          "bb elements": [
+            "water",
+            "dark"
+          ],
           "bc cost": 30,
           "lord damage range": "3817~4262",
           "poison%": 45
@@ -54158,51 +54718,101 @@
       "levels": [
         {
           "bb atk%": 50,
+          "bb elements": [
+            "light",
+            "fire",
+            "thunder"
+          ],
           "bc cost": 18,
           "lord damage range": "1505~1681"
         },
         {
           "bb atk%": 60,
+          "bb elements": [
+            "light",
+            "fire",
+            "thunder"
+          ],
           "bc cost": 18,
           "lord damage range": "1604~1792"
         },
         {
           "bb atk%": 70,
+          "bb elements": [
+            "light",
+            "fire",
+            "thunder"
+          ],
           "bc cost": 18,
           "lord damage range": "1705~1905"
         },
         {
           "bb atk%": 80,
+          "bb elements": [
+            "light",
+            "fire",
+            "thunder"
+          ],
           "bc cost": 18,
           "lord damage range": "1806~2017"
         },
         {
           "bb atk%": 90,
+          "bb elements": [
+            "light",
+            "fire",
+            "thunder"
+          ],
           "bc cost": 18,
           "lord damage range": "1907~2129"
         },
         {
           "bb atk%": 100,
+          "bb elements": [
+            "light",
+            "fire",
+            "thunder"
+          ],
           "bc cost": 18,
           "lord damage range": "2007~2242"
         },
         {
           "bb atk%": 110,
+          "bb elements": [
+            "light",
+            "fire",
+            "thunder"
+          ],
           "bc cost": 18,
           "lord damage range": "2106~2353"
         },
         {
           "bb atk%": 120,
+          "bb elements": [
+            "light",
+            "fire",
+            "thunder"
+          ],
           "bc cost": 18,
           "lord damage range": "2207~2465"
         },
         {
           "bb atk%": 130,
+          "bb elements": [
+            "light",
+            "fire",
+            "thunder"
+          ],
           "bc cost": 18,
           "lord damage range": "2308~2578"
         },
         {
           "bb atk%": 150,
+          "bb elements": [
+            "light",
+            "fire",
+            "thunder"
+          ],
           "bc cost": 18,
           "lord damage range": "2509~2802"
         }
@@ -63910,60 +64520,100 @@
       "levels": [
         {
           "bb atk%": 70,
+          "bb elements": [
+            "thunder",
+            "light"
+          ],
           "bc cost": 25,
           "injury%": 25,
           "lord damage range": "1958~2188"
         },
         {
           "bb atk%": 80,
+          "bb elements": [
+            "thunder",
+            "light"
+          ],
           "bc cost": 25,
           "injury%": 27,
           "lord damage range": "2074~2317"
         },
         {
           "bb atk%": 90,
+          "bb elements": [
+            "thunder",
+            "light"
+          ],
           "bc cost": 25,
           "injury%": 29,
           "lord damage range": "2189~2446"
         },
         {
           "bb atk%": 100,
+          "bb elements": [
+            "thunder",
+            "light"
+          ],
           "bc cost": 25,
           "injury%": 31,
           "lord damage range": "2305~2575"
         },
         {
           "bb atk%": 110,
+          "bb elements": [
+            "thunder",
+            "light"
+          ],
           "bc cost": 25,
           "injury%": 33,
           "lord damage range": "2420~2702"
         },
         {
           "bb atk%": 120,
+          "bb elements": [
+            "thunder",
+            "light"
+          ],
           "bc cost": 25,
           "injury%": 35,
           "lord damage range": "2535~2831"
         },
         {
           "bb atk%": 130,
+          "bb elements": [
+            "thunder",
+            "light"
+          ],
           "bc cost": 25,
           "injury%": 37,
           "lord damage range": "2650~2960"
         },
         {
           "bb atk%": 140,
+          "bb elements": [
+            "thunder",
+            "light"
+          ],
           "bc cost": 25,
           "injury%": 39,
           "lord damage range": "2765~3089"
         },
         {
           "bb atk%": 150,
+          "bb elements": [
+            "thunder",
+            "light"
+          ],
           "bc cost": 25,
           "injury%": 41,
           "lord damage range": "2881~3218"
         },
         {
           "bb atk%": 160,
+          "bb elements": [
+            "thunder",
+            "light"
+          ],
           "bc cost": 25,
           "injury%": 45,
           "lord damage range": "2996~3346"
