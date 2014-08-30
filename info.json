@@ -110,6 +110,7 @@
     "lord def": 1487,
     "lord hp": 5381,
     "lord rec": 2060,
+    "max bc generated": 5,
     "rarity": 6,
     "sbb": {
       "desc": "Greatly recovers HP & boosts Atk and gradually recovers HP for all allies for 3 turns",
@@ -305,6 +306,7 @@
           "lord damage range": "1584~1770"
         }
       ],
+      "max bc generated": 5,
       "name": "Brave Impact"
     },
     "element": "light",
@@ -325,6 +327,7 @@
     "lord def": 845,
     "lord hp": 2780,
     "lord rec": 951,
+    "max bc generated": 4,
     "rarity": 3
   },
   "Advisor Weiss": {
@@ -415,6 +418,7 @@
     "lord def": 473,
     "lord hp": 2838,
     "lord rec": 987,
+    "max bc generated": 3,
     "rarity": 2
   },
   "Aero": {
@@ -508,6 +512,7 @@
     "lord def": 634,
     "lord hp": 3020,
     "lord rec": 423,
+    "max bc generated": 6,
     "rarity": 2
   },
   "Al-mi'raj": {
@@ -595,6 +600,7 @@
     "lord def": 455,
     "lord hp": 1725,
     "lord rec": 960,
+    "max bc generated": 5,
     "rarity": 2
   },
   "Alice": {
@@ -675,6 +681,7 @@
           "lord damage range": "2571~2872"
         }
       ],
+      "max bc generated": 6,
       "name": "Shadow Insult"
     },
     "element": "dark",
@@ -697,6 +704,7 @@
     "lord def": 645,
     "lord hp": 2680,
     "lord rec": 1400,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Alpha Behemoth": {
@@ -775,6 +783,7 @@
           "lord damage range": "3101~3464"
         }
       ],
+      "max bc generated": 4,
       "name": "Rodmagia Grudge"
     },
     "element": "thunder",
@@ -795,6 +804,7 @@
     "lord def": 1507,
     "lord hp": 5090,
     "lord rec": 876,
+    "max bc generated": 4,
     "rarity": 5
   },
   "Alpha Tree Altri": {
@@ -889,6 +899,7 @@
     "lord def": 1705,
     "lord hp": 6082,
     "lord rec": 1320,
+    "max bc generated": 7,
     "rarity": 6,
     "sbb": {
       "desc": "Greatly recovers HP & removes status ailments and negates them for all allies for 3 turns",
@@ -1041,6 +1052,7 @@
           "lord damage range": "790~882"
         }
       ],
+      "max bc generated": 20,
       "name": "Light Sword"
     },
     "element": "light",
@@ -1053,6 +1065,7 @@
     "lord def": 462,
     "lord hp": 1980,
     "lord rec": 233,
+    "max bc generated": 1,
     "rarity": 1
   },
   "Angel Maria": {
@@ -1135,6 +1148,7 @@
     "lord def": 819,
     "lord hp": 2540,
     "lord rec": 1030,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Arcane Solo Eric": {
@@ -1293,6 +1307,7 @@
     "lord def": 1786,
     "lord hp": 5992,
     "lord rec": 1733,
+    "max bc generated": 9,
     "rarity": 6,
     "sbb": {
       "desc": "15 combo random Dark elemental attack on all enemies & adds Light element to attack and slightly increases BB gauge for 3 turns",
@@ -1526,6 +1541,7 @@
           "lord damage range": "1325~1480"
         }
       ],
+      "max bc generated": 18,
       "name": "Blessed Sword"
     },
     "element": "light",
@@ -1544,6 +1560,7 @@
     "lord def": 737,
     "lord hp": 2620,
     "lord rec": 560,
+    "max bc generated": 2,
     "rarity": 2
   },
   "Archer Lario": {
@@ -1621,6 +1638,7 @@
           "lord damage range": "1096~1225"
         }
       ],
+      "max bc generated": 3,
       "name": "Carnage Sky"
     },
     "element": "earth",
@@ -1640,6 +1658,7 @@
     "lord def": 502,
     "lord hp": 2742,
     "lord rec": 952,
+    "max bc generated": 3,
     "rarity": 2
   },
   "Assassin Oboro": {
@@ -1719,6 +1738,7 @@
           "lord damage range": "1728~1930"
         }
       ],
+      "max bc generated": 5,
       "name": "Assassin Dagger"
     },
     "element": "dark",
@@ -1739,6 +1759,7 @@
     "lord def": 819,
     "lord hp": 2828,
     "lord rec": 877,
+    "max bc generated": 4,
     "rarity": 3
   },
   "Azrael": {
@@ -1827,6 +1848,7 @@
           "lord damage range": "2259~2524"
         }
       ],
+      "max bc generated": 24,
       "name": "Heaven Pillar"
     },
     "element": "light",
@@ -1846,6 +1868,7 @@
     "lord def": 876,
     "lord hp": 3320,
     "lord rec": 665,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Azure Blade Lucina": {
@@ -1969,6 +1992,7 @@
           "lord damage range": "5711~6379"
         }
       ],
+      "max bc generated": 9,
       "name": "Cyclone Oath"
     },
     "element": "water",
@@ -1993,6 +2017,7 @@
     "lord def": 1333,
     "lord hp": 4089,
     "lord rec": 1078,
+    "max bc generated": 7,
     "rarity": 4
   },
   "Azure Goddess Lucina": {
@@ -2121,6 +2146,7 @@
           "lord damage range": "9705~10839"
         }
       ],
+      "max bc generated": 14,
       "name": "Mobius Wave"
     },
     "element": "water",
@@ -2151,6 +2177,7 @@
     "lord def": 1921,
     "lord hp": 5847,
     "lord rec": 1523,
+    "max bc generated": 12,
     "rarity": 6,
     "sbb": {
       "desc": "16 combo Water elemental attack on single enemy & boost to Atk for all Units and Earth element added to attack for 3 turns",
@@ -2305,6 +2332,7 @@
           "lord damage range": "9037~10093"
         }
       ],
+      "max bc generated": 16,
       "name": "Grand Tundra"
     }
   },
@@ -2432,6 +2460,7 @@
           "lord damage range": "7677~8574"
         }
       ],
+      "max bc generated": 12,
       "name": "Varna Rising"
     },
     "element": "water",
@@ -2459,6 +2488,7 @@
     "lord def": 1625,
     "lord hp": 4951,
     "lord rec": 1300,
+    "max bc generated": 10,
     "rarity": 5
   },
   "Bahamut": {
@@ -2570,6 +2600,7 @@
     "lord def": 944,
     "lord hp": 3788,
     "lord rec": 716,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Bandit Zaza": {
@@ -2648,6 +2679,7 @@
           "lord damage range": "1387~1550"
         }
       ],
+      "max bc generated": 4,
       "name": "Great Beheading"
     },
     "element": "earth",
@@ -2667,6 +2699,7 @@
     "lord def": 701,
     "lord hp": 2170,
     "lord rec": 190,
+    "max bc generated": 3,
     "rarity": 2
   },
   "Bard Elton": {
@@ -2769,6 +2802,7 @@
     "lord def": 1226,
     "lord hp": 3229,
     "lord rec": 1076,
+    "max bc generated": 4,
     "rarity": 3
   },
   "Bat Mimic": {
@@ -2786,6 +2820,7 @@
     "lord def": 666,
     "lord hp": 2188,
     "lord rec": 666,
+    "max bc generated": 1,
     "rarity": 4
   },
   "Battle Girl Ophelia": {
@@ -2866,6 +2901,7 @@
           "lord damage range": "3078~3438"
         }
       ],
+      "max bc generated": 6,
       "name": "Folium Sky"
     },
     "element": "earth",
@@ -2888,6 +2924,7 @@
     "lord def": 1255,
     "lord hp": 4498,
     "lord rec": 1256,
+    "max bc generated": 3,
     "rarity": 4
   },
   "Beast King Zegar": {
@@ -2981,6 +3018,7 @@
           "lord damage range": "4910~5484"
         }
       ],
+      "max bc generated": 9,
       "name": "Twin Dragon Slash"
     },
     "element": "fire",
@@ -3005,6 +3043,7 @@
     "lord def": 1001,
     "lord hp": 4761,
     "lord rec": 956,
+    "max bc generated": 8,
     "rarity": 5
   },
   "Beast Zegar": {
@@ -3091,6 +3130,7 @@
           "lord damage range": "1812~2024"
         }
       ],
+      "max bc generated": 2,
       "name": "Fire Claw Attack"
     },
     "element": "fire",
@@ -3109,6 +3149,7 @@
     "lord def": 392,
     "lord hp": 2620,
     "lord rec": 315,
+    "max bc generated": 2,
     "rarity": 2
   },
   "Behemoth": {
@@ -3185,6 +3226,7 @@
           "lord damage range": "1942~2169"
         }
       ],
+      "max bc generated": 2,
       "name": "Crash Bind"
     },
     "element": "thunder",
@@ -3202,6 +3244,7 @@
     "lord def": 1027,
     "lord hp": 3380,
     "lord rec": 473,
+    "max bc generated": 1,
     "rarity": 3
   },
   "Bishop Merith": {
@@ -3284,6 +3327,7 @@
     "lord def": 1029,
     "lord hp": 3902,
     "lord rec": 1241,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Black Lotus Lunaris": {
@@ -3379,6 +3423,7 @@
           "weaken%": 45
         }
       ],
+      "max bc generated": 11,
       "name": "Hypnos"
     },
     "element": "dark",
@@ -3408,6 +3453,7 @@
     "lord def": 1949,
     "lord hp": 5905,
     "lord rec": 1475,
+    "max bc generated": 10,
     "rarity": 6,
     "sbb": {
       "desc": "13 combo powerful Dark attack on all enemies & all status ailments healed and nullified for 3 turns",
@@ -3511,6 +3557,7 @@
           "remove all status ailments": true
         }
       ],
+      "max bc generated": 15,
       "name": "Tartaros"
     }
   },
@@ -3590,6 +3637,7 @@
           "lord damage range": "2270~2535"
         }
       ],
+      "max bc generated": 4,
       "name": "Void Pillar"
     },
     "element": "dark",
@@ -3611,6 +3659,7 @@
     "lord def": 1190,
     "lord hp": 3979,
     "lord rec": 572,
+    "max bc generated": 2,
     "rarity": 4
   },
   "Black Rose Elize": {
@@ -3690,6 +3739,7 @@
           "lord damage range": "1742~1946"
         }
       ],
+      "max bc generated": 5,
       "name": "Diamond Rose"
     },
     "element": "water",
@@ -3711,6 +3761,7 @@
     "lord def": 673,
     "lord hp": 2442,
     "lord rec": 686,
+    "max bc generated": 4,
     "rarity": 2
   },
   "Blacksmith Galant": {
@@ -3789,6 +3840,7 @@
           "weaken%": 45
         }
       ],
+      "max bc generated": 4,
       "name": "Focal Blast"
     },
     "element": "fire",
@@ -3806,6 +3858,7 @@
     "lord def": 868,
     "lord hp": 2060,
     "lord rec": 375,
+    "max bc generated": 1,
     "rarity": 2
   },
   "Blade Emperor Zelban": {
@@ -3943,6 +3996,7 @@
     "lord def": 1829,
     "lord hp": 5524,
     "lord rec": 2000,
+    "max bc generated": 7,
     "rarity": 6,
     "sbb": {
       "desc": "12 combo Earth elemental attack on all enemies & boost in Def for all Units and Earth element added to attack for 3 turns",
@@ -4093,6 +4147,7 @@
           "lord damage range": "6382~7128"
         }
       ],
+      "max bc generated": 12,
       "name": "Orbit Folia"
     }
   },
@@ -4176,6 +4231,7 @@
           "lord damage range": "4423~4940"
         }
       ],
+      "max bc generated": 8,
       "name": "Ignite Heaven"
     },
     "element": "fire",
@@ -4199,6 +4255,7 @@
     "lord def": 1417,
     "lord hp": 4805,
     "lord rec": 1610,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Blade Hero Zelban": {
@@ -4333,6 +4390,7 @@
     "lord def": 1532,
     "lord hp": 5072,
     "lord rec": 1809,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Blade Queen Sefia": {
@@ -4427,6 +4485,7 @@
           "paralysis%": 45
         }
       ],
+      "max bc generated": 10,
       "name": "Sword Storm Barrage"
     },
     "element": "light",
@@ -4454,6 +4513,7 @@
     "lord def": 1615,
     "lord hp": 5167,
     "lord rec": 988,
+    "max bc generated": 8,
     "rarity": 5
   },
   "Blade Storm Sefia": {
@@ -4546,6 +4606,7 @@
           "paralysis%": 45
         }
       ],
+      "max bc generated": 8,
       "name": "Destructive Chain"
     },
     "element": "light",
@@ -4573,6 +4634,7 @@
     "lord def": 1350,
     "lord hp": 4250,
     "lord rec": 750,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Blaze Guru Bran": {
@@ -4700,6 +4762,7 @@
           "lord damage range": "6053~6760"
         }
       ],
+      "max bc generated": 13,
       "name": "Blazing Crown"
     },
     "element": "thunder",
@@ -4726,6 +4789,7 @@
     "lord def": 1805,
     "lord hp": 5400,
     "lord rec": 2000,
+    "max bc generated": 8,
     "rarity": 6,
     "sbb": {
       "desc": "16 combo powerful Thunder attack on all enemies & boost to Def and Fire element added to attack for all allies for 3 turns",
@@ -4880,6 +4944,7 @@
           "lord damage range": "8474~9464"
         }
       ],
+      "max bc generated": 16,
       "name": "God Riser"
     }
   },
@@ -5005,6 +5070,7 @@
           "weaken%": 45
         }
       ],
+      "max bc generated": 10,
       "name": "Somber Ring"
     },
     "element": "fire",
@@ -5033,6 +5099,7 @@
     "lord def": 1305,
     "lord hp": 4743,
     "lord rec": 1305,
+    "max bc generated": 8,
     "rarity": 5
   },
   "Blazing Mare": {
@@ -5139,6 +5206,7 @@
           "poison%": 60
         }
       ],
+      "max bc generated": 12,
       "name": "Ethereal Disaster"
     },
     "element": "dark",
@@ -5170,6 +5238,7 @@
     "lord def": 1550,
     "lord hp": 4802,
     "lord rec": 1550,
+    "max bc generated": 9,
     "rarity": 5
   },
   "Bolt Goddess Amy": {
@@ -5271,6 +5340,7 @@
           "weaken%": 80
         }
       ],
+      "max bc generated": 7,
       "name": "Thunder Spear Barrage"
     },
     "element": "thunder",
@@ -5292,6 +5362,7 @@
     "lord def": 1624,
     "lord hp": 5570,
     "lord rec": 1394,
+    "max bc generated": 5,
     "rarity": 5
   },
   "Bolt Knight Amy": {
@@ -5391,6 +5462,7 @@
           "weaken%": 80
         }
       ],
+      "max bc generated": 5,
       "name": "Thunder Spear Combo"
     },
     "element": "thunder",
@@ -5411,6 +5483,7 @@
     "lord def": 1400,
     "lord hp": 4668,
     "lord rec": 1140,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Bolt Magus Rashil": {
@@ -5523,6 +5596,7 @@
     "lord def": 1612,
     "lord hp": 4796,
     "lord rec": 1708,
+    "max bc generated": 5,
     "rarity": 5
   },
   "Bolt Mallet Elulu": {
@@ -5611,6 +5685,7 @@
           "lord damage range": "4199~4690"
         }
       ],
+      "max bc generated": 4,
       "name": "Lightning Smash"
     },
     "element": "thunder",
@@ -5630,6 +5705,7 @@
     "lord def": 962,
     "lord hp": 4051,
     "lord rec": 1960,
+    "max bc generated": 3,
     "rarity": 5
   },
   "Bolt Pike Amy": {
@@ -5727,6 +5803,7 @@
           "weaken%": 80
         }
       ],
+      "max bc generated": 3,
       "name": "Thunder Spear Attack"
     },
     "element": "thunder",
@@ -5746,6 +5823,7 @@
     "lord def": 1066,
     "lord hp": 3708,
     "lord rec": 952,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Bolt Sibyl Zele": {
@@ -5869,6 +5947,7 @@
           "lord damage range": "3847~4297"
         }
       ],
+      "max bc generated": 9,
       "name": "7th Shinto Form: Denshin"
     },
     "element": "thunder",
@@ -5897,6 +5976,7 @@
     "lord def": 1241,
     "lord hp": 4875,
     "lord rec": 1286,
+    "max bc generated": 8,
     "rarity": 5
   },
   "Bordebegia": {
@@ -6002,6 +6082,7 @@
           "spark dmg% buff": 60
         }
       ],
+      "max bc generated": 11,
       "name": "Grand Ignition"
     },
     "element": "fire",
@@ -6027,6 +6108,7 @@
     "lord def": 1653,
     "lord hp": 6222,
     "lord rec": 1562,
+    "max bc generated": 9,
     "rarity": 6,
     "sbb": {
       "desc": "15 combo powerful Fire attack on all enemies & boost in Spark damage and critical hit rate for 3 turns",
@@ -6150,6 +6232,7 @@
           "spark dmg% buff": 70
         }
       ],
+      "max bc generated": 15,
       "name": "Animus Greed"
     }
   },
@@ -6233,6 +6316,7 @@
           "lord damage range": "2798~3126"
         }
       ],
+      "max bc generated": 8,
       "name": "Star Gale"
     },
     "element": "earth",
@@ -6256,6 +6340,7 @@
     "lord def": 1205,
     "lord hp": 5010,
     "lord rec": 1620,
+    "max bc generated": 7,
     "rarity": 5
   },
   "Boxer Nemia": {
@@ -6343,6 +6428,7 @@
           "weaken%": 80
         }
       ],
+      "max bc generated": 6,
       "name": "Tierra Knuckle"
     },
     "element": "earth",
@@ -6362,6 +6448,7 @@
     "lord def": 406,
     "lord hp": 2504,
     "lord rec": 375,
+    "max bc generated": 3,
     "rarity": 2
   },
   "Brave Hero Alma": {
@@ -6444,6 +6531,7 @@
           "lord damage range": "2667~2979"
         }
       ],
+      "max bc generated": 8,
       "name": "White Esperanza"
     },
     "element": "light",
@@ -6466,6 +6554,7 @@
     "lord def": 1284,
     "lord hp": 4527,
     "lord rec": 1536,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Brave Knight Karl": {
@@ -6546,6 +6635,7 @@
           "lord damage range": "3702~4135"
         }
       ],
+      "max bc generated": 6,
       "name": "Frozen Axe"
     },
     "element": "water",
@@ -6567,6 +6657,7 @@
     "lord def": 1356,
     "lord hp": 4565,
     "lord rec": 1082,
+    "max bc generated": 3,
     "rarity": 4
   },
   "Brawler Nemia": {
@@ -6655,6 +6746,7 @@
           "weaken%": 80
         }
       ],
+      "max bc generated": 8,
       "name": "Adamant Crack"
     },
     "element": "earth",
@@ -6675,6 +6767,7 @@
     "lord def": 627,
     "lord hp": 3224,
     "lord rec": 576,
+    "max bc generated": 4,
     "rarity": 3
   },
   "Bruiser Galant": {
@@ -6754,6 +6847,7 @@
           "weaken%": 45
         }
       ],
+      "max bc generated": 5,
       "name": "Grenade Buster"
     },
     "element": "fire",
@@ -6771,6 +6865,7 @@
     "lord def": 1064,
     "lord hp": 2550,
     "lord rec": 585,
+    "max bc generated": 1,
     "rarity": 3
   },
   "Burning Vargas": {
@@ -6850,6 +6945,7 @@
           "lord damage range": "1606~1795"
         }
       ],
+      "max bc generated": 5,
       "name": "Flare Ride Plus"
     },
     "element": "fire",
@@ -6872,6 +6968,7 @@
     "lord def": 806,
     "lord hp": 2517,
     "lord rec": 702,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Burny": {
@@ -6947,6 +7044,7 @@
           "lord damage range": "804~898"
         }
       ],
+      "max bc generated": 5,
       "name": "Gnawing Flame"
     },
     "element": "fire",
@@ -6959,6 +7057,7 @@
     "lord def": 367,
     "lord hp": 1628,
     "lord rec": 273,
+    "max bc generated": 1,
     "rarity": 1
   },
   "Burst Frog": {
@@ -6978,6 +7077,7 @@
     "lord def": 700,
     "lord hp": 3300,
     "lord rec": 50,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Cait Sith": {
@@ -7072,6 +7172,7 @@
     "lord def": 709,
     "lord hp": 2325,
     "lord rec": 1120,
+    "max bc generated": 7,
     "rarity": 3
   },
   "Captain Mega": {
@@ -7150,6 +7251,7 @@
           "lord damage range": "2646~2956"
         }
       ],
+      "max bc generated": 4,
       "name": "Ocean Whirlpool"
     },
     "element": "water",
@@ -7172,6 +7274,7 @@
     "lord def": 660,
     "lord hp": 2820,
     "lord rec": 1360,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Cavalryman Sodis": {
@@ -7274,6 +7377,7 @@
           "spark dmg% buff": 50
         }
       ],
+      "max bc generated": 8,
       "name": "Heretic Flash"
     },
     "element": "light",
@@ -7296,6 +7400,7 @@
     "lord def": 1600,
     "lord hp": 5600,
     "lord rec": 1309,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Centurion Melchio": {
@@ -7412,6 +7517,7 @@
     "lord def": 1483,
     "lord hp": 5015,
     "lord rec": 1477,
+    "max bc generated": 9,
     "rarity": 5
   },
   "Cerberus": {
@@ -7509,6 +7615,7 @@
           "sick%": 80
         }
       ],
+      "max bc generated": 9,
       "name": "Keeper Fang"
     },
     "element": "fire",
@@ -7528,6 +7635,7 @@
     "lord def": 806,
     "lord hp": 2610,
     "lord rec": 455,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Champ Fist Dilma": {
@@ -7623,6 +7731,7 @@
           "lord damage range": "5127~5726"
         }
       ],
+      "max bc generated": 10,
       "name": "Gaia Strike"
     },
     "element": "earth",
@@ -7642,6 +7751,7 @@
     "lord def": 1110,
     "lord hp": 5011,
     "lord rec": 1804,
+    "max bc generated": 3,
     "rarity": 5
   },
   "Champion Aem": {
@@ -7723,6 +7833,7 @@
           "lord damage range": "3125~3491"
         }
       ],
+      "max bc generated": 7,
       "name": "God Slayer"
     },
     "element": "light",
@@ -7742,6 +7853,7 @@
     "lord def": 831,
     "lord hp": 4250,
     "lord rec": 850,
+    "max bc generated": 3,
     "rarity": 4
   },
   "Commander Mega": {
@@ -7822,6 +7934,7 @@
           "lord damage range": "4189~4678"
         }
       ],
+      "max bc generated": 6,
       "name": "Cyclone Disaster"
     },
     "element": "water",
@@ -7847,6 +7960,7 @@
     "lord def": 1064,
     "lord hp": 4169,
     "lord rec": 1851,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Commander Weiss": {
@@ -7940,6 +8054,7 @@
     "lord def": 826,
     "lord hp": 4326,
     "lord rec": 1740,
+    "max bc generated": 6,
     "rarity": 4
   },
   "Cowboy Heidt": {
@@ -8039,6 +8154,7 @@
           "lord damage range": "2840~3173"
         }
       ],
+      "max bc generated": 10,
       "name": "Holy Ray"
     },
     "element": "light",
@@ -8060,6 +8176,7 @@
     "lord def": 897,
     "lord hp": 3240,
     "lord rec": 523,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Crimson Wing Blaze": {
@@ -8169,6 +8286,7 @@
           "lord damage range": "3791~4234"
         }
       ],
+      "max bc generated": 5,
       "name": "Meteor Strike"
     },
     "element": "fire",
@@ -8192,6 +8310,7 @@
     "lord def": 1143,
     "lord hp": 4130,
     "lord rec": 1180,
+    "max bc generated": 3,
     "rarity": 4
   },
   "Crow Tengu": {
@@ -8275,6 +8394,7 @@
     "lord def": 1130,
     "lord hp": 3020,
     "lord rec": 764,
+    "max bc generated": 6,
     "rarity": 4
   },
   "Cyborg Lilith": {
@@ -8349,6 +8469,7 @@
           "lord damage range": "6084~6795"
         }
       ],
+      "max bc generated": 20,
       "name": "Ethereal Blaster"
     },
     "element": "light",
@@ -8371,6 +8492,7 @@
     "lord def": 1200,
     "lord hp": 3990,
     "lord rec": 1100,
+    "max bc generated": 5,
     "rarity": 4
   },
   "Cyborg Lilith II": {
@@ -8447,6 +8569,7 @@
           "lord damage range": "8913~9954"
         }
       ],
+      "max bc generated": 24,
       "name": "Divine Blaster"
     },
     "element": "light",
@@ -8470,6 +8593,7 @@
     "lord def": 1521,
     "lord hp": 5002,
     "lord rec": 1400,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Cyclops": {
@@ -8558,6 +8682,7 @@
           "lord damage range": "2416~2698"
         }
       ],
+      "max bc generated": 12,
       "name": "Destructive Attack"
     },
     "element": "thunder",
@@ -8577,6 +8702,7 @@
     "lord def": 655,
     "lord hp": 3216,
     "lord rec": 396,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Dalimaone": {
@@ -8658,6 +8784,7 @@
           "lord damage range": "3101~3464"
         }
       ],
+      "max bc generated": 7,
       "name": "Gehenna Breath"
     },
     "element": "fire",
@@ -8680,6 +8807,7 @@
     "lord def": 1523,
     "lord hp": 5011,
     "lord rec": 1106,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Damsel Estia": {
@@ -8782,6 +8910,7 @@
           "lord damage range": "2786~3112"
         }
       ],
+      "max bc generated": 8,
       "name": "Golden Star Strike"
     },
     "element": "light",
@@ -8809,6 +8938,7 @@
     "lord def": 1175,
     "lord hp": 3954,
     "lord rec": 1300,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Dancer May": {
@@ -8889,6 +9019,7 @@
     "lord def": 435,
     "lord hp": 1672,
     "lord rec": 472,
+    "max bc generated": 3,
     "rarity": 1
   },
   "Dark Arts Dia": {
@@ -9041,6 +9172,7 @@
     "lord def": 1012,
     "lord hp": 3929,
     "lord rec": 1430,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Dark Arts Lily": {
@@ -9131,6 +9263,7 @@
           "lord damage range": "1526~1704"
         }
       ],
+      "max bc generated": 6,
       "name": "Grand Despair"
     },
     "element": "dark",
@@ -9152,6 +9285,7 @@
     "lord def": 958,
     "lord hp": 3741,
     "lord rec": 1133,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Dark Blade Lico": {
@@ -9234,6 +9368,7 @@
           "weaken%": 78
         }
       ],
+      "max bc generated": 8,
       "name": "Dark Impact"
     },
     "element": "dark",
@@ -9257,6 +9392,7 @@
     "lord def": 1050,
     "lord hp": 4250,
     "lord rec": 1020,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Dark Blade Zephyr": {
@@ -9359,6 +9495,7 @@
           "lord damage range": "3814~4259"
         }
       ],
+      "max bc generated": 8,
       "name": "Dark Hack"
     },
     "element": "dark",
@@ -9381,6 +9518,7 @@
     "lord def": 1293,
     "lord hp": 4557,
     "lord rec": 1118,
+    "max bc generated": 6,
     "rarity": 4
   },
   "Dark Bulb": {
@@ -9400,6 +9538,7 @@
     "lord def": 700,
     "lord hp": 2600,
     "lord rec": 200,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Dark Charm Lunaris": {
@@ -9491,6 +9630,7 @@
           "weaken%": 45
         }
       ],
+      "max bc generated": 7,
       "name": "Cruel Invitation"
     },
     "element": "dark",
@@ -9516,6 +9656,7 @@
     "lord def": 1407,
     "lord hp": 4070,
     "lord rec": 1040,
+    "max bc generated": 6,
     "rarity": 4
   },
   "Dark Crystal": {
@@ -9536,6 +9677,7 @@
     "lord def": 500,
     "lord hp": 3500,
     "lord rec": 500,
+    "max bc generated": 4,
     "rarity": 5
   },
   "Dark Curse Lunaris": {
@@ -9629,6 +9771,7 @@
           "weaken%": 45
         }
       ],
+      "max bc generated": 9,
       "name": "Death's Invitation"
     },
     "element": "dark",
@@ -9656,6 +9799,7 @@
     "lord def": 1650,
     "lord hp": 5323,
     "lord rec": 1250,
+    "max bc generated": 8,
     "rarity": 5
   },
   "Dark Idol": {
@@ -9677,6 +9821,7 @@
     "lord def": 500,
     "lord hp": 2300,
     "lord rec": 100,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Dark Nymph": {
@@ -9696,6 +9841,7 @@
     "lord def": 300,
     "lord hp": 1100,
     "lord rec": 300,
+    "max bc generated": 3,
     "rarity": 1
   },
   "Dark Pot": {
@@ -9717,6 +9863,7 @@
     "lord def": 300,
     "lord hp": 2700,
     "lord rec": 200,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Dark Princess Dia": {
@@ -9872,6 +10019,7 @@
     "lord def": 1213,
     "lord hp": 4812,
     "lord rec": 1710,
+    "max bc generated": 7,
     "rarity": 5
   },
   "Dark Spirit": {
@@ -9893,6 +10041,7 @@
     "lord def": 400,
     "lord hp": 1800,
     "lord rec": 200,
+    "max bc generated": 5,
     "rarity": 2
   },
   "Dark Swords Logan": {
@@ -9983,6 +10132,7 @@
           "lord damage range": "6230~6958"
         }
       ],
+      "max bc generated": 6,
       "name": "Victim Soul"
     },
     "element": "dark",
@@ -10005,6 +10155,7 @@
     "lord def": 1185,
     "lord hp": 3932,
     "lord rec": 952,
+    "max bc generated": 5,
     "rarity": 4
   },
   "Dark Totem": {
@@ -10025,6 +10176,7 @@
     "lord def": 700,
     "lord hp": 3300,
     "lord rec": 50,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Dark Tunes Eric": {
@@ -10179,6 +10331,7 @@
     "lord def": 1511,
     "lord hp": 5093,
     "lord rec": 1476,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Dark Warlord Zephyr": {
@@ -10286,6 +10439,7 @@
           "lord damage range": "5950~6645"
         }
       ],
+      "max bc generated": 13,
       "name": "Black Nemesis"
     },
     "element": "dark",
@@ -10313,6 +10467,7 @@
     "lord def": 1850,
     "lord hp": 6304,
     "lord rec": 1603,
+    "max bc generated": 9,
     "rarity": 6,
     "sbb": {
       "desc": "None",
@@ -10446,6 +10601,7 @@
           "lord damage range": "9912~11070"
         }
       ],
+      "max bc generated": 15,
       "name": "Dark Crystal"
     }
   },
@@ -10551,6 +10707,7 @@
           "lord damage range": "4823~5388"
         }
       ],
+      "max bc generated": 10,
       "name": "Dark Slash"
     },
     "element": "dark",
@@ -10574,6 +10731,7 @@
     "lord def": 1587,
     "lord hp": 5621,
     "lord rec": 1361,
+    "max bc generated": 7,
     "rarity": 5
   },
   "Dean": {
@@ -10653,6 +10811,7 @@
           "lord damage range": "2736~3056"
         }
       ],
+      "max bc generated": 5,
       "name": "Solid Ice"
     },
     "element": "water",
@@ -10675,6 +10834,7 @@
     "lord def": 1014,
     "lord hp": 3632,
     "lord rec": 1190,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Death God Lodaga": {
@@ -10765,6 +10925,7 @@
           "lord damage range": "4840~5405"
         }
       ],
+      "max bc generated": 6,
       "name": "World of Darkness"
     },
     "element": "dark",
@@ -10785,6 +10946,7 @@
     "lord def": 1121,
     "lord hp": 4405,
     "lord rec": 827,
+    "max bc generated": 4,
     "rarity": 5
   },
   "Death Idol Kikuri": {
@@ -10882,6 +11044,7 @@
           "lord damage range": "6392~7139"
         }
       ],
+      "max bc generated": 13,
       "name": "Crimson Firefly"
     },
     "element": "dark",
@@ -10914,6 +11077,7 @@
     "lord def": 1651,
     "lord hp": 6055,
     "lord rec": 1720,
+    "max bc generated": 12,
     "rarity": 6,
     "sbb": {
       "desc": "15 combo powerful Dark attack on all enemies & probable Curse effect",
@@ -11007,6 +11171,7 @@
           "lord damage range": "10172~11360"
         }
       ],
+      "max bc generated": 15,
       "name": "Burial Rain"
     }
   },
@@ -11088,6 +11253,7 @@
           "lord damage range": "2955~3300"
         }
       ],
+      "max bc generated": 6,
       "name": "Vermillion Tower"
     },
     "element": "dark",
@@ -11110,6 +11276,7 @@
     "lord def": 1400,
     "lord hp": 4876,
     "lord rec": 755,
+    "max bc generated": 3,
     "rarity": 5
   },
   "Demon Blade Lico": {
@@ -11193,6 +11360,7 @@
           "weaken%": 78
         }
       ],
+      "max bc generated": 9,
       "name": "Death Strike"
     },
     "element": "dark",
@@ -11217,6 +11385,7 @@
     "lord def": 1130,
     "lord hp": 5310,
     "lord rec": 1370,
+    "max bc generated": 5,
     "rarity": 5
   },
   "Disciple Mare": {
@@ -11321,6 +11490,7 @@
           "poison%": 60
         }
       ],
+      "max bc generated": 10,
       "name": "Dimension X"
     },
     "element": "dark",
@@ -11350,6 +11520,7 @@
     "lord def": 1285,
     "lord hp": 3998,
     "lord rec": 1285,
+    "max bc generated": 7,
     "rarity": 4
   },
   "Disciple Zebra": {
@@ -11434,6 +11605,7 @@
           "lord damage range": "3538~3952"
         }
       ],
+      "max bc generated": 10,
       "name": "Chaos Rage"
     },
     "element": "dark",
@@ -11457,6 +11629,7 @@
     "lord def": 820,
     "lord hp": 3550,
     "lord rec": 1120,
+    "max bc generated": 7,
     "rarity": 4
   },
   "Divine Light Alyut": {
@@ -11552,6 +11725,7 @@
           "lord damage range": "5649~6309"
         }
       ],
+      "max bc generated": 11,
       "name": "Astral Eden"
     },
     "element": "light",
@@ -11580,6 +11754,7 @@
     "lord def": 1920,
     "lord hp": 6182,
     "lord rec": 1811,
+    "max bc generated": 9,
     "rarity": 6,
     "sbb": {
       "desc": "14 combo powerful Light attack on all enemies & slightly increases HP and BB for 3 turns",
@@ -11712,6 +11887,7 @@
           "lord damage range": "8753~9777"
         }
       ],
+      "max bc generated": 14,
       "name": "World of Light"
     }
   },
@@ -11795,6 +11971,7 @@
     "lord def": 966,
     "lord hp": 2300,
     "lord rec": 670,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Dragon Graven": {
@@ -11874,6 +12051,7 @@
           "lord damage range": "2299~2567"
         }
       ],
+      "max bc generated": 5,
       "name": "Mega Breath"
     },
     "element": "fire",
@@ -11895,6 +12073,7 @@
     "lord def": 1242,
     "lord hp": 4220,
     "lord rec": 765,
+    "max bc generated": 5,
     "rarity": 4
   },
   "Dragon Hero Zephu": {
@@ -11987,6 +12166,7 @@
           "weaken%": 80
         }
       ],
+      "max bc generated": 8,
       "name": "Rising Storm"
     },
     "element": "water",
@@ -12008,6 +12188,7 @@
     "lord def": 1032,
     "lord hp": 4971,
     "lord rec": 807,
+    "max bc generated": 5,
     "rarity": 5
   },
   "Dragon Mimic": {
@@ -12025,6 +12206,7 @@
     "lord def": 666,
     "lord hp": 3188,
     "lord rec": 666,
+    "max bc generated": 1,
     "rarity": 5
   },
   "Dragoon Zephu": {
@@ -12115,6 +12297,7 @@
           "weaken%": 80
         }
       ],
+      "max bc generated": 6,
       "name": "Raging Glory"
     },
     "element": "water",
@@ -12136,6 +12319,7 @@
     "lord def": 792,
     "lord hp": 4140,
     "lord rec": 556,
+    "max bc generated": 5,
     "rarity": 4
   },
   "Drake Angel Aisha": {
@@ -12222,6 +12406,7 @@
           "lord damage range": "5700~6366"
         }
       ],
+      "max bc generated": 12,
       "name": "Dragon Fall"
     },
     "element": "fire",
@@ -12244,6 +12429,7 @@
     "lord def": 1602,
     "lord hp": 6071,
     "lord rec": 1688,
+    "max bc generated": 6,
     "rarity": 6,
     "sbb": {
       "desc": "15 combo powerful Fire attack on all enemies & boosts critical hit rate for 3 turns",
@@ -12357,6 +12543,7 @@
           "lord damage range": "11124~12423"
         }
       ],
+      "max bc generated": 15,
       "name": "Dragon Wake"
     }
   },
@@ -12437,6 +12624,7 @@
           "lord damage range": "2871~3207"
         }
       ],
+      "max bc generated": 5,
       "name": "Dragon Shout"
     },
     "element": "fire",
@@ -12455,6 +12643,7 @@
     "lord def": 977,
     "lord hp": 3543,
     "lord rec": 1088,
+    "max bc generated": 2,
     "rarity": 3
   },
   "Drake God Lodin": {
@@ -12568,6 +12757,7 @@
     "lord def": 1164,
     "lord hp": 4600,
     "lord rec": 1488,
+    "max bc generated": 5,
     "rarity": 5
   },
   "Drake Lord Aisha": {
@@ -12649,6 +12839,7 @@
           "lord damage range": "3780~4223"
         }
       ],
+      "max bc generated": 7,
       "name": "Dragon Scream"
     },
     "element": "fire",
@@ -12668,6 +12859,7 @@
     "lord def": 1250,
     "lord hp": 4485,
     "lord rec": 1276,
+    "max bc generated": 3,
     "rarity": 4
   },
   "Drake Queen Aisha": {
@@ -12752,6 +12944,7 @@
           "lord damage range": "4433~4952"
         }
       ],
+      "max bc generated": 10,
       "name": "Dragon Rage"
     },
     "element": "fire",
@@ -12773,6 +12966,7 @@
     "lord def": 1489,
     "lord hp": 5311,
     "lord rec": 1532,
+    "max bc generated": 5,
     "rarity": 5
   },
   "Drakeborn Lodin": {
@@ -12884,6 +13078,7 @@
     "lord def": 990,
     "lord hp": 3781,
     "lord rec": 1291,
+    "max bc generated": 3,
     "rarity": 4
   },
   "Dryad": {
@@ -12984,6 +13179,7 @@
     "lord def": 998,
     "lord hp": 3150,
     "lord rec": 700,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Duel-GX": {
@@ -13123,6 +13319,7 @@
     "lord def": 1347,
     "lord hp": 4204,
     "lord rec": 1189,
+    "max bc generated": 12,
     "rarity": 4
   },
   "Duel-GX II": {
@@ -13262,6 +13459,7 @@
     "lord def": 1535,
     "lord hp": 5215,
     "lord rec": 1325,
+    "max bc generated": 12,
     "rarity": 5
   },
   "Duel-SGX": {
@@ -13405,6 +13603,7 @@
     "lord def": 1833,
     "lord hp": 5676,
     "lord rec": 1520,
+    "max bc generated": 15,
     "rarity": 6,
     "sbb": {
       "desc": "20 combo Dark elemental attack on all enemies & boosts critical hit rate and adds Dark element to attack for 3 turns",
@@ -13563,6 +13762,7 @@
           "lord damage range": "6764~7554"
         }
       ],
+      "max bc generated": 20,
       "name": "World's End"
     }
   },
@@ -13677,6 +13877,7 @@
     "lord def": 1400,
     "lord hp": 6000,
     "lord rec": 1250,
+    "max bc generated": 6,
     "rarity": 6,
     "sbb": {
       "desc": "10 combo powerful Light attack on all enemies & probable Paralysis effect",
@@ -13765,6 +13966,7 @@
           "paralysis%": 70
         }
       ],
+      "max bc generated": 10,
       "name": "Stardust Flare"
     }
   },
@@ -13843,6 +14045,7 @@
           "paralysis%": 80
         }
       ],
+      "max bc generated": 9,
       "name": "Cracked Axe"
     },
     "element": "earth",
@@ -13855,6 +14058,7 @@
     "lord def": 742,
     "lord hp": 1840,
     "lord rec": 450,
+    "max bc generated": 1,
     "rarity": 2
   },
   "Dwarf Prince": {
@@ -13944,6 +14148,7 @@
           "paralysis%": 80
         }
       ],
+      "max bc generated": 15,
       "name": "Bind Fork"
     },
     "element": "earth",
@@ -13961,6 +14166,7 @@
     "lord def": 963,
     "lord hp": 2170,
     "lord rec": 650,
+    "max bc generated": 1,
     "rarity": 3
   },
   "Earth Bulb": {
@@ -13982,6 +14188,7 @@
     "lord def": 740,
     "lord hp": 2700,
     "lord rec": 300,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Earth Crystal": {
@@ -14002,6 +14209,7 @@
     "lord def": 450,
     "lord hp": 4000,
     "lord rec": 450,
+    "max bc generated": 4,
     "rarity": 5
   },
   "Earth Ghost": {
@@ -14019,6 +14227,7 @@
     "lord def": 122,
     "lord hp": 1100,
     "lord rec": 122,
+    "max bc generated": 1,
     "rarity": 3
   },
   "Earth God": {
@@ -14038,6 +14247,7 @@
     "lord def": 122,
     "lord hp": 2200,
     "lord rec": 122,
+    "max bc generated": 3,
     "rarity": 5
   },
   "Earth Idol": {
@@ -14059,6 +14269,7 @@
     "lord def": 500,
     "lord hp": 2300,
     "lord rec": 100,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Earth King": {
@@ -14077,6 +14288,7 @@
     "lord def": 122,
     "lord hp": 1650,
     "lord rec": 122,
+    "max bc generated": 2,
     "rarity": 4
   },
   "Earth Knight Edea": {
@@ -14177,6 +14389,7 @@
           "sick%": 80
         }
       ],
+      "max bc generated": 6,
       "name": "Astro Bash"
     },
     "element": "earth",
@@ -14202,6 +14415,7 @@
     "lord def": 1400,
     "lord hp": 4275,
     "lord rec": 1116,
+    "max bc generated": 6,
     "rarity": 4
   },
   "Earth Nymph": {
@@ -14221,6 +14435,7 @@
     "lord def": 300,
     "lord hp": 1100,
     "lord rec": 300,
+    "max bc generated": 3,
     "rarity": 1
   },
   "Earth Pike Lance": {
@@ -14300,6 +14515,7 @@
           "lord damage range": "2700~3017"
         }
       ],
+      "max bc generated": 5,
       "name": "Mystral Rage"
     },
     "element": "earth",
@@ -14323,6 +14539,7 @@
     "lord def": 1162,
     "lord hp": 3173,
     "lord rec": 613,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Earth Pot": {
@@ -14344,6 +14561,7 @@
     "lord def": 700,
     "lord hp": 2700,
     "lord rec": 200,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Earth Spirit": {
@@ -14365,6 +14583,7 @@
     "lord def": 400,
     "lord hp": 1800,
     "lord rec": 200,
+    "max bc generated": 5,
     "rarity": 2
   },
   "Earth Totem": {
@@ -14385,6 +14604,7 @@
     "lord def": 700,
     "lord hp": 3300,
     "lord rec": 50,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Earthly Il & Mina": {
@@ -14465,6 +14685,7 @@
           "lord damage range": "3665~4093"
         }
       ],
+      "max bc generated": 6,
       "name": "Twins Radiation"
     },
     "element": "earth",
@@ -14490,6 +14711,7 @@
     "lord def": 1296,
     "lord hp": 4356,
     "lord rec": 1333,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Edea": {
@@ -14588,6 +14810,7 @@
           "sick%": 80
         }
       ],
+      "max bc generated": 4,
       "name": "Grand Bash"
     },
     "element": "earth",
@@ -14611,6 +14834,7 @@
     "lord def": 1056,
     "lord hp": 3495,
     "lord rec": 969,
+    "max bc generated": 4,
     "rarity": 3
   },
   "Eight Blade Sefia": {
@@ -14703,6 +14927,7 @@
           "paralysis%": 45
         }
       ],
+      "max bc generated": 8,
       "name": "Halcion Hack"
     },
     "element": "light",
@@ -14730,6 +14955,7 @@
     "lord def": 1088,
     "lord hp": 3345,
     "lord rec": 510,
+    "max bc generated": 8,
     "rarity": 3
   },
   "Elimo": {
@@ -14840,6 +15066,7 @@
     "lord def": 902,
     "lord hp": 3100,
     "lord rec": 1275,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Eliza": {
@@ -14961,6 +15188,7 @@
           "poison%": 45
         }
       ],
+      "max bc generated": 7,
       "name": "Freezing Point"
     },
     "element": "water",
@@ -14986,6 +15214,7 @@
     "lord def": 1025,
     "lord hp": 3755,
     "lord rec": 1207,
+    "max bc generated": 5,
     "rarity": 4
   },
   "Emilia": {
@@ -15075,6 +15304,7 @@
           "paralysis%": 80
         }
       ],
+      "max bc generated": 5,
       "name": "Cross Layer Blitz"
     },
     "element": "thunder",
@@ -15098,6 +15328,7 @@
     "lord def": 871,
     "lord hp": 3120,
     "lord rec": 875,
+    "max bc generated": 4,
     "rarity": 3
   },
   "Empress Lidith": {
@@ -15182,6 +15413,7 @@
           "lord damage range": "5350~5975"
         }
       ],
+      "max bc generated": 20,
       "name": "Royal Chop"
     },
     "element": "earth",
@@ -15207,6 +15439,7 @@
     "lord def": 1067,
     "lord hp": 4645,
     "lord rec": 1696,
+    "max bc generated": 9,
     "rarity": 5
   },
   "Empusa": {
@@ -15285,6 +15518,7 @@
           "weaken%": 80
         }
       ],
+      "max bc generated": 12,
       "name": "Thunder Bolt"
     },
     "element": "thunder",
@@ -15298,6 +15532,7 @@
     "lord def": 585,
     "lord hp": 1755,
     "lord rec": 675,
+    "max bc generated": 2,
     "rarity": 2
   },
   "Empyreal Drake Lodin": {
@@ -15416,6 +15651,7 @@
     "lord def": 1532,
     "lord hp": 5173,
     "lord rec": 1824,
+    "max bc generated": 9,
     "rarity": 6,
     "sbb": {
       "desc": "14 combo Thunder elemental attack on all enemies, increases BB gauge fill rate and adds Thunder element to attack for 3 turns",
@@ -15558,6 +15794,7 @@
           "lord damage range": "8996~10048"
         }
       ],
+      "max bc generated": 14,
       "name": "Thunder Collision"
     }
   },
@@ -15628,6 +15865,7 @@
           "lord damage range": "1188~1328"
         }
       ],
+      "max bc generated": 5,
       "name": "Grand Storm"
     },
     "element": "earth",
@@ -15649,6 +15887,7 @@
     "lord def": 960,
     "lord hp": 2430,
     "lord rec": 1082,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Estia": {
@@ -15749,6 +15988,7 @@
           "lord damage range": "2005~2240"
         }
       ],
+      "max bc generated": 6,
       "name": "Royal Starlight"
     },
     "element": "light",
@@ -15774,6 +16014,7 @@
     "lord def": 1000,
     "lord hp": 2985,
     "lord rec": 1130,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Evil Blades Logan": {
@@ -15875,6 +16116,7 @@
           "lord damage range": "9971~11136"
         }
       ],
+      "max bc generated": 7,
       "name": "Mephisto Soul"
     },
     "element": "dark",
@@ -15898,6 +16140,7 @@
     "lord def": 1500,
     "lord hp": 4899,
     "lord rec": 1221,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Executioner Shida": {
@@ -15981,6 +16224,7 @@
           "lord damage range": "4126~4609"
         }
       ],
+      "max bc generated": 9,
       "name": "Sacrifice"
     },
     "element": "dark",
@@ -16004,6 +16248,7 @@
     "lord def": 1016,
     "lord hp": 4444,
     "lord rec": 1553,
+    "max bc generated": 7,
     "rarity": 5
   },
   "Fairy": {
@@ -16089,6 +16334,7 @@
     "lord def": 373,
     "lord hp": 2010,
     "lord rec": 900,
+    "max bc generated": 3,
     "rarity": 2
   },
   "Felneus": {
@@ -16171,6 +16417,7 @@
           "lord damage range": "4354~4863"
         }
       ],
+      "max bc generated": 8,
       "name": "Riptide"
     },
     "element": "water",
@@ -16193,6 +16440,7 @@
     "lord def": 1603,
     "lord hp": 5378,
     "lord rec": 1586,
+    "max bc generated": 6,
     "rarity": 6,
     "sbb": {
       "desc": "10 combo powerful Water attack on all enemies & boost to BC drop rate for 3 turns",
@@ -16281,6 +16529,7 @@
           "lord damage range": "6705~7489"
         }
       ],
+      "max bc generated": 10,
       "name": "Flood Noir"
     }
   },
@@ -16351,6 +16600,7 @@
           "lord damage range": "1140~1274"
         }
       ],
+      "max bc generated": 5,
       "name": "Flare Ride"
     },
     "element": "fire",
@@ -16373,6 +16623,7 @@
     "lord def": 574,
     "lord hp": 1948,
     "lord rec": 448,
+    "max bc generated": 3,
     "rarity": 2
   },
   "Final Apostle Tiara": {
@@ -16509,6 +16760,7 @@
     "lord def": 1768,
     "lord hp": 5435,
     "lord rec": 2233,
+    "max bc generated": 7,
     "rarity": 6,
     "sbb": {
       "desc": "12 combo Water elemental attack on all enemies & gradually recovers HP and adds Water element to attack for all allies for 3 turns",
@@ -16659,6 +16911,7 @@
           "lord damage range": "6625~7399"
         }
       ],
+      "max bc generated": 12,
       "name": "Radiant Thimble"
     }
   },
@@ -16751,6 +17004,7 @@
           "lord damage range": "2943~3288"
         }
       ],
+      "max bc generated": 7,
       "name": "Hell Twins Attack"
     },
     "element": "fire",
@@ -16774,6 +17028,7 @@
     "lord def": 758,
     "lord hp": 4008,
     "lord rec": 677,
+    "max bc generated": 7,
     "rarity": 4
   },
   "Fire Bulb": {
@@ -16795,6 +17050,7 @@
     "lord def": 750,
     "lord hp": 2500,
     "lord rec": 200,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Fire Crystal": {
@@ -16815,6 +17071,7 @@
     "lord def": 500,
     "lord hp": 3500,
     "lord rec": 450,
+    "max bc generated": 4,
     "rarity": 5
   },
   "Fire Dance Ramna": {
@@ -16928,6 +17185,7 @@
           "lord damage range": "5274~5890"
         }
       ],
+      "max bc generated": 9,
       "name": "Blazing Moves"
     },
     "element": "fire",
@@ -16950,6 +17208,7 @@
     "lord def": 1352,
     "lord hp": 5281,
     "lord rec": 1761,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Fire Ghost": {
@@ -16967,6 +17226,7 @@
     "lord def": 123,
     "lord hp": 1000,
     "lord rec": 120,
+    "max bc generated": 1,
     "rarity": 3
   },
   "Fire God": {
@@ -16986,6 +17246,7 @@
     "lord def": 123,
     "lord hp": 2000,
     "lord rec": 120,
+    "max bc generated": 3,
     "rarity": 5
   },
   "Fire God Lava": {
@@ -17071,6 +17332,7 @@
           "lord damage range": "3814~4259"
         }
       ],
+      "max bc generated": 11,
       "name": "Anguish Blade"
     },
     "element": "fire",
@@ -17097,6 +17359,7 @@
     "lord def": 1330,
     "lord hp": 4680,
     "lord rec": 1274,
+    "max bc generated": 7,
     "rarity": 5
   },
   "Fire God Vargas": {
@@ -17177,6 +17440,7 @@
           "lord damage range": "3357~3750"
         }
       ],
+      "max bc generated": 6,
       "name": "Infinity Nova"
     },
     "element": "fire",
@@ -17202,6 +17466,7 @@
     "lord def": 1230,
     "lord hp": 3917,
     "lord rec": 1082,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Fire Idol": {
@@ -17223,6 +17488,7 @@
     "lord def": 500,
     "lord hp": 2300,
     "lord rec": 100,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Fire King": {
@@ -17241,6 +17507,7 @@
     "lord def": 123,
     "lord hp": 1500,
     "lord rec": 120,
+    "max bc generated": 2,
     "rarity": 4
   },
   "Fire King Vargas": {
@@ -17321,6 +17588,7 @@
           "lord damage range": "2533~2829"
         }
       ],
+      "max bc generated": 6,
       "name": "Infinity Burst"
     },
     "element": "fire",
@@ -17344,6 +17612,7 @@
     "lord def": 989,
     "lord hp": 3201,
     "lord rec": 845,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Fire Knight Agni": {
@@ -17427,6 +17696,7 @@
           "lord damage range": "3754~4193"
         }
       ],
+      "max bc generated": 9,
       "name": "Dragon's Execution"
     },
     "element": "fire",
@@ -17452,6 +17722,7 @@
     "lord def": 937,
     "lord hp": 4346,
     "lord rec": 687,
+    "max bc generated": 9,
     "rarity": 4
   },
   "Fire Knight Lava": {
@@ -17531,6 +17802,7 @@
           "lord damage range": "3079~3439"
         }
       ],
+      "max bc generated": 5,
       "name": "Prometheus Burn"
     },
     "element": "fire",
@@ -17554,6 +17826,7 @@
     "lord def": 1153,
     "lord hp": 3948,
     "lord rec": 1085,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Fire Nymph": {
@@ -17573,6 +17846,7 @@
     "lord def": 300,
     "lord hp": 1100,
     "lord rec": 300,
+    "max bc generated": 3,
     "rarity": 1
   },
   "Fire Pot": {
@@ -17594,6 +17868,7 @@
     "lord def": 600,
     "lord hp": 2500,
     "lord rec": 200,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Fire Princess Lyn": {
@@ -17673,6 +17948,7 @@
           "lord damage range": "3045~3400"
         }
       ],
+      "max bc generated": 5,
       "name": "Demon's Prison"
     },
     "element": "fire",
@@ -17692,6 +17968,7 @@
     "lord def": 794,
     "lord hp": 3002,
     "lord rec": 1023,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Fire Samba Ramna": {
@@ -17807,6 +18084,7 @@
           "lord damage range": "6599~7370"
         }
       ],
+      "max bc generated": 11,
       "name": "Fiery Ballet"
     },
     "element": "fire",
@@ -17832,6 +18110,7 @@
     "lord def": 1535,
     "lord hp": 5951,
     "lord rec": 2094,
+    "max bc generated": 7,
     "rarity": 6,
     "sbb": {
       "desc": "13 combo powerful Fire attack on all enemies, boost to Def & boost to Atk of Fire types for 3 turns",
@@ -17953,6 +18232,7 @@
           "lord damage range": "11000~12285"
         }
       ],
+      "max bc generated": 13,
       "name": "Cremation Waltz"
     }
   },
@@ -17975,6 +18255,7 @@
     "lord def": 400,
     "lord hp": 1800,
     "lord rec": 200,
+    "max bc generated": 5,
     "rarity": 2
   },
   "Fire Step Ramna": {
@@ -18085,6 +18366,7 @@
           "lord damage range": "4154~4640"
         }
       ],
+      "max bc generated": 6,
       "name": "Dancing Sword"
     },
     "element": "fire",
@@ -18106,6 +18388,7 @@
     "lord def": 1200,
     "lord hp": 4211,
     "lord rec": 1331,
+    "max bc generated": 5,
     "rarity": 4
   },
   "Fire Totem": {
@@ -18126,6 +18409,7 @@
     "lord def": 700,
     "lord hp": 3300,
     "lord rec": 50,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Firedrake": {
@@ -18203,6 +18487,7 @@
           "lord damage range": "1195~1335"
         }
       ],
+      "max bc generated": 3,
       "name": "Fire Breath"
     },
     "element": "fire",
@@ -18222,6 +18507,7 @@
     "lord def": 951,
     "lord hp": 3375,
     "lord rec": 465,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Freya": {
@@ -18344,6 +18630,7 @@
           "weaken%": 45
         }
       ],
+      "max bc generated": 8,
       "name": "Caliente Ring"
     },
     "element": "fire",
@@ -18371,6 +18658,7 @@
     "lord def": 1069,
     "lord hp": 3910,
     "lord rec": 1110,
+    "max bc generated": 7,
     "rarity": 4
   },
   "Frost Queen Stya": {
@@ -18455,6 +18743,7 @@
           "lord damage range": "3371~3765"
         }
       ],
+      "max bc generated": 20,
       "name": "Eternal Winter"
     },
     "element": "water",
@@ -18481,6 +18770,7 @@
     "lord def": 800,
     "lord hp": 3103,
     "lord rec": 1459,
+    "max bc generated": 10,
     "rarity": 4
   },
   "Frozen Rose Elize": {
@@ -18572,6 +18862,7 @@
           "lord damage range": "2643~2952"
         }
       ],
+      "max bc generated": 7,
       "name": "Crystal Rose"
     },
     "element": "water",
@@ -18595,6 +18886,7 @@
     "lord def": 908,
     "lord hp": 3181,
     "lord rec": 920,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Gaia Armor Edea": {
@@ -18700,6 +18992,7 @@
           "sick%": 80
         }
       ],
+      "max bc generated": 11,
       "name": "Grand Gale"
     },
     "element": "earth",
@@ -18731,6 +19024,7 @@
     "lord def": 1806,
     "lord hp": 5578,
     "lord rec": 1543,
+    "max bc generated": 10,
     "rarity": 6,
     "sbb": {
       "desc": "12 combo Earth elemental attack on single enemy, probable Poison and Sick effect, and decreases damage taken for 1 turn for all allies",
@@ -18851,6 +19145,7 @@
           "sick%": 90
         }
       ],
+      "max bc generated": 12,
       "name": "Rioting Winds"
     }
   },
@@ -18941,6 +19236,7 @@
           "weaken%": 80
         }
       ],
+      "max bc generated": 10,
       "name": "Grand Geyser"
     },
     "element": "earth",
@@ -18962,6 +19258,7 @@
     "lord def": 763,
     "lord hp": 3875,
     "lord rec": 704,
+    "max bc generated": 5,
     "rarity": 4
   },
   "Gaia King Lugina": {
@@ -19046,6 +19343,7 @@
           "lord damage range": "4035~4507"
         }
       ],
+      "max bc generated": 10,
       "name": "Ground Rock"
     },
     "element": "earth",
@@ -19071,6 +19369,7 @@
     "lord def": 1300,
     "lord hp": 5430,
     "lord rec": 1200,
+    "max bc generated": 7,
     "rarity": 5
   },
   "Gaians Il & Mina": {
@@ -19155,6 +19454,7 @@
           "lord damage range": "5580~6232"
         }
       ],
+      "max bc generated": 10,
       "name": "Northern Cross"
     },
     "element": "earth",
@@ -19186,6 +19486,7 @@
     "lord def": 1644,
     "lord hp": 5923,
     "lord rec": 1752,
+    "max bc generated": 8,
     "rarity": 6,
     "sbb": {
       "desc": "13 combo powerful Earth attack on all enemies & boost to Rec and HP for 3 turns",
@@ -19297,6 +19598,7 @@
           "lord damage range": "9073~10133"
         }
       ],
+      "max bc generated": 13,
       "name": "World's Creation"
     }
   },
@@ -19398,6 +19700,7 @@
     "lord def": 715,
     "lord hp": 2799,
     "lord rec": 656,
+    "max bc generated": 3,
     "rarity": 2
   },
   "Garroter Shida": {
@@ -19480,6 +19783,7 @@
           "lord damage range": "3268~3651"
         }
       ],
+      "max bc generated": 8,
       "name": "Dark Matter"
     },
     "element": "dark",
@@ -19502,6 +19806,7 @@
     "lord def": 850,
     "lord hp": 3417,
     "lord rec": 1350,
+    "max bc generated": 6,
     "rarity": 4
   },
   "Gemini Il & Mina": {
@@ -19584,6 +19889,7 @@
           "lord damage range": "4344~4852"
         }
       ],
+      "max bc generated": 8,
       "name": "Southern Cross"
     },
     "element": "earth",
@@ -19610,6 +19916,7 @@
     "lord def": 1534,
     "lord hp": 5279,
     "lord rec": 1572,
+    "max bc generated": 5,
     "rarity": 5
   },
   "General Weiss": {
@@ -19704,6 +20011,7 @@
     "lord def": 1130,
     "lord hp": 5157,
     "lord rec": 1926,
+    "max bc generated": 7,
     "rarity": 5
   },
   "Genius Elimo": {
@@ -19816,6 +20124,7 @@
     "lord def": 1376,
     "lord hp": 4680,
     "lord rec": 1873,
+    "max bc generated": 5,
     "rarity": 5
   },
   "Geomancer Claris": {
@@ -19896,6 +20205,7 @@
     "lord def": 600,
     "lord hp": 1812,
     "lord rec": 514,
+    "max bc generated": 3,
     "rarity": 1
   },
   "Gloomy": {
@@ -19971,6 +20281,7 @@
           "lord damage range": "1087~1214"
         }
       ],
+      "max bc generated": 5,
       "name": "Gnawing Shadow"
     },
     "element": "dark",
@@ -19983,6 +20294,7 @@
     "lord def": 260,
     "lord hp": 1410,
     "lord rec": 260,
+    "max bc generated": 1,
     "rarity": 1
   },
   "Glowy": {
@@ -20058,6 +20370,7 @@
           "lord damage range": "731~817"
         }
       ],
+      "max bc generated": 5,
       "name": "Gnawing Photon"
     },
     "element": "light",
@@ -20070,6 +20383,7 @@
     "lord def": 580,
     "lord hp": 1587,
     "lord rec": 390,
+    "max bc generated": 1,
     "rarity": 1
   },
   "Goblin": {
@@ -20158,6 +20472,7 @@
           "lord damage range": "961~1074"
         }
       ],
+      "max bc generated": 12,
       "name": "Goblin Attack"
     },
     "element": "fire",
@@ -20170,6 +20485,7 @@
     "lord def": 330,
     "lord hp": 1860,
     "lord rec": 170,
+    "max bc generated": 1,
     "rarity": 1
   },
   "God Arm Galant": {
@@ -20250,6 +20566,7 @@
           "weaken%": 45
         }
       ],
+      "max bc generated": 6,
       "name": "Ignis Nebula"
     },
     "element": "fire",
@@ -20267,6 +20584,7 @@
     "lord def": 1324,
     "lord hp": 3276,
     "lord rec": 725,
+    "max bc generated": 1,
     "rarity": 4
   },
   "God Atro": {
@@ -20346,6 +20664,7 @@
           "lord damage range": "3263~3645"
         }
       ],
+      "max bc generated": 5,
       "name": "Messiah Hazzard"
     },
     "element": "light",
@@ -20368,6 +20687,7 @@
     "lord def": 1325,
     "lord hp": 3730,
     "lord rec": 1325,
+    "max bc generated": 3,
     "rarity": 5
   },
   "God Blade Mifune": {
@@ -20446,6 +20766,7 @@
           "lord damage range": "3883~4337"
         }
       ],
+      "max bc generated": 4,
       "name": "Aurora Flash"
     },
     "element": "dark",
@@ -20466,6 +20787,7 @@
     "lord def": 659,
     "lord hp": 2993,
     "lord rec": 728,
+    "max bc generated": 4,
     "rarity": 4
   },
   "God Eater Lira": {
@@ -20551,6 +20873,7 @@
           "lord damage range": "4745~5299"
         }
       ],
+      "max bc generated": 11,
       "name": "Demon Consumption"
     },
     "element": "dark",
@@ -20581,6 +20904,7 @@
     "lord def": 1795,
     "lord hp": 5850,
     "lord rec": 1795,
+    "max bc generated": 8,
     "rarity": 6,
     "sbb": {
       "desc": "13 combo powerful massive Dark attack on single enemy",
@@ -20662,6 +20986,7 @@
           "lord damage range": "12699~14182"
         }
       ],
+      "max bc generated": 13,
       "name": "Damnation"
     }
   },
@@ -20743,6 +21068,7 @@
           "lord damage range": "3441~3843"
         }
       ],
+      "max bc generated": 6,
       "name": "Astral Nova"
     },
     "element": "light",
@@ -20767,6 +21093,7 @@
     "lord def": 1368,
     "lord hp": 5239,
     "lord rec": 847,
+    "max bc generated": 5,
     "rarity": 5
   },
   "God Phoenix": {
@@ -20860,6 +21187,7 @@
     "lord def": 1517,
     "lord hp": 4995,
     "lord rec": 951,
+    "max bc generated": 6,
     "rarity": 5
   },
   "God Tree Eltri": {
@@ -20953,6 +21281,7 @@
     "lord def": 1577,
     "lord hp": 5052,
     "lord rec": 988,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Goddess Axe Michele": {
@@ -21097,6 +21426,7 @@
     "lord def": 1505,
     "lord hp": 5532,
     "lord rec": 1794,
+    "max bc generated": 15,
     "rarity": 6,
     "sbb": {
       "desc": "18 combo Fire elemental attack on all enemies, boosts Atk & adds Fire element to attack for 3 turns",
@@ -21253,6 +21583,7 @@
           "lord damage range": "10236~11432"
         }
       ],
+      "max bc generated": 18,
       "name": "Meggido Cross"
     }
   },
@@ -21345,6 +21676,7 @@
           "paralysis%": 80
         }
       ],
+      "max bc generated": 7,
       "name": "Genocide Levin"
     },
     "element": "thunder",
@@ -21370,6 +21702,7 @@
     "lord def": 1309,
     "lord hp": 4707,
     "lord rec": 1304,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Goddess Tilith": {
@@ -21470,6 +21803,7 @@
     "lord def": 1600,
     "lord hp": 5300,
     "lord rec": 2000,
+    "max bc generated": 7,
     "rarity": 5
   },
   "Gold Knight Rina": {
@@ -21561,6 +21895,7 @@
           "paralysis%": 45
         }
       ],
+      "max bc generated": 7,
       "name": "Burial Shine"
     },
     "element": "thunder",
@@ -21584,6 +21919,7 @@
     "lord def": 1452,
     "lord hp": 5362,
     "lord rec": 1500,
+    "max bc generated": 4,
     "rarity": 5
   },
   "Gold Queen Rina": {
@@ -21677,6 +22013,7 @@
           "paralysis%": 45
         }
       ],
+      "max bc generated": 9,
       "name": "Shocking Pulsar"
     },
     "element": "thunder",
@@ -21701,6 +22038,7 @@
     "lord def": 1731,
     "lord hp": 6000,
     "lord rec": 1753,
+    "max bc generated": 5,
     "rarity": 6,
     "sbb": {
       "desc": "10 combo powerful Thunder attack on all enemies & probable Paralysis and Curse effect",
@@ -21802,6 +22140,7 @@
           "paralysis%": 60
         }
       ],
+      "max bc generated": 13,
       "name": "God Thunder"
     }
   },
@@ -21893,6 +22232,7 @@
           "paralysis%": 45
         }
       ],
+      "max bc generated": 6,
       "name": "Elimination Shine"
     },
     "element": "thunder",
@@ -21915,6 +22255,7 @@
     "lord def": 1188,
     "lord hp": 4248,
     "lord rec": 1320,
+    "max bc generated": 3,
     "rarity": 4
   },
   "Golem": {
@@ -21982,6 +22323,7 @@
           "lord damage range": "5657~6319"
         }
       ],
+      "max bc generated": 3,
       "name": "Blast Umbrella"
     },
     "element": "earth",
@@ -22000,6 +22342,7 @@
     "lord def": 1358,
     "lord hp": 4642,
     "lord rec": 639,
+    "max bc generated": 1,
     "rarity": 4
   },
   "Gorgon": {
@@ -22090,6 +22433,7 @@
           "weaken%": 80
         }
       ],
+      "max bc generated": 18,
       "name": "Gorgon Spark"
     },
     "element": "thunder",
@@ -22109,6 +22453,7 @@
     "lord def": 858,
     "lord hp": 2355,
     "lord rec": 858,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Goth Idol Kikuri": {
@@ -22203,6 +22548,7 @@
           "lord damage range": "4553~5086"
         }
       ],
+      "max bc generated": 10,
       "name": "Celestial Firefly"
     },
     "element": "dark",
@@ -22232,6 +22578,7 @@
     "lord def": 1472,
     "lord hp": 5278,
     "lord rec": 1536,
+    "max bc generated": 10,
     "rarity": 5
   },
   "Goth Kikuri": {
@@ -22324,6 +22671,7 @@
           "lord damage range": "3770~4210"
         }
       ],
+      "max bc generated": 8,
       "name": "Eternal Firefly"
     },
     "element": "dark",
@@ -22351,6 +22699,7 @@
     "lord def": 1215,
     "lord hp": 4356,
     "lord rec": 1245,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Grahdens": {
@@ -22518,6 +22867,7 @@
           "lord damage range": "5028~5616"
         }
       ],
+      "max bc generated": 13,
       "name": "Leader's Barrage"
     },
     "element": "dark",
@@ -22549,6 +22899,7 @@
     "lord def": 1700,
     "lord hp": 5112,
     "lord rec": 1500,
+    "max bc generated": 10,
     "rarity": 5
   },
   "Gravion": {
@@ -22623,6 +22974,7 @@
           "lord damage range": "9752~10891"
         }
       ],
+      "max bc generated": 10,
       "name": "Gravion Arm"
     },
     "element": "earth",
@@ -22649,6 +23001,7 @@
     "lord def": 1836,
     "lord hp": 6173,
     "lord rec": 1245,
+    "max bc generated": 7,
     "rarity": 6,
     "sbb": {
       "desc": "12 combo massive Earth attack on all enemies ",
@@ -22719,6 +23072,7 @@
           "lord damage range": "13816~15430"
         }
       ],
+      "max bc generated": 12,
       "name": "Geo Canon"
     }
   },
@@ -22822,6 +23176,7 @@
     "lord def": 990,
     "lord hp": 3824,
     "lord rec": 945,
+    "max bc generated": 5,
     "rarity": 4
   },
   "Great Golem": {
@@ -22895,6 +23250,7 @@
           "lord damage range": "7543~8424"
         }
       ],
+      "max bc generated": 9,
       "name": "Bing Bang Blast"
     },
     "element": "earth",
@@ -22918,6 +23274,7 @@
     "lord def": 1625,
     "lord hp": 5496,
     "lord rec": 782,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Great Sage Mimir": {
@@ -23000,6 +23357,7 @@
     "lord def": 1030,
     "lord hp": 3880,
     "lord rec": 1269,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Great Thief Leon": {
@@ -23092,6 +23450,7 @@
           "poison%": 80
         }
       ],
+      "max bc generated": 8,
       "name": "Poisonado"
     },
     "element": "fire",
@@ -23116,6 +23475,7 @@
     "lord def": 1002,
     "lord hp": 3404,
     "lord rec": 1150,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Great Tree Alneu": {
@@ -23206,6 +23566,7 @@
     "lord def": 1056,
     "lord hp": 3352,
     "lord rec": 562,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Guardian Chief Sodis": {
@@ -23310,6 +23671,7 @@
           "spark dmg% buff": 60
         }
       ],
+      "max bc generated": 10,
       "name": "Blasphemy Flash"
     },
     "element": "light",
@@ -23336,6 +23698,7 @@
     "lord def": 1903,
     "lord hp": 6302,
     "lord rec": 1551,
+    "max bc generated": 8,
     "rarity": 6,
     "sbb": {
       "desc": "12 combo powerful Light attack on all enemies & boost to Spark damage and Atk for Light types for 3 turns",
@@ -23456,6 +23819,7 @@
           "spark dmg% buff": 70
         }
       ],
+      "max bc generated": 12,
       "name": "Light of Destruction"
     }
   },
@@ -23579,6 +23943,7 @@
     "lord def": 1444,
     "lord hp": 5090,
     "lord rec": 817,
+    "max bc generated": 12,
     "rarity": 5
   },
   "Gun Goddess Serin": {
@@ -23669,6 +24034,7 @@
           "lord damage range": "4159~4645"
         }
       ],
+      "max bc generated": 16,
       "name": "Gattling Tsunami"
     },
     "element": "water",
@@ -23701,6 +24067,7 @@
     "lord def": 1369,
     "lord hp": 5400,
     "lord rec": 1442,
+    "max bc generated": 13,
     "rarity": 5
   },
   "Gun King Douglas": {
@@ -23821,6 +24188,7 @@
     "lord def": 1237,
     "lord hp": 4278,
     "lord rec": 675,
+    "max bc generated": 10,
     "rarity": 4
   },
   "Gun Lady Serin": {
@@ -23909,6 +24277,7 @@
           "lord damage range": "3180~3552"
         }
       ],
+      "max bc generated": 14,
       "name": "Tidal Discharge"
     },
     "element": "water",
@@ -23939,6 +24308,7 @@
     "lord def": 1258,
     "lord hp": 3955,
     "lord rec": 1350,
+    "max bc generated": 11,
     "rarity": 4
   },
   "Gunner Douglas": {
@@ -24057,6 +24427,7 @@
     "lord def": 994,
     "lord hp": 3380,
     "lord rec": 450,
+    "max bc generated": 8,
     "rarity": 3
   },
   "Hail Bot Reeze": {
@@ -24149,6 +24520,7 @@
           "paralysis%": 45
         }
       ],
+      "max bc generated": 8,
       "name": "Blizzard Seize"
     },
     "element": "water",
@@ -24176,6 +24548,7 @@
     "lord def": 1041,
     "lord hp": 4347,
     "lord rec": 992,
+    "max bc generated": 6,
     "rarity": 4
   },
   "Hail Gigantron Reeze": {
@@ -24271,6 +24644,7 @@
           "paralysis%": 45
         }
       ],
+      "max bc generated": 11,
       "name": "Ancient Hail"
     },
     "element": "water",
@@ -24305,6 +24679,7 @@
     "lord def": 1601,
     "lord hp": 6406,
     "lord rec": 1522,
+    "max bc generated": 10,
     "rarity": 6,
     "sbb": {
       "desc": "14 combo powerful Water attack on all enemies & great boost to own Atk, Def, and Rec for 3 turns",
@@ -24437,6 +24812,7 @@
           "rec% buff": 100
         }
       ],
+      "max bc generated": 14,
       "name": "Northern Death"
     }
   },
@@ -24532,6 +24908,7 @@
           "paralysis%": 45
         }
       ],
+      "max bc generated": 10,
       "name": "Snow Constriction"
     },
     "element": "water",
@@ -24562,6 +24939,7 @@
     "lord def": 1314,
     "lord hp": 5456,
     "lord rec": 1245,
+    "max bc generated": 9,
     "rarity": 5
   },
   "Half Blood Lira": {
@@ -24643,6 +25021,7 @@
           "lord damage range": "2847~3180"
         }
       ],
+      "max bc generated": 7,
       "name": "Demon Slash"
     },
     "element": "dark",
@@ -24668,6 +25047,7 @@
     "lord def": 1318,
     "lord hp": 4452,
     "lord rec": 1308,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Harpy": {
@@ -24753,6 +25133,7 @@
     "lord def": 376,
     "lord hp": 2136,
     "lord rec": 201,
+    "max bc generated": 3,
     "rarity": 1
   },
   "Havoc Angel Ronel": {
@@ -24849,6 +25230,7 @@
           "lord damage range": "6263~6995"
         }
       ],
+      "max bc generated": 12,
       "name": "Lost Vision"
     },
     "element": "thunder",
@@ -24879,6 +25261,7 @@
     "lord def": 1731,
     "lord hp": 6032,
     "lord rec": 1800,
+    "max bc generated": 8,
     "rarity": 6,
     "sbb": {
       "desc": "14 combo powerful Thunder attack on all enemies & boost to BC and HC drop rate for 3 turns",
@@ -24981,6 +25364,7 @@
           "lord damage range": "10288~11489"
         }
       ],
+      "max bc generated": 14,
       "name": "Angel of Destruction"
     }
   },
@@ -25072,6 +25456,7 @@
           "lord damage range": "3892~4347"
         }
       ],
+      "max bc generated": 6,
       "name": "Forest's Force"
     },
     "element": "earth",
@@ -25093,6 +25478,7 @@
     "lord def": 1144,
     "lord hp": 4144,
     "lord rec": 1522,
+    "max bc generated": 5,
     "rarity": 4
   },
   "Havoc God Luly": {
@@ -25187,6 +25573,7 @@
           "lord damage range": "6187~6910"
         }
       ],
+      "max bc generated": 10,
       "name": "World's Power"
     },
     "element": "earth",
@@ -25213,6 +25600,7 @@
     "lord def": 1502,
     "lord hp": 5905,
     "lord rec": 2100,
+    "max bc generated": 8,
     "rarity": 6,
     "sbb": {
       "desc": "12 combo powerful Earth attack on all enemies & boost to HC drop rate and Atk for Earth types for 3 turns",
@@ -25333,6 +25721,7 @@
           "lord damage range": "10310~11514"
         }
       ],
+      "max bc generated": 12,
       "name": "Land of Origin"
     }
   },
@@ -25426,6 +25815,7 @@
           "lord damage range": "4920~5495"
         }
       ],
+      "max bc generated": 8,
       "name": "Jungle Rage"
     },
     "element": "earth",
@@ -25449,6 +25839,7 @@
     "lord def": 1382,
     "lord hp": 5312,
     "lord rec": 1750,
+    "max bc generated": 7,
     "rarity": 5
   },
   "Hawkeye Lario": {
@@ -25529,6 +25920,7 @@
           "lord damage range": "1928~2154"
         }
       ],
+      "max bc generated": 6,
       "name": "Shooting Star"
     },
     "element": "earth",
@@ -25551,6 +25943,7 @@
     "lord def": 899,
     "lord hp": 4249,
     "lord rec": 1512,
+    "max bc generated": 6,
     "rarity": 4
   },
   "Head Bandit Zaza": {
@@ -25640,6 +26033,7 @@
           "lord damage range": "1857~2074"
         }
       ],
+      "max bc generated": 5,
       "name": "Warrior's Execution"
     },
     "element": "earth",
@@ -25661,6 +26055,7 @@
     "lord def": 952,
     "lord hp": 2700,
     "lord rec": 405,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Head Chef Lancia": {
@@ -25771,6 +26166,7 @@
     "lord def": 1339,
     "lord hp": 4774,
     "lord rec": 1804,
+    "max bc generated": 3,
     "rarity": 5
   },
   "Head Thief Leon": {
@@ -25861,6 +26257,7 @@
           "poison%": 80
         }
       ],
+      "max bc generated": 6,
       "name": "Venom Gale"
     },
     "element": "fire",
@@ -25883,6 +26280,7 @@
     "lord def": 905,
     "lord hp": 2892,
     "lord rec": 935,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Healer Merith": {
@@ -25965,6 +26363,7 @@
     "lord def": 731,
     "lord hp": 2475,
     "lord rec": 850,
+    "max bc generated": 5,
     "rarity": 2
   },
   "Heaven's Bolt Amy": {
@@ -26069,6 +26468,7 @@
           "weaken%": 80
         }
       ],
+      "max bc generated": 10,
       "name": "Thunder Spear Drill"
     },
     "element": "thunder",
@@ -26095,6 +26495,7 @@
     "lord def": 1694,
     "lord hp": 6254,
     "lord rec": 1582,
+    "max bc generated": 9,
     "rarity": 6,
     "sbb": {
       "desc": "13 combo powerful Thunder attack on all enemies & probable Injury and Weak effect",
@@ -26196,6 +26597,7 @@
           "weaken%": 60
         }
       ],
+      "max bc generated": 13,
       "name": "Lightning Spear"
     }
   },
@@ -26280,6 +26682,7 @@
           "lord damage range": "5455~6092"
         }
       ],
+      "max bc generated": 9,
       "name": "Crowning Invasion"
     },
     "element": "thunder",
@@ -26308,6 +26711,7 @@
     "lord def": 1598,
     "lord hp": 5800,
     "lord rec": 1702,
+    "max bc generated": 7,
     "rarity": 6,
     "sbb": {
       "desc": "Massive Thunder elemental attack on all enemies",
@@ -26397,6 +26801,7 @@
           "lord damage range": "13093~14622"
         }
       ],
+      "max bc generated": 10,
       "name": "God Piercing"
     }
   },
@@ -26476,6 +26881,7 @@
           "lord damage range": "1450~1620"
         }
       ],
+      "max bc generated": 4,
       "name": "Gravity Eclipse"
     },
     "element": "dark",
@@ -26496,6 +26902,7 @@
     "lord def": 956,
     "lord hp": 3245,
     "lord rec": 423,
+    "max bc generated": 1,
     "rarity": 3
   },
   "Hell Keep Alice": {
@@ -26579,6 +26986,7 @@
           "lord damage range": "5914~6606"
         }
       ],
+      "max bc generated": 9,
       "name": "Apollyon Climb"
     },
     "element": "dark",
@@ -26606,6 +27014,7 @@
     "lord def": 1333,
     "lord hp": 5057,
     "lord rec": 2055,
+    "max bc generated": 7,
     "rarity": 6,
     "sbb": {
       "desc": "13 combo powerful Dark attack on all enemies & greatly recovers HP for all allies",
@@ -26707,6 +27116,7 @@
           "lord damage range": "9554~10670"
         }
       ],
+      "max bc generated": 13,
       "name": "Blood Raiser"
     }
   },
@@ -26797,6 +27207,7 @@
           "lord damage range": "4041~4513"
         }
       ],
+      "max bc generated": 5,
       "name": "Chaos Fall"
     },
     "element": "dark",
@@ -26816,6 +27227,7 @@
     "lord def": 917,
     "lord hp": 3772,
     "lord rec": 689,
+    "max bc generated": 3,
     "rarity": 4
   },
   "Hellborn Dilias": {
@@ -26908,6 +27320,7 @@
           "lord damage range": "10150~11336"
         }
       ],
+      "max bc generated": 8,
       "name": "Doorway to Hades"
     },
     "element": "dark",
@@ -26931,6 +27344,7 @@
     "lord def": 1263,
     "lord hp": 5344,
     "lord rec": 1059,
+    "max bc generated": 7,
     "rarity": 6,
     "sbb": {
       "desc": "10 combo powerful Dark attack on all enemies & probable Curse effect",
@@ -27019,6 +27433,7 @@
           "lord damage range": "9405~10504"
         }
       ],
+      "max bc generated": 10,
       "name": "Soul Eater"
     }
   },
@@ -27090,6 +27505,7 @@
           "lord damage range": "1182~1320"
         }
       ],
+      "max bc generated": 6,
       "name": "Crimson Boulder"
     },
     "element": "fire",
@@ -27112,6 +27528,7 @@
     "lord def": 780,
     "lord hp": 2305,
     "lord rec": 739,
+    "max bc generated": 5,
     "rarity": 2
   },
   "Hero Alma": {
@@ -27193,6 +27610,7 @@
           "lord damage range": "2028~2265"
         }
       ],
+      "max bc generated": 7,
       "name": "Star Dust Fall"
     },
     "element": "light",
@@ -27214,6 +27632,7 @@
     "lord def": 1023,
     "lord hp": 3477,
     "lord rec": 1218,
+    "max bc generated": 5,
     "rarity": 4
   },
   "High Dancer May": {
@@ -27296,6 +27715,7 @@
     "lord def": 648,
     "lord hp": 2070,
     "lord rec": 675,
+    "max bc generated": 5,
     "rarity": 2
   },
   "High Elf": {
@@ -27398,6 +27818,7 @@
     "lord def": 1283,
     "lord hp": 3975,
     "lord rec": 1050,
+    "max bc generated": 5,
     "rarity": 4
   },
   "High Roller Zeul": {
@@ -27498,6 +27919,7 @@
     "lord def": 1010,
     "lord hp": 3756,
     "lord rec": 765,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Hobgoblin": {
@@ -27588,6 +28010,7 @@
           "lord damage range": "2785~3111"
         }
       ],
+      "max bc generated": 30,
       "name": "Goblin Crush"
     },
     "element": "fire",
@@ -27607,6 +28030,7 @@
     "lord def": 669,
     "lord hp": 3427,
     "lord rec": 463,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Holy Arms Douglas": {
@@ -27732,6 +28156,7 @@
     "lord def": 1688,
     "lord hp": 6000,
     "lord rec": 1334,
+    "max bc generated": 14,
     "rarity": 6,
     "sbb": {
       "desc": "30 combo powerful Earth attack on all enemies & increase in damage dealt during Spark for 3 turns",
@@ -27860,6 +28285,7 @@
           "spark dmg% buff": 50
         }
       ],
+      "max bc generated": 30,
       "name": "Spark Cannon"
     }
   },
@@ -27957,6 +28383,7 @@
           "paralysis%": 45
         }
       ],
+      "max bc generated": 12,
       "name": "Rogue Bind Fencer"
     },
     "element": "light",
@@ -27987,6 +28414,7 @@
     "lord def": 1782,
     "lord hp": 5999,
     "lord rec": 1443,
+    "max bc generated": 10,
     "rarity": 6,
     "sbb": {
       "desc": "15 combo powerful Light attack on all enemies & probable Paralysis effect",
@@ -28080,6 +28508,7 @@
           "paralysis%": 70
         }
       ],
+      "max bc generated": 15,
       "name": "Atomic Nova"
     }
   },
@@ -28163,6 +28592,7 @@
           "lord damage range": "4545~5077"
         }
       ],
+      "max bc generated": 8,
       "name": "Eternal Symphony"
     },
     "element": "earth",
@@ -28188,6 +28618,7 @@
     "lord def": 1603,
     "lord hp": 5272,
     "lord rec": 1010,
+    "max bc generated": 5,
     "rarity": 6,
     "sbb": {
       "desc": "10 combo Earth elemental attack on all enemies & great boost to all allies' Def for 3 turns",
@@ -28296,6 +28727,7 @@
           "lord damage range": "7803~8715"
         }
       ],
+      "max bc generated": 10,
       "name": "Mistral Barrage"
     }
   },
@@ -28377,6 +28809,7 @@
           "lord damage range": "4451~4972"
         }
       ],
+      "max bc generated": 6,
       "name": "Savage Stab"
     },
     "element": "light",
@@ -28398,6 +28831,7 @@
     "lord def": 1578,
     "lord hp": 3880,
     "lord rec": 918,
+    "max bc generated": 5,
     "rarity": 5
   },
   "Holy Flame Vargas": {
@@ -28480,6 +28914,7 @@
           "lord damage range": "4712~5262"
         }
       ],
+      "max bc generated": 8,
       "name": "Final Burst"
     },
     "element": "fire",
@@ -28507,6 +28942,7 @@
     "lord def": 1456,
     "lord hp": 5313,
     "lord rec": 1376,
+    "max bc generated": 7,
     "rarity": 6,
     "sbb": {
       "desc": "10 combo powerful Fire attack on all enemies & great boost to all allies' Atk for 3 turns",
@@ -28615,6 +29051,7 @@
           "lord damage range": "8440~9426"
         }
       ],
+      "max bc generated": 10,
       "name": "Sacred Sunshine"
     }
   },
@@ -28697,6 +29134,7 @@
           "lord damage range": "4666~5212"
         }
       ],
+      "max bc generated": 7,
       "name": "Ishtar Burn"
     },
     "element": "light",
@@ -28723,6 +29161,7 @@
     "lord def": 1674,
     "lord hp": 6211,
     "lord rec": 1241,
+    "max bc generated": 6,
     "rarity": 6,
     "sbb": {
       "desc": "10 combo powerful Light attack on all enemies & large boost to HC drop rate",
@@ -28811,6 +29250,7 @@
           "lord damage range": "7525~8405"
         }
       ],
+      "max bc generated": 30,
       "name": "Avalon"
     }
   },
@@ -28894,6 +29334,7 @@
           "lord damage range": "4521~5050"
         }
       ],
+      "max bc generated": 8,
       "name": "Last Blizzard"
     },
     "element": "water",
@@ -28920,6 +29361,7 @@
     "lord def": 1351,
     "lord hp": 5097,
     "lord rec": 1701,
+    "max bc generated": 6,
     "rarity": 6,
     "sbb": {
       "desc": "12 combo Water Elemental attack on all enemies & gradual recovery to all allies' HP for 3 turns",
@@ -29030,6 +29472,7 @@
           "lord damage range": "7761~8668"
         }
       ],
+      "max bc generated": 12,
       "name": "Ethereal Caliber"
     }
   },
@@ -29109,6 +29552,7 @@
           "lord damage range": "2513~2806"
         }
       ],
+      "max bc generated": 4,
       "name": "Thousand Nemesis"
     },
     "element": "light",
@@ -29130,6 +29574,7 @@
     "lord def": 1104,
     "lord hp": 3014,
     "lord rec": 1104,
+    "max bc generated": 2,
     "rarity": 4
   },
   "Holy Knight Will": {
@@ -29208,6 +29653,7 @@
           "lord damage range": "2824~3155"
         }
       ],
+      "max bc generated": 4,
       "name": "Sacred Force"
     },
     "element": "light",
@@ -29230,6 +29676,7 @@
     "lord def": 1183,
     "lord hp": 4356,
     "lord rec": 702,
+    "max bc generated": 3,
     "rarity": 4
   },
   "Holy Light Atro": {
@@ -29312,6 +29759,7 @@
           "lord damage range": "4407~4923"
         }
       ],
+      "max bc generated": 8,
       "name": "Heaven's Gate"
     },
     "element": "light",
@@ -29336,6 +29784,7 @@
     "lord def": 1605,
     "lord hp": 5035,
     "lord rec": 1605,
+    "max bc generated": 4,
     "rarity": 6,
     "sbb": {
       "desc": "9 combo Light elemental attack on all enemies & boost to all allies' Atk and Def for 3 turns",
@@ -29453,6 +29902,7 @@
           "lord damage range": "8088~9033"
         }
       ],
+      "max bc generated": 9,
       "name": "Veritas Delta"
     }
   },
@@ -29548,6 +29998,7 @@
     "lord def": 931,
     "lord hp": 3160,
     "lord rec": 1253,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Holy Master Aem": {
@@ -29629,6 +30080,7 @@
           "lord damage range": "4035~4507"
         }
       ],
+      "max bc generated": 7,
       "name": "Radiant Heaven"
     },
     "element": "light",
@@ -29650,6 +30102,7 @@
     "lord def": 1000,
     "lord hp": 5167,
     "lord rec": 1014,
+    "max bc generated": 5,
     "rarity": 5
   },
   "Holy Queen Luna": {
@@ -29728,6 +30181,7 @@
           "lord damage range": "3383~3779"
         }
       ],
+      "max bc generated": 4,
       "name": "Vulgar Jab"
     },
     "element": "light",
@@ -29748,6 +30202,7 @@
     "lord def": 1290,
     "lord hp": 2840,
     "lord rec": 634,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Holy Shock Emilia": {
@@ -29843,6 +30298,7 @@
           "paralysis%": 80
         }
       ],
+      "max bc generated": 11,
       "name": "Empire of Thunder"
     },
     "element": "thunder",
@@ -29873,6 +30329,7 @@
     "lord def": 1582,
     "lord hp": 5749,
     "lord rec": 1582,
+    "max bc generated": 10,
     "rarity": 6,
     "sbb": {
       "desc": "13 combo powerful Thunder attack on all enemies & probable Paralysis and Weak effect",
@@ -29974,6 +30431,7 @@
           "weaken%": 80
         }
       ],
+      "max bc generated": 13,
       "name": "Perkunas Saber"
     }
   },
@@ -30079,6 +30537,7 @@
           "lord damage range": "2896~3234"
         }
       ],
+      "max bc generated": 20,
       "name": "Star Children"
     },
     "element": "light",
@@ -30105,6 +30564,7 @@
     "lord def": 1105,
     "lord hp": 3745,
     "lord rec": 675,
+    "max bc generated": 10,
     "rarity": 4
   },
   "Holy Thunder Eze": {
@@ -30187,6 +30647,7 @@
           "lord damage range": "4951~5529"
         }
       ],
+      "max bc generated": 8,
       "name": "Thunder Crush"
     },
     "element": "thunder",
@@ -30210,6 +30671,7 @@
     "lord def": 1230,
     "lord hp": 5460,
     "lord rec": 971,
+    "max bc generated": 3,
     "rarity": 6,
     "sbb": {
       "desc": "10 combo Thunder elemental attack on all enemies & great boost to all allies' Atk for 3 turns",
@@ -30318,6 +30780,7 @@
           "lord damage range": "9140~10208"
         }
       ],
+      "max bc generated": 10,
       "name": "Super Thunder Crush"
     }
   },
@@ -30412,6 +30875,7 @@
           "lord damage range": "4568~5102"
         }
       ],
+      "max bc generated": 9,
       "name": "Sacred Rain"
     },
     "element": "light",
@@ -30438,6 +30902,7 @@
     "lord def": 1654,
     "lord hp": 5480,
     "lord rec": 1577,
+    "max bc generated": 7,
     "rarity": 5
   },
   "Homusubi": {
@@ -30540,6 +31005,7 @@
           "spark dmg% buff": 40
         }
       ],
+      "max bc generated": 8,
       "name": "Somber Claymore"
     },
     "element": "fire",
@@ -30562,6 +31028,7 @@
     "lord def": 1202,
     "lord hp": 4705,
     "lord rec": 1144,
+    "max bc generated": 6,
     "rarity": 4
   },
   "Horseman Sodis": {
@@ -30663,6 +31130,7 @@
           "spark dmg% buff": 40
         }
       ],
+      "max bc generated": 7,
       "name": "Heavenly Flash"
     },
     "element": "light",
@@ -30684,6 +31152,7 @@
     "lord def": 1363,
     "lord hp": 4576,
     "lord rec": 1116,
+    "max bc generated": 5,
     "rarity": 4
   },
   "Hot Chef Lancia": {
@@ -30793,6 +31262,7 @@
     "lord def": 1148,
     "lord hp": 4097,
     "lord rec": 1534,
+    "max bc generated": 2,
     "rarity": 4
   },
   "Hot Rocket Cayena": {
@@ -30877,6 +31347,7 @@
           "paralysis%": 45
         }
       ],
+      "max bc generated": 10,
       "name": "Rocket Barrage"
     },
     "element": "fire",
@@ -30903,6 +31374,7 @@
     "lord def": 1230,
     "lord hp": 4250,
     "lord rec": 1100,
+    "max bc generated": 7,
     "rarity": 4
   },
   "Hrungnir": {
@@ -30993,6 +31465,7 @@
           "sick%": 80
         }
       ],
+      "max bc generated": 18,
       "name": "Blizzard Storm"
     },
     "element": "water",
@@ -31011,6 +31484,7 @@
     "lord def": 990,
     "lord hp": 2852,
     "lord rec": 520,
+    "max bc generated": 2,
     "rarity": 3
   },
   "Ice Apostle Tiara": {
@@ -31144,6 +31618,7 @@
     "lord def": 1354,
     "lord hp": 4867,
     "lord rec": 2055,
+    "max bc generated": 5,
     "rarity": 5
   },
   "Ice Fortress Oulu": {
@@ -31232,6 +31707,7 @@
     "lord def": 1959,
     "lord hp": 6397,
     "lord rec": 1421,
+    "max bc generated": 8,
     "rarity": 6,
     "sbb": {
       "desc": "Boosts Def and reduces damage taken by half for 1 turn",
@@ -31400,6 +31876,7 @@
           "lord damage range": "3335~3726"
         }
       ],
+      "max bc generated": 8,
       "name": "Cocytus Zero"
     },
     "element": "water",
@@ -31423,6 +31900,7 @@
     "lord def": 1127,
     "lord hp": 3815,
     "lord rec": 1461,
+    "max bc generated": 4,
     "rarity": 5
   },
   "Ice Keep Copra": {
@@ -31505,6 +31983,7 @@
     "lord def": 1434,
     "lord hp": 4771,
     "lord rec": 809,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Ice Knight Sergio": {
@@ -31587,6 +32066,7 @@
           "weaken%": 80
         }
       ],
+      "max bc generated": 8,
       "name": "Glacier Crush"
     },
     "element": "water",
@@ -31610,6 +32090,7 @@
     "lord def": 1307,
     "lord hp": 5050,
     "lord rec": 1376,
+    "max bc generated": 7,
     "rarity": 5
   },
   "Ice Mage Dean": {
@@ -31689,6 +32170,7 @@
           "lord damage range": "3665~4093"
         }
       ],
+      "max bc generated": 5,
       "name": "Diamond Dust"
     },
     "element": "water",
@@ -31713,6 +32195,7 @@
     "lord def": 1274,
     "lord hp": 4470,
     "lord rec": 1350,
+    "max bc generated": 5,
     "rarity": 4
   },
   "Ice Master Dean": {
@@ -31796,6 +32279,7 @@
           "lord damage range": "5396~6026"
         }
       ],
+      "max bc generated": 9,
       "name": "Iceberg Rain"
     },
     "element": "water",
@@ -31825,6 +32309,7 @@
     "lord def": 1642,
     "lord hp": 5756,
     "lord rec": 1761,
+    "max bc generated": 8,
     "rarity": 6,
     "sbb": {
       "desc": "Greatly recovers HP & removes all status ailments for all allies",
@@ -31972,6 +32457,7 @@
           "lord damage range": "2661~2972"
         }
       ],
+      "max bc generated": 7,
       "name": "Blizzard Pain"
     },
     "element": "water",
@@ -31994,6 +32480,7 @@
     "lord def": 901,
     "lord hp": 3055,
     "lord rec": 1195,
+    "max bc generated": 3,
     "rarity": 4
   },
   "Ice Ruler Sergio": {
@@ -32075,6 +32562,7 @@
           "weaken%": 80
         }
       ],
+      "max bc generated": 7,
       "name": "Royal Ice Blade"
     },
     "element": "water",
@@ -32096,6 +32584,7 @@
     "lord def": 1064,
     "lord hp": 4099,
     "lord rec": 1068,
+    "max bc generated": 5,
     "rarity": 4
   },
   "Ice Selena": {
@@ -32175,6 +32664,7 @@
           "lord damage range": "1609~1797"
         }
       ],
+      "max bc generated": 5,
       "name": "Divine Hail"
     },
     "element": "water",
@@ -32196,6 +32686,7 @@
     "lord def": 734,
     "lord hp": 2442,
     "lord rec": 825,
+    "max bc generated": 2,
     "rarity": 3
   },
   "Ice Tower Tesla": {
@@ -32279,6 +32770,7 @@
     "lord def": 1715,
     "lord hp": 5688,
     "lord rec": 980,
+    "max bc generated": 5,
     "rarity": 5
   },
   "Ice Warrior Karl": {
@@ -32361,6 +32853,7 @@
           "lord damage range": "4934~5510"
         }
       ],
+      "max bc generated": 8,
       "name": "Cursed Blue Slash"
     },
     "element": "water",
@@ -32385,6 +32878,7 @@
     "lord def": 1523,
     "lord hp": 5323,
     "lord rec": 1389,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Ice Wizard Dean": {
@@ -32465,6 +32959,7 @@
           "lord damage range": "4288~4790"
         }
       ],
+      "max bc generated": 6,
       "name": "Absolute Zero"
     },
     "element": "water",
@@ -32490,6 +32985,7 @@
     "lord def": 1424,
     "lord hp": 5102,
     "lord rec": 1652,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Ifrit": {
@@ -32583,6 +33079,7 @@
     "lord def": 884,
     "lord hp": 2858,
     "lord rec": 502,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Imp": {
@@ -32666,6 +33163,7 @@
     "lord def": 325,
     "lord hp": 2125,
     "lord rec": 190,
+    "max bc generated": 1,
     "rarity": 2
   },
   "Impenetrable Darvan": {
@@ -32791,6 +33289,7 @@
           "lord damage range": "5423~6056"
         }
       ],
+      "max bc generated": 11,
       "name": "Tera Flood"
     },
     "element": "earth",
@@ -32816,6 +33315,7 @@
     "lord def": 1789,
     "lord hp": 6291,
     "lord rec": 1564,
+    "max bc generated": 7,
     "rarity": 6,
     "sbb": {
       "desc": "14 combo Earth elemental attack on single enemy, probable Injury and Paralysis effect & Water element added to attack for 3 turns",
@@ -32960,6 +33460,7 @@
           "paralysis%": 90
         }
       ],
+      "max bc generated": 16,
       "name": "Universal Decay"
     }
   },
@@ -33049,6 +33550,7 @@
     "lord def": 585,
     "lord hp": 2722,
     "lord rec": 396,
+    "max bc generated": 1,
     "rarity": 3
   },
   "Inferno Princess Dia": {
@@ -33208,6 +33710,7 @@
     "lord def": 1433,
     "lord hp": 5643,
     "lord rec": 1948,
+    "max bc generated": 10,
     "rarity": 6,
     "sbb": {
       "desc": "16 combo powerful Fire attack on all enemies & adds Thunder element to attack and boosts BC production for 3 turns",
@@ -33342,6 +33845,7 @@
           "lord damage range": "9270~10353"
         }
       ],
+      "max bc generated": 16,
       "name": "Forbidden Curse: Methacronon"
     }
   },
@@ -33450,6 +33954,7 @@
           "lord damage range": "12223~13651"
         }
       ],
+      "max bc generated": 13,
       "name": "Demon's Soul"
     },
     "element": "dark",
@@ -33476,6 +33981,7 @@
     "lord def": 1774,
     "lord hp": 5844,
     "lord rec": 1471,
+    "max bc generated": 9,
     "rarity": 6,
     "sbb": {
       "desc": "16 combo Dark elemental attack on all enemies & own Def decreased by half, plus enormous boost to Atk for 3 turns",
@@ -33600,6 +34106,7 @@
           "lord damage range": "12547~14012"
         }
       ],
+      "max bc generated": 16,
       "name": "Magical Coffin"
     }
   },
@@ -33688,6 +34195,7 @@
           "lord damage range": "3339~3729"
         }
       ],
+      "max bc generated": 3,
       "name": "Thunder Smash"
     },
     "element": "thunder",
@@ -33706,6 +34214,7 @@
     "lord def": 786,
     "lord hp": 3417,
     "lord rec": 1600,
+    "max bc generated": 2,
     "rarity": 4
   },
   "Iron Magress": {
@@ -33773,6 +34282,7 @@
           "lord damage range": "979~1095"
         }
       ],
+      "max bc generated": 3,
       "name": "Guilty Ash"
     },
     "element": "dark",
@@ -33793,6 +34303,7 @@
     "lord def": 795,
     "lord hp": 2775,
     "lord rec": 216,
+    "max bc generated": 1,
     "rarity": 2
   },
   "Iron Shield Darvan": {
@@ -33913,6 +34424,7 @@
           "lord damage range": "3295~3680"
         }
       ],
+      "max bc generated": 6,
       "name": "Grand Wave"
     },
     "element": "earth",
@@ -33934,6 +34446,7 @@
     "lord def": 1271,
     "lord hp": 4331,
     "lord rec": 1105,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Jewel Ghost": {
@@ -33951,6 +34464,7 @@
     "lord def": 123,
     "lord hp": 1300,
     "lord rec": 123,
+    "max bc generated": 1,
     "rarity": 2
   },
   "Jewel God": {
@@ -33968,6 +34482,7 @@
     "lord def": 123,
     "lord hp": 2300,
     "lord rec": 123,
+    "max bc generated": 1,
     "rarity": 4
   },
   "Jewel King": {
@@ -33985,6 +34500,7 @@
     "lord def": 123,
     "lord hp": 1800,
     "lord rec": 123,
+    "max bc generated": 1,
     "rarity": 3
   },
   "Kagutsuchi": {
@@ -34089,6 +34605,7 @@
           "spark dmg% buff": 50
         }
       ],
+      "max bc generated": 10,
       "name": "Kagutsuki"
     },
     "element": "fire",
@@ -34113,6 +34630,7 @@
     "lord def": 1421,
     "lord hp": 5541,
     "lord rec": 1372,
+    "max bc generated": 8,
     "rarity": 5
   },
   "Keymaster Gilnea": {
@@ -34226,6 +34744,7 @@
           "lord damage range": "2890~3228"
         }
       ],
+      "max bc generated": 9,
       "name": "Nether Gate"
     },
     "element": "light",
@@ -34249,6 +34768,7 @@
     "lord def": 1100,
     "lord hp": 4650,
     "lord rec": 1600,
+    "max bc generated": 3,
     "rarity": 5
   },
   "Kikuri": {
@@ -34339,6 +34859,7 @@
           "lord damage range": "2939~3283"
         }
       ],
+      "max bc generated": 6,
       "name": "Firefly"
     },
     "element": "dark",
@@ -34364,6 +34885,7 @@
     "lord def": 938,
     "lord hp": 3424,
     "lord rec": 1071,
+    "max bc generated": 6,
     "rarity": 3
   },
   "King Behemoth": {
@@ -34441,6 +34963,7 @@
           "lord damage range": "2590~2894"
         }
       ],
+      "max bc generated": 3,
       "name": "Meteor Zapper"
     },
     "element": "thunder",
@@ -34460,6 +34983,7 @@
     "lord def": 1297,
     "lord hp": 4304,
     "lord rec": 743,
+    "max bc generated": 3,
     "rarity": 4
   },
   "King Burny": {
@@ -34536,6 +35060,7 @@
           "lord damage range": "1437~1605"
         }
       ],
+      "max bc generated": 10,
       "name": "Flame Munch"
     },
     "element": "fire",
@@ -34553,6 +35078,7 @@
     "lord def": 629,
     "lord hp": 2268,
     "lord rec": 533,
+    "max bc generated": 1,
     "rarity": 2
   },
   "King Gloomy": {
@@ -34629,6 +35155,7 @@
           "lord damage range": "1794~2004"
         }
       ],
+      "max bc generated": 10,
       "name": "Shadow Munch"
     },
     "element": "dark",
@@ -34646,6 +35173,7 @@
     "lord def": 520,
     "lord hp": 2018,
     "lord rec": 520,
+    "max bc generated": 1,
     "rarity": 2
   },
   "King Glowy": {
@@ -34722,6 +35250,7 @@
           "lord damage range": "1341~1498"
         }
       ],
+      "max bc generated": 10,
       "name": "Photon Munch"
     },
     "element": "light",
@@ -34739,6 +35268,7 @@
     "lord def": 870,
     "lord hp": 2207,
     "lord rec": 665,
+    "max bc generated": 1,
     "rarity": 2
   },
   "King Mossy": {
@@ -34815,6 +35345,7 @@
           "lord damage range": "1224~1367"
         }
       ],
+      "max bc generated": 10,
       "name": "Wood Munch"
     },
     "element": "earth",
@@ -34832,6 +35363,7 @@
     "lord def": 787,
     "lord hp": 2425,
     "lord rec": 551,
+    "max bc generated": 1,
     "rarity": 2
   },
   "King Sparky": {
@@ -34908,6 +35440,7 @@
           "lord damage range": "1437~1605"
         }
       ],
+      "max bc generated": 10,
       "name": "Shock Munch"
     },
     "element": "thunder",
@@ -34925,6 +35458,7 @@
     "lord def": 629,
     "lord hp": 2268,
     "lord rec": 533,
+    "max bc generated": 1,
     "rarity": 2
   },
   "King Squirty": {
@@ -35001,6 +35535,7 @@
           "lord damage range": "1351~1510"
         }
       ],
+      "max bc generated": 10,
       "name": "Ice Munch"
     },
     "element": "water",
@@ -35018,6 +35553,7 @@
     "lord def": 672,
     "lord hp": 2244,
     "lord rec": 734,
+    "max bc generated": 1,
     "rarity": 2
   },
   "Knight Aem": {
@@ -35099,6 +35635,7 @@
           "lord damage range": "2363~2639"
         }
       ],
+      "max bc generated": 7,
       "name": "Dragon Slayer"
     },
     "element": "light",
@@ -35117,6 +35654,7 @@
     "lord def": 619,
     "lord hp": 3345,
     "lord rec": 645,
+    "max bc generated": 2,
     "rarity": 3
   },
   "Knight Agni": {
@@ -35199,6 +35737,7 @@
           "lord damage range": "2894~3232"
         }
       ],
+      "max bc generated": 8,
       "name": "Dragon's Expulsion"
     },
     "element": "fire",
@@ -35223,6 +35762,7 @@
     "lord def": 726,
     "lord hp": 3720,
     "lord rec": 490,
+    "max bc generated": 8,
     "rarity": 3
   },
   "Knight Atro": {
@@ -35300,6 +35840,7 @@
           "lord damage range": "1594~1781"
         }
       ],
+      "max bc generated": 3,
       "name": "Cardinal Judgement"
     },
     "element": "light",
@@ -35320,6 +35861,7 @@
     "lord def": 910,
     "lord hp": 2397,
     "lord rec": 910,
+    "max bc generated": 1,
     "rarity": 3
   },
   "Knight Sergio": {
@@ -35399,6 +35941,7 @@
           "weaken%": 80
         }
       ],
+      "max bc generated": 5,
       "name": "Frigid Combo"
     },
     "element": "water",
@@ -35417,6 +35960,7 @@
     "lord def": 816,
     "lord hp": 3375,
     "lord rec": 870,
+    "max bc generated": 2,
     "rarity": 3
   },
   "Knight Will": {
@@ -35493,6 +36037,7 @@
           "lord damage range": "2121~2369"
         }
       ],
+      "max bc generated": 2,
       "name": "Galactic Volley"
     },
     "element": "light",
@@ -35513,6 +36058,7 @@
     "lord def": 938,
     "lord hp": 3490,
     "lord rec": 475,
+    "max bc generated": 1,
     "rarity": 3
   },
   "Knight Zephu": {
@@ -35602,6 +36148,7 @@
           "weaken%": 80
         }
       ],
+      "max bc generated": 5,
       "name": "Raging Ballad"
     },
     "element": "water",
@@ -35622,6 +36169,7 @@
     "lord def": 660,
     "lord hp": 3435,
     "lord rec": 419,
+    "max bc generated": 4,
     "rarity": 3
   },
   "Lancia": {
@@ -35731,6 +36279,7 @@
     "lord def": 880,
     "lord hp": 3170,
     "lord rec": 1241,
+    "max bc generated": 2,
     "rarity": 3
   },
   "Lava": {
@@ -35809,6 +36358,7 @@
           "lord damage range": "2363~2639"
         }
       ],
+      "max bc generated": 4,
       "name": "Blazing Inferno"
     },
     "element": "fire",
@@ -35831,6 +36381,7 @@
     "lord def": 898,
     "lord hp": 3100,
     "lord rec": 850,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Lava Phoenix": {
@@ -35922,6 +36473,7 @@
     "lord def": 1320,
     "lord hp": 4202,
     "lord rec": 810,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Legatus Melchio": {
@@ -36043,6 +36595,7 @@
     "lord def": 1811,
     "lord hp": 5511,
     "lord rec": 1811,
+    "max bc generated": 13,
     "rarity": 6,
     "sbb": {
       "desc": "15 combo Fire, Water, Earth, Lightning, and Light elemental attack on all enemies & negates all status ailments and adds Light element to attack for 3 turns",
@@ -36226,6 +36779,7 @@
           "negate status ails turns": 3
         }
       ],
+      "max bc generated": 15,
       "name": "Ultimate Angel"
     }
   },
@@ -36309,6 +36863,7 @@
           "lord damage range": "4066~4541"
         }
       ],
+      "max bc generated": 8,
       "name": "Starlight Ray"
     },
     "element": "light",
@@ -36332,6 +36887,7 @@
     "lord def": 1488,
     "lord hp": 4085,
     "lord rec": 1077,
+    "max bc generated": 7,
     "rarity": 5
   },
   "Legion": {
@@ -36413,6 +36969,7 @@
           "lord damage range": "3377~3772"
         }
       ],
+      "max bc generated": 7,
       "name": "Demented Hole"
     },
     "element": "dark",
@@ -36435,6 +36992,7 @@
     "lord def": 1404,
     "lord hp": 4637,
     "lord rec": 1409,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Legionary Melchio": {
@@ -36550,6 +37108,7 @@
     "lord def": 1280,
     "lord hp": 4111,
     "lord rec": 1280,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Legnaura": {
@@ -36643,6 +37202,7 @@
     "lord def": 1102,
     "lord hp": 3163,
     "lord rec": 1118,
+    "max bc generated": 6,
     "rarity": 4
   },
   "Legtos": {
@@ -36735,6 +37295,7 @@
     "lord def": 924,
     "lord hp": 2380,
     "lord rec": 1064,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Lemenara": {
@@ -36839,6 +37400,7 @@
     "lord def": 1512,
     "lord hp": 4755,
     "lord rec": 1424,
+    "max bc generated": 7,
     "rarity": 5
   },
   "Lemia": {
@@ -36928,6 +37490,7 @@
           "poison%": 45
         }
       ],
+      "max bc generated": 5,
       "name": "Gravity Bomb"
     },
     "element": "dark",
@@ -36947,6 +37510,7 @@
     "lord def": 840,
     "lord hp": 3100,
     "lord rec": 1080,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Leorone": {
@@ -37061,6 +37625,7 @@
     "lord def": 1711,
     "lord hp": 5944,
     "lord rec": 2000,
+    "max bc generated": 6,
     "rarity": 6,
     "sbb": {
       "desc": "10 combo powerful Light attack on all enemies & great boost to Atk, Def, and Rec for all allies",
@@ -37189,6 +37754,7 @@
           "rec% buff": 70
         }
       ],
+      "max bc generated": 10,
       "name": "White Moon"
     }
   },
@@ -37281,6 +37847,7 @@
     "lord def": 1049,
     "lord hp": 3179,
     "lord rec": 601,
+    "max bc generated": 4,
     "rarity": 3
   },
   "Leviathan": {
@@ -37359,6 +37926,7 @@
           "lord damage range": "1265~1413"
         }
       ],
+      "max bc generated": 4,
       "name": "Tidal Wave"
     },
     "element": "water",
@@ -37378,6 +37946,7 @@
     "lord def": 1094,
     "lord hp": 3240,
     "lord rec": 513,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Lich": {
@@ -37457,6 +38026,7 @@
           "lord damage range": "2428~2712"
         }
       ],
+      "max bc generated": 5,
       "name": "Abyss Gate"
     },
     "element": "dark",
@@ -37478,6 +38048,7 @@
     "lord def": 1011,
     "lord hp": 3855,
     "lord rec": 1013,
+    "max bc generated": 5,
     "rarity": 4
   },
   "Light Blade Alyut": {
@@ -37570,6 +38141,7 @@
           "lord damage range": "3702~4135"
         }
       ],
+      "max bc generated": 8,
       "name": "Holy Impulse"
     },
     "element": "light",
@@ -37595,6 +38167,7 @@
     "lord def": 1411,
     "lord hp": 4373,
     "lord rec": 1264,
+    "max bc generated": 6,
     "rarity": 4
   },
   "Light Bulb": {
@@ -37616,6 +38189,7 @@
     "lord def": 710,
     "lord hp": 2500,
     "lord rec": 250,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Light Crystal": {
@@ -37636,6 +38210,7 @@
     "lord def": 550,
     "lord hp": 3200,
     "lord rec": 550,
+    "max bc generated": 4,
     "rarity": 5
   },
   "Light Ghost": {
@@ -37653,6 +38228,7 @@
     "lord def": 125,
     "lord hp": 950,
     "lord rec": 125,
+    "max bc generated": 1,
     "rarity": 3
   },
   "Light God": {
@@ -37672,6 +38248,7 @@
     "lord def": 125,
     "lord hp": 1850,
     "lord rec": 125,
+    "max bc generated": 3,
     "rarity": 5
   },
   "Light Idol": {
@@ -37693,6 +38270,7 @@
     "lord def": 500,
     "lord hp": 2300,
     "lord rec": 100,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Light King": {
@@ -37711,6 +38289,7 @@
     "lord def": 125,
     "lord hp": 1400,
     "lord rec": 125,
+    "max bc generated": 2,
     "rarity": 4
   },
   "Light Lord Mimir": {
@@ -37793,6 +38372,7 @@
     "lord def": 765,
     "lord hp": 2460,
     "lord rec": 837,
+    "max bc generated": 5,
     "rarity": 2
   },
   "Light Nymph": {
@@ -37812,6 +38392,7 @@
     "lord def": 300,
     "lord hp": 1100,
     "lord rec": 300,
+    "max bc generated": 3,
     "rarity": 1
   },
   "Light Pot": {
@@ -37833,6 +38414,7 @@
     "lord def": 500,
     "lord hp": 2800,
     "lord rec": 400,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Light Spirit": {
@@ -37854,6 +38436,7 @@
     "lord def": 400,
     "lord hp": 1800,
     "lord rec": 200,
+    "max bc generated": 5,
     "rarity": 2
   },
   "Light Totem": {
@@ -37874,6 +38457,7 @@
     "lord def": 700,
     "lord hp": 3300,
     "lord rec": 50,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Lightning Sage Bran": {
@@ -37999,6 +38583,7 @@
           "lord damage range": "4612~5152"
         }
       ],
+      "max bc generated": 11,
       "name": "Igneous Comet"
     },
     "element": "thunder",
@@ -38023,6 +38608,7 @@
     "lord def": 1519,
     "lord hp": 4728,
     "lord rec": 1655,
+    "max bc generated": 7,
     "rarity": 5
   },
   "Lilin": {
@@ -38116,6 +38702,7 @@
     "lord def": 532,
     "lord hp": 2005,
     "lord rec": 540,
+    "max bc generated": 6,
     "rarity": 2
   },
   "Lizard Man": {
@@ -38207,6 +38794,7 @@
           "sick%": 80
         }
       ],
+      "max bc generated": 7,
       "name": "Freeze Lancer"
     },
     "element": "water",
@@ -38227,6 +38815,7 @@
     "lord def": 857,
     "lord hp": 2971,
     "lord rec": 808,
+    "max bc generated": 4,
     "rarity": 3
   },
   "Loch": {
@@ -38306,6 +38895,7 @@
           "lord damage range": "2812~3140"
         }
       ],
+      "max bc generated": 5,
       "name": "Lightning Arrow"
     },
     "element": "thunder",
@@ -38328,6 +38918,7 @@
     "lord def": 988,
     "lord hp": 3660,
     "lord rec": 1105,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Loch Ness": {
@@ -38407,6 +38998,7 @@
           "lord damage range": "1834~2049"
         }
       ],
+      "max bc generated": 5,
       "name": "Maelstrom"
     },
     "element": "water",
@@ -38427,6 +39019,7 @@
     "lord def": 1354,
     "lord hp": 4125,
     "lord rec": 783,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Lorand": {
@@ -38524,6 +39117,7 @@
           "weaken%": 80
         }
       ],
+      "max bc generated": 3,
       "name": "Burning Spirit"
     },
     "element": "fire",
@@ -38546,6 +39140,7 @@
     "lord def": 702,
     "lord hp": 3170,
     "lord rec": 901,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Lotus Axe Michele": {
@@ -38686,6 +39281,7 @@
     "lord def": 1210,
     "lord hp": 4804,
     "lord rec": 1582,
+    "max bc generated": 12,
     "rarity": 5
   },
   "Lubradine": {
@@ -38798,6 +39394,7 @@
     "lord def": 1470,
     "lord hp": 5294,
     "lord rec": 1764,
+    "max bc generated": 5,
     "rarity": 5
   },
   "Lugina": {
@@ -38880,6 +39477,7 @@
           "lord damage range": "3175~3547"
         }
       ],
+      "max bc generated": 8,
       "name": "Ground Zapper"
     },
     "element": "earth",
@@ -38903,6 +39501,7 @@
     "lord def": 1110,
     "lord hp": 4650,
     "lord rec": 950,
+    "max bc generated": 5,
     "rarity": 4
   },
   "Luna": {
@@ -38979,6 +39578,7 @@
           "lord damage range": "1956~2186"
         }
       ],
+      "max bc generated": 2,
       "name": "Rude Thrust"
     },
     "element": "light",
@@ -38997,6 +39597,7 @@
     "lord def": 855,
     "lord hp": 1829,
     "lord rec": 270,
+    "max bc generated": 2,
     "rarity": 2
   },
   "Mad God Zebra": {
@@ -39083,6 +39684,7 @@
           "lord damage range": "4246~4743"
         }
       ],
+      "max bc generated": 12,
       "name": "Soul Invasion"
     },
     "element": "dark",
@@ -39106,6 +39708,7 @@
     "lord def": 973,
     "lord hp": 4104,
     "lord rec": 1430,
+    "max bc generated": 7,
     "rarity": 5
   },
   "Madia": {
@@ -39228,6 +39831,7 @@
           "lord damage range": "2911~3252"
         }
       ],
+      "max bc generated": 8,
       "name": "Euthanasia"
     },
     "element": "dark",
@@ -39254,6 +39858,7 @@
     "lord def": 1232,
     "lord hp": 3951,
     "lord rec": 950,
+    "max bc generated": 5,
     "rarity": 4
   },
   "Magic Riffs Eric": {
@@ -39407,6 +40012,7 @@
     "lord def": 1257,
     "lord hp": 4239,
     "lord rec": 1229,
+    "max bc generated": 5,
     "rarity": 4
   },
   "Magician Lily": {
@@ -39497,6 +40103,7 @@
           "lord damage range": "1519~1697"
         }
       ],
+      "max bc generated": 6,
       "name": "Soul Intention"
     },
     "element": "dark",
@@ -39518,6 +40125,7 @@
     "lord def": 630,
     "lord hp": 2315,
     "lord rec": 672,
+    "max bc generated": 5,
     "rarity": 2
   },
   "Magistra Lira": {
@@ -39601,6 +40209,7 @@
           "lord damage range": "3550~3965"
         }
       ],
+      "max bc generated": 9,
       "name": "Demon Execution"
     },
     "element": "dark",
@@ -39628,6 +40237,7 @@
     "lord def": 1568,
     "lord hp": 5198,
     "lord rec": 1568,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Magma Knight Agni": {
@@ -39712,6 +40322,7 @@
           "lord damage range": "5608~6263"
         }
       ],
+      "max bc generated": 10,
       "name": "Dragon's Demise"
     },
     "element": "fire",
@@ -39738,6 +40349,7 @@
     "lord def": 1202,
     "lord hp": 5343,
     "lord rec": 961,
+    "max bc generated": 10,
     "rarity": 5
   },
   "Maiden Bayley": {
@@ -39806,6 +40418,7 @@
           "lord damage range": "2477~2766"
         }
       ],
+      "max bc generated": 4,
       "name": "Scratch Strike"
     },
     "element": "earth",
@@ -39828,6 +40441,7 @@
     "lord def": 967,
     "lord hp": 3143,
     "lord rec": 1150,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Maiden Cayena": {
@@ -39900,6 +40514,7 @@
           "lord damage range": "2765~3088"
         }
       ],
+      "max bc generated": 8,
       "name": "Rocket Strike"
     },
     "element": "fire",
@@ -39927,6 +40542,7 @@
     "lord def": 940,
     "lord hp": 3280,
     "lord rec": 950,
+    "max bc generated": 8,
     "rarity": 3
   },
   "Maiden Fennia": {
@@ -39994,6 +40610,7 @@
           "lord damage range": "2398~2679"
         }
       ],
+      "max bc generated": 3,
       "name": "Static Blast"
     },
     "element": "thunder",
@@ -40015,6 +40632,7 @@
     "lord def": 1007,
     "lord hp": 2880,
     "lord rec": 1228,
+    "max bc generated": 2,
     "rarity": 3
   },
   "Maiden Lico": {
@@ -40086,6 +40704,7 @@
           "lord damage range": "3487~3894"
         }
       ],
+      "max bc generated": 7,
       "name": "Blade Strike"
     },
     "element": "dark",
@@ -40108,6 +40727,7 @@
     "lord def": 898,
     "lord hp": 3250,
     "lord rec": 912,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Maiden Serin": {
@@ -40184,6 +40804,7 @@
           "lord damage range": "2533~2829"
         }
       ],
+      "max bc generated": 12,
       "name": "Ripple Rampage"
     },
     "element": "water",
@@ -40214,6 +40835,7 @@
     "lord def": 1015,
     "lord hp": 3012,
     "lord rec": 1112,
+    "max bc generated": 11,
     "rarity": 3
   },
   "Maiden Vanila": {
@@ -40330,6 +40952,7 @@
     "lord def": 960,
     "lord hp": 3250,
     "lord rec": 960,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Malnaplis": {
@@ -40410,6 +41033,7 @@
           "lord damage range": "2186~2441"
         }
       ],
+      "max bc generated": 6,
       "name": "Calamity Wave"
     },
     "element": "water",
@@ -40431,6 +41055,7 @@
     "lord def": 1552,
     "lord hp": 4900,
     "lord rec": 927,
+    "max bc generated": 5,
     "rarity": 5
   },
   "Malvan": {
@@ -40525,6 +41150,7 @@
     "lord def": 1067,
     "lord hp": 3649,
     "lord rec": 615,
+    "max bc generated": 7,
     "rarity": 4
   },
   "Mandragora": {
@@ -40610,6 +41236,7 @@
     "lord def": 532,
     "lord hp": 1836,
     "lord rec": 270,
+    "max bc generated": 3,
     "rarity": 1
   },
   "Marksman Lario": {
@@ -40687,6 +41314,7 @@
           "lord damage range": "1657~1851"
         }
       ],
+      "max bc generated": 3,
       "name": "Superior Needle"
     },
     "element": "earth",
@@ -40706,6 +41334,7 @@
     "lord def": 801,
     "lord hp": 3515,
     "lord rec": 1064,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Master Lorand": {
@@ -40805,6 +41434,7 @@
           "weaken%": 80
         }
       ],
+      "max bc generated": 5,
       "name": "Blazing Spirit"
     },
     "element": "fire",
@@ -40829,6 +41459,7 @@
     "lord def": 1140,
     "lord hp": 4983,
     "lord rec": 1334,
+    "max bc generated": 5,
     "rarity": 5
   },
   "Mech Arms Grybe": {
@@ -40920,6 +41551,7 @@
           "weaken%": 45
         }
       ],
+      "max bc generated": 7,
       "name": "Atom Ovis"
     },
     "element": "thunder",
@@ -40941,6 +41573,7 @@
     "lord def": 1167,
     "lord hp": 4333,
     "lord rec": 1222,
+    "max bc generated": 5,
     "rarity": 4
   },
   "Mech Cannon Grybe": {
@@ -41034,6 +41667,7 @@
           "weaken%": 45
         }
       ],
+      "max bc generated": 9,
       "name": "Atom Cannon"
     },
     "element": "thunder",
@@ -41056,6 +41690,7 @@
     "lord def": 1312,
     "lord hp": 5369,
     "lord rec": 1496,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Mech God Grybe": {
@@ -41153,6 +41788,7 @@
           "weaken%": 45
         }
       ],
+      "max bc generated": 13,
       "name": "Grand Spirit"
     },
     "element": "thunder",
@@ -41181,6 +41817,7 @@
     "lord def": 1484,
     "lord hp": 6043,
     "lord rec": 1721,
+    "max bc generated": 10,
     "rarity": 6,
     "sbb": {
       "desc": "15 combo powerful Thunder attack on all enemies, probable Weak effect & boost to Atk for Thunder types",
@@ -41304,6 +41941,7 @@
           "weaken%": 60
         }
       ],
+      "max bc generated": 15,
       "name": "Final Blaster"
     }
   },
@@ -41383,6 +42021,7 @@
           "poison%": 80
         }
       ],
+      "max bc generated": 4,
       "name": "Golgon Eye"
     },
     "element": "dark",
@@ -41402,6 +42041,7 @@
     "lord def": 840,
     "lord hp": 2698,
     "lord rec": 390,
+    "max bc generated": 3,
     "rarity": 2
   },
   "Meltia": {
@@ -41505,6 +42145,7 @@
     "lord def": 1555,
     "lord hp": 4972,
     "lord rec": 1151,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Memetes": {
@@ -41593,6 +42234,7 @@
           "lord damage range": "3232~3610"
         }
       ],
+      "max bc generated": 4,
       "name": "Climb Pain"
     },
     "element": "dark",
@@ -41612,6 +42254,7 @@
     "lord def": 700,
     "lord hp": 2876,
     "lord rec": 434,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Merman": {
@@ -41700,6 +42343,7 @@
           "sick%": 80
         }
       ],
+      "max bc generated": 4,
       "name": "Spiral Lance"
     },
     "element": "water",
@@ -41713,6 +42357,7 @@
     "lord def": 462,
     "lord hp": 1735,
     "lord rec": 312,
+    "max bc generated": 2,
     "rarity": 1
   },
   "Metal Ghost": {
@@ -41730,6 +42375,7 @@
     "lord def": 123,
     "lord hp": 1000,
     "lord rec": 123,
+    "max bc generated": 1,
     "rarity": 3
   },
   "Metal God": {
@@ -41749,6 +42395,7 @@
     "lord def": 123,
     "lord hp": 2000,
     "lord rec": 123,
+    "max bc generated": 3,
     "rarity": 5
   },
   "Metal King": {
@@ -41767,6 +42414,7 @@
     "lord def": 123,
     "lord hp": 1500,
     "lord rec": 123,
+    "max bc generated": 2,
     "rarity": 4
   },
   "Metal Mimic": {
@@ -41784,6 +42432,7 @@
     "lord def": 9999,
     "lord hp": 20,
     "lord rec": 1,
+    "max bc generated": 1,
     "rarity": 5
   },
   "Mifune": {
@@ -41860,6 +42509,7 @@
           "lord damage range": "2299~2567"
         }
       ],
+      "max bc generated": 2,
       "name": "Moonbeam"
     },
     "element": "dark",
@@ -41878,6 +42528,7 @@
     "lord def": 305,
     "lord hp": 1850,
     "lord rec": 400,
+    "max bc generated": 2,
     "rarity": 2
   },
   "Mimic": {
@@ -41895,6 +42546,7 @@
     "lord def": 666,
     "lord hp": 1188,
     "lord rec": 666,
+    "max bc generated": 1,
     "rarity": 3
   },
   "Minotaur": {
@@ -41971,6 +42623,7 @@
           "lord damage range": "1815~2028"
         }
       ],
+      "max bc generated": 6,
       "name": "All Out Attack"
     },
     "element": "thunder",
@@ -41983,6 +42636,7 @@
     "lord def": 393,
     "lord hp": 2680,
     "lord rec": 190,
+    "max bc generated": 1,
     "rarity": 2
   },
   "Miracle Bulb": {
@@ -42008,6 +42662,7 @@
     "lord def": 650,
     "lord hp": 2700,
     "lord rec": 200,
+    "max bc generated": 9,
     "rarity": 3
   },
   "Miracle Totem": {
@@ -42029,6 +42684,7 @@
     "lord def": 1000,
     "lord hp": 5000,
     "lord rec": 1000,
+    "max bc generated": 5,
     "rarity": 5
   },
   "Mossy": {
@@ -42104,6 +42760,7 @@
           "lord damage range": "629~703"
         }
       ],
+      "max bc generated": 5,
       "name": "Gnawing Wood"
     },
     "element": "earth",
@@ -42116,6 +42773,7 @@
     "lord def": 501,
     "lord hp": 1745,
     "lord rec": 286,
+    "max bc generated": 1,
     "rarity": 1
   },
   "Mother Earth Edea": {
@@ -42218,6 +42876,7 @@
           "sick%": 80
         }
       ],
+      "max bc generated": 8,
       "name": "Grand Cross"
     },
     "element": "earth",
@@ -42245,6 +42904,7 @@
     "lord def": 1656,
     "lord hp": 5016,
     "lord rec": 1404,
+    "max bc generated": 8,
     "rarity": 5
   },
   "Mother Snow Stya": {
@@ -42331,6 +42991,7 @@
           "lord damage range": "6746~7534"
         }
       ],
+      "max bc generated": 24,
       "name": "Freezing Fjord"
     },
     "element": "water",
@@ -42358,6 +43019,7 @@
     "lord def": 1175,
     "lord hp": 4253,
     "lord rec": 1700,
+    "max bc generated": 11,
     "rarity": 5
   },
   "Mountaineer Talos": {
@@ -42440,6 +43102,7 @@
           "lord damage range": "1754~1960"
         }
       ],
+      "max bc generated": 8,
       "name": "Crimson Comet"
     },
     "element": "fire",
@@ -42464,6 +43127,7 @@
     "lord def": 1068,
     "lord hp": 3014,
     "lord rec": 1016,
+    "max bc generated": 7,
     "rarity": 3
   },
   "Nature God Lance": {
@@ -42544,6 +43208,7 @@
           "lord damage range": "3379~3774"
         }
       ],
+      "max bc generated": 6,
       "name": "Eternal Zephyr"
     },
     "element": "earth",
@@ -42567,6 +43232,7 @@
     "lord def": 1378,
     "lord hp": 3894,
     "lord rec": 805,
+    "max bc generated": 4,
     "rarity": 5
   },
   "Necromancer Lemia": {
@@ -42657,6 +43323,7 @@
           "poison%": 45
         }
       ],
+      "max bc generated": 6,
       "name": "Glasya Labolas"
     },
     "element": "dark",
@@ -42678,6 +43345,7 @@
     "lord def": 1056,
     "lord hp": 4020,
     "lord rec": 1320,
+    "max bc generated": 5,
     "rarity": 4
   },
   "Night Sibyl Madia": {
@@ -42802,6 +43470,7 @@
           "lord damage range": "3740~4177"
         }
       ],
+      "max bc generated": 10,
       "name": "Extinction"
     },
     "element": "dark",
@@ -42830,6 +43499,7 @@
     "lord def": 1477,
     "lord hp": 4783,
     "lord rec": 1110,
+    "max bc generated": 7,
     "rarity": 5
   },
   "Ninja Oboro": {
@@ -42908,6 +43578,7 @@
           "lord damage range": "1247~1394"
         }
       ],
+      "max bc generated": 4,
       "name": "Ninjitsu: Blade Drop"
     },
     "element": "dark",
@@ -42927,6 +43598,7 @@
     "lord def": 624,
     "lord hp": 2259,
     "lord rec": 720,
+    "max bc generated": 3,
     "rarity": 2
   },
   "Noble Fist Dilma": {
@@ -43023,6 +43695,7 @@
           "lord damage range": "6862~7663"
         }
       ],
+      "max bc generated": 30,
       "name": "Chaos Strike"
     },
     "element": "earth",
@@ -43044,6 +43717,7 @@
     "lord def": 1481,
     "lord hp": 6055,
     "lord rec": 2037,
+    "max bc generated": 4,
     "rarity": 6,
     "sbb": {
       "desc": "2 combo massive Earth attack on all enemies, adds chance of ignoring opponents' Def when attacking for all allies for 2 turns & fully recovers own HP for 3 turns",
@@ -43184,6 +43858,7 @@
           "lord damage range": "14043~15683"
         }
       ],
+      "max bc generated": 24,
       "name": "Grave Gazer"
     }
   },
@@ -43264,6 +43939,7 @@
           "poison%": 50
         }
       ],
+      "max bc generated": 5,
       "name": "Claw Strike"
     },
     "element": "earth",
@@ -43287,6 +43963,7 @@
     "lord def": 1125,
     "lord hp": 4166,
     "lord rec": 1315,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Nyx": {
@@ -43381,6 +44058,7 @@
     "lord def": 1000,
     "lord hp": 3317,
     "lord rec": 984,
+    "max bc generated": 7,
     "rarity": 4
   },
   "Ocypete": {
@@ -43474,6 +44152,7 @@
     "lord def": 753,
     "lord hp": 3941,
     "lord rec": 503,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Ogre": {
@@ -43559,6 +44238,7 @@
           "lord damage range": "3549~3964"
         }
       ],
+      "max bc generated": 3,
       "name": "Power Strike"
     },
     "element": "fire",
@@ -43576,6 +44256,7 @@
     "lord def": 715,
     "lord hp": 2771,
     "lord rec": 520,
+    "max bc generated": 1,
     "rarity": 3
   },
   "Omega Behemoth": {
@@ -43656,6 +44337,7 @@
           "lord damage range": "4596~5133"
         }
       ],
+      "max bc generated": 6,
       "name": "Thunder Zorg"
     },
     "element": "thunder",
@@ -43677,6 +44359,7 @@
     "lord def": 1661,
     "lord hp": 5556,
     "lord rec": 1193,
+    "max bc generated": 5,
     "rarity": 6,
     "sbb": {
       "desc": "7 combo powerful Thunder attack on all enemies & boost in Spark damage for 3 turns",
@@ -43772,6 +44455,7 @@
           "spark dmg% buff": 70
         }
       ],
+      "max bc generated": 7,
       "name": "Raviel Z"
     }
   },
@@ -43848,6 +44532,7 @@
           "lord damage range": "2509~2802"
         }
       ],
+      "max bc generated": 3,
       "name": "Power Smash"
     },
     "element": "fire",
@@ -43860,6 +44545,7 @@
     "lord def": 455,
     "lord hp": 2210,
     "lord rec": 322,
+    "max bc generated": 1,
     "rarity": 2
   },
   "Orthos": {
@@ -43946,6 +44632,7 @@
           "sick%": 80
         }
       ],
+      "max bc generated": 6,
       "name": "Heat Bite"
     },
     "element": "fire",
@@ -43959,6 +44646,7 @@
     "lord def": 554,
     "lord hp": 2175,
     "lord rec": 248,
+    "max bc generated": 2,
     "rarity": 2
   },
   "Paladin Paris": {
@@ -44038,6 +44726,7 @@
           "lord damage range": "3651~4078"
         }
       ],
+      "max bc generated": 5,
       "name": "Thunder Tornado"
     },
     "element": "thunder",
@@ -44060,6 +44749,7 @@
     "lord def": 1290,
     "lord hp": 4130,
     "lord rec": 1110,
+    "max bc generated": 3,
     "rarity": 4
   },
   "Paula": {
@@ -44180,6 +44870,7 @@
           "lord damage range": "2808~3136"
         }
       ],
+      "max bc generated": 6,
       "name": "Land of Green"
     },
     "element": "earth",
@@ -44204,6 +44895,7 @@
     "lord def": 1138,
     "lord hp": 3689,
     "lord rec": 1256,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Pegasus": {
@@ -44295,6 +44987,7 @@
           "lord damage range": "1890~2112"
         }
       ],
+      "max bc generated": 14,
       "name": "Tornado Charge"
     },
     "element": "light",
@@ -44316,6 +45009,7 @@
     "lord def": 865,
     "lord hp": 2820,
     "lord rec": 938,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Phoenix": {
@@ -44406,6 +45100,7 @@
     "lord def": 1064,
     "lord hp": 3310,
     "lord rec": 532,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Phoenix Reborn": {
@@ -44500,6 +45195,7 @@
     "lord def": 1567,
     "lord hp": 5815,
     "lord rec": 1833,
+    "max bc generated": 7,
     "rarity": 6,
     "sbb": {
       "desc": "Gradually recovers a great amount of HP for all allies over 3 turns & 8 combo Fire elemental attack on all enemies",
@@ -44605,6 +45301,7 @@
           "lord damage range": "6453~7207"
         }
       ],
+      "max bc generated": 7,
       "name": "Kaiser Phoenix"
     }
   },
@@ -44674,6 +45371,7 @@
           "lord damage range": "1173~1310"
         }
       ],
+      "max bc generated": 4,
       "name": "Flash Gale"
     },
     "element": "earth",
@@ -44696,6 +45394,7 @@
     "lord def": 700,
     "lord hp": 1876,
     "lord rec": 248,
+    "max bc generated": 3,
     "rarity": 2
   },
   "Pirate Verica": {
@@ -44772,6 +45471,7 @@
           "weaken%": 80
         }
       ],
+      "max bc generated": 2,
       "name": "Crazy Slash"
     },
     "element": "water",
@@ -44790,6 +45490,7 @@
     "lord def": 532,
     "lord hp": 2561,
     "lord rec": 300,
+    "max bc generated": 2,
     "rarity": 2
   },
   "Pistol God Heidt": {
@@ -44895,6 +45596,7 @@
           "lord damage range": "4581~5116"
         }
       ],
+      "max bc generated": 22,
       "name": "Star Buster"
     },
     "element": "light",
@@ -44921,6 +45623,7 @@
     "lord def": 1359,
     "lord hp": 4869,
     "lord rec": 905,
+    "max bc generated": 10,
     "rarity": 5
   },
   "Pixy King Leore": {
@@ -45015,6 +45718,7 @@
           "weaken%": 45
         }
       ],
+      "max bc generated": 10,
       "name": "Heavy Riposte"
     },
     "element": "earth",
@@ -45038,6 +45742,7 @@
     "lord def": 1049,
     "lord hp": 4946,
     "lord rec": 1348,
+    "max bc generated": 7,
     "rarity": 5
   },
   "Pixy Leore": {
@@ -45128,6 +45833,7 @@
           "weaken%": 45
         }
       ],
+      "max bc generated": 6,
       "name": "Mirage Needle"
     },
     "element": "earth",
@@ -45148,6 +45854,7 @@
     "lord def": 675,
     "lord hp": 3252,
     "lord rec": 930,
+    "max bc generated": 4,
     "rarity": 3
   },
   "Pixy Lord Leore": {
@@ -45244,6 +45951,7 @@
           "weaken%": 45
         }
       ],
+      "max bc generated": 12,
       "name": "Noble Stab"
     },
     "element": "earth",
@@ -45270,6 +45978,7 @@
     "lord def": 1422,
     "lord hp": 5805,
     "lord rec": 1716,
+    "max bc generated": 9,
     "rarity": 6,
     "sbb": {
       "desc": "14 combo Earth elemental attack on all enemies, probable Weak effect, and recovers HP for all allies",
@@ -45382,6 +46091,7 @@
           "weaken%": 60
         }
       ],
+      "max bc generated": 14,
       "name": "Rose Riposte"
     }
   },
@@ -45474,6 +46184,7 @@
           "weaken%": 45
         }
       ],
+      "max bc generated": 7,
       "name": "Million Thrust"
     },
     "element": "earth",
@@ -45495,6 +46206,7 @@
     "lord def": 924,
     "lord hp": 4122,
     "lord rec": 1080,
+    "max bc generated": 5,
     "rarity": 4
   },
   "Platinum Nekky": {
@@ -45521,6 +46233,7 @@
     "lord def": 1000,
     "lord hp": 4000,
     "lord rec": 1300,
+    "max bc generated": 5,
     "rarity": 5
   },
   "Plunderer Verica": {
@@ -45609,6 +46322,7 @@
           "weaken%": 80
         }
       ],
+      "max bc generated": 4,
       "name": "Maximum Vice"
     },
     "element": "water",
@@ -45629,6 +46343,7 @@
     "lord def": 800,
     "lord hp": 3155,
     "lord rec": 552,
+    "max bc generated": 4,
     "rarity": 3
   },
   "Poet Elton": {
@@ -45731,6 +46446,7 @@
     "lord def": 869,
     "lord hp": 2461,
     "lord rec": 769,
+    "max bc generated": 4,
     "rarity": 2
   },
   "Polar Angel Tiara": {
@@ -45863,6 +46579,7 @@
     "lord def": 1198,
     "lord hp": 3914,
     "lord rec": 1788,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Polevik": {
@@ -45954,6 +46671,7 @@
     "lord def": 870,
     "lord hp": 2415,
     "lord rec": 506,
+    "max bc generated": 4,
     "rarity": 2
   },
   "Priest Merith": {
@@ -46034,6 +46752,7 @@
     "lord def": 525,
     "lord hp": 1770,
     "lord rec": 602,
+    "max bc generated": 3,
     "rarity": 1
   },
   "Priestess Maria": {
@@ -46114,6 +46833,7 @@
     "lord def": 567,
     "lord hp": 2160,
     "lord rec": 870,
+    "max bc generated": 3,
     "rarity": 2
   },
   "Princess Emilia": {
@@ -46203,6 +46923,7 @@
           "paralysis%": 80
         }
       ],
+      "max bc generated": 5,
       "name": "Elznet Saber"
     },
     "element": "thunder",
@@ -46226,6 +46947,7 @@
     "lord def": 1122,
     "lord hp": 3972,
     "lord rec": 1085,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Princess Estia": {
@@ -46330,6 +47052,7 @@
           "lord damage range": "3240~3620"
         }
       ],
+      "max bc generated": 10,
       "name": "Diamond Star Strike"
     },
     "element": "light",
@@ -46359,6 +47082,7 @@
     "lord def": 1300,
     "lord hp": 4986,
     "lord rec": 1650,
+    "max bc generated": 10,
     "rarity": 5
   },
   "Princess Lidith": {
@@ -46439,6 +47163,7 @@
           "lord damage range": "2795~3123"
         }
       ],
+      "max bc generated": 12,
       "name": "Royal Slice"
     },
     "element": "earth",
@@ -46461,6 +47186,7 @@
     "lord def": 657,
     "lord hp": 3075,
     "lord rec": 1125,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Prodigy Themis": {
@@ -46585,6 +47311,7 @@
     "lord def": 1165,
     "lord hp": 4134,
     "lord rec": 1452,
+    "max bc generated": 6,
     "rarity": 4
   },
   "Professor Lorand": {
@@ -46683,6 +47410,7 @@
           "weaken%": 80
         }
       ],
+      "max bc generated": 4,
       "name": "Flaming Spirit"
     },
     "element": "fire",
@@ -46706,6 +47434,7 @@
     "lord def": 972,
     "lord hp": 4122,
     "lord rec": 1095,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Pugilist Dilma": {
@@ -46801,6 +47530,7 @@
           "lord damage range": "3976~4440"
         }
       ],
+      "max bc generated": 10,
       "name": "Earth Strike"
     },
     "element": "earth",
@@ -46819,6 +47549,7 @@
     "lord def": 877,
     "lord hp": 3981,
     "lord rec": 1422,
+    "max bc generated": 2,
     "rarity": 4
   },
   "Pyromancer Liza": {
@@ -46890,6 +47621,7 @@
           "lord damage range": "1303~1456"
         }
       ],
+      "max bc generated": 7,
       "name": "Meteor Storm"
     },
     "element": "fire",
@@ -46911,6 +47643,7 @@
     "lord def": 994,
     "lord hp": 3788,
     "lord rec": 1161,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Quake Fist Nemia": {
@@ -47001,6 +47734,7 @@
           "weaken%": 80
         }
       ],
+      "max bc generated": 12,
       "name": "Atira Shake"
     },
     "element": "earth",
@@ -47023,6 +47757,7 @@
     "lord def": 1052,
     "lord hp": 4854,
     "lord rec": 1089,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Queen Lidith": {
@@ -47105,6 +47840,7 @@
           "lord damage range": "3511~3922"
         }
       ],
+      "max bc generated": 16,
       "name": "Royal Slash"
     },
     "element": "earth",
@@ -47129,6 +47865,7 @@
     "lord def": 845,
     "lord hp": 3585,
     "lord rec": 1425,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Rage Beast Zegar": {
@@ -47217,6 +47954,7 @@
           "lord damage range": "2309~2580"
         }
       ],
+      "max bc generated": 4,
       "name": "Fire Spring Attack"
     },
     "element": "fire",
@@ -47237,6 +47975,7 @@
     "lord def": 634,
     "lord hp": 3260,
     "lord rec": 538,
+    "max bc generated": 4,
     "rarity": 3
   },
   "Raid Bolt Fennia": {
@@ -47326,6 +48065,7 @@
           "weaken%": 50
         }
       ],
+      "max bc generated": 5,
       "name": "Voltage Storm"
     },
     "element": "thunder",
@@ -47350,6 +48090,7 @@
     "lord def": 1387,
     "lord hp": 5378,
     "lord rec": 1501,
+    "max bc generated": 5,
     "rarity": 5
   },
   "Raid Bomb Fennia": {
@@ -47438,6 +48179,7 @@
           "weaken%": 50
         }
       ],
+      "max bc generated": 4,
       "name": "Electric Explosion"
     },
     "element": "thunder",
@@ -47461,6 +48203,7 @@
     "lord def": 1195,
     "lord hp": 3944,
     "lord rec": 1351,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Rakshasa Lord Vishra": {
@@ -47556,6 +48299,7 @@
           "lord damage range": "6239~6968"
         }
       ],
+      "max bc generated": 11,
       "name": "Rakshasa Pyre"
     },
     "element": "fire",
@@ -47587,6 +48331,7 @@
     "lord def": 1823,
     "lord hp": 5821,
     "lord rec": 1455,
+    "max bc generated": 9,
     "rarity": 6,
     "sbb": {
       "desc": "13 combo powerful Fire attack on all enemies & chance of BB gauge filling when attacked and increases fill rate for 3 turns",
@@ -47668,6 +48413,7 @@
           "lord damage range": "10150~11336"
         }
       ],
+      "max bc generated": 13,
       "name": "Demonic Blade"
     }
   },
@@ -47761,6 +48507,7 @@
           "lord damage range": "5863~6548"
         }
       ],
+      "max bc generated": 8,
       "name": "Rakshasa Execution"
     },
     "element": "fire",
@@ -47789,6 +48536,7 @@
     "lord def": 1567,
     "lord hp": 4862,
     "lord rec": 1181,
+    "max bc generated": 7,
     "rarity": 5
   },
   "Rameldria": {
@@ -47901,6 +48649,7 @@
     "lord def": 1155,
     "lord hp": 4424,
     "lord rec": 850,
+    "max bc generated": 5,
     "rarity": 5
   },
   "Ramia": {
@@ -47977,6 +48726,7 @@
           "poison%": 80
         }
       ],
+      "max bc generated": 6,
       "name": "Snake Ripsaw"
     },
     "element": "water",
@@ -47990,6 +48740,7 @@
     "lord def": 498,
     "lord hp": 2595,
     "lord rec": 338,
+    "max bc generated": 2,
     "rarity": 2
   },
   "Rantoul": {
@@ -48075,6 +48826,7 @@
     "lord def": 700,
     "lord hp": 1950,
     "lord rec": 900,
+    "max bc generated": 3,
     "rarity": 2
   },
   "Ray Sibyl Sola": {
@@ -48199,6 +48951,7 @@
           "lord damage range": "3302~3688"
         }
       ],
+      "max bc generated": 10,
       "name": "Cathedral Photon"
     },
     "element": "light",
@@ -48227,6 +48980,7 @@
     "lord def": 1484,
     "lord hp": 4701,
     "lord rec": 1600,
+    "max bc generated": 7,
     "rarity": 5
   },
   "Rebel Angel Elsel": {
@@ -48321,6 +49075,7 @@
           "lord damage range": "4665~5210"
         }
       ],
+      "max bc generated": 10,
       "name": "Lost Cloud"
     },
     "element": "thunder",
@@ -48349,6 +49104,7 @@
     "lord def": 1519,
     "lord hp": 5392,
     "lord rec": 1568,
+    "max bc generated": 7,
     "rarity": 5
   },
   "Red Axe Michele": {
@@ -48487,6 +49243,7 @@
     "lord def": 982,
     "lord hp": 3828,
     "lord rec": 1416,
+    "max bc generated": 10,
     "rarity": 4
   },
   "Red Blade Farlon": {
@@ -48569,6 +49326,7 @@
           "lord damage range": "3623~4047"
         }
       ],
+      "max bc generated": 8,
       "name": "Fjord Luge"
     },
     "element": "fire",
@@ -48595,6 +49353,7 @@
     "lord def": 1580,
     "lord hp": 5500,
     "lord rec": 1580,
+    "max bc generated": 7,
     "rarity": 5
   },
   "Red Shadow Oboro": {
@@ -48676,6 +49435,7 @@
           "lord damage range": "2846~3179"
         }
       ],
+      "max bc generated": 7,
       "name": "Forbidden Demon"
     },
     "element": "dark",
@@ -48698,6 +49458,7 @@
     "lord def": 1186,
     "lord hp": 4615,
     "lord rec": 1371,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Red Slash Farlon": {
@@ -48778,6 +49539,7 @@
           "lord damage range": "2961~3308"
         }
       ],
+      "max bc generated": 6,
       "name": "Agressor Funnel"
     },
     "element": "fire",
@@ -48802,6 +49564,7 @@
     "lord def": 1340,
     "lord hp": 4230,
     "lord rec": 1340,
+    "max bc generated": 5,
     "rarity": 4
   },
   "Red Swordsman Farlon": {
@@ -48885,6 +49648,7 @@
           "lord damage range": "4451~4971"
         }
       ],
+      "max bc generated": 9,
       "name": "Red Ignition"
     },
     "element": "fire",
@@ -48912,6 +49676,7 @@
     "lord def": 1800,
     "lord hp": 6202,
     "lord rec": 1800,
+    "max bc generated": 8,
     "rarity": 6,
     "sbb": {
       "desc": "12 combo Fire elemental attack on all enemies & own Def decreased by half and massive boost to Atk power for 3 turns",
@@ -49032,6 +49797,7 @@
           "lord damage range": "9312~10400"
         }
       ],
+      "max bc generated": 12,
       "name": "Crimson Wing"
     }
   },
@@ -49122,6 +49888,7 @@
           "lord damage range": "1476~1649"
         }
       ],
+      "max bc generated": 15,
       "name": "Red Strike"
     },
     "element": "fire",
@@ -49139,6 +49906,7 @@
     "lord def": 563,
     "lord hp": 2680,
     "lord rec": 390,
+    "max bc generated": 1,
     "rarity": 2
   },
   "Rose Sibyl Paula": {
@@ -49262,6 +50030,7 @@
           "lord damage range": "3649~4075"
         }
       ],
+      "max bc generated": 9,
       "name": "Mother Earth's Pulse"
     },
     "element": "earth",
@@ -49290,6 +50059,7 @@
     "lord def": 1400,
     "lord hp": 4504,
     "lord rec": 1400,
+    "max bc generated": 8,
     "rarity": 5
   },
   "Royal Dancer May": {
@@ -49372,6 +50142,7 @@
     "lord def": 957,
     "lord hp": 3648,
     "lord rec": 1126,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Royal Elimo": {
@@ -49483,6 +50254,7 @@
     "lord def": 1176,
     "lord hp": 3900,
     "lord rec": 1596,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Royal Guard Paris": {
@@ -49563,6 +50335,7 @@
           "lord damage range": "4898~5470"
         }
       ],
+      "max bc generated": 6,
       "name": "Lightning Volcano"
     },
     "element": "thunder",
@@ -49587,6 +50360,7 @@
     "lord def": 1570,
     "lord hp": 5000,
     "lord rec": 1330,
+    "max bc generated": 5,
     "rarity": 5
   },
   "Royal Guard Xenon": {
@@ -49688,6 +50462,7 @@
           "lord damage range": "3399~3797"
         }
       ],
+      "max bc generated": 7,
       "name": "Ardent Soul Slash"
     },
     "element": "dark",
@@ -49714,6 +50489,7 @@
     "lord def": 1225,
     "lord hp": 4125,
     "lord rec": 1090,
+    "max bc generated": 6,
     "rarity": 4
   },
   "Ryujin Mifune": {
@@ -49794,6 +50570,7 @@
           "lord damage range": "5516~6160"
         }
       ],
+      "max bc generated": 6,
       "name": "Cosmic Flash"
     },
     "element": "dark",
@@ -49815,6 +50592,7 @@
     "lord def": 928,
     "lord hp": 3682,
     "lord rec": 961,
+    "max bc generated": 5,
     "rarity": 5
   },
   "Sacred Flame Lava": {
@@ -49900,6 +50678,7 @@
           "lord damage range": "5149~5751"
         }
       ],
+      "max bc generated": 11,
       "name": "Crimson Lava"
     },
     "element": "fire",
@@ -49928,6 +50707,7 @@
     "lord def": 1581,
     "lord hp": 5689,
     "lord rec": 1508,
+    "max bc generated": 8,
     "rarity": 6,
     "sbb": {
       "desc": "12 combo powerful Fire attack on all enemies & adds defense ignoring effect to all allies' attack for 2 turns",
@@ -50028,6 +50808,7 @@
           "lord damage range": "8309~9280"
         }
       ],
+      "max bc generated": 12,
       "name": "Ragnarok"
     }
   },
@@ -50153,6 +50934,7 @@
           "lord damage range": "3582~4000"
         }
       ],
+      "max bc generated": 10,
       "name": "Rising Flare"
     },
     "element": "thunder",
@@ -50176,6 +50958,7 @@
     "lord def": 1251,
     "lord hp": 3953,
     "lord rec": 1367,
+    "max bc generated": 6,
     "rarity": 4
   },
   "Sage Mimir": {
@@ -50256,6 +51039,7 @@
     "lord def": 570,
     "lord hp": 1756,
     "lord rec": 567,
+    "max bc generated": 3,
     "rarity": 1
   },
   "Sahuagin": {
@@ -50346,6 +51130,7 @@
           "sick%": 80
         }
       ],
+      "max bc generated": 6,
       "name": "Dancing Charge"
     },
     "element": "water",
@@ -50365,6 +51150,7 @@
     "lord def": 721,
     "lord hp": 2325,
     "lord rec": 680,
+    "max bc generated": 3,
     "rarity": 2
   },
   "Saint Maria": {
@@ -50448,6 +51234,7 @@
     "lord def": 942,
     "lord hp": 3464,
     "lord rec": 1126,
+    "max bc generated": 6,
     "rarity": 4
   },
   "Salamander": {
@@ -50533,6 +51320,7 @@
     "lord def": 675,
     "lord hp": 2528,
     "lord rec": 270,
+    "max bc generated": 3,
     "rarity": 2
   },
   "Samurai Mifune": {
@@ -50610,6 +51398,7 @@
           "lord damage range": "2784~3109"
         }
       ],
+      "max bc generated": 3,
       "name": "Swordflash"
     },
     "element": "dark",
@@ -50629,6 +51418,7 @@
     "lord def": 533,
     "lord hp": 2540,
     "lord rec": 600,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Scar Blade Zelban": {
@@ -50762,6 +51552,7 @@
     "lord def": 1356,
     "lord hp": 4103,
     "lord rec": 1542,
+    "max bc generated": 5,
     "rarity": 4
   },
   "Scylla": {
@@ -50850,6 +51641,7 @@
           "poison%": 80
         }
       ],
+      "max bc generated": 8,
       "name": "Cold Torture"
     },
     "element": "water",
@@ -50870,6 +51662,7 @@
     "lord def": 766,
     "lord hp": 3100,
     "lord rec": 585,
+    "max bc generated": 4,
     "rarity": 3
   },
   "Scythe Alice": {
@@ -50951,6 +51744,7 @@
           "lord damage range": "3725~4160"
         }
       ],
+      "max bc generated": 7,
       "name": "Crimson Reaper"
     },
     "element": "dark",
@@ -50973,6 +51767,7 @@
     "lord def": 863,
     "lord hp": 3450,
     "lord rec": 1610,
+    "max bc generated": 3,
     "rarity": 4
   },
   "Scythe God Alice": {
@@ -51055,6 +51850,7 @@
           "lord damage range": "4151~4636"
         }
       ],
+      "max bc generated": 8,
       "name": "Abaddon Eater"
     },
     "element": "dark",
@@ -51079,6 +51875,7 @@
     "lord def": 1171,
     "lord hp": 3986,
     "lord rec": 1898,
+    "max bc generated": 5,
     "rarity": 5
   },
   "Sea King Mega": {
@@ -51161,6 +51958,7 @@
           "lord damage range": "5998~6699"
         }
       ],
+      "max bc generated": 8,
       "name": "Delta Flood"
     },
     "element": "water",
@@ -51188,6 +51986,7 @@
     "lord def": 1264,
     "lord hp": 5215,
     "lord rec": 1910,
+    "max bc generated": 7,
     "rarity": 6,
     "sbb": {
       "desc": "11 combo powerful Water attack on all enemies & large boost to BC drop rate ",
@@ -51277,6 +52076,7 @@
           "lord damage range": "7752~8658"
         }
       ],
+      "max bc generated": 22,
       "name": "Poseidon's Nightmare"
     }
   },
@@ -51368,6 +52168,7 @@
           "weaken%": 80
         }
       ],
+      "max bc generated": 6,
       "name": "Poseidon Axe"
     },
     "element": "water",
@@ -51389,6 +52190,7 @@
     "lord def": 950,
     "lord hp": 3701,
     "lord rec": 705,
+    "max bc generated": 5,
     "rarity": 4
   },
   "Selena": {
@@ -51457,6 +52259,7 @@
           "lord damage range": "1149~1284"
         }
       ],
+      "max bc generated": 4,
       "name": "Ethereal Blade"
     },
     "element": "water",
@@ -51478,6 +52281,7 @@
     "lord def": 468,
     "lord hp": 1830,
     "lord rec": 693,
+    "max bc generated": 2,
     "rarity": 2
   },
   "Shadow Oboro": {
@@ -51558,6 +52362,7 @@
           "lord damage range": "2161~2414"
         }
       ],
+      "max bc generated": 6,
       "name": "Foreign Beast"
     },
     "element": "dark",
@@ -51579,6 +52384,7 @@
     "lord def": 989,
     "lord hp": 3545,
     "lord rec": 1102,
+    "max bc generated": 5,
     "rarity": 4
   },
   "Shida": {
@@ -51659,6 +52465,7 @@
           "lord damage range": "2421~2704"
         }
       ],
+      "max bc generated": 6,
       "name": "Catastrophe"
     },
     "element": "dark",
@@ -51681,6 +52488,7 @@
     "lord def": 633,
     "lord hp": 2925,
     "lord rec": 1029,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Shock Bow Loch": {
@@ -51761,6 +52569,7 @@
           "lord damage range": "3700~4132"
         }
       ],
+      "max bc generated": 6,
       "name": "Pulsar Fall"
     },
     "element": "thunder",
@@ -51784,6 +52593,7 @@
     "lord def": 1296,
     "lord hp": 4500,
     "lord rec": 1275,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Shock Mage Rashil": {
@@ -51895,6 +52705,7 @@
     "lord def": 1268,
     "lord hp": 3849,
     "lord rec": 1343,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Shrine Girl Amul": {
@@ -51989,6 +52800,7 @@
     "lord def": 690,
     "lord hp": 2428,
     "lord rec": 857,
+    "max bc generated": 6,
     "rarity": 2
   },
   "Sir Sancus Xenon": {
@@ -52091,6 +52903,7 @@
           "lord damage range": "3957~4420"
         }
       ],
+      "max bc generated": 8,
       "name": "Soul Execution"
     },
     "element": "dark",
@@ -52119,6 +52932,7 @@
     "lord def": 1432,
     "lord hp": 5244,
     "lord rec": 1310,
+    "max bc generated": 8,
     "rarity": 5
   },
   "Siren": {
@@ -52221,6 +53035,7 @@
     "lord def": 1256,
     "lord hp": 4213,
     "lord rec": 780,
+    "max bc generated": 5,
     "rarity": 4
   },
   "Skeleton": {
@@ -52307,6 +53122,7 @@
           "sick%": 80
         }
       ],
+      "max bc generated": 2,
       "name": "Bone Smash"
     },
     "element": "dark",
@@ -52319,6 +53135,7 @@
     "lord def": 302,
     "lord hp": 1695,
     "lord rec": 151,
+    "max bc generated": 1,
     "rarity": 1
   },
   "Skeleton King": {
@@ -52406,6 +53223,7 @@
           "sick%": 80
         }
       ],
+      "max bc generated": 3,
       "name": "Vorpal Shock"
     },
     "element": "dark",
@@ -52424,6 +53242,7 @@
     "lord def": 538,
     "lord hp": 2295,
     "lord rec": 377,
+    "max bc generated": 2,
     "rarity": 2
   },
   "Skull Lord": {
@@ -52514,6 +53333,7 @@
           "sick%": 80
         }
       ],
+      "max bc generated": 6,
       "name": "Skull Vine"
     },
     "element": "dark",
@@ -52534,6 +53354,7 @@
     "lord def": 656,
     "lord hp": 3106,
     "lord rec": 460,
+    "max bc generated": 4,
     "rarity": 3
   },
   "Sky Angel Kushra": {
@@ -52626,6 +53447,7 @@
           "lord damage range": "3673~4102"
         }
       ],
+      "max bc generated": 8,
       "name": "Angelic Wave"
     },
     "element": "thunder",
@@ -52653,6 +53475,7 @@
     "lord def": 1276,
     "lord hp": 4459,
     "lord rec": 1306,
+    "max bc generated": 6,
     "rarity": 4
   },
   "Sky Angel Vanila": {
@@ -52809,6 +53632,7 @@
     "lord def": 1288,
     "lord hp": 5259,
     "lord rec": 1370,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Sky Boss Grafl": {
@@ -52912,6 +53736,7 @@
     "lord def": 952,
     "lord hp": 2700,
     "lord rec": 405,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Sky Emperor Grafl": {
@@ -53015,6 +53840,7 @@
     "lord def": 914,
     "lord hp": 3353,
     "lord rec": 1124,
+    "max bc generated": 6,
     "rarity": 4
   },
   "Sky Hero Athena": {
@@ -53096,6 +53922,7 @@
           "lord damage range": "2396~2676"
         }
       ],
+      "max bc generated": 7,
       "name": "Valkyrie Tempest"
     },
     "element": "light",
@@ -53118,6 +53945,7 @@
     "lord def": 1215,
     "lord hp": 3245,
     "lord rec": 750,
+    "max bc generated": 6,
     "rarity": 4
   },
   "Sky King Falma": {
@@ -53199,6 +54027,7 @@
           "paralysis%": 80
         }
       ],
+      "max bc generated": 7,
       "name": "Dual Arch"
     },
     "element": "thunder",
@@ -53222,6 +54051,7 @@
     "lord def": 1020,
     "lord hp": 4025,
     "lord rec": 1095,
+    "max bc generated": 7,
     "rarity": 4
   },
   "Sky Knight Falma": {
@@ -53301,6 +54131,7 @@
           "paralysis%": 80
         }
       ],
+      "max bc generated": 5,
       "name": "Flash Stream"
     },
     "element": "thunder",
@@ -53322,6 +54153,7 @@
     "lord def": 770,
     "lord hp": 3450,
     "lord rec": 763,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Sky Legend Falma": {
@@ -53404,6 +54236,7 @@
           "paralysis%": 80
         }
       ],
+      "max bc generated": 8,
       "name": "Rising Arc"
     },
     "element": "thunder",
@@ -53428,6 +54261,7 @@
     "lord def": 1232,
     "lord hp": 4990,
     "lord rec": 1213,
+    "max bc generated": 8,
     "rarity": 5
   },
   "Sky Mage Rashil": {
@@ -53543,6 +54377,7 @@
     "lord def": 1868,
     "lord hp": 5721,
     "lord rec": 1983,
+    "max bc generated": 7,
     "rarity": 6,
     "sbb": {
       "desc": "Greatly recovers HP for all allies, boosts critical hit rate for 3 turns, and renders self able to withstand a KO",
@@ -53729,6 +54564,7 @@
     "lord def": 701,
     "lord hp": 2170,
     "lord rec": 190,
+    "max bc generated": 3,
     "rarity": 2
   },
   "Sky Queen Vanila": {
@@ -53881,6 +54717,7 @@
     "lord def": 1095,
     "lord hp": 4155,
     "lord rec": 1138,
+    "max bc generated": 6,
     "rarity": 4
   },
   "Smith Lord Galant": {
@@ -53962,6 +54799,7 @@
           "weaken%": 55
         }
       ],
+      "max bc generated": 7,
       "name": "Veldre Dish"
     },
     "element": "fire",
@@ -53979,6 +54817,7 @@
     "lord def": 1483,
     "lord hp": 4380,
     "lord rec": 1011,
+    "max bc generated": 1,
     "rarity": 5
   },
   "Snow Blade Stya": {
@@ -54061,6 +54900,7 @@
           "lord damage range": "2622~2928"
         }
       ],
+      "max bc generated": 16,
       "name": "Avalanche"
     },
     "element": "water",
@@ -54085,6 +54925,7 @@
     "lord def": 689,
     "lord hp": 2430,
     "lord rec": 1022,
+    "max bc generated": 8,
     "rarity": 3
   },
   "Snow Cub Signas": {
@@ -54175,6 +55016,7 @@
           "lord damage range": "4241~4737"
         }
       ],
+      "max bc generated": 6,
       "name": "Molte Nix"
     },
     "element": "water",
@@ -54195,6 +55037,7 @@
     "lord def": 1275,
     "lord hp": 4473,
     "lord rec": 1000,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Snow Lion Signas": {
@@ -54286,6 +55129,7 @@
           "lord damage range": "5635~6294"
         }
       ],
+      "max bc generated": 7,
       "name": "Molte Anima"
     },
     "element": "water",
@@ -54307,6 +55151,7 @@
     "lord def": 1365,
     "lord hp": 5680,
     "lord rec": 1100,
+    "max bc generated": 5,
     "rarity": 5
   },
   "Snow Queen Signas": {
@@ -54400,6 +55245,7 @@
           "lord damage range": "7060~7886"
         }
       ],
+      "max bc generated": 9,
       "name": "Molte Zeus"
     },
     "element": "water",
@@ -54425,6 +55271,7 @@
     "lord def": 1533,
     "lord hp": 6373,
     "lord rec": 1432,
+    "max bc generated": 7,
     "rarity": 6,
     "sbb": {
       "desc": "11 combo powerful Water attack on all enemies, probable Injury effect & boost to Atk for Water types for 3 turns",
@@ -54544,6 +55391,7 @@
           "lord damage range": "11775~13150"
         }
       ],
+      "max bc generated": 11,
       "name": "Molte Signas"
     }
   },
@@ -54668,6 +55516,7 @@
           "poison%": 45
         }
       ],
+      "max bc generated": 9,
       "name": "Permafrost"
     },
     "element": "water",
@@ -54695,6 +55544,7 @@
     "lord def": 1255,
     "lord hp": 4616,
     "lord rec": 1347,
+    "max bc generated": 7,
     "rarity": 5
   },
   "Sola": {
@@ -54817,6 +55667,7 @@
           "lord damage range": "2509~2802"
         }
       ],
+      "max bc generated": 8,
       "name": "Flash Effect"
     },
     "element": "light",
@@ -54843,6 +55694,7 @@
     "lord def": 1239,
     "lord hp": 3807,
     "lord rec": 1392,
+    "max bc generated": 5,
     "rarity": 4
   },
   "Sorceress Lily": {
@@ -54921,6 +55773,7 @@
           "lord damage range": "925~1033"
         }
       ],
+      "max bc generated": 4,
       "name": "Albatross' Glory"
     },
     "element": "dark",
@@ -54940,6 +55793,7 @@
     "lord def": 420,
     "lord hp": 1650,
     "lord rec": 468,
+    "max bc generated": 3,
     "rarity": 1
   },
   "Soul Keeper Lemia": {
@@ -55032,6 +55886,7 @@
           "poison%": 45
         }
       ],
+      "max bc generated": 8,
       "name": "Black Hole"
     },
     "element": "dark",
@@ -55056,6 +55911,7 @@
     "lord def": 1261,
     "lord hp": 4796,
     "lord rec": 1547,
+    "max bc generated": 8,
     "rarity": 5
   },
   "Soul Vortex Lemia": {
@@ -55150,6 +56006,7 @@
           "poison%": 45
         }
       ],
+      "max bc generated": 10,
       "name": "Asmodeus"
     },
     "element": "dark",
@@ -55177,6 +56034,7 @@
     "lord def": 1600,
     "lord hp": 5677,
     "lord rec": 1799,
+    "max bc generated": 9,
     "rarity": 6,
     "sbb": {
       "desc": "12 combo Dark elemental attack on all enemies & chance of inflicting a random status ailment",
@@ -55317,6 +56175,7 @@
           "weaken%": 45
         }
       ],
+      "max bc generated": 12,
       "name": "Realm of Darkness"
     }
   },
@@ -55396,6 +56255,7 @@
           "lord damage range": "1958~2188"
         }
       ],
+      "max bc generated": 4,
       "name": "Spark Kick"
     },
     "element": "thunder",
@@ -55416,6 +56276,7 @@
     "lord def": 640,
     "lord hp": 3309,
     "lord rec": 614,
+    "max bc generated": 4,
     "rarity": 3
   },
   "Sparky": {
@@ -55491,6 +56352,7 @@
           "lord damage range": "804~898"
         }
       ],
+      "max bc generated": 5,
       "name": "Gnawing Shock"
     },
     "element": "thunder",
@@ -55503,6 +56365,7 @@
     "lord def": 367,
     "lord hp": 1628,
     "lord rec": 273,
+    "max bc generated": 1,
     "rarity": 1
   },
   "Spear Arms Raydn": {
@@ -55605,6 +56468,7 @@
           "spark dmg% buff": 50
         }
       ],
+      "max bc generated": 8,
       "name": "Atlantis"
     },
     "element": "water",
@@ -55629,6 +56493,7 @@
     "lord def": 1619,
     "lord hp": 5376,
     "lord rec": 1505,
+    "max bc generated": 5,
     "rarity": 5
   },
   "Spear Fist Raydn": {
@@ -55728,6 +56593,7 @@
           "spark dmg% buff": 40
         }
       ],
+      "max bc generated": 5,
       "name": "Flood Horn"
     },
     "element": "water",
@@ -55750,6 +56616,7 @@
     "lord def": 1382,
     "lord hp": 4378,
     "lord rec": 1191,
+    "max bc generated": 3,
     "rarity": 4
   },
   "Spear King Raydn": {
@@ -55856,6 +56723,7 @@
           "spark dmg% buff": 60
         }
       ],
+      "max bc generated": 12,
       "name": "Flood Gate"
     },
     "element": "water",
@@ -55882,6 +56750,7 @@
     "lord def": 1911,
     "lord hp": 6022,
     "lord rec": 1679,
+    "max bc generated": 7,
     "rarity": 6,
     "sbb": {
       "desc": "14 combo powerful Water attack on all enemies, boost to Spark damage for 3 turns & adds defense ignoring effect to all allies' attack for 2 turns",
@@ -56004,6 +56873,7 @@
           "spark dmg% buff": 70
         }
       ],
+      "max bc generated": 14,
       "name": "Niflheimr"
     }
   },
@@ -56071,6 +56941,7 @@
           "lord damage range": "1140~1274"
         }
       ],
+      "max bc generated": 2,
       "name": "Divine Sword"
     },
     "element": "light",
@@ -56091,6 +56962,7 @@
     "lord def": 700,
     "lord hp": 1852,
     "lord rec": 700,
+    "max bc generated": 1,
     "rarity": 2
   },
   "Squirty": {
@@ -56166,6 +57038,7 @@
           "lord damage range": "736~823"
         }
       ],
+      "max bc generated": 5,
       "name": "Gnawing Ice"
     },
     "element": "water",
@@ -56178,6 +57051,7 @@
     "lord def": 392,
     "lord hp": 1596,
     "lord rec": 408,
+    "max bc generated": 1,
     "rarity": 1
   },
   "Star King Nekky": {
@@ -56258,6 +57132,7 @@
           "lord damage range": "4055~4529"
         }
       ],
+      "max bc generated": 6,
       "name": "Final Gavas Break"
     },
     "element": "light",
@@ -56280,6 +57155,7 @@
     "lord def": 1230,
     "lord hp": 4350,
     "lord rec": 1550,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Star Prince Nekky": {
@@ -56359,6 +57235,7 @@
           "lord damage range": "3324~3712"
         }
       ],
+      "max bc generated": 5,
       "name": "Gavas Break"
     },
     "element": "light",
@@ -56380,6 +57257,7 @@
     "lord def": 1100,
     "lord hp": 3960,
     "lord rec": 1400,
+    "max bc generated": 5,
     "rarity": 4
   },
   "Steel Shield Darvan": {
@@ -56502,6 +57380,7 @@
           "lord damage range": "4202~4693"
         }
       ],
+      "max bc generated": 8,
       "name": "Crack Hail"
     },
     "element": "earth",
@@ -56524,6 +57403,7 @@
     "lord def": 1522,
     "lord hp": 5243,
     "lord rec": 1341,
+    "max bc generated": 5,
     "rarity": 5
   },
   "Storm Wing Cerise": {
@@ -56648,6 +57528,7 @@
           "lord damage range": "3281~3664"
         }
       ],
+      "max bc generated": 20,
       "name": "Bullet Blaze Crescendo"
     },
     "element": "thunder",
@@ -56681,6 +57562,7 @@
     "lord def": 1220,
     "lord hp": 4650,
     "lord rec": 1000,
+    "max bc generated": 13,
     "rarity": 4
   },
   "Strategist Weiss": {
@@ -56773,6 +57655,7 @@
     "lord def": 715,
     "lord hp": 3630,
     "lord rec": 1425,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Stya": {
@@ -56852,6 +57735,7 @@
           "lord damage range": "2036~2274"
         }
       ],
+      "max bc generated": 10,
       "name": "Glacier Circle"
     },
     "element": "water",
@@ -56873,6 +57757,7 @@
     "lord def": 462,
     "lord hp": 1932,
     "lord rec": 936,
+    "max bc generated": 5,
     "rarity": 2
   },
   "Succubus": {
@@ -56966,6 +57851,7 @@
     "lord def": 798,
     "lord hp": 2445,
     "lord rec": 804,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Sunshine Luna": {
@@ -57043,6 +57929,7 @@
           "lord damage range": "2564~2864"
         }
       ],
+      "max bc generated": 3,
       "name": "Crude Stab"
     },
     "element": "light",
@@ -57062,6 +57949,7 @@
     "lord def": 1040,
     "lord hp": 2508,
     "lord rec": 502,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Swordswoman Seria": {
@@ -57142,6 +58030,7 @@
           "lord damage range": "3874~4326"
         }
       ],
+      "max bc generated": 6,
       "name": "Fatal Flame"
     },
     "element": "fire",
@@ -57163,6 +58052,7 @@
     "lord def": 1200,
     "lord hp": 4060,
     "lord rec": 1300,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Sylph": {
@@ -57238,6 +58128,7 @@
     "lord def": 742,
     "lord hp": 1928,
     "lord rec": 405,
+    "max bc generated": 3,
     "rarity": 2
   },
   "Taskmaster Lorand": {
@@ -57339,6 +58230,7 @@
           "weaken%": 80
         }
       ],
+      "max bc generated": 7,
       "name": "Incinerating Spirit"
     },
     "element": "fire",
@@ -57366,6 +58258,7 @@
     "lord def": 1405,
     "lord hp": 5555,
     "lord rec": 1525,
+    "max bc generated": 6,
     "rarity": 6,
     "sbb": {
       "desc": "8 combo massive Fire elemental attack on single enemy & greatly boosts Unit's own Atk, Def, and Rec for 3 turns",
@@ -57492,6 +58385,7 @@
           "rec% buff": 100
         }
       ],
+      "max bc generated": 8,
       "name": "Charred Spirit"
     }
   },
@@ -57572,6 +58466,7 @@
           "lord damage range": "10864~12133"
         }
       ],
+      "max bc generated": 30,
       "name": "Arcana Blaster"
     },
     "element": "light",
@@ -57598,6 +58493,7 @@
     "lord def": 1792,
     "lord hp": 6005,
     "lord rec": 1649,
+    "max bc generated": 9,
     "rarity": 6,
     "sbb": {
       "desc": "16 combo massive Light attack on single enemy & fills own BB gauge to max",
@@ -57682,6 +58578,7 @@
           "self fill bb gauge": true
         }
       ],
+      "max bc generated": 32,
       "name": "Eternity Force"
     }
   },
@@ -57773,6 +58670,7 @@
           "lord damage range": "6056~6764"
         }
       ],
+      "max bc generated": 6,
       "name": "Electric Shock"
     },
     "element": "thunder",
@@ -57796,6 +58694,7 @@
     "lord def": 1207,
     "lord hp": 5111,
     "lord rec": 2203,
+    "max bc generated": 4,
     "rarity": 6,
     "sbb": {
       "desc": "8 combo Thunder elemental attack on all enemies, probable Injury effect, and slightly increases BB gauge for 3 turns",
@@ -57902,6 +58801,7 @@
           "lord damage range": "10127~11311"
         }
       ],
+      "max bc generated": 8,
       "name": "Master of Invention"
     }
   },
@@ -57981,6 +58881,7 @@
           "poison%": 80
         }
       ],
+      "max bc generated": 4,
       "name": "Poison Gale"
     },
     "element": "fire",
@@ -58001,6 +58902,7 @@
     "lord def": 635,
     "lord hp": 2220,
     "lord rec": 630,
+    "max bc generated": 4,
     "rarity": 2
   },
   "Thunder Bulb": {
@@ -58022,6 +58924,7 @@
     "lord def": 720,
     "lord hp": 2400,
     "lord rec": 300,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Thunder Cat Parmi": {
@@ -58115,6 +59018,7 @@
           "lord damage range": "2477~2766"
         }
       ],
+      "max bc generated": 9,
       "name": "Spiral Scratch"
     },
     "element": "thunder",
@@ -58140,6 +59044,7 @@
     "lord def": 804,
     "lord hp": 3542,
     "lord rec": 953,
+    "max bc generated": 8,
     "rarity": 3
   },
   "Thunder Crystal": {
@@ -58160,6 +59065,7 @@
     "lord def": 450,
     "lord hp": 3000,
     "lord rec": 450,
+    "max bc generated": 4,
     "rarity": 5
   },
   "Thunder Eze": {
@@ -58236,6 +59142,7 @@
           "lord damage range": "1761~1967"
         }
       ],
+      "max bc generated": 2,
       "name": "Thunder Execution"
     },
     "element": "thunder",
@@ -58256,6 +59163,7 @@
     "lord def": 687,
     "lord hp": 2749,
     "lord rec": 426,
+    "max bc generated": 1,
     "rarity": 3
   },
   "Thunder Ghost": {
@@ -58273,6 +59181,7 @@
     "lord def": 120,
     "lord hp": 900,
     "lord rec": 120,
+    "max bc generated": 1,
     "rarity": 3
   },
   "Thunder God": {
@@ -58292,6 +59201,7 @@
     "lord def": 120,
     "lord hp": 1800,
     "lord rec": 120,
+    "max bc generated": 3,
     "rarity": 5
   },
   "Thunder God Eze": {
@@ -58373,6 +59283,7 @@
           "lord damage range": "3590~4010"
         }
       ],
+      "max bc generated": 7,
       "name": "Heavenly Thunder"
     },
     "element": "thunder",
@@ -58395,6 +59306,7 @@
     "lord def": 1006,
     "lord hp": 4233,
     "lord rec": 770,
+    "max bc generated": 3,
     "rarity": 5
   },
   "Thunder Idol": {
@@ -58416,6 +59328,7 @@
     "lord def": 500,
     "lord hp": 2300,
     "lord rec": 100,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Thunder Kick Zeln": {
@@ -58495,6 +59408,7 @@
           "lord damage range": "2394~2674"
         }
       ],
+      "max bc generated": 5,
       "name": "Thunder Kick"
     },
     "element": "thunder",
@@ -58516,6 +59430,7 @@
     "lord def": 780,
     "lord hp": 4021,
     "lord rec": 768,
+    "max bc generated": 5,
     "rarity": 4
   },
   "Thunder King": {
@@ -58534,6 +59449,7 @@
     "lord def": 120,
     "lord hp": 1350,
     "lord rec": 120,
+    "max bc generated": 2,
     "rarity": 4
   },
   "Thunder King Eze": {
@@ -58613,6 +59529,7 @@
           "lord damage range": "2937~3281"
         }
       ],
+      "max bc generated": 5,
       "name": "Thunder Retribution"
     },
     "element": "thunder",
@@ -58634,6 +59551,7 @@
     "lord def": 838,
     "lord hp": 3509,
     "lord rec": 565,
+    "max bc generated": 2,
     "rarity": 4
   },
   "Thunder Nymph": {
@@ -58653,6 +59571,7 @@
     "lord def": 300,
     "lord hp": 1100,
     "lord rec": 300,
+    "max bc generated": 3,
     "rarity": 1
   },
   "Thunder Pot": {
@@ -58674,6 +59593,7 @@
     "lord def": 400,
     "lord hp": 2600,
     "lord rec": 300,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Thunder Punt Zeln": {
@@ -58754,6 +59674,7 @@
           "lord damage range": "3250~3630"
         }
       ],
+      "max bc generated": 6,
       "name": "Lightning Kick"
     },
     "element": "thunder",
@@ -58776,6 +59697,7 @@
     "lord def": 1033,
     "lord hp": 4926,
     "lord rec": 1115,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Thunder Spirit": {
@@ -58797,6 +59719,7 @@
     "lord def": 400,
     "lord hp": 1800,
     "lord rec": 200,
+    "max bc generated": 5,
     "rarity": 2
   },
   "Thunder Totem": {
@@ -58817,6 +59740,7 @@
     "lord def": 700,
     "lord hp": 3300,
     "lord rec": 50,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Thunderbird": {
@@ -58915,6 +59839,7 @@
     "lord def": 721,
     "lord hp": 3064,
     "lord rec": 750,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Tilith": {
@@ -59013,6 +59938,7 @@
     "lord def": 1340,
     "lord hp": 4500,
     "lord rec": 1680,
+    "max bc generated": 5,
     "rarity": 4
   },
   "Time Lord Claris": {
@@ -59095,6 +60021,7 @@
     "lord def": 1098,
     "lord hp": 3970,
     "lord rec": 1188,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Time Mage Claris": {
@@ -59177,6 +60104,7 @@
     "lord def": 792,
     "lord hp": 2520,
     "lord rec": 784,
+    "max bc generated": 5,
     "rarity": 2
   },
   "Tinkerer Elulu": {
@@ -59263,6 +60191,7 @@
           "lord damage range": "2560~2860"
         }
       ],
+      "max bc generated": 2,
       "name": "Spark Hammer"
     },
     "element": "thunder",
@@ -59280,6 +60209,7 @@
     "lord def": 600,
     "lord hp": 2750,
     "lord rec": 1416,
+    "max bc generated": 1,
     "rarity": 3
   },
   "Titan Wing Blaze": {
@@ -59392,6 +60322,7 @@
           "lord damage range": "4460~4981"
         }
       ],
+      "max bc generated": 8,
       "name": "Armageddon Destructor"
     },
     "element": "fire",
@@ -59416,6 +60347,7 @@
     "lord def": 1345,
     "lord hp": 5360,
     "lord rec": 1298,
+    "max bc generated": 4,
     "rarity": 5
   },
   "Titania": {
@@ -59507,6 +60439,7 @@
     "lord def": 634,
     "lord hp": 2414,
     "lord rec": 1050,
+    "max bc generated": 4,
     "rarity": 3
   },
   "Traveler Alma": {
@@ -59575,6 +60508,7 @@
           "lord damage range": "1134~1266"
         }
       ],
+      "max bc generated": 4,
       "name": "Brave Edge"
     },
     "element": "light",
@@ -59589,6 +60523,7 @@
     "lord def": 652,
     "lord hp": 2210,
     "lord rec": 705,
+    "max bc generated": 3,
     "rarity": 2
   },
   "Trent": {
@@ -59656,6 +60591,7 @@
           "lord damage range": "670~749"
         }
       ],
+      "max bc generated": 3,
       "name": "Terra Firma"
     },
     "element": "earth",
@@ -59670,6 +60606,7 @@
     "lord def": 686,
     "lord hp": 1950,
     "lord rec": 893,
+    "max bc generated": 3,
     "rarity": 2
   },
   "Twin Arms Rickel": {
@@ -59782,6 +60719,7 @@
           "poison%": 80
         }
       ],
+      "max bc generated": 18,
       "name": "Ancient Ovis"
     },
     "element": "water",
@@ -59815,6 +60753,7 @@
     "lord def": 1325,
     "lord hp": 5565,
     "lord rec": 2238,
+    "max bc generated": 16,
     "rarity": 6,
     "sbb": {
       "desc": "20 combo massive Water attack on single enemy & probable Paralysis and Poison effect",
@@ -59923,6 +60862,7 @@
           "poison%": 80
         }
       ],
+      "max bc generated": 20,
       "name": "Crystal Fanaa"
     }
   },
@@ -60028,6 +60968,7 @@
           "poison%": 80
         }
       ],
+      "max bc generated": 10,
       "name": "Diamond Rebel"
     },
     "element": "water",
@@ -60054,6 +60995,7 @@
     "lord def": 965,
     "lord hp": 4092,
     "lord rec": 1617,
+    "max bc generated": 10,
     "rarity": 4
   },
   "Twin Gem Rickel": {
@@ -60154,6 +61096,7 @@
           "poison%": 80
         }
       ],
+      "max bc generated": 6,
       "name": "Crystal Bullet"
     },
     "element": "water",
@@ -60176,6 +61119,7 @@
     "lord def": 703,
     "lord hp": 3100,
     "lord rec": 1326,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Twin Shot Rickel": {
@@ -60284,6 +61228,7 @@
           "poison%": 80
         }
       ],
+      "max bc generated": 14,
       "name": "Ancient Bullet"
     },
     "element": "water",
@@ -60314,6 +61259,7 @@
     "lord def": 1150,
     "lord hp": 4972,
     "lord rec": 1950,
+    "max bc generated": 14,
     "rarity": 5
   },
   "Twins Il & Mina": {
@@ -60392,6 +61338,7 @@
           "lord damage range": "2754~3076"
         }
       ],
+      "max bc generated": 4,
       "name": "Star Twins"
     },
     "element": "earth",
@@ -60416,6 +61363,7 @@
     "lord def": 995,
     "lord hp": 3402,
     "lord rec": 1122,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Ultra Blade Aem": {
@@ -60498,6 +61446,7 @@
           "lord damage range": "5261~5877"
         }
       ],
+      "max bc generated": 8,
       "name": "Orbital Glow"
     },
     "element": "light",
@@ -60520,6 +61469,7 @@
     "lord def": 1436,
     "lord hp": 5934,
     "lord rec": 1471,
+    "max bc generated": 6,
     "rarity": 6,
     "sbb": {
       "desc": "10 combo powerful Light attack on all enemies & boost to BC drop rate for 3 turns",
@@ -60608,6 +61558,7 @@
           "lord damage range": "8459~9448"
         }
       ],
+      "max bc generated": 10,
       "name": "Sworn Bond"
     }
   },
@@ -60709,6 +61660,7 @@
     "lord def": 964,
     "lord hp": 3345,
     "lord rec": 480,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Unflinching Themis": {
@@ -60834,6 +61786,7 @@
     "lord def": 1394,
     "lord hp": 4985,
     "lord rec": 1727,
+    "max bc generated": 7,
     "rarity": 5
   },
   "Unholy Magress": {
@@ -60916,6 +61869,7 @@
           "lord damage range": "4078~4555"
         }
       ],
+      "max bc generated": 8,
       "name": "Bloody Chaos"
     },
     "element": "dark",
@@ -60940,6 +61894,7 @@
     "lord def": 1659,
     "lord hp": 5942,
     "lord rec": 960,
+    "max bc generated": 4,
     "rarity": 6,
     "sbb": {
       "desc": "9 combo Dark elemental attack on all enemies & great boost to all allies' Def for 3 turns",
@@ -61047,6 +62002,7 @@
           "lord damage range": "6997~7815"
         }
       ],
+      "max bc generated": 9,
       "name": "Dark Eraser"
     }
   },
@@ -61128,6 +62084,7 @@
           "lord damage range": "1182~1320"
         }
       ],
+      "max bc generated": 12,
       "name": "Mirage Horn"
     },
     "element": "light",
@@ -61149,6 +62106,7 @@
     "lord def": 658,
     "lord hp": 2246,
     "lord rec": 752,
+    "max bc generated": 5,
     "rarity": 2
   },
   "Valkyrie": {
@@ -61228,6 +62186,7 @@
           "lord damage range": "1614~1803"
         }
       ],
+      "max bc generated": 5,
       "name": "Star Air Raid"
     },
     "element": "light",
@@ -61248,6 +62207,7 @@
     "lord def": 924,
     "lord hp": 2550,
     "lord rec": 450,
+    "max bc generated": 4,
     "rarity": 3
   },
   "Vampire": {
@@ -61325,6 +62285,7 @@
           "lord damage range": "1268~1417"
         }
       ],
+      "max bc generated": 3,
       "name": "Blood Gluttony"
     },
     "element": "dark",
@@ -61344,6 +62305,7 @@
     "lord def": 740,
     "lord hp": 3112,
     "lord rec": 825,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Vine Pike Lance": {
@@ -61423,6 +62385,7 @@
           "lord damage range": "1619~1808"
         }
       ],
+      "max bc generated": 5,
       "name": "Flash Tornado"
     },
     "element": "earth",
@@ -61445,6 +62408,7 @@
     "lord def": 938,
     "lord hp": 2500,
     "lord rec": 455,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Vorpal Wing Cerise": {
@@ -61571,6 +62535,7 @@
           "lord damage range": "4143~4626"
         }
       ],
+      "max bc generated": 22,
       "name": "Trigger Song Symphony"
     },
     "element": "thunder",
@@ -61606,6 +62571,7 @@
     "lord def": 1500,
     "lord hp": 5850,
     "lord rec": 1100,
+    "max bc generated": 15,
     "rarity": 5
   },
   "War Captain Mega": {
@@ -61685,6 +62651,7 @@
           "lord damage range": "3408~3807"
         }
       ],
+      "max bc generated": 5,
       "name": "Tempest Gallows"
     },
     "element": "water",
@@ -61707,6 +62674,7 @@
     "lord def": 910,
     "lord hp": 3666,
     "lord rec": 1550,
+    "max bc generated": 3,
     "rarity": 4
   },
   "War Demon Vishra": {
@@ -61797,6 +62765,7 @@
           "lord damage range": "3743~4180"
         }
       ],
+      "max bc generated": 6,
       "name": "Demon Cremation"
     },
     "element": "fire",
@@ -61823,6 +62792,7 @@
     "lord def": 1235,
     "lord hp": 3872,
     "lord rec": 940,
+    "max bc generated": 5,
     "rarity": 4
   },
   "War Girl Ophelia": {
@@ -61904,6 +62874,7 @@
           "lord damage range": "3784~4226"
         }
       ],
+      "max bc generated": 7,
       "name": "Grass Cage"
     },
     "element": "earth",
@@ -61927,6 +62898,7 @@
     "lord def": 1431,
     "lord hp": 5542,
     "lord rec": 1539,
+    "max bc generated": 4,
     "rarity": 5
   },
   "War Queen Ophelia": {
@@ -62011,6 +62983,7 @@
           "lord damage range": "4896~5468"
         }
       ],
+      "max bc generated": 10,
       "name": "Infinite Ivy"
     },
     "element": "earth",
@@ -62037,6 +63010,7 @@
     "lord def": 1601,
     "lord hp": 6248,
     "lord rec": 1722,
+    "max bc generated": 7,
     "rarity": 6,
     "sbb": {
       "desc": "13 combo Earth elemental attack on all enemies & slightly increases BB gauge for 3 turns",
@@ -62138,6 +63112,7 @@
           "lord damage range": "8407~9389"
         }
       ],
+      "max bc generated": 13,
       "name": "Yggdrasill"
     }
   },
@@ -62225,6 +63200,7 @@
           "paralysis%": 45
         }
       ],
+      "max bc generated": 12,
       "name": "Rocket Storm"
     },
     "element": "fire",
@@ -62256,6 +63232,7 @@
     "lord def": 1515,
     "lord hp": 5150,
     "lord rec": 1265,
+    "max bc generated": 12,
     "rarity": 5
   },
   "Warlock Liza": {
@@ -62325,6 +63302,7 @@
           "lord damage range": "1225~1368"
         }
       ],
+      "max bc generated": 5,
       "name": "Explosion"
     },
     "element": "fire",
@@ -62346,6 +63324,7 @@
     "lord def": 675,
     "lord hp": 2400,
     "lord rec": 696,
+    "max bc generated": 5,
     "rarity": 2
   },
   "Warrior Eze": {
@@ -62412,6 +63391,7 @@
           "lord damage range": "1322~1477"
         }
       ],
+      "max bc generated": 2,
       "name": "Thunder Expulsion"
     },
     "element": "thunder",
@@ -62432,6 +63412,7 @@
     "lord def": 420,
     "lord hp": 2070,
     "lord rec": 210,
+    "max bc generated": 1,
     "rarity": 2
   },
   "Water Bulb": {
@@ -62453,6 +63434,7 @@
     "lord def": 730,
     "lord hp": 2300,
     "lord rec": 400,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Water Crystal": {
@@ -62473,6 +63455,7 @@
     "lord def": 500,
     "lord hp": 3500,
     "lord rec": 550,
+    "max bc generated": 4,
     "rarity": 5
   },
   "Water Ghost": {
@@ -62490,6 +63473,7 @@
     "lord def": 123,
     "lord hp": 1000,
     "lord rec": 125,
+    "max bc generated": 1,
     "rarity": 3
   },
   "Water God": {
@@ -62509,6 +63493,7 @@
     "lord def": 123,
     "lord hp": 2000,
     "lord rec": 125,
+    "max bc generated": 3,
     "rarity": 5
   },
   "Water Idol": {
@@ -62530,6 +63515,7 @@
     "lord def": 500,
     "lord hp": 2300,
     "lord rec": 100,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Water King": {
@@ -62548,6 +63534,7 @@
     "lord def": 123,
     "lord hp": 1500,
     "lord rec": 125,
+    "max bc generated": 2,
     "rarity": 4
   },
   "Water Nymph": {
@@ -62567,6 +63554,7 @@
     "lord def": 300,
     "lord hp": 1100,
     "lord rec": 300,
+    "max bc generated": 3,
     "rarity": 1
   },
   "Water Pot": {
@@ -62588,6 +63576,7 @@
     "lord def": 800,
     "lord hp": 2300,
     "lord rec": 400,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Water Spirit": {
@@ -62609,6 +63598,7 @@
     "lord def": 400,
     "lord hp": 1800,
     "lord rec": 200,
+    "max bc generated": 5,
     "rarity": 2
   },
   "Water Totem": {
@@ -62629,6 +63619,7 @@
     "lord def": 700,
     "lord hp": 3300,
     "lord rec": 50,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Wendigo": {
@@ -62705,6 +63696,7 @@
           "sick%": 80
         }
       ],
+      "max bc generated": 6,
       "name": "Double Blizzard"
     },
     "element": "water",
@@ -62718,6 +63710,7 @@
     "lord def": 770,
     "lord hp": 2295,
     "lord rec": 332,
+    "max bc generated": 2,
     "rarity": 2
   },
   "White Lebra": {
@@ -62829,6 +63822,7 @@
     "lord def": 1233,
     "lord hp": 4408,
     "lord rec": 1525,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Wild Bandit Zaza": {
@@ -62919,6 +63913,7 @@
           "lord damage range": "2680~2994"
         }
       ],
+      "max bc generated": 6,
       "name": "Demon's Punishment"
     },
     "element": "earth",
@@ -62941,6 +63936,7 @@
     "lord def": 1079,
     "lord hp": 3291,
     "lord rec": 556,
+    "max bc generated": 6,
     "rarity": 4
   },
   "Wild Cat Parmi": {
@@ -63022,6 +64018,7 @@
           "lord damage range": "1675~1870"
         }
       ],
+      "max bc generated": 7,
       "name": "Impulse Beat"
     },
     "element": "thunder",
@@ -63045,6 +64042,7 @@
     "lord def": 646,
     "lord hp": 2685,
     "lord rec": 657,
+    "max bc generated": 6,
     "rarity": 2
   },
   "Wild Slash Bayley": {
@@ -63125,6 +64123,7 @@
           "poison%": 50
         }
       ],
+      "max bc generated": 6,
       "name": "Slash Strike"
     },
     "element": "earth",
@@ -63149,6 +64148,7 @@
     "lord def": 1289,
     "lord hp": 5278,
     "lord rec": 1556,
+    "max bc generated": 5,
     "rarity": 5
   },
   "Wise Mage Elimo": {
@@ -63263,6 +64263,7 @@
     "lord def": 1524,
     "lord hp": 5338,
     "lord rec": 2184,
+    "max bc generated": 6,
     "rarity": 6,
     "sbb": {
       "desc": "Greatly recovers HP, boosts Def for 3 turns, and decreases damage taken for 1 turn for all allies",
@@ -63436,6 +64437,7 @@
           "lord damage range": "774~865"
         }
       ],
+      "max bc generated": 3,
       "name": "Eruption"
     },
     "element": "fire",
@@ -63455,6 +64457,7 @@
     "lord def": 450,
     "lord hp": 1700,
     "lord rec": 494,
+    "max bc generated": 3,
     "rarity": 1
   },
   "World Tree Altro": {
@@ -63547,6 +64550,7 @@
     "lord def": 1380,
     "lord hp": 4274,
     "lord rec": 824,
+    "max bc generated": 5,
     "rarity": 4
   },
   "Worldly Themis": {
@@ -63676,6 +64680,7 @@
     "lord def": 1645,
     "lord hp": 5925,
     "lord rec": 2021,
+    "max bc generated": 10,
     "rarity": 6,
     "sbb": {
       "desc": "Greatly recovers HP for all allies & adds Dark element to attack and boosts Rec for all allies for 3 turns",
@@ -63912,6 +64917,7 @@
     "lord def": 728,
     "lord hp": 2890,
     "lord rec": 453,
+    "max bc generated": 3,
     "rarity": 3
   },
   "Xenon": {
@@ -64012,6 +65018,7 @@
           "lord damage range": "2454~2741"
         }
       ],
+      "max bc generated": 6,
       "name": "Soul Slash"
     },
     "element": "dark",
@@ -64038,6 +65045,7 @@
     "lord def": 1019,
     "lord hp": 3235,
     "lord rec": 965,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Xenon & Estia": {
@@ -64160,6 +65168,7 @@
           "lord damage range": "4179~4667"
         }
       ],
+      "max bc generated": 8,
       "name": "Elysian Glory"
     },
     "element": "light",
@@ -64192,6 +65201,7 @@
     "lord def": 1400,
     "lord hp": 5445,
     "lord rec": 1200,
+    "max bc generated": 10,
     "rarity": 5
   },
   "Xipe Totec": {
@@ -64263,6 +65273,7 @@
           "lord damage range": "2151~2403"
         }
       ],
+      "max bc generated": 7,
       "name": "Ethereal Bomb"
     },
     "element": "earth",
@@ -64285,6 +65296,7 @@
     "lord def": 1124,
     "lord hp": 3256,
     "lord rec": 1105,
+    "max bc generated": 6,
     "rarity": 4
   },
   "Zahhak": {
@@ -64374,6 +65386,7 @@
           "poison%": 80
         }
       ],
+      "max bc generated": 5,
       "name": "Black Snake Heart"
     },
     "element": "dark",
@@ -64395,6 +65408,7 @@
     "lord def": 981,
     "lord hp": 3239,
     "lord rec": 660,
+    "max bc generated": 5,
     "rarity": 3
   },
   "Zazabis": {
@@ -64498,6 +65512,7 @@
     "lord def": 1373,
     "lord hp": 4775,
     "lord rec": 1358,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Zele": {
@@ -64619,6 +65634,7 @@
           "lord damage range": "2996~3346"
         }
       ],
+      "max bc generated": 7,
       "name": "3rd Shinto Form: Ikazuchi"
     },
     "element": "thunder",
@@ -64644,6 +65660,7 @@
     "lord def": 977,
     "lord hp": 4028,
     "lord rec": 1141,
+    "max bc generated": 5,
     "rarity": 4
   },
   "Zeln": {
@@ -64721,6 +65738,7 @@
           "lord damage range": "1465~1636"
         }
       ],
+      "max bc generated": 3,
       "name": "Quick Kick"
     },
     "element": "thunder",
@@ -64740,6 +65758,7 @@
     "lord def": 420,
     "lord hp": 2612,
     "lord rec": 420,
+    "max bc generated": 3,
     "rarity": 2
   },
   "Zephu": {
@@ -64828,6 +65847,7 @@
           "weaken%": 80
         }
       ],
+      "max bc generated": 4,
       "name": "Raging Needle"
     },
     "element": "water",
@@ -64847,6 +65867,7 @@
     "lord def": 420,
     "lord hp": 2700,
     "lord rec": 198,
+    "max bc generated": 3,
     "rarity": 2
   },
   "Zeus Bow Loch": {
@@ -64928,6 +65949,7 @@
           "lord damage range": "4353~4862"
         }
       ],
+      "max bc generated": 7,
       "name": "Rising Nova"
     },
     "element": "thunder",
@@ -64952,6 +65974,7 @@
     "lord def": 1470,
     "lord hp": 5230,
     "lord rec": 1552,
+    "max bc generated": 5,
     "rarity": 5
   }
 }

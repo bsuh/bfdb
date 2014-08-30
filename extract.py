@@ -250,6 +250,7 @@ def parse_bb(unit_data, bb_id, skills, bbs, dictionary):
         if process_type in ['1', '14', '29']:
             data['hits'] = len(atk_frames.split(','))
             data['hit dmg% distribution'] = [int(hit.split(':')[1]) for hit in atk_frames.split(',')]
+            data['max bc generated'] = data['hits'] * int(skill['n9h7p02P'])
 
     data['levels'] = []
 
@@ -500,6 +501,7 @@ def parse_unit(unit, skills, bbs, leader_skills, dictionary):
     data['lord rec'] = int(unit['X9P3AN5d'])
     data['hits'] = len(unit['6Aou5M9r'].split(','))
     data['hit dmg% distribution'] = [int(hit.split(':')[1]) for hit in unit['6Aou5M9r'].split(',')]
+    data['max bc generated'] = data['hits'] * int(skill['n9h7p02P'])
     data['lord damage range'] = '~'.join(map(str, damage_range(data['lord atk'])))
 
     if unit['nj9Lw7mV'] != '0':
