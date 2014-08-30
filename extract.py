@@ -514,11 +514,11 @@ def parse_unit(unit, skills, bbs, leader_skills, dictionary):
     return data
 
 if __name__ == '__main__':
-    with open(glob.glob('Ver*_2r9cNSdt.json')[0]) as f:
-        with open(glob.glob('sgtext_dictionary_*.csv')[0]) as f2:
-            with open(glob.glob('Ver*_zLIvD5o2.json')[0]) as f3:
-                with open(glob.glob('Ver*_wkCyV73D.json')[0]) as f4:
-                    with open(glob.glob('Ver*_4dE8UKcw.json')[0]) as f5:
+    with open(glob.glob('Ver*_2r9cNSdt.json')[-1]) as f:
+        with open(glob.glob('sgtext_dictionary_*.csv')[-1]) as f2:
+            with open(glob.glob('Ver*_zLIvD5o2.json')[-1]) as f3:
+                with open(glob.glob('Ver*_wkCyV73D.json')[-1]) as f4:
+                    with open(glob.glob('Ver*_4dE8UKcw.json')[-1]) as f5:
                         units = json.load(f)
                         skills_js = json.load(f4)
                         bbs_js = json.load(f3)
