@@ -8427,6 +8427,319 @@
     "max bc generated": 6,
     "rarity": 4
   },
+  "Crusher God Uda": {
+    "base atk": 1480,
+    "base def": 1480,
+    "base hp": 4320,
+    "base rec": 1310,
+    "bb": {
+      "desc": "12 combo Thunder elemental attack on all enemies",
+      "hit dmg% distribution": [
+        10,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        10
+      ],
+      "hits": 12,
+      "levels": [
+        {
+          "bb atk%": 70,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "lord damage range": "3179~3551"
+        },
+        {
+          "bb atk%": 80,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "lord damage range": "3361~3754"
+        },
+        {
+          "bb atk%": 90,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "lord damage range": "3542~3957"
+        },
+        {
+          "bb atk%": 100,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "lord damage range": "3725~4160"
+        },
+        {
+          "bb atk%": 110,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "lord damage range": "3906~4362"
+        },
+        {
+          "bb atk%": 120,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "lord damage range": "4088~4565"
+        },
+        {
+          "bb atk%": 130,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "lord damage range": "4269~4768"
+        },
+        {
+          "bb atk%": 140,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "lord damage range": "4451~4971"
+        },
+        {
+          "bb atk%": 150,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "lord damage range": "4632~5174"
+        },
+        {
+          "bb atk%": 160,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "lord damage range": "4814~5376"
+        }
+      ],
+      "max bc generated": 12,
+      "name": "One on One"
+    },
+    "element": "thunder",
+    "hit dmg% distribution": [
+      16,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14
+    ],
+    "hits": 7,
+    "leader skill": {
+      "bb gauge fill rate%": 50,
+      "desc": "Huge boost in BB gauge fill rate",
+      "name": "Ares' Excelsior"
+    },
+    "lord atk": 1950,
+    "lord damage range": "1815~2028",
+    "lord def": 1950,
+    "lord hp": 6032,
+    "lord rec": 1702,
+    "max bc generated": 7,
+    "rarity": 6,
+    "sbb": {
+      "desc": "15 combo powerful Thunder attack on all enemies & boost to BC drop rate for 3 turns",
+      "hit dmg% distribution": [
+        10,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "hits": 15,
+      "levels": [
+        {
+          "bb atk%": 300,
+          "bb flat atk": 100,
+          "bc cost": 28,
+          "bc drop rate% buff": 15,
+          "lord damage range": "7356~8216"
+        },
+        {
+          "bb atk%": 310,
+          "bb flat atk": 100,
+          "bc cost": 28,
+          "bc drop rate% buff": 16,
+          "lord damage range": "7536~8417"
+        },
+        {
+          "bb atk%": 320,
+          "bb flat atk": 100,
+          "bc cost": 28,
+          "bc drop rate% buff": 17,
+          "lord damage range": "7720~8621"
+        },
+        {
+          "bb atk%": 330,
+          "bb flat atk": 100,
+          "bc cost": 28,
+          "bc drop rate% buff": 18,
+          "lord damage range": "7901~8824"
+        },
+        {
+          "bb atk%": 340,
+          "bb flat atk": 100,
+          "bc cost": 28,
+          "bc drop rate% buff": 19,
+          "lord damage range": "8083~9027"
+        },
+        {
+          "bb atk%": 350,
+          "bb flat atk": 100,
+          "bc cost": 28,
+          "bc drop rate% buff": 20,
+          "lord damage range": "8264~9230"
+        },
+        {
+          "bb atk%": 360,
+          "bb flat atk": 100,
+          "bc cost": 28,
+          "bc drop rate% buff": 21,
+          "lord damage range": "8446~9432"
+        },
+        {
+          "bb atk%": 370,
+          "bb flat atk": 100,
+          "bc cost": 28,
+          "bc drop rate% buff": 22,
+          "lord damage range": "8627~9635"
+        },
+        {
+          "bb atk%": 380,
+          "bb flat atk": 100,
+          "bc cost": 28,
+          "bc drop rate% buff": 23,
+          "lord damage range": "8809~9838"
+        },
+        {
+          "bb atk%": 400,
+          "bb flat atk": 100,
+          "bc cost": 28,
+          "bc drop rate% buff": 25,
+          "lord damage range": "9172~10244"
+        }
+      ],
+      "max bc generated": 15,
+      "name": "Last Trade"
+    }
+  },
+  "Crusher Uda": {
+    "base atk": 1218,
+    "base def": 1218,
+    "base hp": 3582,
+    "base rec": 1090,
+    "bb": {
+      "desc": "10 combo Thunder elemental attack on all enemies",
+      "hit dmg% distribution": [
+        14,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        14
+      ],
+      "hits": 10,
+      "levels": [
+        {
+          "bb atk%": 60,
+          "bb flat atk": 80,
+          "bc cost": 15,
+          "lord damage range": "2523~2818"
+        },
+        {
+          "bb atk%": 70,
+          "bb flat atk": 80,
+          "bc cost": 15,
+          "lord damage range": "2675~2988"
+        },
+        {
+          "bb atk%": 80,
+          "bb flat atk": 80,
+          "bc cost": 15,
+          "lord damage range": "2829~3160"
+        },
+        {
+          "bb atk%": 90,
+          "bb flat atk": 80,
+          "bc cost": 15,
+          "lord damage range": "2982~3331"
+        },
+        {
+          "bb atk%": 100,
+          "bb flat atk": 80,
+          "bc cost": 15,
+          "lord damage range": "3136~3502"
+        },
+        {
+          "bb atk%": 110,
+          "bb flat atk": 80,
+          "bc cost": 15,
+          "lord damage range": "3288~3673"
+        },
+        {
+          "bb atk%": 120,
+          "bb flat atk": 80,
+          "bc cost": 15,
+          "lord damage range": "3441~3843"
+        },
+        {
+          "bb atk%": 130,
+          "bb flat atk": 80,
+          "bc cost": 15,
+          "lord damage range": "3594~4015"
+        },
+        {
+          "bb atk%": 140,
+          "bb flat atk": 80,
+          "bc cost": 15,
+          "lord damage range": "3747~4186"
+        },
+        {
+          "bb atk%": 150,
+          "bb flat atk": 80,
+          "bc cost": 15,
+          "lord damage range": "3901~4357"
+        }
+      ],
+      "max bc generated": 10,
+      "name": "No Mercy"
+    },
+    "element": "thunder",
+    "hit dmg% distribution": [
+      25,
+      25,
+      25,
+      25,
+      25
+    ],
+    "hits": 5,
+    "leader skill": {
+      "bb gauge fill rate%": 40,
+      "desc": "Large boost in the BB Gauge fill rate",
+      "name": "Ares' Authority"
+    },
+    "lord atk": 1644,
+    "lord damage range": "1530~1709",
+    "lord def": 1644,
+    "lord hp": 5100,
+    "lord rec": 1455,
+    "max bc generated": 5,
+    "rarity": 5
+  },
   "Cyborg Lilith": {
     "base atk": 847,
     "base def": 840,
@@ -11337,6 +11650,391 @@
     "lord hp": 4876,
     "lord rec": 755,
     "max bc generated": 3,
+    "rarity": 5
+  },
+  "Defiant God Luther": {
+    "base atk": 1671,
+    "base def": 1305,
+    "base hp": 4286,
+    "base rec": 1305,
+    "bb": {
+      "desc": "15 combo powerful Fire attack on single enemy & probable Paralysis and Weak effect ",
+      "hit dmg% distribution": [
+        4,
+        4,
+        4,
+        8,
+        7,
+        7,
+        8,
+        7,
+        7,
+        8,
+        7,
+        7,
+        8,
+        7,
+        7
+      ],
+      "hits": 15,
+      "levels": [
+        {
+          "bb atk%": 350,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "lord damage range": "9223~10301",
+          "paralysis%": 60,
+          "weaken%": 60
+        },
+        {
+          "bb atk%": 360,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "lord damage range": "9426~10527",
+          "paralysis%": 62,
+          "weaken%": 62
+        },
+        {
+          "bb atk%": 370,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "lord damage range": "9629~10754",
+          "paralysis%": 64,
+          "weaken%": 64
+        },
+        {
+          "bb atk%": 380,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "lord damage range": "9832~10981",
+          "paralysis%": 66,
+          "weaken%": 66
+        },
+        {
+          "bb atk%": 390,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "lord damage range": "10035~11208",
+          "paralysis%": 68,
+          "weaken%": 68
+        },
+        {
+          "bb atk%": 400,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "lord damage range": "10238~11434",
+          "paralysis%": 70,
+          "weaken%": 70
+        },
+        {
+          "bb atk%": 410,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "lord damage range": "10440~11660",
+          "paralysis%": 72,
+          "weaken%": 72
+        },
+        {
+          "bb atk%": 420,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "lord damage range": "10644~11887",
+          "paralysis%": 74,
+          "weaken%": 74
+        },
+        {
+          "bb atk%": 430,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "lord damage range": "10847~12113",
+          "paralysis%": 76,
+          "weaken%": 76
+        },
+        {
+          "bb atk%": 450,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "lord damage range": "11252~12567",
+          "paralysis%": 80,
+          "weaken%": 80
+        }
+      ],
+      "max bc generated": 15,
+      "name": "Full Metal Cross"
+    },
+    "element": "fire",
+    "hit dmg% distribution": [
+      6,
+      6,
+      11,
+      11,
+      11,
+      11,
+      11,
+      11,
+      11,
+      11
+    ],
+    "hits": 10,
+    "leader skill": {
+      "bc drop% for spark": 30,
+      "damage% for spark": 50,
+      "desc": "Great boost to damage dealt and BC produced during Spark",
+      "name": "Raging Might"
+    },
+    "lord atk": 2179,
+    "lord damage range": "2029~2266",
+    "lord def": 1718,
+    "lord hp": 6021,
+    "lord rec": 1718,
+    "max bc generated": 10,
+    "rarity": 6,
+    "sbb": {
+      "desc": "28 combo powerful Fire attack on all enemies & boost in Spark damage for 3 turns ",
+      "hit dmg% distribution": [
+        1,
+        1,
+        1,
+        1,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "hits": 28,
+      "levels": [
+        {
+          "bb atk%": 300,
+          "bb flat atk": 100,
+          "bc cost": 30,
+          "buff turns": 3,
+          "lord damage range": "8209~9168",
+          "spark dmg% buff": 30
+        },
+        {
+          "bb atk%": 310,
+          "bb flat atk": 100,
+          "bc cost": 30,
+          "buff turns": 3,
+          "lord damage range": "8411~9394",
+          "spark dmg% buff": 32
+        },
+        {
+          "bb atk%": 320,
+          "bb flat atk": 100,
+          "bc cost": 30,
+          "buff turns": 3,
+          "lord damage range": "8614~9621",
+          "spark dmg% buff": 34
+        },
+        {
+          "bb atk%": 330,
+          "bb flat atk": 100,
+          "bc cost": 30,
+          "buff turns": 3,
+          "lord damage range": "8817~9847",
+          "spark dmg% buff": 36
+        },
+        {
+          "bb atk%": 340,
+          "bb flat atk": 100,
+          "bc cost": 30,
+          "buff turns": 3,
+          "lord damage range": "9020~10074",
+          "spark dmg% buff": 38
+        },
+        {
+          "bb atk%": 350,
+          "bb flat atk": 100,
+          "bc cost": 30,
+          "buff turns": 3,
+          "lord damage range": "9223~10301",
+          "spark dmg% buff": 40
+        },
+        {
+          "bb atk%": 360,
+          "bb flat atk": 100,
+          "bc cost": 30,
+          "buff turns": 3,
+          "lord damage range": "9426~10527",
+          "spark dmg% buff": 42
+        },
+        {
+          "bb atk%": 370,
+          "bb flat atk": 100,
+          "bc cost": 30,
+          "buff turns": 3,
+          "lord damage range": "9629~10754",
+          "spark dmg% buff": 44
+        },
+        {
+          "bb atk%": 380,
+          "bb flat atk": 100,
+          "bc cost": 30,
+          "buff turns": 3,
+          "lord damage range": "9832~10981",
+          "spark dmg% buff": 46
+        },
+        {
+          "bb atk%": 400,
+          "bb flat atk": 100,
+          "bc cost": 30,
+          "buff turns": 3,
+          "lord damage range": "10238~11434",
+          "spark dmg% buff": 50
+        }
+      ],
+      "max bc generated": 28,
+      "name": "Inferno Sin"
+    }
+  },
+  "Defiant Luther": {
+    "base atk": 1354,
+    "base def": 1071,
+    "base hp": 3560,
+    "base rec": 1071,
+    "bb": {
+      "desc": "10 combo powerful Fire attack on single enemy & probable Paralysis and Weak effect ",
+      "hit dmg% distribution": [
+        8,
+        8,
+        8,
+        11,
+        11,
+        11,
+        11,
+        11,
+        10,
+        11
+      ],
+      "hits": 10,
+      "levels": [
+        {
+          "bb atk%": 320,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "lord damage range": "7355~8214",
+          "paralysis%": 60,
+          "weaken%": 60
+        },
+        {
+          "bb atk%": 330,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "lord damage range": "7528~8408",
+          "paralysis%": 62,
+          "weaken%": 62
+        },
+        {
+          "bb atk%": 340,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "lord damage range": "7701~8600",
+          "paralysis%": 64,
+          "weaken%": 64
+        },
+        {
+          "bb atk%": 350,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "lord damage range": "7874~8794",
+          "paralysis%": 66,
+          "weaken%": 66
+        },
+        {
+          "bb atk%": 360,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "lord damage range": "8047~8987",
+          "paralysis%": 68,
+          "weaken%": 68
+        },
+        {
+          "bb atk%": 370,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "lord damage range": "8219~9180",
+          "paralysis%": 70,
+          "weaken%": 70
+        },
+        {
+          "bb atk%": 380,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "lord damage range": "8392~9373",
+          "paralysis%": 72,
+          "weaken%": 72
+        },
+        {
+          "bb atk%": 390,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "lord damage range": "8566~9566",
+          "paralysis%": 74,
+          "weaken%": 74
+        },
+        {
+          "bb atk%": 400,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "lord damage range": "8739~9760",
+          "paralysis%": 76,
+          "weaken%": 76
+        },
+        {
+          "bb atk%": 420,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "lord damage range": "9084~10146",
+          "paralysis%": 80,
+          "weaken%": 80
+        }
+      ],
+      "max bc generated": 10,
+      "name": "Gladius Noir"
+    },
+    "element": "fire",
+    "hit dmg% distribution": [
+      10,
+      10,
+      16,
+      16,
+      16,
+      16,
+      16
+    ],
+    "hits": 7,
+    "leader skill": {
+      "damage% for spark": 50,
+      "desc": "Large boost in damage dealt during Spark",
+      "name": "Intense Strobe"
+    },
+    "lord atk": 1857,
+    "lord damage range": "1729~1931",
+    "lord def": 1450,
+    "lord hp": 5062,
+    "lord rec": 1450,
+    "max bc generated": 7,
     "rarity": 5
   },
   "Demon Blade Lico": {
@@ -16211,6 +16909,332 @@
     "lord hp": 4899,
     "lord rec": 1221,
     "max bc generated": 6,
+    "rarity": 5
+  },
+  "Evil God Kajah": {
+    "base atk": 1731,
+    "base def": 1343,
+    "base hp": 4310,
+    "base rec": 1027,
+    "bb": {
+      "desc": "10 combo powerful Dark attack on all enemies & probable Injury effect ",
+      "hit dmg% distribution": [
+        5,
+        5,
+        5,
+        20,
+        15,
+        10,
+        10,
+        10,
+        10,
+        10
+      ],
+      "hits": 10,
+      "levels": [
+        {
+          "bb atk%": 120,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "injury%": 40,
+          "lord damage range": "4665~5210"
+        },
+        {
+          "bb atk%": 130,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "injury%": 42,
+          "lord damage range": "4872~5442"
+        },
+        {
+          "bb atk%": 140,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "injury%": 44,
+          "lord damage range": "5080~5674"
+        },
+        {
+          "bb atk%": 150,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "injury%": 46,
+          "lord damage range": "5289~5907"
+        },
+        {
+          "bb atk%": 160,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "injury%": 48,
+          "lord damage range": "5496~6139"
+        },
+        {
+          "bb atk%": 170,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "injury%": 50,
+          "lord damage range": "5704~6371"
+        },
+        {
+          "bb atk%": 180,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "injury%": 52,
+          "lord damage range": "5912~6602"
+        },
+        {
+          "bb atk%": 190,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "injury%": 54,
+          "lord damage range": "6119~6834"
+        },
+        {
+          "bb atk%": 200,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "injury%": 56,
+          "lord damage range": "6328~7067"
+        },
+        {
+          "bb atk%": 220,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "injury%": 60,
+          "lord damage range": "6743~7531"
+        }
+      ],
+      "max bc generated": 10,
+      "name": "Damballa"
+    },
+    "element": "dark",
+    "hit dmg% distribution": [
+      10,
+      15,
+      15,
+      20,
+      20,
+      20
+    ],
+    "hits": 6,
+    "leader skill": {
+      "desc": "Great boost to Atk of units with 30% HP or less",
+      "name": "Supreme Demon Power"
+    },
+    "lord atk": 2232,
+    "lord damage range": "2077~2321",
+    "lord def": 1751,
+    "lord hp": 6059,
+    "lord rec": 1355,
+    "max bc generated": 6,
+    "rarity": 6,
+    "sbb": {
+      "desc": "15 combo massive Dark attack on all enemies & probable Injury effect ",
+      "hit dmg% distribution": [
+        6,
+        7,
+        6,
+        10,
+        6,
+        7,
+        6,
+        7,
+        6,
+        7,
+        6,
+        7,
+        6,
+        7,
+        6
+      ],
+      "hits": 15,
+      "levels": [
+        {
+          "bb atk%": 520,
+          "bb flat atk": 150,
+          "bc cost": 55,
+          "injury%": 60,
+          "lord damage range": "13026~14547"
+        },
+        {
+          "bb atk%": 540,
+          "bb flat atk": 150,
+          "bc cost": 54,
+          "injury%": 62,
+          "lord damage range": "13441~15011"
+        },
+        {
+          "bb atk%": 560,
+          "bb flat atk": 150,
+          "bc cost": 53,
+          "injury%": 64,
+          "lord damage range": "13857~15476"
+        },
+        {
+          "bb atk%": 580,
+          "bb flat atk": 150,
+          "bc cost": 52,
+          "injury%": 66,
+          "lord damage range": "14272~15940"
+        },
+        {
+          "bb atk%": 600,
+          "bb flat atk": 150,
+          "bc cost": 51,
+          "injury%": 68,
+          "lord damage range": "14688~16404"
+        },
+        {
+          "bb atk%": 620,
+          "bb flat atk": 150,
+          "bc cost": 50,
+          "injury%": 70,
+          "lord damage range": "15104~16868"
+        },
+        {
+          "bb atk%": 640,
+          "bb flat atk": 150,
+          "bc cost": 49,
+          "injury%": 72,
+          "lord damage range": "15519~17332"
+        },
+        {
+          "bb atk%": 660,
+          "bb flat atk": 150,
+          "bc cost": 48,
+          "injury%": 74,
+          "lord damage range": "15935~17797"
+        },
+        {
+          "bb atk%": 680,
+          "bb flat atk": 150,
+          "bc cost": 47,
+          "injury%": 76,
+          "lord damage range": "16351~18261"
+        },
+        {
+          "bb atk%": 720,
+          "bb flat atk": 150,
+          "bc cost": 45,
+          "injury%": 80,
+          "lord damage range": "17182~19190"
+        }
+      ],
+      "max bc generated": 15,
+      "name": "Morteisma"
+    }
+  },
+  "Evil Kajah": {
+    "base atk": 1420,
+    "base def": 1119,
+    "base hp": 3575,
+    "base rec": 869,
+    "bb": {
+      "desc": "8 combo powerful Dark attack on all enemies & probable Injury effect ",
+      "hit dmg% distribution": [
+        13,
+        12,
+        13,
+        12,
+        13,
+        12,
+        13,
+        12
+      ],
+      "hits": 8,
+      "levels": [
+        {
+          "bb atk%": 100,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "injury%": 40,
+          "lord damage range": "3674~4103"
+        },
+        {
+          "bb atk%": 110,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "injury%": 42,
+          "lord damage range": "3853~4303"
+        },
+        {
+          "bb atk%": 120,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "injury%": 44,
+          "lord damage range": "4032~4503"
+        },
+        {
+          "bb atk%": 130,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "injury%": 46,
+          "lord damage range": "4210~4702"
+        },
+        {
+          "bb atk%": 140,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "injury%": 48,
+          "lord damage range": "4390~4903"
+        },
+        {
+          "bb atk%": 150,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "injury%": 50,
+          "lord damage range": "4569~5103"
+        },
+        {
+          "bb atk%": 160,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "injury%": 52,
+          "lord damage range": "4748~5302"
+        },
+        {
+          "bb atk%": 170,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "injury%": 54,
+          "lord damage range": "4927~5503"
+        },
+        {
+          "bb atk%": 180,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "injury%": 56,
+          "lord damage range": "5106~5703"
+        },
+        {
+          "bb atk%": 200,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "injury%": 60,
+          "lord damage range": "5465~6103"
+        }
+      ],
+      "max bc generated": 8,
+      "name": "Due"
+    },
+    "element": "dark",
+    "hit dmg% distribution": [
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "hits": 5,
+    "leader skill": {
+      "desc": "Great boost to Atk of units with 25% HP or less",
+      "name": "Demon God Power"
+    },
+    "lord atk": 1923,
+    "lord damage range": "1790~1999",
+    "lord def": 1492,
+    "lord hp": 5089,
+    "lord rec": 1141,
+    "max bc generated": 5,
     "rarity": 5
   },
   "Executioner Shida": {
@@ -34599,6 +35623,500 @@
     "max bc generated": 4,
     "rarity": 4
   },
+  "Ivy Goddess Nalmika": {
+    "base atk": 1411,
+    "base def": 1341,
+    "base hp": 4396,
+    "base rec": 1418,
+    "bb": {
+      "desc": "11 combo powerful Earth attack on single enemy & chance of inflicting a random status ailment ",
+      "hit dmg% distribution": [
+        9,
+        9,
+        10,
+        5,
+        5,
+        5,
+        15,
+        9,
+        15,
+        9,
+        9
+      ],
+      "hits": 11,
+      "levels": [
+        {
+          "bb atk%": 350,
+          "bb flat atk": 100,
+          "bc cost": 18,
+          "curse%": 45,
+          "injury%": 45,
+          "lord damage range": "7773~8681",
+          "paralysis%": 45,
+          "poison%": 45,
+          "sick%": 45,
+          "weaken%": 45
+        },
+        {
+          "bb atk%": 360,
+          "bb flat atk": 100,
+          "bc cost": 18,
+          "curse%": 47,
+          "injury%": 47,
+          "lord damage range": "7943~8872",
+          "paralysis%": 47,
+          "poison%": 47,
+          "sick%": 47,
+          "weaken%": 47
+        },
+        {
+          "bb atk%": 370,
+          "bb flat atk": 100,
+          "bc cost": 18,
+          "curse%": 49,
+          "injury%": 49,
+          "lord damage range": "8115~9063",
+          "paralysis%": 49,
+          "poison%": 49,
+          "sick%": 49,
+          "weaken%": 49
+        },
+        {
+          "bb atk%": 380,
+          "bb flat atk": 100,
+          "bc cost": 18,
+          "curse%": 51,
+          "injury%": 51,
+          "lord damage range": "8286~9253",
+          "paralysis%": 51,
+          "poison%": 51,
+          "sick%": 51,
+          "weaken%": 51
+        },
+        {
+          "bb atk%": 390,
+          "bb flat atk": 100,
+          "bc cost": 18,
+          "curse%": 53,
+          "injury%": 53,
+          "lord damage range": "8455~9444",
+          "paralysis%": 53,
+          "poison%": 53,
+          "sick%": 53,
+          "weaken%": 53
+        },
+        {
+          "bb atk%": 400,
+          "bb flat atk": 100,
+          "bc cost": 18,
+          "curse%": 55,
+          "injury%": 55,
+          "lord damage range": "8627~9635",
+          "paralysis%": 55,
+          "poison%": 55,
+          "sick%": 55,
+          "weaken%": 55
+        },
+        {
+          "bb atk%": 410,
+          "bb flat atk": 100,
+          "bc cost": 18,
+          "curse%": 57,
+          "injury%": 57,
+          "lord damage range": "8798~9825",
+          "paralysis%": 57,
+          "poison%": 57,
+          "sick%": 57,
+          "weaken%": 57
+        },
+        {
+          "bb atk%": 420,
+          "bb flat atk": 100,
+          "bc cost": 18,
+          "curse%": 59,
+          "injury%": 59,
+          "lord damage range": "8967~10016",
+          "paralysis%": 59,
+          "poison%": 59,
+          "sick%": 59,
+          "weaken%": 59
+        },
+        {
+          "bb atk%": 430,
+          "bb flat atk": 100,
+          "bc cost": 18,
+          "curse%": 61,
+          "injury%": 61,
+          "lord damage range": "9138~10206",
+          "paralysis%": 61,
+          "poison%": 61,
+          "sick%": 61,
+          "weaken%": 61
+        },
+        {
+          "bb atk%": 450,
+          "bb flat atk": 100,
+          "bc cost": 18,
+          "curse%": 65,
+          "injury%": 65,
+          "lord damage range": "9480~10588",
+          "paralysis%": 65,
+          "poison%": 65,
+          "sick%": 65,
+          "weaken%": 65
+        }
+      ],
+      "max bc generated": 11,
+      "name": "Deadly Chamomile"
+    },
+    "element": "earth",
+    "hit dmg% distribution": [
+      10,
+      15,
+      10,
+      10,
+      15,
+      15,
+      15,
+      10
+    ],
+    "hits": 8,
+    "leader skill": {
+      "curse%": 7,
+      "damage% for spark": 30,
+      "desc": "Chance of inflicting a random status ailment when attacking & boost in damage dealt during Spark",
+      "injury%": 10,
+      "name": "Serious Epidemic",
+      "paralysis%": 7,
+      "poison%": 7,
+      "sick%": 10,
+      "weaken%": 10
+    },
+    "lord atk": 1833,
+    "lord damage range": "1706~1906",
+    "lord def": 1732,
+    "lord hp": 6054,
+    "lord rec": 1835,
+    "max bc generated": 8,
+    "rarity": 6,
+    "sbb": {
+      "desc": "14 combo powerful Earth attack on single enemy & chance of inflicting a random status ailment ",
+      "hit dmg% distribution": [
+        10,
+        8,
+        8,
+        8,
+        8,
+        8,
+        15,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "hits": 14,
+      "levels": [
+        {
+          "bb atk%": 300,
+          "bb flat atk": 100,
+          "bc cost": 18,
+          "curse%": 30,
+          "injury%": 30,
+          "lord damage range": "6920~7729",
+          "paralysis%": 30,
+          "poison%": 30,
+          "sick%": 30,
+          "weaken%": 30
+        },
+        {
+          "bb atk%": 310,
+          "bb flat atk": 100,
+          "bc cost": 18,
+          "curse%": 32,
+          "injury%": 32,
+          "lord damage range": "7090~7919",
+          "paralysis%": 32,
+          "poison%": 32,
+          "sick%": 32,
+          "weaken%": 32
+        },
+        {
+          "bb atk%": 320,
+          "bb flat atk": 100,
+          "bc cost": 18,
+          "curse%": 34,
+          "injury%": 34,
+          "lord damage range": "7261~8109",
+          "paralysis%": 34,
+          "poison%": 34,
+          "sick%": 34,
+          "weaken%": 34
+        },
+        {
+          "bb atk%": 330,
+          "bb flat atk": 100,
+          "bc cost": 18,
+          "curse%": 36,
+          "injury%": 36,
+          "lord damage range": "7431~8300",
+          "paralysis%": 36,
+          "poison%": 36,
+          "sick%": 36,
+          "weaken%": 36
+        },
+        {
+          "bb atk%": 340,
+          "bb flat atk": 100,
+          "bc cost": 18,
+          "curse%": 38,
+          "injury%": 38,
+          "lord damage range": "7603~8491",
+          "paralysis%": 38,
+          "poison%": 38,
+          "sick%": 38,
+          "weaken%": 38
+        },
+        {
+          "bb atk%": 350,
+          "bb flat atk": 100,
+          "bc cost": 18,
+          "curse%": 40,
+          "injury%": 40,
+          "lord damage range": "7773~8681",
+          "paralysis%": 40,
+          "poison%": 40,
+          "sick%": 40,
+          "weaken%": 40
+        },
+        {
+          "bb atk%": 360,
+          "bb flat atk": 100,
+          "bc cost": 18,
+          "curse%": 42,
+          "injury%": 42,
+          "lord damage range": "7943~8872",
+          "paralysis%": 42,
+          "poison%": 42,
+          "sick%": 42,
+          "weaken%": 42
+        },
+        {
+          "bb atk%": 370,
+          "bb flat atk": 100,
+          "bc cost": 18,
+          "curse%": 44,
+          "injury%": 44,
+          "lord damage range": "8115~9063",
+          "paralysis%": 44,
+          "poison%": 44,
+          "sick%": 44,
+          "weaken%": 44
+        },
+        {
+          "bb atk%": 380,
+          "bb flat atk": 100,
+          "bc cost": 18,
+          "curse%": 46,
+          "injury%": 46,
+          "lord damage range": "8286~9253",
+          "paralysis%": 46,
+          "poison%": 46,
+          "sick%": 46,
+          "weaken%": 46
+        },
+        {
+          "bb atk%": 400,
+          "bb flat atk": 100,
+          "bc cost": 18,
+          "curse%": 50,
+          "injury%": 50,
+          "lord damage range": "8627~9635",
+          "paralysis%": 50,
+          "poison%": 50,
+          "sick%": 50,
+          "weaken%": 50
+        }
+      ],
+      "max bc generated": 14,
+      "name": "Demon Tree Nargima"
+    }
+  },
+  "Ivy Nalmika": {
+    "base atk": 1163,
+    "base def": 1117,
+    "base hp": 3642,
+    "base rec": 1174,
+    "bb": {
+      "desc": "9 combo powerful Earth attack on single enemy & chance of inflicting a random status ailment ",
+      "hit dmg% distribution": [
+        10,
+        10,
+        10,
+        10,
+        15,
+        10,
+        15,
+        10,
+        10
+      ],
+      "hits": 9,
+      "levels": [
+        {
+          "bb atk%": 320,
+          "bb flat atk": 100,
+          "bc cost": 18,
+          "curse%": 45,
+          "injury%": 45,
+          "lord damage range": "6224~6952",
+          "paralysis%": 45,
+          "poison%": 45,
+          "sick%": 45,
+          "weaken%": 45
+        },
+        {
+          "bb atk%": 330,
+          "bb flat atk": 100,
+          "bc cost": 18,
+          "curse%": 47,
+          "injury%": 47,
+          "lord damage range": "6370~7115",
+          "paralysis%": 47,
+          "poison%": 47,
+          "sick%": 47,
+          "weaken%": 47
+        },
+        {
+          "bb atk%": 340,
+          "bb flat atk": 100,
+          "bc cost": 18,
+          "curse%": 49,
+          "injury%": 49,
+          "lord damage range": "6517~7278",
+          "paralysis%": 49,
+          "poison%": 49,
+          "sick%": 49,
+          "weaken%": 49
+        },
+        {
+          "bb atk%": 350,
+          "bb flat atk": 100,
+          "bc cost": 18,
+          "curse%": 51,
+          "injury%": 51,
+          "lord damage range": "6663~7442",
+          "paralysis%": 51,
+          "poison%": 51,
+          "sick%": 51,
+          "weaken%": 51
+        },
+        {
+          "bb atk%": 360,
+          "bb flat atk": 100,
+          "bc cost": 18,
+          "curse%": 53,
+          "injury%": 53,
+          "lord damage range": "6808~7604",
+          "paralysis%": 53,
+          "poison%": 53,
+          "sick%": 53,
+          "weaken%": 53
+        },
+        {
+          "bb atk%": 370,
+          "bb flat atk": 100,
+          "bc cost": 18,
+          "curse%": 55,
+          "injury%": 55,
+          "lord damage range": "6955~7767",
+          "paralysis%": 55,
+          "poison%": 55,
+          "sick%": 55,
+          "weaken%": 55
+        },
+        {
+          "bb atk%": 380,
+          "bb flat atk": 100,
+          "bc cost": 18,
+          "curse%": 57,
+          "injury%": 57,
+          "lord damage range": "7101~7931",
+          "paralysis%": 57,
+          "poison%": 57,
+          "sick%": 57,
+          "weaken%": 57
+        },
+        {
+          "bb atk%": 390,
+          "bb flat atk": 100,
+          "bc cost": 18,
+          "curse%": 59,
+          "injury%": 59,
+          "lord damage range": "7247~8094",
+          "paralysis%": 59,
+          "poison%": 59,
+          "sick%": 59,
+          "weaken%": 59
+        },
+        {
+          "bb atk%": 400,
+          "bb flat atk": 100,
+          "bc cost": 18,
+          "curse%": 61,
+          "injury%": 61,
+          "lord damage range": "7394~8257",
+          "paralysis%": 61,
+          "poison%": 61,
+          "sick%": 61,
+          "weaken%": 61
+        },
+        {
+          "bb atk%": 420,
+          "bb flat atk": 100,
+          "bc cost": 18,
+          "curse%": 65,
+          "injury%": 65,
+          "lord damage range": "7684~8583",
+          "paralysis%": 65,
+          "poison%": 65,
+          "sick%": 65,
+          "weaken%": 65
+        }
+      ],
+      "max bc generated": 9,
+      "name": "Killer Ball"
+    },
+    "element": "earth",
+    "hit dmg% distribution": [
+      10,
+      15,
+      10,
+      10,
+      15,
+      20,
+      20
+    ],
+    "hits": 7,
+    "leader skill": {
+      "curse%": 5,
+      "desc": "Chance of inflicting a random status ailment when attacking",
+      "injury%": 7,
+      "name": "Pandemic Spread",
+      "paralysis%": 5,
+      "poison%": 5,
+      "sick%": 7,
+      "weaken%": 7
+    },
+    "lord atk": 1568,
+    "lord damage range": "1460~1630",
+    "lord def": 1490,
+    "lord hp": 5184,
+    "lord rec": 1576,
+    "max bc generated": 7,
+    "rarity": 5
+  },
   "Jewel Ghost": {
     "base atk": 123,
     "base def": 123,
@@ -34782,6 +36300,117 @@
     "lord rec": 1372,
     "max bc generated": 8,
     "rarity": 5
+  },
+  "Kajah": {
+    "base atk": 1184,
+    "base def": 932,
+    "base hp": 2979,
+    "base rec": 725,
+    "bb": {
+      "desc": "6 combo powerful Dark attack on all enemies & probable Injury effect ",
+      "hit dmg% distribution": [
+        17,
+        17,
+        16,
+        16,
+        17,
+        17
+      ],
+      "hits": 6,
+      "levels": [
+        {
+          "bb atk%": 50,
+          "bb flat atk": 100,
+          "bc cost": 22,
+          "injury%": 40,
+          "lord damage range": "2297~2565"
+        },
+        {
+          "bb atk%": 60,
+          "bb flat atk": 100,
+          "bc cost": 22,
+          "injury%": 42,
+          "lord damage range": "2443~2728"
+        },
+        {
+          "bb atk%": 70,
+          "bb flat atk": 100,
+          "bc cost": 22,
+          "injury%": 44,
+          "lord damage range": "2589~2893"
+        },
+        {
+          "bb atk%": 80,
+          "bb flat atk": 100,
+          "bc cost": 22,
+          "injury%": 46,
+          "lord damage range": "2737~3057"
+        },
+        {
+          "bb atk%": 90,
+          "bb flat atk": 100,
+          "bc cost": 22,
+          "injury%": 48,
+          "lord damage range": "2884~3221"
+        },
+        {
+          "bb atk%": 100,
+          "bb flat atk": 100,
+          "bc cost": 22,
+          "injury%": 50,
+          "lord damage range": "3031~3386"
+        },
+        {
+          "bb atk%": 110,
+          "bb flat atk": 100,
+          "bc cost": 22,
+          "injury%": 52,
+          "lord damage range": "3177~3549"
+        },
+        {
+          "bb atk%": 120,
+          "bb flat atk": 100,
+          "bc cost": 22,
+          "injury%": 54,
+          "lord damage range": "3324~3713"
+        },
+        {
+          "bb atk%": 130,
+          "bb flat atk": 100,
+          "bc cost": 22,
+          "injury%": 56,
+          "lord damage range": "3472~3878"
+        },
+        {
+          "bb atk%": 150,
+          "bb flat atk": 100,
+          "bc cost": 22,
+          "injury%": 60,
+          "lord damage range": "3766~4206"
+        }
+      ],
+      "max bc generated": 6,
+      "name": "Ade "
+    },
+    "element": "dark",
+    "hit dmg% distribution": [
+      25,
+      25,
+      25,
+      25
+    ],
+    "hits": 4,
+    "leader skill": {
+      "desc": "Great boost to Atk of units with 20% HP or less",
+      "name": "Demon Power"
+    },
+    "lord atk": 1578,
+    "lord damage range": "1469~1641",
+    "lord def": 1243,
+    "lord hp": 4272,
+    "lord rec": 966,
+    "max bc generated": 4,
+    "rarity": 4
   },
   "Keymaster Gilnea": {
     "base atk": 980,
@@ -39750,6 +41379,128 @@
     "max bc generated": 2,
     "rarity": 2
   },
+  "Luther": {
+    "base atk": 1128,
+    "base def": 893,
+    "base hp": 2966,
+    "base rec": 893,
+    "bb": {
+      "desc": "6 combo powerful Fire attack on single enemy & probable Paralysis and Weak effect ",
+      "hit dmg% distribution": [
+        10,
+        10,
+        10,
+        23,
+        24,
+        23
+      ],
+      "hits": 6,
+      "levels": [
+        {
+          "bb atk%": 270,
+          "bb flat atk": 100,
+          "bc cost": 14,
+          "lord damage range": "5274~5890",
+          "paralysis%": 60,
+          "weaken%": 60
+        },
+        {
+          "bb atk%": 280,
+          "bb flat atk": 100,
+          "bc cost": 14,
+          "lord damage range": "5414~6047",
+          "paralysis%": 62,
+          "weaken%": 62
+        },
+        {
+          "bb atk%": 290,
+          "bb flat atk": 100,
+          "bc cost": 14,
+          "lord damage range": "5554~6203",
+          "paralysis%": 64,
+          "weaken%": 64
+        },
+        {
+          "bb atk%": 300,
+          "bb flat atk": 100,
+          "bc cost": 14,
+          "lord damage range": "5695~6360",
+          "paralysis%": 66,
+          "weaken%": 66
+        },
+        {
+          "bb atk%": 310,
+          "bb flat atk": 100,
+          "bc cost": 14,
+          "lord damage range": "5834~6516",
+          "paralysis%": 68,
+          "weaken%": 68
+        },
+        {
+          "bb atk%": 320,
+          "bb flat atk": 100,
+          "bc cost": 14,
+          "lord damage range": "5974~6672",
+          "paralysis%": 70,
+          "weaken%": 70
+        },
+        {
+          "bb atk%": 330,
+          "bb flat atk": 100,
+          "bc cost": 14,
+          "lord damage range": "6115~6829",
+          "paralysis%": 72,
+          "weaken%": 72
+        },
+        {
+          "bb atk%": 340,
+          "bb flat atk": 100,
+          "bc cost": 14,
+          "lord damage range": "6254~6985",
+          "paralysis%": 74,
+          "weaken%": 74
+        },
+        {
+          "bb atk%": 350,
+          "bb flat atk": 100,
+          "bc cost": 14,
+          "lord damage range": "6395~7142",
+          "paralysis%": 76,
+          "weaken%": 76
+        },
+        {
+          "bb atk%": 370,
+          "bb flat atk": 100,
+          "bc cost": 14,
+          "lord damage range": "6675~7454",
+          "paralysis%": 80,
+          "weaken%": 80
+        }
+      ],
+      "max bc generated": 6,
+      "name": "Ablation by Sword"
+    },
+    "element": "fire",
+    "hit dmg% distribution": [
+      20,
+      20,
+      30,
+      30
+    ],
+    "hits": 4,
+    "leader skill": {
+      "damage% for spark": 30,
+      "desc": "Boost in damage dealt during Spark",
+      "name": "Intense Flash"
+    },
+    "lord atk": 1504,
+    "lord damage range": "1400~1564",
+    "lord def": 1190,
+    "lord hp": 4255,
+    "lord rec": 1190,
+    "max bc generated": 4,
+    "rarity": 4
+  },
   "Mad God Zebra": {
     "base atk": 1258,
     "base def": 697,
@@ -43300,6 +45051,175 @@
     "max bc generated": 7,
     "rarity": 3
   },
+  "Nalmika": {
+    "base atk": 969,
+    "base def": 931,
+    "base hp": 3035,
+    "base rec": 978,
+    "bb": {
+      "desc": "7 combo powerful Earth attack on single enemy & chance of inflicting a random status ailment ",
+      "hit dmg% distribution": [
+        10,
+        15,
+        15,
+        15,
+        15,
+        15,
+        15
+      ],
+      "hits": 7,
+      "levels": [
+        {
+          "bb atk%": 270,
+          "bb flat atk": 100,
+          "bc cost": 16,
+          "curse%": 45,
+          "injury%": 45,
+          "lord damage range": "4544~5075",
+          "paralysis%": 45,
+          "poison%": 45,
+          "sick%": 45,
+          "weaken%": 45
+        },
+        {
+          "bb atk%": 280,
+          "bb flat atk": 100,
+          "bc cost": 16,
+          "curse%": 47,
+          "injury%": 47,
+          "lord damage range": "4664~5209",
+          "paralysis%": 47,
+          "poison%": 47,
+          "sick%": 47,
+          "weaken%": 47
+        },
+        {
+          "bb atk%": 290,
+          "bb flat atk": 100,
+          "bc cost": 16,
+          "curse%": 49,
+          "injury%": 49,
+          "lord damage range": "4784~5343",
+          "paralysis%": 49,
+          "poison%": 49,
+          "sick%": 49,
+          "weaken%": 49
+        },
+        {
+          "bb atk%": 300,
+          "bb flat atk": 100,
+          "bc cost": 16,
+          "curse%": 51,
+          "injury%": 51,
+          "lord damage range": "4905~5478",
+          "paralysis%": 51,
+          "poison%": 51,
+          "sick%": 51,
+          "weaken%": 51
+        },
+        {
+          "bb atk%": 310,
+          "bb flat atk": 100,
+          "bc cost": 16,
+          "curse%": 53,
+          "injury%": 53,
+          "lord damage range": "5025~5612",
+          "paralysis%": 53,
+          "poison%": 53,
+          "sick%": 53,
+          "weaken%": 53
+        },
+        {
+          "bb atk%": 320,
+          "bb flat atk": 100,
+          "bc cost": 16,
+          "curse%": 55,
+          "injury%": 55,
+          "lord damage range": "5145~5747",
+          "paralysis%": 55,
+          "poison%": 55,
+          "sick%": 55,
+          "weaken%": 55
+        },
+        {
+          "bb atk%": 330,
+          "bb flat atk": 100,
+          "bc cost": 16,
+          "curse%": 57,
+          "injury%": 57,
+          "lord damage range": "5265~5881",
+          "paralysis%": 57,
+          "poison%": 57,
+          "sick%": 57,
+          "weaken%": 57
+        },
+        {
+          "bb atk%": 340,
+          "bb flat atk": 100,
+          "bc cost": 16,
+          "curse%": 59,
+          "injury%": 59,
+          "lord damage range": "5385~6015",
+          "paralysis%": 59,
+          "poison%": 59,
+          "sick%": 59,
+          "weaken%": 59
+        },
+        {
+          "bb atk%": 350,
+          "bb flat atk": 100,
+          "bc cost": 16,
+          "curse%": 61,
+          "injury%": 61,
+          "lord damage range": "5506~6150",
+          "paralysis%": 61,
+          "poison%": 61,
+          "sick%": 61,
+          "weaken%": 61
+        },
+        {
+          "bb atk%": 370,
+          "bb flat atk": 100,
+          "bc cost": 16,
+          "curse%": 65,
+          "injury%": 65,
+          "lord damage range": "5746~6418",
+          "paralysis%": 65,
+          "poison%": 65,
+          "sick%": 65,
+          "weaken%": 65
+        }
+      ],
+      "max bc generated": 7,
+      "name": "Brat Strike"
+    },
+    "element": "earth",
+    "hit dmg% distribution": [
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "hits": 5,
+    "leader skill": {
+      "curse%": 3,
+      "desc": "Low chance of inflicting a random status ailment when attacking",
+      "injury%": 5,
+      "name": "Epidemic Wave",
+      "paralysis%": 3,
+      "poison%": 3,
+      "sick%": 5,
+      "weaken%": 5
+    },
+    "lord atk": 1292,
+    "lord damage range": "1202~1343",
+    "lord def": 1241,
+    "lord hp": 4347,
+    "lord rec": 1304,
+    "max bc generated": 5,
+    "rarity": 4
+  },
   "Nature God Lance": {
     "base atk": 1010,
     "base def": 987,
@@ -45181,6 +47101,121 @@
     "lord rec": 938,
     "max bc generated": 5,
     "rarity": 3
+  },
+  "Phee": {
+    "base atk": 908,
+    "base def": 1008,
+    "base hp": 2965,
+    "base rec": 1104,
+    "bb": {
+      "desc": "8 combo powerful Water attack on all enemies & boost to HC drop rate for 3 turns ",
+      "hit dmg% distribution": [
+        12,
+        13,
+        12,
+        13,
+        12,
+        13,
+        12,
+        13
+      ],
+      "hits": 8,
+      "levels": [
+        {
+          "bb atk%": 50,
+          "bb flat atk": 100,
+          "bc cost": 22,
+          "hc drop rate% buff": 10,
+          "lord damage range": "1783~1992"
+        },
+        {
+          "bb atk%": 60,
+          "bb flat atk": 100,
+          "bc cost": 22,
+          "hc drop rate% buff": 11,
+          "lord damage range": "1896~2118"
+        },
+        {
+          "bb atk%": 70,
+          "bb flat atk": 100,
+          "bc cost": 22,
+          "hc drop rate% buff": 12,
+          "lord damage range": "2009~2244"
+        },
+        {
+          "bb atk%": 80,
+          "bb flat atk": 100,
+          "bc cost": 22,
+          "hc drop rate% buff": 13,
+          "lord damage range": "2122~2370"
+        },
+        {
+          "bb atk%": 90,
+          "bb flat atk": 100,
+          "bc cost": 22,
+          "hc drop rate% buff": 14,
+          "lord damage range": "2235~2496"
+        },
+        {
+          "bb atk%": 100,
+          "bb flat atk": 100,
+          "bc cost": 22,
+          "hc drop rate% buff": 15,
+          "lord damage range": "2347~2622"
+        },
+        {
+          "bb atk%": 110,
+          "bb flat atk": 100,
+          "bc cost": 22,
+          "hc drop rate% buff": 16,
+          "lord damage range": "2460~2748"
+        },
+        {
+          "bb atk%": 120,
+          "bb flat atk": 100,
+          "bc cost": 22,
+          "hc drop rate% buff": 17,
+          "lord damage range": "2573~2874"
+        },
+        {
+          "bb atk%": 130,
+          "bb flat atk": 100,
+          "bc cost": 22,
+          "hc drop rate% buff": 18,
+          "lord damage range": "2686~3000"
+        },
+        {
+          "bb atk%": 150,
+          "bb flat atk": 100,
+          "bc cost": 22,
+          "hc drop rate% buff": 20,
+          "lord damage range": "2911~3252"
+        }
+      ],
+      "max bc generated": 8,
+      "name": "Rogue Flash"
+    },
+    "element": "water",
+    "hit dmg% distribution": [
+      19,
+      15,
+      18,
+      15,
+      18,
+      15
+    ],
+    "hits": 6,
+    "leader skill": {
+      "desc": "Small reduction in BB gauge required for BB",
+      "name": "Monarch's Magic"
+    },
+    "lord atk": 1211,
+    "lord damage range": "1126~1259",
+    "lord def": 1344,
+    "lord hp": 4253,
+    "lord rec": 1472,
+    "max bc generated": 6,
+    "rarity": 4
   },
   "Phoenix": {
     "base atk": 550,
@@ -50671,6 +52706,381 @@
     "lord rec": 1090,
     "max bc generated": 6,
     "rarity": 4
+  },
+  "Ruin Goddess Zellha": {
+    "base atk": 1422,
+    "base def": 1327,
+    "base hp": 4293,
+    "base rec": 1451,
+    "bb": {
+      "desc": "12 combo powerful Light attack on single enemy & probable Injury and Weak effect ",
+      "hit dmg% distribution": [
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        10,
+        10,
+        8,
+        8,
+        8,
+        8
+      ],
+      "hits": 12,
+      "levels": [
+        {
+          "bb atk%": 350,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "injury%": 60,
+          "lord damage range": "7849~8766",
+          "weaken%": 60
+        },
+        {
+          "bb atk%": 360,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "injury%": 62,
+          "lord damage range": "8021~8958",
+          "weaken%": 62
+        },
+        {
+          "bb atk%": 370,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "injury%": 64,
+          "lord damage range": "8193~9150",
+          "weaken%": 64
+        },
+        {
+          "bb atk%": 380,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "injury%": 66,
+          "lord damage range": "8365~9343",
+          "weaken%": 66
+        },
+        {
+          "bb atk%": 390,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "injury%": 68,
+          "lord damage range": "8538~9535",
+          "weaken%": 68
+        },
+        {
+          "bb atk%": 400,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "injury%": 70,
+          "lord damage range": "8711~9729",
+          "weaken%": 70
+        },
+        {
+          "bb atk%": 410,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "injury%": 72,
+          "lord damage range": "8884~9921",
+          "weaken%": 72
+        },
+        {
+          "bb atk%": 420,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "injury%": 74,
+          "lord damage range": "9055~10114",
+          "weaken%": 74
+        },
+        {
+          "bb atk%": 430,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "injury%": 76,
+          "lord damage range": "9228~10306",
+          "weaken%": 76
+        },
+        {
+          "bb atk%": 450,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "injury%": 80,
+          "lord damage range": "9573~10691",
+          "weaken%": 80
+        }
+      ],
+      "max bc generated": 12,
+      "name": "Destroy you..."
+    },
+    "element": "light",
+    "hit dmg% distribution": [
+      15,
+      10,
+      15,
+      10,
+      15,
+      10,
+      15,
+      10
+    ],
+    "hits": 8,
+    "leader skill": {
+      "desc": "Large reduction in BB gauge required for BB",
+      "name": "Supreme Ruler's Magic"
+    },
+    "lord atk": 1851,
+    "lord damage range": "1722~1925",
+    "lord def": 1703,
+    "lord hp": 6040,
+    "lord rec": 1896,
+    "max bc generated": 8,
+    "rarity": 6,
+    "sbb": {
+      "desc": "30 combo powerful Light attack on all enemies & probable Injury and Weak effect ",
+      "hit dmg% distribution": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        13
+      ],
+      "hits": 30,
+      "levels": [
+        {
+          "bb atk%": 250,
+          "bb flat atk": 100,
+          "bc cost": 33,
+          "injury%": 40,
+          "lord damage range": "6125~6841",
+          "weaken%": 40
+        },
+        {
+          "bb atk%": 260,
+          "bb flat atk": 100,
+          "bc cost": 33,
+          "injury%": 42,
+          "lord damage range": "6297~7033",
+          "weaken%": 42
+        },
+        {
+          "bb atk%": 270,
+          "bb flat atk": 100,
+          "bc cost": 33,
+          "injury%": 44,
+          "lord damage range": "6470~7225",
+          "weaken%": 44
+        },
+        {
+          "bb atk%": 280,
+          "bb flat atk": 100,
+          "bc cost": 33,
+          "injury%": 46,
+          "lord damage range": "6641~7418",
+          "weaken%": 46
+        },
+        {
+          "bb atk%": 290,
+          "bb flat atk": 100,
+          "bc cost": 33,
+          "injury%": 48,
+          "lord damage range": "6814~7610",
+          "weaken%": 48
+        },
+        {
+          "bb atk%": 300,
+          "bb flat atk": 100,
+          "bc cost": 33,
+          "injury%": 50,
+          "lord damage range": "6987~7804",
+          "weaken%": 50
+        },
+        {
+          "bb atk%": 310,
+          "bb flat atk": 100,
+          "bc cost": 33,
+          "injury%": 52,
+          "lord damage range": "7160~7996",
+          "weaken%": 52
+        },
+        {
+          "bb atk%": 320,
+          "bb flat atk": 100,
+          "bc cost": 33,
+          "injury%": 54,
+          "lord damage range": "7332~8188",
+          "weaken%": 54
+        },
+        {
+          "bb atk%": 330,
+          "bb flat atk": 100,
+          "bc cost": 33,
+          "injury%": 56,
+          "lord damage range": "7504~8381",
+          "weaken%": 56
+        },
+        {
+          "bb atk%": 350,
+          "bb flat atk": 100,
+          "bc cost": 33,
+          "injury%": 60,
+          "lord damage range": "7849~8766",
+          "weaken%": 60
+        }
+      ],
+      "max bc generated": 30,
+      "name": "Light of Ruin"
+    }
+  },
+  "Ruin Zellha": {
+    "base atk": 1189,
+    "base def": 1112,
+    "base hp": 3568,
+    "base rec": 1215,
+    "bb": {
+      "desc": "8 combo powerful Light attack on single enemy & probable Injury and Weak effect ",
+      "hit dmg% distribution": [
+        15,
+        15,
+        15,
+        15,
+        10,
+        10,
+        10,
+        10
+      ],
+      "hits": 8,
+      "levels": [
+        {
+          "bb atk%": 320,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "injury%": 60,
+          "lord damage range": "6272~7005",
+          "weaken%": 60
+        },
+        {
+          "bb atk%": 330,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "injury%": 62,
+          "lord damage range": "6419~7169",
+          "weaken%": 62
+        },
+        {
+          "bb atk%": 340,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "injury%": 64,
+          "lord damage range": "6566~7334",
+          "weaken%": 64
+        },
+        {
+          "bb atk%": 350,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "injury%": 66,
+          "lord damage range": "6714~7498",
+          "weaken%": 66
+        },
+        {
+          "bb atk%": 360,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "injury%": 68,
+          "lord damage range": "6860~7661",
+          "weaken%": 68
+        },
+        {
+          "bb atk%": 370,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "injury%": 70,
+          "lord damage range": "7008~7827",
+          "weaken%": 70
+        },
+        {
+          "bb atk%": 380,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "injury%": 72,
+          "lord damage range": "7155~7991",
+          "weaken%": 72
+        },
+        {
+          "bb atk%": 390,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "injury%": 74,
+          "lord damage range": "7302~8155",
+          "weaken%": 74
+        },
+        {
+          "bb atk%": 400,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "injury%": 76,
+          "lord damage range": "7450~8320",
+          "weaken%": 76
+        },
+        {
+          "bb atk%": 420,
+          "bb flat atk": 100,
+          "bc cost": 15,
+          "injury%": 80,
+          "lord damage range": "7743~8648",
+          "weaken%": 80
+        }
+      ],
+      "max bc generated": 8,
+      "name": "Before I..."
+    },
+    "element": "light",
+    "hit dmg% distribution": [
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "hits": 5,
+    "leader skill": {
+      "desc": "Reduction in BB gauge required for BB",
+      "name": "High Ruler's Magic"
+    },
+    "lord atk": 1580,
+    "lord damage range": "1471~1643",
+    "lord def": 1474,
+    "lord hp": 5070,
+    "lord rec": 1612,
+    "max bc generated": 5,
+    "rarity": 5
   },
   "Ryujin Mifune": {
     "base atk": 1251,
@@ -61606,6 +64016,456 @@
     "max bc generated": 3,
     "rarity": 3
   },
+  "Tyrant Goddess Phee": {
+    "base atk": 1315,
+    "base def": 1431,
+    "base hp": 4280,
+    "base rec": 1589,
+    "bb": {
+      "desc": "12 combo powerful Water attack on all enemies & boost to HC drop rate for 3 turns ",
+      "hit dmg% distribution": [
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8
+      ],
+      "hits": 12,
+      "levels": [
+        {
+          "bb atk%": 120,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "hc drop rate% buff": 12,
+          "lord damage range": "3474~3881"
+        },
+        {
+          "bb atk%": 130,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "hc drop rate% buff": 13,
+          "lord damage range": "3629~4053"
+        },
+        {
+          "bb atk%": 140,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "hc drop rate% buff": 14,
+          "lord damage range": "3782~4225"
+        },
+        {
+          "bb atk%": 150,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "hc drop rate% buff": 15,
+          "lord damage range": "3937~4397"
+        },
+        {
+          "bb atk%": 160,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "hc drop rate% buff": 16,
+          "lord damage range": "4091~4569"
+        },
+        {
+          "bb atk%": 170,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "hc drop rate% buff": 17,
+          "lord damage range": "4245~4741"
+        },
+        {
+          "bb atk%": 180,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "hc drop rate% buff": 18,
+          "lord damage range": "4398~4912"
+        },
+        {
+          "bb atk%": 190,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "hc drop rate% buff": 19,
+          "lord damage range": "4553~5085"
+        },
+        {
+          "bb atk%": 200,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "hc drop rate% buff": 20,
+          "lord damage range": "4706~5257"
+        },
+        {
+          "bb atk%": 220,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "hc drop rate% buff": 22,
+          "lord damage range": "5014~5600"
+        }
+      ],
+      "max bc generated": 12,
+      "name": "Abraxas"
+    },
+    "element": "water",
+    "hit dmg% distribution": [
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "hits": 10,
+    "leader skill": {
+      "desc": "Large reduction in BB gauge required for BB",
+      "name": "Supreme Ruler's Magic"
+    },
+    "lord atk": 1722,
+    "lord damage range": "1602~1790",
+    "lord def": 1858,
+    "lord hp": 5976,
+    "lord rec": 2052,
+    "max bc generated": 10,
+    "rarity": 6,
+    "sbb": {
+      "desc": "15 combo powerful Water attack on all enemies, large boost to HC drop rate & boost to HC drop rate for 3 turns",
+      "hit dmg% distribution": [
+        7,
+        7,
+        7,
+        6,
+        7,
+        6,
+        7,
+        6,
+        7,
+        6,
+        7,
+        6,
+        7,
+        7,
+        7
+      ],
+      "hits": 15,
+      "levels": [
+        {
+          "bb atk%": 300,
+          "bb flat atk": 100,
+          "bb hc%": 40,
+          "bc cost": 18,
+          "hc drop rate% buff": 15,
+          "lord damage range": "6507~7267"
+        },
+        {
+          "bb atk%": 310,
+          "bb flat atk": 100,
+          "bb hc%": 45,
+          "bc cost": 18,
+          "hc drop rate% buff": 16,
+          "lord damage range": "6667~7446"
+        },
+        {
+          "bb atk%": 320,
+          "bb flat atk": 100,
+          "bb hc%": 50,
+          "bc cost": 18,
+          "hc drop rate% buff": 17,
+          "lord damage range": "6827~7625"
+        },
+        {
+          "bb atk%": 330,
+          "bb flat atk": 100,
+          "bb hc%": 55,
+          "bc cost": 18,
+          "hc drop rate% buff": 18,
+          "lord damage range": "6987~7804"
+        },
+        {
+          "bb atk%": 340,
+          "bb flat atk": 100,
+          "bb hc%": 60,
+          "bc cost": 18,
+          "hc drop rate% buff": 19,
+          "lord damage range": "7147~7983"
+        },
+        {
+          "bb atk%": 350,
+          "bb flat atk": 100,
+          "bb hc%": 65,
+          "bc cost": 18,
+          "hc drop rate% buff": 20,
+          "lord damage range": "7309~8162"
+        },
+        {
+          "bb atk%": 360,
+          "bb flat atk": 100,
+          "bb hc%": 70,
+          "bc cost": 18,
+          "hc drop rate% buff": 21,
+          "lord damage range": "7468~8341"
+        },
+        {
+          "bb atk%": 370,
+          "bb flat atk": 100,
+          "bb hc%": 75,
+          "bc cost": 18,
+          "hc drop rate% buff": 22,
+          "lord damage range": "7629~8520"
+        },
+        {
+          "bb atk%": 380,
+          "bb flat atk": 100,
+          "bb hc%": 80,
+          "bc cost": 18,
+          "hc drop rate% buff": 23,
+          "lord damage range": "7789~8699"
+        },
+        {
+          "bb atk%": 400,
+          "bb flat atk": 100,
+          "bb hc%": 85,
+          "bc cost": 18,
+          "hc drop rate% buff": 25,
+          "lord damage range": "8111~9058"
+        }
+      ],
+      "max bc generated": 15,
+      "name": "Tyrannical Prayer"
+    }
+  },
+  "Tyrant Phee": {
+    "base atk": 1090,
+    "base def": 1210,
+    "base hp": 3558,
+    "base rec": 1325,
+    "bb": {
+      "desc": "10 combo powerful Water attack on all enemies & boost to HC drop rate for 3 turns ",
+      "hit dmg% distribution": [
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10
+      ],
+      "hits": 10,
+      "levels": [
+        {
+          "bb atk%": 100,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "hc drop rate% buff": 12,
+          "lord damage range": "2813~3142"
+        },
+        {
+          "bb atk%": 110,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "hc drop rate% buff": 13,
+          "lord damage range": "2950~3294"
+        },
+        {
+          "bb atk%": 120,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "hc drop rate% buff": 14,
+          "lord damage range": "3085~3446"
+        },
+        {
+          "bb atk%": 130,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "hc drop rate% buff": 15,
+          "lord damage range": "3222~3598"
+        },
+        {
+          "bb atk%": 140,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "hc drop rate% buff": 16,
+          "lord damage range": "3357~3750"
+        },
+        {
+          "bb atk%": 150,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "hc drop rate% buff": 17,
+          "lord damage range": "3493~3902"
+        },
+        {
+          "bb atk%": 160,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "hc drop rate% buff": 18,
+          "lord damage range": "3629~4053"
+        },
+        {
+          "bb atk%": 170,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "hc drop rate% buff": 19,
+          "lord damage range": "3765~4205"
+        },
+        {
+          "bb atk%": 180,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "hc drop rate% buff": 20,
+          "lord damage range": "3901~4357"
+        },
+        {
+          "bb atk%": 200,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "hc drop rate% buff": 22,
+          "lord damage range": "4174~4662"
+        }
+      ],
+      "max bc generated": 10,
+      "name": "Rogue Save"
+    },
+    "element": "water",
+    "hit dmg% distribution": [
+      13,
+      12,
+      13,
+      12,
+      13,
+      12,
+      13,
+      12
+    ],
+    "hits": 8,
+    "leader skill": {
+      "desc": "Reduction in BB gauge required for BB",
+      "name": "High Ruler's Magic"
+    },
+    "lord atk": 1461,
+    "lord damage range": "1359~1519",
+    "lord def": 1590,
+    "lord hp": 5056,
+    "lord rec": 1765,
+    "max bc generated": 8,
+    "rarity": 5
+  },
+  "Uda": {
+    "base atk": 1015,
+    "base def": 1015,
+    "base hp": 2985,
+    "base rec": 908,
+    "bb": {
+      "desc": "7 combo Thunder elemental attack on all enemies",
+      "hit dmg% distribution": [
+        18,
+        13,
+        13,
+        13,
+        13,
+        13,
+        17
+      ],
+      "hits": 7,
+      "levels": [
+        {
+          "bb atk%": 50,
+          "bb flat atk": 50,
+          "bc cost": 14,
+          "lord damage range": "1935~2162"
+        },
+        {
+          "bb atk%": 60,
+          "bb flat atk": 50,
+          "bc cost": 14,
+          "lord damage range": "2061~2302"
+        },
+        {
+          "bb atk%": 70,
+          "bb flat atk": 50,
+          "bc cost": 14,
+          "lord damage range": "2188~2444"
+        },
+        {
+          "bb atk%": 80,
+          "bb flat atk": 50,
+          "bc cost": 14,
+          "lord damage range": "2313~2584"
+        },
+        {
+          "bb atk%": 90,
+          "bb flat atk": 50,
+          "bc cost": 14,
+          "lord damage range": "2439~2724"
+        },
+        {
+          "bb atk%": 100,
+          "bb flat atk": 50,
+          "bc cost": 14,
+          "lord damage range": "2566~2866"
+        },
+        {
+          "bb atk%": 110,
+          "bb flat atk": 50,
+          "bc cost": 14,
+          "lord damage range": "2691~3006"
+        },
+        {
+          "bb atk%": 120,
+          "bb flat atk": 50,
+          "bc cost": 14,
+          "lord damage range": "2817~3147"
+        },
+        {
+          "bb atk%": 130,
+          "bb flat atk": 50,
+          "bc cost": 14,
+          "lord damage range": "2942~3287"
+        },
+        {
+          "bb atk%": 140,
+          "bb flat atk": 50,
+          "bc cost": 14,
+          "lord damage range": "3070~3428"
+        }
+      ],
+      "max bc generated": 7,
+      "name": "Mad Slayer"
+    },
+    "element": "thunder",
+    "hit dmg% distribution": [
+      25,
+      25,
+      25,
+      25
+    ],
+    "hits": 4,
+    "leader skill": {
+      "bb gauge fill rate%": 20,
+      "desc": "Small boost in the BB Gauge fill rate",
+      "name": "Ares' Light"
+    },
+    "lord atk": 1353,
+    "lord damage range": "1259~1407",
+    "lord def": 1353,
+    "lord hp": 4280,
+    "lord rec": 1211,
+    "max bc generated": 4,
+    "rarity": 4
+  },
   "Ultra Blade Aem": {
     "base atk": 1377,
     "base def": 900,
@@ -65921,6 +68781,127 @@
     "lord hp": 4028,
     "lord rec": 1141,
     "max bc generated": 5,
+    "rarity": 4
+  },
+  "Zellha": {
+    "base atk": 991,
+    "base def": 926,
+    "base hp": 2973,
+    "base rec": 1013,
+    "bb": {
+      "desc": "6 combo powerful Light attack on single enemy & probable Injury and Weak effect ",
+      "hit dmg% distribution": [
+        17,
+        17,
+        17,
+        17,
+        16,
+        16
+      ],
+      "hits": 6,
+      "levels": [
+        {
+          "bb atk%": 270,
+          "bb flat atk": 100,
+          "bc cost": 14,
+          "injury%": 60,
+          "lord damage range": "4643~5186",
+          "weaken%": 60
+        },
+        {
+          "bb atk%": 280,
+          "bb flat atk": 100,
+          "bc cost": 14,
+          "injury%": 62,
+          "lord damage range": "4766~5323",
+          "weaken%": 62
+        },
+        {
+          "bb atk%": 290,
+          "bb flat atk": 100,
+          "bc cost": 14,
+          "injury%": 64,
+          "lord damage range": "4889~5461",
+          "weaken%": 64
+        },
+        {
+          "bb atk%": 300,
+          "bb flat atk": 100,
+          "bc cost": 14,
+          "injury%": 66,
+          "lord damage range": "5013~5599",
+          "weaken%": 66
+        },
+        {
+          "bb atk%": 310,
+          "bb flat atk": 100,
+          "bc cost": 14,
+          "injury%": 68,
+          "lord damage range": "5136~5736",
+          "weaken%": 68
+        },
+        {
+          "bb atk%": 320,
+          "bb flat atk": 100,
+          "bc cost": 14,
+          "injury%": 70,
+          "lord damage range": "5259~5873",
+          "weaken%": 70
+        },
+        {
+          "bb atk%": 330,
+          "bb flat atk": 100,
+          "bc cost": 14,
+          "injury%": 72,
+          "lord damage range": "5382~6011",
+          "weaken%": 72
+        },
+        {
+          "bb atk%": 340,
+          "bb flat atk": 100,
+          "bc cost": 14,
+          "injury%": 74,
+          "lord damage range": "5504~6148",
+          "weaken%": 74
+        },
+        {
+          "bb atk%": 350,
+          "bb flat atk": 100,
+          "bc cost": 14,
+          "injury%": 76,
+          "lord damage range": "5627~6285",
+          "weaken%": 76
+        },
+        {
+          "bb atk%": 370,
+          "bb flat atk": 100,
+          "bc cost": 14,
+          "injury%": 80,
+          "lord damage range": "5874~6560",
+          "weaken%": 80
+        }
+      ],
+      "max bc generated": 6,
+      "name": "Destroy me..."
+    },
+    "element": "light",
+    "hit dmg% distribution": [
+      25,
+      25,
+      25,
+      25
+    ],
+    "hits": 4,
+    "leader skill": {
+      "desc": "Small reduction in BB gauge required for BB",
+      "name": "Monarch's Magic"
+    },
+    "lord atk": 1321,
+    "lord damage range": "1229~1373",
+    "lord def": 1235,
+    "lord hp": 4264,
+    "lord rec": 1350,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Zeln": {
