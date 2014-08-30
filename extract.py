@@ -260,6 +260,9 @@ def parse_bb(unit_data, bb_id, skills, bbs, dictionary):
         level, bc_cost, misc = level_info.split(':')
         level_data = {'bc cost': int(bc_cost)/100}
         level_data.update(parse_bb_level(skill['hjAy9St3'].split('@'), misc.split('@')))
+        if 'hits' in level_data:
+            level_data['max bc generated'] = level_data['hits'] * int(skill['n9h7p02P'])
+
         if 'bb atk%' in level_data:
             total_atk = unit_data['lord atk']
             modifier = level_data['bb atk%']

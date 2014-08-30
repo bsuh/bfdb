@@ -1169,6 +1169,7 @@
           "elements added turns": 3,
           "hits": 12,
           "lord damage range": "9831~10980",
+          "max bc generated": 12,
           "random attack": true
         },
         {
@@ -1181,6 +1182,7 @@
           "elements added turns": 3,
           "hits": 12,
           "lord damage range": "9993~11161",
+          "max bc generated": 12,
           "random attack": true
         },
         {
@@ -1193,6 +1195,7 @@
           "elements added turns": 3,
           "hits": 12,
           "lord damage range": "10155~11342",
+          "max bc generated": 12,
           "random attack": true
         },
         {
@@ -1205,6 +1208,7 @@
           "elements added turns": 3,
           "hits": 12,
           "lord damage range": "10318~11523",
+          "max bc generated": 12,
           "random attack": true
         },
         {
@@ -1217,6 +1221,7 @@
           "elements added turns": 3,
           "hits": 12,
           "lord damage range": "10480~11705",
+          "max bc generated": 12,
           "random attack": true
         },
         {
@@ -1229,6 +1234,7 @@
           "elements added turns": 3,
           "hits": 12,
           "lord damage range": "10643~11886",
+          "max bc generated": 12,
           "random attack": true
         },
         {
@@ -1241,6 +1247,7 @@
           "elements added turns": 3,
           "hits": 12,
           "lord damage range": "10804~12067",
+          "max bc generated": 12,
           "random attack": true
         },
         {
@@ -1253,6 +1260,7 @@
           "elements added turns": 3,
           "hits": 12,
           "lord damage range": "10968~12249",
+          "max bc generated": 12,
           "random attack": true
         },
         {
@@ -1265,6 +1273,7 @@
           "elements added turns": 3,
           "hits": 12,
           "lord damage range": "11129~12430",
+          "max bc generated": 12,
           "random attack": true
         },
         {
@@ -1277,6 +1286,7 @@
           "elements added turns": 3,
           "hits": 12,
           "lord damage range": "11291~12611",
+          "max bc generated": 12,
           "random attack": true
         }
       ],
@@ -1324,6 +1334,7 @@
           "increase bb gauge gradual": 2,
           "increase bb gauge gradual turns": 3,
           "lord damage range": "13124~14657",
+          "max bc generated": 15,
           "random attack": true
         },
         {
@@ -1338,6 +1349,7 @@
           "increase bb gauge gradual": 2,
           "increase bb gauge gradual turns": 3,
           "lord damage range": "13286~14838",
+          "max bc generated": 15,
           "random attack": true
         },
         {
@@ -1352,6 +1364,7 @@
           "increase bb gauge gradual": 2,
           "increase bb gauge gradual turns": 3,
           "lord damage range": "13448~15019",
+          "max bc generated": 15,
           "random attack": true
         },
         {
@@ -1366,6 +1379,7 @@
           "increase bb gauge gradual": 2,
           "increase bb gauge gradual turns": 3,
           "lord damage range": "13610~15200",
+          "max bc generated": 15,
           "random attack": true
         },
         {
@@ -1380,6 +1394,7 @@
           "increase bb gauge gradual": 2,
           "increase bb gauge gradual turns": 3,
           "lord damage range": "13773~15382",
+          "max bc generated": 15,
           "random attack": true
         },
         {
@@ -1394,6 +1409,7 @@
           "increase bb gauge gradual": 2,
           "increase bb gauge gradual turns": 3,
           "lord damage range": "13935~15563",
+          "max bc generated": 15,
           "random attack": true
         },
         {
@@ -1408,6 +1424,7 @@
           "increase bb gauge gradual": 2,
           "increase bb gauge gradual turns": 3,
           "lord damage range": "14098~15744",
+          "max bc generated": 15,
           "random attack": true
         },
         {
@@ -1422,6 +1439,7 @@
           "increase bb gauge gradual": 2,
           "increase bb gauge gradual turns": 3,
           "lord damage range": "14260~15926",
+          "max bc generated": 15,
           "random attack": true
         },
         {
@@ -1436,6 +1454,7 @@
           "increase bb gauge gradual": 2,
           "increase bb gauge gradual turns": 3,
           "lord damage range": "14423~16107",
+          "max bc generated": 15,
           "random attack": true
         },
         {
@@ -1450,6 +1469,7 @@
           "increase bb gauge gradual": 2,
           "increase bb gauge gradual turns": 3,
           "lord damage range": "14747~16470",
+          "max bc generated": 15,
           "random attack": true
         }
       ],
@@ -2505,6 +2525,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "1799~2010",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -2513,6 +2534,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "1861~2078",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -2521,6 +2543,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "1922~2147",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -2529,6 +2552,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "1983~2215",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -2537,6 +2561,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "2044~2283",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -2545,6 +2570,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "2104~2351",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -2553,6 +2579,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "2166~2420",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -2561,6 +2588,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "2226~2487",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -2569,6 +2597,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "2288~2556",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -2577,6 +2606,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "2348~2623",
+          "max bc generated": 5,
           "random attack": true
         }
       ],
@@ -9040,6 +9070,7 @@
           "elements added turns": 3,
           "hits": 8,
           "lord damage range": "4319~4824",
+          "max bc generated": 8,
           "random attack": true
         },
         {
@@ -9052,6 +9083,7 @@
           "elements added turns": 3,
           "hits": 8,
           "lord damage range": "4460~4981",
+          "max bc generated": 8,
           "random attack": true
         },
         {
@@ -9064,6 +9096,7 @@
           "elements added turns": 3,
           "hits": 8,
           "lord damage range": "4600~5138",
+          "max bc generated": 8,
           "random attack": true
         },
         {
@@ -9076,6 +9109,7 @@
           "elements added turns": 3,
           "hits": 8,
           "lord damage range": "4741~5295",
+          "max bc generated": 8,
           "random attack": true
         },
         {
@@ -9088,6 +9122,7 @@
           "elements added turns": 3,
           "hits": 8,
           "lord damage range": "4882~5453",
+          "max bc generated": 8,
           "random attack": true
         },
         {
@@ -9100,6 +9135,7 @@
           "elements added turns": 3,
           "hits": 8,
           "lord damage range": "5023~5610",
+          "max bc generated": 8,
           "random attack": true
         },
         {
@@ -9112,6 +9148,7 @@
           "elements added turns": 3,
           "hits": 8,
           "lord damage range": "5164~5767",
+          "max bc generated": 8,
           "random attack": true
         },
         {
@@ -9124,6 +9161,7 @@
           "elements added turns": 3,
           "hits": 8,
           "lord damage range": "5306~5925",
+          "max bc generated": 8,
           "random attack": true
         },
         {
@@ -9136,6 +9174,7 @@
           "elements added turns": 3,
           "hits": 8,
           "lord damage range": "5446~6082",
+          "max bc generated": 8,
           "random attack": true
         },
         {
@@ -9148,6 +9187,7 @@
           "elements added turns": 3,
           "hits": 8,
           "lord damage range": "5728~6398",
+          "max bc generated": 8,
           "random attack": true
         }
       ],
@@ -9884,6 +9924,7 @@
           "elements added turns": 3,
           "hits": 11,
           "lord damage range": "6838~7637",
+          "max bc generated": 11,
           "random attack": true
         },
         {
@@ -9896,6 +9937,7 @@
           "elements added turns": 3,
           "hits": 11,
           "lord damage range": "7007~7826",
+          "max bc generated": 11,
           "random attack": true
         },
         {
@@ -9908,6 +9950,7 @@
           "elements added turns": 3,
           "hits": 11,
           "lord damage range": "7175~8014",
+          "max bc generated": 11,
           "random attack": true
         },
         {
@@ -9920,6 +9963,7 @@
           "elements added turns": 3,
           "hits": 11,
           "lord damage range": "7344~8202",
+          "max bc generated": 11,
           "random attack": true
         },
         {
@@ -9932,6 +9976,7 @@
           "elements added turns": 3,
           "hits": 11,
           "lord damage range": "7513~8390",
+          "max bc generated": 11,
           "random attack": true
         },
         {
@@ -9944,6 +9989,7 @@
           "elements added turns": 3,
           "hits": 11,
           "lord damage range": "7681~8578",
+          "max bc generated": 11,
           "random attack": true
         },
         {
@@ -9956,6 +10002,7 @@
           "elements added turns": 3,
           "hits": 11,
           "lord damage range": "7850~8767",
+          "max bc generated": 11,
           "random attack": true
         },
         {
@@ -9968,6 +10015,7 @@
           "elements added turns": 3,
           "hits": 11,
           "lord damage range": "8018~8955",
+          "max bc generated": 11,
           "random attack": true
         },
         {
@@ -9980,6 +10028,7 @@
           "elements added turns": 3,
           "hits": 11,
           "lord damage range": "8186~9143",
+          "max bc generated": 11,
           "random attack": true
         },
         {
@@ -9992,6 +10041,7 @@
           "elements added turns": 3,
           "hits": 11,
           "lord damage range": "8525~9521",
+          "max bc generated": 11,
           "random attack": true
         }
       ],
@@ -10197,6 +10247,7 @@
           "elements added turns": 3,
           "hits": 8,
           "lord damage range": "5624~6281",
+          "max bc generated": 8,
           "random attack": true
         },
         {
@@ -10209,6 +10260,7 @@
           "elements added turns": 3,
           "hits": 8,
           "lord damage range": "5762~6435",
+          "max bc generated": 8,
           "random attack": true
         },
         {
@@ -10221,6 +10273,7 @@
           "elements added turns": 3,
           "hits": 8,
           "lord damage range": "5901~6590",
+          "max bc generated": 8,
           "random attack": true
         },
         {
@@ -10233,6 +10286,7 @@
           "elements added turns": 3,
           "hits": 8,
           "lord damage range": "6038~6744",
+          "max bc generated": 8,
           "random attack": true
         },
         {
@@ -10245,6 +10299,7 @@
           "elements added turns": 3,
           "hits": 8,
           "lord damage range": "6177~6899",
+          "max bc generated": 8,
           "random attack": true
         },
         {
@@ -10257,6 +10312,7 @@
           "elements added turns": 3,
           "hits": 8,
           "lord damage range": "6314~7053",
+          "max bc generated": 8,
           "random attack": true
         },
         {
@@ -10269,6 +10325,7 @@
           "elements added turns": 3,
           "hits": 8,
           "lord damage range": "6453~7207",
+          "max bc generated": 8,
           "random attack": true
         },
         {
@@ -10281,6 +10338,7 @@
           "elements added turns": 3,
           "hits": 8,
           "lord damage range": "6592~7362",
+          "max bc generated": 8,
           "random attack": true
         },
         {
@@ -10293,6 +10351,7 @@
           "elements added turns": 3,
           "hits": 8,
           "lord damage range": "6730~7517",
+          "max bc generated": 8,
           "random attack": true
         },
         {
@@ -10305,6 +10364,7 @@
           "elements added turns": 3,
           "hits": 8,
           "lord damage range": "7007~7826",
+          "max bc generated": 8,
           "random attack": true
         }
       ],
@@ -13780,6 +13840,7 @@
           "bc cost": 20,
           "hits": 8,
           "lord damage range": "9591~10712",
+          "max bc generated": 8,
           "random attack": true
         },
         {
@@ -13788,6 +13849,7 @@
           "bc cost": 20,
           "hits": 8,
           "lord damage range": "9750~10888",
+          "max bc generated": 8,
           "random attack": true
         },
         {
@@ -13796,6 +13858,7 @@
           "bc cost": 20,
           "hits": 8,
           "lord damage range": "9908~11065",
+          "max bc generated": 8,
           "random attack": true
         },
         {
@@ -13804,6 +13867,7 @@
           "bc cost": 20,
           "hits": 8,
           "lord damage range": "10066~11242",
+          "max bc generated": 8,
           "random attack": true
         },
         {
@@ -13812,6 +13876,7 @@
           "bc cost": 20,
           "hits": 8,
           "lord damage range": "10225~11419",
+          "max bc generated": 8,
           "random attack": true
         },
         {
@@ -13820,6 +13885,7 @@
           "bc cost": 20,
           "hits": 8,
           "lord damage range": "10383~11596",
+          "max bc generated": 8,
           "random attack": true
         },
         {
@@ -13828,6 +13894,7 @@
           "bc cost": 20,
           "hits": 8,
           "lord damage range": "10541~11772",
+          "max bc generated": 8,
           "random attack": true
         },
         {
@@ -13836,6 +13903,7 @@
           "bc cost": 20,
           "hits": 8,
           "lord damage range": "10700~11949",
+          "max bc generated": 8,
           "random attack": true
         },
         {
@@ -13844,6 +13912,7 @@
           "bc cost": 20,
           "hits": 8,
           "lord damage range": "10858~12126",
+          "max bc generated": 8,
           "random attack": true
         },
         {
@@ -13852,6 +13921,7 @@
           "bc cost": 20,
           "hits": 8,
           "lord damage range": "11016~12303",
+          "max bc generated": 8,
           "random attack": true
         }
       ],
@@ -19615,6 +19685,7 @@
           "bc cost": 15,
           "hits": 1,
           "lord damage range": "1342~1499",
+          "max bc generated": 1,
           "random attack": true
         },
         {
@@ -19622,6 +19693,7 @@
           "bc cost": 15,
           "hits": 1,
           "lord damage range": "1376~1537",
+          "max bc generated": 1,
           "random attack": true
         },
         {
@@ -19629,6 +19701,7 @@
           "bc cost": 15,
           "hits": 1,
           "lord damage range": "1409~1574",
+          "max bc generated": 1,
           "random attack": true
         },
         {
@@ -19636,6 +19709,7 @@
           "bc cost": 15,
           "hits": 1,
           "lord damage range": "1443~1612",
+          "max bc generated": 1,
           "random attack": true
         },
         {
@@ -19643,6 +19717,7 @@
           "bc cost": 15,
           "hits": 1,
           "lord damage range": "1476~1649",
+          "max bc generated": 1,
           "random attack": true
         },
         {
@@ -19650,6 +19725,7 @@
           "bc cost": 15,
           "hits": 1,
           "lord damage range": "1509~1686",
+          "max bc generated": 1,
           "random attack": true
         },
         {
@@ -19657,6 +19733,7 @@
           "bc cost": 15,
           "hits": 1,
           "lord damage range": "1543~1724",
+          "max bc generated": 1,
           "random attack": true
         },
         {
@@ -19664,6 +19741,7 @@
           "bc cost": 15,
           "hits": 1,
           "lord damage range": "1576~1761",
+          "max bc generated": 1,
           "random attack": true
         },
         {
@@ -19671,6 +19749,7 @@
           "bc cost": 15,
           "hits": 1,
           "lord damage range": "1611~1799",
+          "max bc generated": 1,
           "random attack": true
         },
         {
@@ -19678,6 +19757,7 @@
           "bc cost": 15,
           "hits": 1,
           "lord damage range": "1677~1874",
+          "max bc generated": 1,
           "random attack": true
         }
       ],
@@ -23089,6 +23169,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "1281~1431",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -23096,6 +23177,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "1298~1450",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -23103,6 +23185,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "1317~1471",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -23110,6 +23193,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "1335~1492",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -23117,6 +23201,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "1353~1512",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -23124,6 +23209,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "1372~1532",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -23131,6 +23217,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "1390~1553",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -23138,6 +23225,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "1408~1573",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -23145,6 +23233,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "1426~1594",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -23152,6 +23241,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "1463~1634",
+          "max bc generated": 5,
           "random attack": true
         }
       ],
@@ -23837,6 +23927,7 @@
           "bc cost": 30,
           "hits": 20,
           "lord damage range": "1754~1960",
+          "max bc generated": 40,
           "random attack": true
         },
         {
@@ -23845,6 +23936,7 @@
           "bc cost": 30,
           "hits": 20,
           "lord damage range": "1853~2069",
+          "max bc generated": 40,
           "random attack": true
         },
         {
@@ -23853,6 +23945,7 @@
           "bc cost": 30,
           "hits": 20,
           "lord damage range": "1950~2178",
+          "max bc generated": 40,
           "random attack": true
         },
         {
@@ -23861,6 +23954,7 @@
           "bc cost": 30,
           "hits": 20,
           "lord damage range": "2048~2288",
+          "max bc generated": 40,
           "random attack": true
         },
         {
@@ -23869,6 +23963,7 @@
           "bc cost": 30,
           "hits": 20,
           "lord damage range": "2146~2397",
+          "max bc generated": 40,
           "random attack": true
         },
         {
@@ -23877,6 +23972,7 @@
           "bc cost": 30,
           "hits": 20,
           "lord damage range": "2244~2506",
+          "max bc generated": 40,
           "random attack": true
         },
         {
@@ -23885,6 +23981,7 @@
           "bc cost": 30,
           "hits": 20,
           "lord damage range": "2341~2615",
+          "max bc generated": 40,
           "random attack": true
         },
         {
@@ -23893,6 +23990,7 @@
           "bc cost": 30,
           "hits": 20,
           "lord damage range": "2439~2724",
+          "max bc generated": 40,
           "random attack": true
         },
         {
@@ -23901,6 +23999,7 @@
           "bc cost": 30,
           "hits": 20,
           "lord damage range": "2537~2834",
+          "max bc generated": 40,
           "random attack": true
         },
         {
@@ -23909,6 +24008,7 @@
           "bc cost": 30,
           "hits": 20,
           "lord damage range": "2732~3052",
+          "max bc generated": 40,
           "random attack": true
         }
       ],
@@ -24084,6 +24184,7 @@
           "bc cost": 25,
           "hits": 15,
           "lord damage range": "1458~1629",
+          "max bc generated": 30,
           "random attack": true
         },
         {
@@ -24092,6 +24193,7 @@
           "bc cost": 25,
           "hits": 15,
           "lord damage range": "1543~1724",
+          "max bc generated": 30,
           "random attack": true
         },
         {
@@ -24100,6 +24202,7 @@
           "bc cost": 25,
           "hits": 15,
           "lord damage range": "1629~1820",
+          "max bc generated": 30,
           "random attack": true
         },
         {
@@ -24108,6 +24211,7 @@
           "bc cost": 25,
           "hits": 15,
           "lord damage range": "1714~1915",
+          "max bc generated": 30,
           "random attack": true
         },
         {
@@ -24116,6 +24220,7 @@
           "bc cost": 25,
           "hits": 15,
           "lord damage range": "1800~2011",
+          "max bc generated": 30,
           "random attack": true
         },
         {
@@ -24124,6 +24229,7 @@
           "bc cost": 25,
           "hits": 15,
           "lord damage range": "1885~2106",
+          "max bc generated": 30,
           "random attack": true
         },
         {
@@ -24132,6 +24238,7 @@
           "bc cost": 25,
           "hits": 15,
           "lord damage range": "1971~2201",
+          "max bc generated": 30,
           "random attack": true
         },
         {
@@ -24140,6 +24247,7 @@
           "bc cost": 25,
           "hits": 15,
           "lord damage range": "2057~2297",
+          "max bc generated": 30,
           "random attack": true
         },
         {
@@ -24148,6 +24256,7 @@
           "bc cost": 25,
           "hits": 15,
           "lord damage range": "2141~2392",
+          "max bc generated": 30,
           "random attack": true
         },
         {
@@ -24156,6 +24265,7 @@
           "bc cost": 25,
           "hits": 15,
           "lord damage range": "2312~2583",
+          "max bc generated": 30,
           "random attack": true
         }
       ],
@@ -24325,6 +24435,7 @@
           "bc cost": 25,
           "hits": 10,
           "lord damage range": "1034~1156",
+          "max bc generated": 20,
           "random attack": true
         },
         {
@@ -24333,6 +24444,7 @@
           "bc cost": 25,
           "hits": 10,
           "lord damage range": "1098~1227",
+          "max bc generated": 20,
           "random attack": true
         },
         {
@@ -24341,6 +24453,7 @@
           "bc cost": 25,
           "hits": 10,
           "lord damage range": "1160~1296",
+          "max bc generated": 20,
           "random attack": true
         },
         {
@@ -24349,6 +24462,7 @@
           "bc cost": 25,
           "hits": 10,
           "lord damage range": "1224~1367",
+          "max bc generated": 20,
           "random attack": true
         },
         {
@@ -24357,6 +24471,7 @@
           "bc cost": 25,
           "hits": 10,
           "lord damage range": "1286~1437",
+          "max bc generated": 20,
           "random attack": true
         },
         {
@@ -24365,6 +24480,7 @@
           "bc cost": 25,
           "hits": 10,
           "lord damage range": "1350~1508",
+          "max bc generated": 20,
           "random attack": true
         },
         {
@@ -24373,6 +24489,7 @@
           "bc cost": 25,
           "hits": 10,
           "lord damage range": "1412~1577",
+          "max bc generated": 20,
           "random attack": true
         },
         {
@@ -24381,6 +24498,7 @@
           "bc cost": 25,
           "hits": 10,
           "lord damage range": "1475~1648",
+          "max bc generated": 20,
           "random attack": true
         },
         {
@@ -24389,6 +24507,7 @@
           "bc cost": 25,
           "hits": 10,
           "lord damage range": "1537~1718",
+          "max bc generated": 20,
           "random attack": true
         },
         {
@@ -24397,6 +24516,7 @@
           "bc cost": 25,
           "hits": 10,
           "lord damage range": "1663~1858",
+          "max bc generated": 20,
           "random attack": true
         }
       ],
@@ -27834,6 +27954,7 @@
           "bc cost": 15,
           "hits": 1,
           "lord damage range": "2162~2415",
+          "max bc generated": 1,
           "random attack": true
         },
         {
@@ -27841,6 +27962,7 @@
           "bc cost": 15,
           "hits": 1,
           "lord damage range": "2209~2467",
+          "max bc generated": 1,
           "random attack": true
         },
         {
@@ -27848,6 +27970,7 @@
           "bc cost": 15,
           "hits": 1,
           "lord damage range": "2256~2520",
+          "max bc generated": 1,
           "random attack": true
         },
         {
@@ -27855,6 +27978,7 @@
           "bc cost": 15,
           "hits": 1,
           "lord damage range": "2303~2572",
+          "max bc generated": 1,
           "random attack": true
         },
         {
@@ -27862,6 +27986,7 @@
           "bc cost": 15,
           "hits": 1,
           "lord damage range": "2350~2626",
+          "max bc generated": 1,
           "random attack": true
         },
         {
@@ -27869,6 +27994,7 @@
           "bc cost": 15,
           "hits": 1,
           "lord damage range": "2397~2678",
+          "max bc generated": 1,
           "random attack": true
         },
         {
@@ -27876,6 +28002,7 @@
           "bc cost": 15,
           "hits": 1,
           "lord damage range": "2445~2731",
+          "max bc generated": 1,
           "random attack": true
         },
         {
@@ -27883,6 +28010,7 @@
           "bc cost": 15,
           "hits": 1,
           "lord damage range": "2491~2783",
+          "max bc generated": 1,
           "random attack": true
         },
         {
@@ -27890,6 +28018,7 @@
           "bc cost": 15,
           "hits": 1,
           "lord damage range": "2539~2836",
+          "max bc generated": 1,
           "random attack": true
         },
         {
@@ -27897,6 +28026,7 @@
           "bc cost": 15,
           "hits": 1,
           "lord damage range": "2633~2941",
+          "max bc generated": 1,
           "random attack": true
         }
       ],
@@ -28047,6 +28177,7 @@
           "bc cost": 17,
           "hits": 22,
           "lord damage range": "5590~6244",
+          "max bc generated": 44,
           "random attack": true
         },
         {
@@ -28055,6 +28186,7 @@
           "bc cost": 17,
           "hits": 22,
           "lord damage range": "5727~6397",
+          "max bc generated": 44,
           "random attack": true
         },
         {
@@ -28063,6 +28195,7 @@
           "bc cost": 17,
           "hits": 22,
           "lord damage range": "5865~6550",
+          "max bc generated": 44,
           "random attack": true
         },
         {
@@ -28071,6 +28204,7 @@
           "bc cost": 17,
           "hits": 22,
           "lord damage range": "6002~6703",
+          "max bc generated": 44,
           "random attack": true
         },
         {
@@ -28079,6 +28213,7 @@
           "bc cost": 17,
           "hits": 22,
           "lord damage range": "6140~6857",
+          "max bc generated": 44,
           "random attack": true
         },
         {
@@ -28087,6 +28222,7 @@
           "bc cost": 17,
           "hits": 22,
           "lord damage range": "6277~7011",
+          "max bc generated": 44,
           "random attack": true
         },
         {
@@ -28095,6 +28231,7 @@
           "bc cost": 17,
           "hits": 22,
           "lord damage range": "6415~7164",
+          "max bc generated": 44,
           "random attack": true
         },
         {
@@ -28103,6 +28240,7 @@
           "bc cost": 17,
           "hits": 22,
           "lord damage range": "6552~7318",
+          "max bc generated": 44,
           "random attack": true
         },
         {
@@ -28111,6 +28249,7 @@
           "bc cost": 17,
           "hits": 22,
           "lord damage range": "6689~7471",
+          "max bc generated": 44,
           "random attack": true
         },
         {
@@ -28119,6 +28258,7 @@
           "bc cost": 17,
           "hits": 22,
           "lord damage range": "6965~7779",
+          "max bc generated": 44,
           "random attack": true
         }
       ],
@@ -33571,6 +33711,7 @@
           "elements added turns": 3,
           "hits": 14,
           "lord damage range": "12329~13769",
+          "max bc generated": 14,
           "random attack": true
         },
         {
@@ -33583,6 +33724,7 @@
           "elements added turns": 3,
           "hits": 14,
           "lord damage range": "12533~13997",
+          "max bc generated": 14,
           "random attack": true
         },
         {
@@ -33595,6 +33737,7 @@
           "elements added turns": 3,
           "hits": 14,
           "lord damage range": "12737~14225",
+          "max bc generated": 14,
           "random attack": true
         },
         {
@@ -33607,6 +33750,7 @@
           "elements added turns": 3,
           "hits": 14,
           "lord damage range": "12941~14452",
+          "max bc generated": 14,
           "random attack": true
         },
         {
@@ -33619,6 +33763,7 @@
           "elements added turns": 3,
           "hits": 14,
           "lord damage range": "13145~14680",
+          "max bc generated": 14,
           "random attack": true
         },
         {
@@ -33631,6 +33776,7 @@
           "elements added turns": 3,
           "hits": 14,
           "lord damage range": "13348~14908",
+          "max bc generated": 14,
           "random attack": true
         },
         {
@@ -33643,6 +33789,7 @@
           "elements added turns": 3,
           "hits": 14,
           "lord damage range": "13552~15136",
+          "max bc generated": 14,
           "random attack": true
         },
         {
@@ -33655,6 +33802,7 @@
           "elements added turns": 3,
           "hits": 14,
           "lord damage range": "13756~15363",
+          "max bc generated": 14,
           "random attack": true
         },
         {
@@ -33667,6 +33815,7 @@
           "elements added turns": 3,
           "hits": 14,
           "lord damage range": "13960~15591",
+          "max bc generated": 14,
           "random attack": true
         },
         {
@@ -33679,6 +33828,7 @@
           "elements added turns": 3,
           "hits": 14,
           "lord damage range": "14164~15819",
+          "max bc generated": 14,
           "random attack": true
         }
       ],
@@ -39879,6 +40029,7 @@
           "elements added turns": 3,
           "hits": 7,
           "lord damage range": "3559~3975",
+          "max bc generated": 7,
           "random attack": true
         },
         {
@@ -39891,6 +40042,7 @@
           "elements added turns": 3,
           "hits": 7,
           "lord damage range": "3675~4104",
+          "max bc generated": 7,
           "random attack": true
         },
         {
@@ -39903,6 +40055,7 @@
           "elements added turns": 3,
           "hits": 7,
           "lord damage range": "3790~4233",
+          "max bc generated": 7,
           "random attack": true
         },
         {
@@ -39915,6 +40068,7 @@
           "elements added turns": 3,
           "hits": 7,
           "lord damage range": "3906~4362",
+          "max bc generated": 7,
           "random attack": true
         },
         {
@@ -39927,6 +40081,7 @@
           "elements added turns": 3,
           "hits": 7,
           "lord damage range": "4021~4491",
+          "max bc generated": 7,
           "random attack": true
         },
         {
@@ -39939,6 +40094,7 @@
           "elements added turns": 3,
           "hits": 7,
           "lord damage range": "4136~4620",
+          "max bc generated": 7,
           "random attack": true
         },
         {
@@ -39951,6 +40107,7 @@
           "elements added turns": 3,
           "hits": 7,
           "lord damage range": "4252~4749",
+          "max bc generated": 7,
           "random attack": true
         },
         {
@@ -39963,6 +40120,7 @@
           "elements added turns": 3,
           "hits": 7,
           "lord damage range": "4367~4878",
+          "max bc generated": 7,
           "random attack": true
         },
         {
@@ -39975,6 +40133,7 @@
           "elements added turns": 3,
           "hits": 7,
           "lord damage range": "4483~5007",
+          "max bc generated": 7,
           "random attack": true
         },
         {
@@ -39987,6 +40146,7 @@
           "elements added turns": 3,
           "hits": 7,
           "lord damage range": "4715~5266",
+          "max bc generated": 7,
           "random attack": true
         }
       ],
@@ -40852,6 +41012,7 @@
           "bc cost": 20,
           "hits": 12,
           "lord damage range": "2030~2268",
+          "max bc generated": 12,
           "random attack": true
         },
         {
@@ -40860,6 +41021,7 @@
           "bc cost": 20,
           "hits": 12,
           "lord damage range": "2125~2374",
+          "max bc generated": 12,
           "random attack": true
         },
         {
@@ -40868,6 +41030,7 @@
           "bc cost": 20,
           "hits": 12,
           "lord damage range": "2219~2479",
+          "max bc generated": 12,
           "random attack": true
         },
         {
@@ -40876,6 +41039,7 @@
           "bc cost": 20,
           "hits": 12,
           "lord damage range": "2314~2585",
+          "max bc generated": 12,
           "random attack": true
         },
         {
@@ -40884,6 +41048,7 @@
           "bc cost": 20,
           "hits": 12,
           "lord damage range": "2408~2690",
+          "max bc generated": 12,
           "random attack": true
         },
         {
@@ -40892,6 +41057,7 @@
           "bc cost": 20,
           "hits": 12,
           "lord damage range": "2504~2796",
+          "max bc generated": 12,
           "random attack": true
         },
         {
@@ -40900,6 +41066,7 @@
           "bc cost": 20,
           "hits": 12,
           "lord damage range": "2598~2901",
+          "max bc generated": 12,
           "random attack": true
         },
         {
@@ -40908,6 +41075,7 @@
           "bc cost": 20,
           "hits": 12,
           "lord damage range": "2692~3007",
+          "max bc generated": 12,
           "random attack": true
         },
         {
@@ -40916,6 +41084,7 @@
           "bc cost": 20,
           "hits": 12,
           "lord damage range": "2786~3112",
+          "max bc generated": 12,
           "random attack": true
         },
         {
@@ -40924,6 +41093,7 @@
           "bc cost": 20,
           "hits": 12,
           "lord damage range": "2881~3218",
+          "max bc generated": 12,
           "random attack": true
         }
       ],
@@ -48553,6 +48723,7 @@
           "bc cost": 25,
           "hits": 6,
           "lord damage range": "2211~2470",
+          "max bc generated": 6,
           "random attack": true
         },
         {
@@ -48561,6 +48732,7 @@
           "bc cost": 25,
           "hits": 6,
           "lord damage range": "2281~2549",
+          "max bc generated": 6,
           "random attack": true
         },
         {
@@ -48569,6 +48741,7 @@
           "bc cost": 25,
           "hits": 6,
           "lord damage range": "2352~2628",
+          "max bc generated": 6,
           "random attack": true
         },
         {
@@ -48577,6 +48750,7 @@
           "bc cost": 25,
           "hits": 6,
           "lord damage range": "2423~2707",
+          "max bc generated": 6,
           "random attack": true
         },
         {
@@ -48585,6 +48759,7 @@
           "bc cost": 25,
           "hits": 6,
           "lord damage range": "2493~2785",
+          "max bc generated": 6,
           "random attack": true
         },
         {
@@ -48593,6 +48768,7 @@
           "bc cost": 25,
           "hits": 6,
           "lord damage range": "2564~2864",
+          "max bc generated": 6,
           "random attack": true
         },
         {
@@ -48601,6 +48777,7 @@
           "bc cost": 25,
           "hits": 6,
           "lord damage range": "2635~2943",
+          "max bc generated": 6,
           "random attack": true
         },
         {
@@ -48609,6 +48786,7 @@
           "bc cost": 25,
           "hits": 6,
           "lord damage range": "2705~3022",
+          "max bc generated": 6,
           "random attack": true
         },
         {
@@ -48617,6 +48795,7 @@
           "bc cost": 25,
           "hits": 6,
           "lord damage range": "2776~3101",
+          "max bc generated": 6,
           "random attack": true
         },
         {
@@ -48625,6 +48804,7 @@
           "bc cost": 25,
           "hits": 6,
           "lord damage range": "2847~3180",
+          "max bc generated": 6,
           "random attack": true
         }
       ],
@@ -53493,6 +53673,7 @@
           "hits": 16,
           "injury%": 10,
           "lord damage range": "6150~6869",
+          "max bc generated": 16,
           "paralysis%": 10,
           "random attack": true,
           "sick%": 10,
@@ -53505,6 +53686,7 @@
           "hits": 16,
           "injury%": 11,
           "lord damage range": "6299~7035",
+          "max bc generated": 16,
           "paralysis%": 11,
           "random attack": true,
           "sick%": 11,
@@ -53517,6 +53699,7 @@
           "hits": 16,
           "injury%": 12,
           "lord damage range": "6448~7202",
+          "max bc generated": 16,
           "paralysis%": 12,
           "random attack": true,
           "sick%": 12,
@@ -53529,6 +53712,7 @@
           "hits": 16,
           "injury%": 13,
           "lord damage range": "6597~7368",
+          "max bc generated": 16,
           "paralysis%": 13,
           "random attack": true,
           "sick%": 13,
@@ -53541,6 +53725,7 @@
           "hits": 16,
           "injury%": 14,
           "lord damage range": "6746~7534",
+          "max bc generated": 16,
           "paralysis%": 14,
           "random attack": true,
           "sick%": 14,
@@ -53553,6 +53738,7 @@
           "hits": 16,
           "injury%": 15,
           "lord damage range": "6895~7701",
+          "max bc generated": 16,
           "paralysis%": 15,
           "random attack": true,
           "sick%": 15,
@@ -53565,6 +53751,7 @@
           "hits": 16,
           "injury%": 16,
           "lord damage range": "7044~7867",
+          "max bc generated": 16,
           "paralysis%": 16,
           "random attack": true,
           "sick%": 16,
@@ -53577,6 +53764,7 @@
           "hits": 16,
           "injury%": 17,
           "lord damage range": "7193~8034",
+          "max bc generated": 16,
           "paralysis%": 17,
           "random attack": true,
           "sick%": 17,
@@ -53589,6 +53777,7 @@
           "hits": 16,
           "injury%": 18,
           "lord damage range": "7342~8200",
+          "max bc generated": 16,
           "paralysis%": 18,
           "random attack": true,
           "sick%": 18,
@@ -53601,6 +53790,7 @@
           "hits": 16,
           "injury%": 19,
           "lord damage range": "7491~8366",
+          "max bc generated": 16,
           "paralysis%": 19,
           "random attack": true,
           "sick%": 19,
@@ -53648,6 +53838,7 @@
           "bc cost": 15,
           "hits": 3,
           "lord damage range": "1688~1886",
+          "max bc generated": 3,
           "random attack": true
         },
         {
@@ -53655,6 +53846,7 @@
           "bc cost": 15,
           "hits": 3,
           "lord damage range": "1707~1907",
+          "max bc generated": 3,
           "random attack": true
         },
         {
@@ -53662,6 +53854,7 @@
           "bc cost": 15,
           "hits": 3,
           "lord damage range": "1725~1928",
+          "max bc generated": 3,
           "random attack": true
         },
         {
@@ -53669,6 +53862,7 @@
           "bc cost": 15,
           "hits": 3,
           "lord damage range": "1744~1948",
+          "max bc generated": 3,
           "random attack": true
         },
         {
@@ -53676,6 +53870,7 @@
           "bc cost": 15,
           "hits": 3,
           "lord damage range": "1764~1970",
+          "max bc generated": 3,
           "random attack": true
         },
         {
@@ -53683,6 +53878,7 @@
           "bc cost": 15,
           "hits": 3,
           "lord damage range": "1782~1991",
+          "max bc generated": 3,
           "random attack": true
         },
         {
@@ -53690,6 +53886,7 @@
           "bc cost": 15,
           "hits": 3,
           "lord damage range": "1801~2012",
+          "max bc generated": 3,
           "random attack": true
         },
         {
@@ -53697,6 +53894,7 @@
           "bc cost": 15,
           "hits": 3,
           "lord damage range": "1820~2033",
+          "max bc generated": 3,
           "random attack": true
         },
         {
@@ -53704,6 +53902,7 @@
           "bc cost": 15,
           "hits": 3,
           "lord damage range": "1838~2054",
+          "max bc generated": 3,
           "random attack": true
         },
         {
@@ -53711,6 +53910,7 @@
           "bc cost": 15,
           "hits": 3,
           "lord damage range": "1857~2074",
+          "max bc generated": 3,
           "random attack": true
         }
       ],
@@ -53752,6 +53952,7 @@
           "bc cost": 15,
           "hits": 3,
           "lord damage range": "1970~2200",
+          "max bc generated": 3,
           "random attack": true
         },
         {
@@ -53759,6 +53960,7 @@
           "bc cost": 15,
           "hits": 3,
           "lord damage range": "2018~2254",
+          "max bc generated": 3,
           "random attack": true
         },
         {
@@ -53766,6 +53968,7 @@
           "bc cost": 15,
           "hits": 3,
           "lord damage range": "2067~2309",
+          "max bc generated": 3,
           "random attack": true
         },
         {
@@ -53773,6 +53976,7 @@
           "bc cost": 15,
           "hits": 3,
           "lord damage range": "2117~2364",
+          "max bc generated": 3,
           "random attack": true
         },
         {
@@ -53780,6 +53984,7 @@
           "bc cost": 15,
           "hits": 3,
           "lord damage range": "2166~2420",
+          "max bc generated": 3,
           "random attack": true
         },
         {
@@ -53787,6 +53992,7 @@
           "bc cost": 15,
           "hits": 3,
           "lord damage range": "2216~2475",
+          "max bc generated": 3,
           "random attack": true
         },
         {
@@ -53794,6 +54000,7 @@
           "bc cost": 15,
           "hits": 3,
           "lord damage range": "2265~2530",
+          "max bc generated": 3,
           "random attack": true
         },
         {
@@ -53801,6 +54008,7 @@
           "bc cost": 15,
           "hits": 3,
           "lord damage range": "2314~2585",
+          "max bc generated": 3,
           "random attack": true
         },
         {
@@ -53808,6 +54016,7 @@
           "bc cost": 15,
           "hits": 3,
           "lord damage range": "2364~2640",
+          "max bc generated": 3,
           "random attack": true
         },
         {
@@ -53815,6 +54024,7 @@
           "bc cost": 15,
           "hits": 3,
           "lord damage range": "2462~2750",
+          "max bc generated": 3,
           "random attack": true
         }
       ],
@@ -54479,6 +54689,7 @@
           "bc cost": 15,
           "hits": 3,
           "lord damage range": "1200~1340",
+          "max bc generated": 3,
           "random attack": true
         },
         {
@@ -54486,6 +54697,7 @@
           "bc cost": 15,
           "hits": 3,
           "lord damage range": "1214~1357",
+          "max bc generated": 3,
           "random attack": true
         },
         {
@@ -54493,6 +54705,7 @@
           "bc cost": 15,
           "hits": 3,
           "lord damage range": "1229~1373",
+          "max bc generated": 3,
           "random attack": true
         },
         {
@@ -54500,6 +54713,7 @@
           "bc cost": 15,
           "hits": 3,
           "lord damage range": "1244~1390",
+          "max bc generated": 3,
           "random attack": true
         },
         {
@@ -54507,6 +54721,7 @@
           "bc cost": 15,
           "hits": 3,
           "lord damage range": "1260~1408",
+          "max bc generated": 3,
           "random attack": true
         },
         {
@@ -54514,6 +54729,7 @@
           "bc cost": 15,
           "hits": 3,
           "lord damage range": "1275~1424",
+          "max bc generated": 3,
           "random attack": true
         },
         {
@@ -54521,6 +54737,7 @@
           "bc cost": 15,
           "hits": 3,
           "lord damage range": "1290~1441",
+          "max bc generated": 3,
           "random attack": true
         },
         {
@@ -54528,6 +54745,7 @@
           "bc cost": 15,
           "hits": 3,
           "lord damage range": "1304~1458",
+          "max bc generated": 3,
           "random attack": true
         },
         {
@@ -54535,6 +54753,7 @@
           "bc cost": 15,
           "hits": 3,
           "lord damage range": "1320~1474",
+          "max bc generated": 3,
           "random attack": true
         },
         {
@@ -54542,6 +54761,7 @@
           "bc cost": 15,
           "hits": 3,
           "lord damage range": "1334~1491",
+          "max bc generated": 3,
           "random attack": true
         }
       ],
@@ -54581,6 +54801,7 @@
           "bc cost": 22,
           "hits": 14,
           "lord damage range": "4064~4539",
+          "max bc generated": 14,
           "random attack": true
         },
         {
@@ -54590,6 +54811,7 @@
           "hits": 14,
           "injury%": 8,
           "lord damage range": "4193~4684",
+          "max bc generated": 14,
           "paralysis%": 8,
           "random attack": true,
           "sick%": 8,
@@ -54602,6 +54824,7 @@
           "hits": 14,
           "injury%": 9,
           "lord damage range": "4323~4828",
+          "max bc generated": 14,
           "paralysis%": 9,
           "random attack": true,
           "sick%": 9,
@@ -54614,6 +54837,7 @@
           "hits": 14,
           "injury%": 10,
           "lord damage range": "4452~4973",
+          "max bc generated": 14,
           "paralysis%": 10,
           "random attack": true,
           "sick%": 10,
@@ -54626,6 +54850,7 @@
           "hits": 14,
           "injury%": 11,
           "lord damage range": "4582~5118",
+          "max bc generated": 14,
           "paralysis%": 11,
           "random attack": true,
           "sick%": 11,
@@ -54638,6 +54863,7 @@
           "hits": 14,
           "injury%": 12,
           "lord damage range": "4712~5263",
+          "max bc generated": 14,
           "paralysis%": 12,
           "random attack": true,
           "sick%": 12,
@@ -54650,6 +54876,7 @@
           "hits": 14,
           "injury%": 13,
           "lord damage range": "4842~5408",
+          "max bc generated": 14,
           "paralysis%": 13,
           "random attack": true,
           "sick%": 13,
@@ -54662,6 +54889,7 @@
           "hits": 14,
           "injury%": 14,
           "lord damage range": "4971~5552",
+          "max bc generated": 14,
           "paralysis%": 14,
           "random attack": true,
           "sick%": 14,
@@ -54674,6 +54902,7 @@
           "hits": 14,
           "injury%": 15,
           "lord damage range": "5101~5697",
+          "max bc generated": 14,
           "paralysis%": 15,
           "random attack": true,
           "sick%": 15,
@@ -54686,6 +54915,7 @@
           "hits": 14,
           "injury%": 16,
           "lord damage range": "5231~5842",
+          "max bc generated": 14,
           "paralysis%": 16,
           "random attack": true,
           "sick%": 16,
@@ -59754,6 +59984,7 @@
         {
           "bc cost": 20,
           "hits": 5,
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -59761,6 +59992,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "877~980",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -59768,6 +60000,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "891~996",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -59775,6 +60008,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "904~1010",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -59782,6 +60016,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "917~1025",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -59789,6 +60024,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "931~1040",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -59796,6 +60032,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "944~1055",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -59803,6 +60040,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "958~1070",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -59810,6 +60048,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "970~1084",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -59817,6 +60056,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "997~1114",
+          "max bc generated": 5,
           "random attack": true
         }
       ],
@@ -64823,6 +65063,7 @@
           "bc cost": 20,
           "hits": 4,
           "lord damage range": "1380~1542",
+          "max bc generated": 4,
           "random attack": true
         },
         {
@@ -64831,6 +65072,7 @@
           "bc cost": 20,
           "hits": 4,
           "lord damage range": "1430~1597",
+          "max bc generated": 4,
           "random attack": true
         },
         {
@@ -64839,6 +65081,7 @@
           "bc cost": 20,
           "hits": 4,
           "lord damage range": "1479~1652",
+          "max bc generated": 4,
           "random attack": true
         },
         {
@@ -64847,6 +65090,7 @@
           "bc cost": 20,
           "hits": 4,
           "lord damage range": "1528~1707",
+          "max bc generated": 4,
           "random attack": true
         },
         {
@@ -64855,6 +65099,7 @@
           "bc cost": 20,
           "hits": 4,
           "lord damage range": "1579~1763",
+          "max bc generated": 4,
           "random attack": true
         },
         {
@@ -64863,6 +65108,7 @@
           "bc cost": 20,
           "hits": 4,
           "lord damage range": "1628~1818",
+          "max bc generated": 4,
           "random attack": true
         },
         {
@@ -64871,6 +65117,7 @@
           "bc cost": 20,
           "hits": 4,
           "lord damage range": "1677~1874",
+          "max bc generated": 4,
           "random attack": true
         },
         {
@@ -64879,6 +65126,7 @@
           "bc cost": 20,
           "hits": 4,
           "lord damage range": "1726~1929",
+          "max bc generated": 4,
           "random attack": true
         },
         {
@@ -64887,6 +65135,7 @@
           "bc cost": 20,
           "hits": 4,
           "lord damage range": "1776~1984",
+          "max bc generated": 4,
           "random attack": true
         },
         {
@@ -64895,6 +65144,7 @@
           "bc cost": 20,
           "hits": 4,
           "lord damage range": "1826~2040",
+          "max bc generated": 4,
           "random attack": true
         }
       ],
@@ -65424,6 +65674,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "8107~9054",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -65431,6 +65682,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "8241~9205",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -65438,6 +65690,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "8377~9355",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -65445,6 +65698,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "8511~9506",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -65452,6 +65706,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "8647~9657",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -65459,6 +65714,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "8781~9808",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -65466,6 +65722,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "8917~9959",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -65473,6 +65730,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "9051~10109",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -65480,6 +65738,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "9187~10260",
+          "max bc generated": 5,
           "random attack": true
         },
         {
@@ -65487,6 +65746,7 @@
           "bc cost": 20,
           "hits": 5,
           "lord damage range": "9458~10563",
+          "max bc generated": 5,
           "random attack": true
         }
       ],
