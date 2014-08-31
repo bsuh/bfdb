@@ -447,9 +447,9 @@ def parse_ls_boost_elemental_weakness_damage(process_info):
     return buffs
     
 def parse_ls_dmg_boost_by_hpcondition(process_info):
-	return {'atk% buff': int(process_info[0]),
-			'hp% trigger': int(process_info[4]),
-			'trigger condition': 'greater than' if (process_info[5] == '1') else 'less than'}
+    return {'atk% buff': int(process_info[0]),
+            'hp% trigger': int(process_info[4]),
+            'trigger condition': 'greater than' if (process_info[5] == '1') else 'less than'}
 
 def parse_ls_process(process_type, process_info):
     fns = {
