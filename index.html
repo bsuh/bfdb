@@ -30,17 +30,6 @@
                             <select id="groupSelect" class="form-control">
                                 <option value="unit.rarity">Rarity</option>
                                 <option value="unit.element">Element</option>
-                                <option value="unit['lord hp']">HP</option>
-                                <option value="unit['lord hp'] + Math.floor(unit['lord def'] / 3)">Effective HP</option>
-                                <option value="unit['lord atk']">Atk</option>
-                                <option value="unit['lord def']">Def</option>
-                                <option value="unit['lord rec']">Rec</option>
-                                <option value="Math.max(_.map(jsel('.&quot;lord damage range&quot;', unit), (s) -> Number(s.split('~')[1]))...)">Max Lord Damage</option>
-                                <option value="unit.hits">Hits</option>
-                                <option value="jsel('.bb .hits', unit)[0]">BB Hits</option>
-                                <option value="jsel('.sbb .hits', unit)[0]">SBB Hits</option>
-                                <option value="Math.max(jsel('.hits', unit)...)">Max Hits</option>
-                                <option value="Math.max(jsel('.&quot;max bc generated&quot;', unit)...)">Max BC generated</option>
                             </select>
                         </label>
                     </div>
@@ -59,6 +48,16 @@
                                 <option value="jsel('.sbb .hits', unit)[0]">SBB Hits</option>
                                 <option value="Math.max(jsel('.hits', unit)...)">Max Hits</option>
                                 <option value="Math.max(jsel('.&quot;max bc generated&quot;', unit)...)">Max BC generated</option>
+                                <option value="Math.max(jsel('.bb .&quot;atk% buff&quot;,.sbb .&quot;atk% buff&quot;', unit).concat([null])...) || undefined">BB Atk% Buff</option>
+                                <option value="Math.max(jsel('.bb .&quot;def% buff&quot;,.sbb .&quot;def% buff&quot;', unit).concat([null])...) || undefined">BB Def% Buff</option>
+                                <option value="Math.max(jsel('.bb .&quot;rec% buff&quot;,.sbb .&quot;rec% buff&quot;', unit).concat([null])...) || undefined">BB Rec% Buff</option>
+                                <option value="Math.max(jsel('.bb .&quot;crit% buff&quot;,.sbb .&quot;crit% buff&quot;', unit).concat([null])...) || undefined">BB Crit% Buff</option>
+                                <!-- <option value="Math.max(jsel('.bb .&quot;hp% buff&quot;,.sbb .&quot;hp% buff&quot;', unit).concat([null])...) || undefined">BB Hp% Buff</option> -->
+                                <option value="Math.max(jsel('.&quot;leader skill&quot; .&quot;atk% buff&quot;', unit).concat([null])...) || undefined">LS Atk% Buff</option>
+                                <option value="Math.max(jsel('.&quot;leader skill&quot; .&quot;def% buff&quot;', unit).concat([null])...) || undefined">LS Def% Buff</option>
+                                <option value="Math.max(jsel('.&quot;leader skill&quot; .&quot;rec% buff&quot;', unit).concat([null])...) || undefined">LS Rec% Buff</option>
+                                <option value="Math.max(jsel('.&quot;leader skill&quot; .&quot;crit% buff&quot;', unit).concat([null])...) || undefined">LS Crit% Buff</option>
+                                <option value="Math.max(jsel('.&quot;leader skill&quot; .&quot;hp% buff&quot;', unit).concat([null])...) || undefined">LS Hp% Buff</option>
                             </select>
                         </label>
                     </div>
@@ -77,6 +76,16 @@
                                 <option value="jsel('.sbb .hits', unit)[0]">SBB Hits</option>
                                 <option value="Math.max(jsel('.hits', unit)...)">Max Hits</option>
                                 <option value="Math.max(jsel('.&quot;max bc generated&quot;', unit)...)">Max BC generated</option>
+                                <option value="Math.max(jsel('.bb .&quot;atk% buff&quot;,.sbb .&quot;atk% buff&quot;', unit).concat([null])...) || undefined">BB Atk% Buff</option>
+                                <option value="Math.max(jsel('.bb .&quot;def% buff&quot;,.sbb .&quot;def% buff&quot;', unit).concat([null])...) || undefined">BB Def% Buff</option>
+                                <option value="Math.max(jsel('.bb .&quot;rec% buff&quot;,.sbb .&quot;rec% buff&quot;', unit).concat([null])...) || undefined">BB Rec% Buff</option>
+                                <option value="Math.max(jsel('.bb .&quot;crit% buff&quot;,.sbb .&quot;crit% buff&quot;', unit).concat([null])...) || undefined">BB Crit% Buff</option>
+                                <!-- <option value="Math.max(jsel('.bb .&quot;hp% buff&quot;,.sbb .&quot;hp% buff&quot;', unit).concat([null])...) || undefined">BB Hp% Buff</option> -->
+                                <option value="Math.max(jsel('.&quot;leader skill&quot; .&quot;atk% buff&quot;', unit).concat([null])...) || undefined">LS Atk% Buff</option>
+                                <option value="Math.max(jsel('.&quot;leader skill&quot; .&quot;def% buff&quot;', unit).concat([null])...) || undefined">LS Def% Buff</option>
+                                <option value="Math.max(jsel('.&quot;leader skill&quot; .&quot;rec% buff&quot;', unit).concat([null])...) || undefined">LS Rec% Buff</option>
+                                <option value="Math.max(jsel('.&quot;leader skill&quot; .&quot;crit% buff&quot;', unit).concat([null])...) || undefined">LS Crit% Buff</option>
+                                <option value="Math.max(jsel('.&quot;leader skill&quot; .&quot;hp% buff&quot;', unit).concat([null])...) || undefined">LS Hp% Buff</option>
                             </select>
                         </label>
                     </div>
@@ -95,6 +104,16 @@
                                 <option value="jsel('.sbb .hits', unit)[0]">SBB Hits</option>
                                 <option value="Math.max(jsel('.hits', unit)...)">Max Hits</option>
                                 <option value="Math.max(jsel('.&quot;max bc generated&quot;', unit)...)">Max BC generated</option>
+                                <option value="Math.max(jsel('.bb .&quot;atk% buff&quot;,.sbb .&quot;atk% buff&quot;', unit).concat([null])...) || undefined">BB Atk% Buff</option>
+                                <option value="Math.max(jsel('.bb .&quot;def% buff&quot;,.sbb .&quot;def% buff&quot;', unit).concat([null])...) || undefined">BB Def% Buff</option>
+                                <option value="Math.max(jsel('.bb .&quot;rec% buff&quot;,.sbb .&quot;rec% buff&quot;', unit).concat([null])...) || undefined">BB Rec% Buff</option>
+                                <option value="Math.max(jsel('.bb .&quot;crit% buff&quot;,.sbb .&quot;crit% buff&quot;', unit).concat([null])...) || undefined">BB Crit% Buff</option>
+                                <!-- <option value="Math.max(jsel('.bb .&quot;hp% buff&quot;,.sbb .&quot;hp% buff&quot;', unit).concat([null])...) || undefined">BB Hp% Buff</option> -->
+                                <option value="Math.max(jsel('.&quot;leader skill&quot; .&quot;atk% buff&quot;', unit).concat([null])...) || undefined">LS Atk% Buff</option>
+                                <option value="Math.max(jsel('.&quot;leader skill&quot; .&quot;def% buff&quot;', unit).concat([null])...) || undefined">LS Def% Buff</option>
+                                <option value="Math.max(jsel('.&quot;leader skill&quot; .&quot;rec% buff&quot;', unit).concat([null])...) || undefined">LS Rec% Buff</option>
+                                <option value="Math.max(jsel('.&quot;leader skill&quot; .&quot;crit% buff&quot;', unit).concat([null])...) || undefined">LS Crit% Buff</option>
+                                <option value="Math.max(jsel('.&quot;leader skill&quot; .&quot;hp% buff&quot;', unit).concat([null])...) || undefined">LS Hp% Buff</option>
                             </select>
                         </label>
                     </div>
@@ -104,6 +123,8 @@
             <div id="chart" class="row">
                 <svg></svg>
             </div>
+
+            <pre id="detailedinfo" class="row"></pre>
         </div>
         <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
         <script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.6.0/underscore-min.js"></script>

@@ -64,6 +64,7 @@ $(function () {
       };
     });
 
+    var lastPoint;
     nv.addGraph(function() {
       var chart = nv.models.scatterChart()
         .showDistX(true)
@@ -71,6 +72,7 @@ $(function () {
         .color(d3.scale.category10().range());
 
       chart.tooltipContent(function(key, x, y, e, graph) {
+        lastPoint = e.point;
         return '<h3>' + e.point.name + '</h3><p>' +
           $('#groupSelect option:selected').text() + ': ' + groupQuery(e.point) +
           '<br/>' +
@@ -84,6 +86,11 @@ $(function () {
       nv.utils.windowResize(chart.update);
 
       return chart;
+    }, function () {
+      d3.selectAll('.nv-point-paths').on('click', function () {
+        $('#detailedinfo').html(JSON.stringify(
+          _.omit(lastPoint, ['x', 'y', 'size', 'series']), null, 2));
+      });
     });
   }
 
