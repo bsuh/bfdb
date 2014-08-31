@@ -295,7 +295,7 @@ def parse_ls_increase_bb_for_turns(process_info):
 def parse_ls_hc_effectiveness(process_info):
     return {'hc effectiveness%': int(process_info[0])}
 
-def parse_ls_hp_low_stat_boost(process_info):
+def parse_ls_stat_boost_by_hp_condition(process_info):
     buffs = {}
 
     if int(process_info[0]) != 0:
@@ -310,7 +310,8 @@ def parse_ls_hp_low_stat_boost(process_info):
         raise 'Guessed path'
         buffs['crit% buff'] = int(process_info[3])
     if int(process_info[4]) != 0:
-        buffs['hp below % buff requirement'] = int(process_info[4])
+        buffs['hp %s %% buff requirement' %
+                ('above' if process_info[5] == 1 else 'below')] = int(process_info[4])
 
     return buffs
 
@@ -396,11 +397,6 @@ def parse_ls_boost_elemental_weakness_damage(process_info):
             buffs['%s units do extra elemental weakness dmg' % elements[element]] = True
  
     return buffs
-    
-def parse_ls_dmg_boost_by_hpcondition(process_info):
-    return {'atk% buff': int(process_info[0]),
-            'hp% trigger': int(process_info[4]),
-            'trigger condition': 'greater than' if (process_info[5] == '1') else 'less than'}
 
 def parse_ls_process(process_type, process_info):
     fns = {
@@ -409,9 +405,8 @@ def parse_ls_process(process_type, process_info):
         '4': parse_ls_resist_ails,
         '5': parse_ls_resist_element,
         '9': parse_ls_increase_bb_for_turns,
-        '11': parse_ls_dmg_boost_by_hpcondition,
         '10': parse_ls_hc_effectiveness,
-        '11': parse_ls_hp_low_stat_boost,
+        '11': parse_ls_stat_boost_by_hp_condition,
         '14': parse_ls_chance_damage_reduction,
         '19': parse_ls_boost_hc_production,
         '20': parse_ls_inflict_status_ail,
