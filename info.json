@@ -57003,6 +57003,7 @@
       "desc": "Greatly recovers HP for all allies, boosts critical hit rate for 3 turns, and renders self able to withstand a KO",
       "levels": [
         {
+          "angel idol effect this turn": true,
           "bc cost": 20,
           "buff turns": 3,
           "crit% buff": 25,
@@ -57011,6 +57012,7 @@
           "heal low": 3000
         },
         {
+          "angel idol effect this turn": true,
           "bc cost": 20,
           "buff turns": 3,
           "crit% buff": 26,
@@ -57019,6 +57021,7 @@
           "heal low": 3040
         },
         {
+          "angel idol effect this turn": true,
           "bc cost": 20,
           "buff turns": 3,
           "crit% buff": 27,
@@ -57027,6 +57030,7 @@
           "heal low": 3080
         },
         {
+          "angel idol effect this turn": true,
           "bc cost": 20,
           "buff turns": 3,
           "crit% buff": 28,
@@ -57035,6 +57039,7 @@
           "heal low": 3120
         },
         {
+          "angel idol effect this turn": true,
           "bc cost": 20,
           "buff turns": 3,
           "crit% buff": 29,
@@ -57043,6 +57048,7 @@
           "heal low": 3160
         },
         {
+          "angel idol effect this turn": true,
           "bc cost": 20,
           "buff turns": 3,
           "crit% buff": 30,
@@ -57051,6 +57057,7 @@
           "heal low": 3200
         },
         {
+          "angel idol effect this turn": true,
           "bc cost": 20,
           "buff turns": 3,
           "crit% buff": 31,
@@ -57059,6 +57066,7 @@
           "heal low": 3240
         },
         {
+          "angel idol effect this turn": true,
           "bc cost": 20,
           "buff turns": 3,
           "crit% buff": 32,
@@ -57067,6 +57075,7 @@
           "heal low": 3280
         },
         {
+          "angel idol effect this turn": true,
           "bc cost": 20,
           "buff turns": 3,
           "crit% buff": 33,
@@ -57075,6 +57084,7 @@
           "heal low": 3320
         },
         {
+          "angel idol effect this turn": true,
           "bc cost": 20,
           "buff turns": 3,
           "crit% buff": 35,

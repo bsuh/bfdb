@@ -78,6 +78,9 @@ def parse_bb_buff_drop_rate(process_info):
 
     return buffs
 
+def parse_bb_angel_idol(process_info):
+    return {'angel idol effect this turn': True}
+
 def parse_bb_remove_status_ailments(process_info):
     return {'remove all status ailments': True}
 
@@ -206,6 +209,7 @@ def parse_bb_process(process_type, process_info):
         '4': parse_bb_bb_fill_gauge_to_max,
         '5': parse_bb_buff_stats,
         '6': parse_bb_buff_drop_rate,
+        '7': parse_bb_angel_idol,
         '10': parse_bb_remove_status_ailments,
         '11': parse_bb_apply_status_ailments,
         '13': parse_bb_random_attack,
