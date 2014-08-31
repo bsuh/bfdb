@@ -441,6 +441,9 @@ def parse_ls_gender_boost(process_info):
 def parse_ls_chance_1_damage(process_info):
     return {'take 1 dmg%': int(process_info[0])}
 
+def parse_ls_reduced_bb_cost(process_info):
+    return {'reduced bb bc cost%': int(process_info[0])}
+
 def parse_ls_boost_elemental_weakness_damage(process_info):
     buffs = {'dmg% for elemental weakness': float(process_info[6])*100}
 
@@ -471,6 +474,7 @@ def parse_ls_process(process_type, process_info):
         '41': parse_ls_rainbow_boost,
         '42': parse_ls_gender_boost,
         '43': parse_ls_chance_1_damage,
+        '48': parse_ls_reduced_bb_cost,
         '50': parse_ls_boost_elemental_weakness_damage
         }
     if process_type in fns:

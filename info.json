@@ -47207,7 +47207,8 @@
     "hits": 6,
     "leader skill": {
       "desc": "Small reduction in BB gauge required for BB",
-      "name": "Monarch's Magic"
+      "name": "Monarch's Magic",
+      "reduced bb bc cost%": 10
     },
     "lord atk": 1211,
     "lord damage range": "1126~1259",
@@ -52828,7 +52829,8 @@
     "hits": 8,
     "leader skill": {
       "desc": "Large reduction in BB gauge required for BB",
-      "name": "Supreme Ruler's Magic"
+      "name": "Supreme Ruler's Magic",
+      "reduced bb bc cost%": 20
     },
     "lord atk": 1851,
     "lord damage range": "1722~1925",
@@ -53072,7 +53074,8 @@
     "hits": 5,
     "leader skill": {
       "desc": "Reduction in BB gauge required for BB",
-      "name": "High Ruler's Magic"
+      "name": "High Ruler's Magic",
+      "reduced bb bc cost%": 15
     },
     "lord atk": 1580,
     "lord damage range": "1471~1643",
@@ -64139,7 +64142,8 @@
     "hits": 10,
     "leader skill": {
       "desc": "Large reduction in BB gauge required for BB",
-      "name": "Supreme Ruler's Magic"
+      "name": "Supreme Ruler's Magic",
+      "reduced bb bc cost%": 20
     },
     "lord atk": 1722,
     "lord damage range": "1602~1790",
@@ -64363,7 +64367,8 @@
     "hits": 8,
     "leader skill": {
       "desc": "Reduction in BB gauge required for BB",
-      "name": "High Ruler's Magic"
+      "name": "High Ruler's Magic",
+      "reduced bb bc cost%": 15
     },
     "lord atk": 1461,
     "lord damage range": "1359~1519",
@@ -68904,7 +68909,8 @@
     "hits": 4,
     "leader skill": {
       "desc": "Small reduction in BB gauge required for BB",
-      "name": "Monarch's Magic"
+      "name": "Monarch's Magic",
+      "reduced bb bc cost%": 10
     },
     "lord atk": 1321,
     "lord damage range": "1229~1373",
