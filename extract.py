@@ -13,6 +13,18 @@ def damage_range(atk):
     return (int((atk * 0.9) + (atk / 32)),
             int(atk + (atk / 25)))
 
+def parse_stat_buff_process(data, process_info, index, include_hp):
+    if int(process_info[index]) != 0:
+        data['atk% buff'] = int(process_info[index])
+    if int(process_info[index+1]) != 0:
+        data['def% buff'] = int(process_info[index+1])
+    if int(process_info[index+2]) != 0:
+        data['rec% buff'] = int(process_info[index+2])
+    if int(process_info[index+3]) != 0:
+        data['crit% buff'] = int(process_info[index+3])
+    if include_hp and int(process_info[index+4]) != 0:
+        data['hp% buff'] = int(process_info[index+4])
+
 def parse_bb_attack(process_info):
     buffs = dict()
 
@@ -57,15 +69,7 @@ def parse_bb_buff_stats(process_info):
     buffs = {'element buffed': elements[process_info[0]],
              'buff turns': int(process_info[5])}
 
-    if int(process_info[1]) != 0:
-        buffs['atk% buff'] = int(process_info[1])
-    if int(process_info[2]) != 0:
-        buffs['def% buff'] = int(process_info[2])
-    if int(process_info[3]) != 0:
-        buffs['rec% buff'] = int(process_info[3])
-    if int(process_info[4]) != 0:
-        buffs['crit% buff'] = int(process_info[4])
-
+    parse_stat_buff_process(buffs, process_info, 1, False)
     return buffs
 
 def parse_bb_buff_drop_rate(process_info):
@@ -286,18 +290,7 @@ def parse_bb(unit_data, bb_id, skills, bbs, dictionary):
 
 def parse_ls_stat_boost_all_types(process_info):
     buffs = dict()
-
-    if int(process_info[0]) != 0:
-        buffs['atk% buff'] = int(process_info[0])
-    if int(process_info[1]) != 0:
-        buffs['def% buff'] = int(process_info[1])
-    if int(process_info[2]) != 0:
-        buffs['rec% buff'] = int(process_info[2])
-    if int(process_info[3]) != 0:
-        buffs['crit% buff'] = int(process_info[3])
-    if int(process_info[4]) != 0:
-        buffs['hp% buff'] = int(process_info[4])
-
+    parse_stat_buff_process(buffs, process_info, 0, True)
     return buffs
 
 def parse_ls_stat_boost_types(process_info):
@@ -308,17 +301,7 @@ def parse_ls_stat_boost_types(process_info):
     if process_info[1] != '0':
         buffs['elements buffed'] = buffs.get('elements buffed', []) + [elements[process_info[1]]]
 
-    if int(process_info[2]) != 0:
-        buffs['atk% buff'] = int(process_info[2])
-    if int(process_info[3]) != 0:
-        buffs['def% buff'] = int(process_info[3])
-    if int(process_info[4]) != 0:
-        buffs['rec% buff'] = int(process_info[4])
-    if int(process_info[5]) != 0:
-        buffs['crit% buff'] = int(process_info[5])
-    if int(process_info[6]) != 0:
-        buffs['hp% buff'] = int(process_info[6])
-
+    parse_stat_buff_process(buffs, process_info, 2, True)
     return buffs
 
 def parse_ls_resist_ails(process_info):
@@ -426,35 +409,13 @@ def parse_ls_chance_bb_fill_when_attacking(process_info):
 
 def parse_ls_rainbow_boost(process_info):
     buffs = {'unique elements required': int(process_info[0])}
-
-    if int(process_info[1]) != 0:
-        buffs['atk% buff'] = int(process_info[1])
-    if int(process_info[2]) != 0:
-        buffs['def% buff'] = int(process_info[2])
-    if int(process_info[3]) != 0:
-        buffs['rec% buff'] = int(process_info[3])
-    if int(process_info[4]) != 0:
-        buffs['crit% buff'] = int(process_info[4])
-    if int(process_info[5]) != 0:
-        buffs['hp% buff'] = int(process_info[5])
-
+    parse_stat_buff_process(buffs, process_info, 1, True)
     return buffs
 
 genders = {'0': 'genderless', '1': 'male', '2': 'female'}
 def parse_ls_gender_boost(process_info):
     buffs = {'gender required': genders[process_info[0][0]]}
-
-    if int(process_info[1]) != 0:
-        buffs['atk% buff'] = int(process_info[1])
-    if int(process_info[2]) != 0:
-        buffs['def% buff'] = int(process_info[2])
-    if int(process_info[3]) != 0:
-        buffs['rec% buff'] = int(process_info[3])
-    if int(process_info[4]) != 0:
-        buffs['crit% buff'] = int(process_info[4])
-    if int(process_info[5]) != 0:
-        buffs['hp% buff'] = int(process_info[5])
-
+    parse_stat_buff_process(buffs, process_info, 1, True)
     return buffs
 
 def parse_ls_chance_1_damage(process_info):
