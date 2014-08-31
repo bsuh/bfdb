@@ -396,6 +396,11 @@ def parse_ls_boost_elemental_weakness_damage(process_info):
             buffs['%s units do extra elemental weakness dmg' % elements[element]] = True
  
     return buffs
+    
+def parse_ls_dmg_boost_by_hpcondition(process_info):
+    return {'atk% buff': int(process_info[0]),
+            'hp% trigger': int(process_info[4]),
+            'trigger condition': 'greater than' if (process_info[5] == '1') else 'less than'}
 
 def parse_ls_process(process_type, process_info):
     fns = {
@@ -404,6 +409,7 @@ def parse_ls_process(process_type, process_info):
         '4': parse_ls_resist_ails,
         '5': parse_ls_resist_element,
         '9': parse_ls_increase_bb_for_turns,
+        '11': parse_ls_dmg_boost_by_hpcondition,
         '10': parse_ls_hc_effectiveness,
         '11': parse_ls_hp_low_stat_boost,
         '14': parse_ls_chance_damage_reduction,
