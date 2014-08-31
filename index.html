@@ -12,6 +12,9 @@
         <link rel="stylesheet" href="nv.d3.min.css">
         <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/chosen/1.1.0/chosen.min.css">
         <style>
+         body {
+             padding-top: 50px;
+         }
          #chart svg {
              height: 400px;
          }
@@ -25,8 +28,73 @@
                         <label>
                             Group by:
                             <select id="groupSelect" class="form-control">
-                                <option value=".rarity">Rarity</option>
-                                <option value=".element">Element</option>
+                                <option value="unit.rarity">Rarity</option>
+                                <option value="unit.element">Element</option>
+                                <option value="unit['lord hp']">HP</option>
+                                <option value="unit['lord hp'] + Math.floor(unit['lord def'] / 3)">Effective HP</option>
+                                <option value="unit['lord atk']">Atk</option>
+                                <option value="unit['lord def']">Def</option>
+                                <option value="unit['lord rec']">Rec</option>
+                                <option value="Math.max(_.map(jsel('.&quot;lord damage range&quot;', unit), (s) -> Number(s.split('~')[1]))...)">Max Lord Damage</option>
+                                <option value="unit.hits">Hits</option>
+                                <option value="jsel('.bb .hits', unit)[0]">BB Hits</option>
+                                <option value="jsel('.sbb .hits', unit)[0]">SBB Hits</option>
+                                <option value="Math.max(jsel('.hits', unit)...)">Max Hits</option>
+                                <option value="Math.max(jsel('.&quot;max bc generated&quot;', unit)...)">Max BC generated</option>
+                            </select>
+                        </label>
+                    </div>
+                    <div class="form-group">
+                        <label>
+                            Y-axis:
+                            <select id="ySelect" class="form-control">
+                                <option value="unit['lord hp']">HP</option>
+                                <option value="unit['lord hp'] + Math.floor(unit['lord def'] / 3)">Effective HP</option>
+                                <option value="unit['lord atk']">Atk</option>
+                                <option value="unit['lord def']">Def</option>
+                                <option value="unit['lord rec']">Rec</option>
+                                <option value="Math.max(_.map(jsel('.&quot;lord damage range&quot;', unit), (s) -> Number(s.split('~')[1]))...)" selected>Max Lord Damage</option>
+                                <option value="unit.hits">Hits</option>
+                                <option value="jsel('.bb .hits', unit)[0]">BB Hits</option>
+                                <option value="jsel('.sbb .hits', unit)[0]">SBB Hits</option>
+                                <option value="Math.max(jsel('.hits', unit)...)">Max Hits</option>
+                                <option value="Math.max(jsel('.&quot;max bc generated&quot;', unit)...)">Max BC generated</option>
+                            </select>
+                        </label>
+                    </div>
+                    <div class="form-group">
+                        <label>
+                            X-axis:
+                            <select id="xSelect" class="form-control">
+                                <option value="unit['lord hp']">HP</option>
+                                <option value="unit['lord hp'] + Math.floor(unit['lord def'] / 3)" selected>Effective HP</option>
+                                <option value="unit['lord atk']">Atk</option>
+                                <option value="unit['lord def']">Def</option>
+                                <option value="unit['lord rec']">Rec</option>
+                                <option value="Math.max(_.map(jsel('.&quot;lord damage range&quot;', unit), (s) -> Number(s.split('~')[1]))...)">Max Lord Damage</option>
+                                <option value="unit.hits">Hits</option>
+                                <option value="jsel('.bb .hits', unit)[0]">BB Hits</option>
+                                <option value="jsel('.sbb .hits', unit)[0]">SBB Hits</option>
+                                <option value="Math.max(jsel('.hits', unit)...)">Max Hits</option>
+                                <option value="Math.max(jsel('.&quot;max bc generated&quot;', unit)...)">Max BC generated</option>
+                            </select>
+                        </label>
+                    </div>
+                    <div class="form-group">
+                        <label>
+                            Size of point:
+                            <select id="sizeSelect" class="form-control">
+                                <option value="unit['lord hp']">HP</option>
+                                <option value="unit['lord hp'] + Math.floor(unit['lord def'] / 3)">Effective HP</option>
+                                <option value="unit['lord atk']">Atk</option>
+                                <option value="unit['lord def']">Def</option>
+                                <option value="unit['lord rec']" selected>Rec</option>
+                                <option value="Math.max(_.map(jsel('.&quot;lord damage range&quot;', unit), (s) -> Number(s.split('~')[1]))...)">Max Lord Damage</option>
+                                <option value="unit.hits">Hits</option>
+                                <option value="jsel('.bb .hits', unit)[0]">BB Hits</option>
+                                <option value="jsel('.sbb .hits', unit)[0]">SBB Hits</option>
+                                <option value="Math.max(jsel('.hits', unit)...)">Max Hits</option>
+                                <option value="Math.max(jsel('.&quot;max bc generated&quot;', unit)...)">Max BC generated</option>
                             </select>
                         </label>
                     </div>
@@ -42,6 +110,7 @@
         <script src="d3.v3.min.js"></script>
         <script src="nv.d3.min.js"></script>
         <script src="//cdnjs.cloudflare.com/ajax/libs/chosen/1.1.0/chosen.jquery.min.js"></script>
+        <script src="coffee-script.js"></script>
         <script src="jsonselect.min.js"></script>
         <script src="bfdb.js"></script>
     </body>
