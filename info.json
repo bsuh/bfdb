@@ -17017,7 +17017,9 @@
     ],
     "hits": 6,
     "leader skill": {
+      "atk% buff": 100,
       "desc": "Great boost to Atk of units with 30% HP or less",
+      "hp below % buff requirement": 30,
       "name": "Supreme Demon Power"
     },
     "lord atk": 2232,
@@ -17226,7 +17228,9 @@
     ],
     "hits": 5,
     "leader skill": {
+      "atk% buff": 100,
       "desc": "Great boost to Atk of units with 25% HP or less",
+      "hp below % buff requirement": 25,
       "name": "Demon God Power"
     },
     "lord atk": 1923,
@@ -36401,7 +36405,9 @@
     ],
     "hits": 4,
     "leader skill": {
+      "atk% buff": 100,
       "desc": "Great boost to Atk of units with 20% HP or less",
+      "hp below % buff requirement": 20,
       "name": "Demon Power"
     },
     "lord atk": 1578,

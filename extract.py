@@ -348,6 +348,25 @@ def parse_ls_increase_bb_for_turns(process_info):
 def parse_ls_hc_effectiveness(process_info):
     return {'hc effectiveness%': int(process_info[0])}
 
+def parse_ls_hp_low_stat_boost(process_info):
+    buffs = {}
+
+    if int(process_info[0]) != 0:
+        buffs['atk% buff'] = int(process_info[0])
+    if int(process_info[1]) != 0:
+        raise 'Guessed path'
+        buffs['def% buff'] = int(process_info[1])
+    if int(process_info[2]) != 0:
+        raise 'Guessed path'
+        buffs['rec% buff'] = int(process_info[2])
+    if int(process_info[3]) != 0:
+        raise 'Guessed path'
+        buffs['crit% buff'] = int(process_info[3])
+    if int(process_info[4]) != 0:
+        buffs['hp below % buff requirement'] = int(process_info[4])
+
+    return buffs
+
 def parse_ls_chance_damage_reduction(process_info):
     return {'dmg reduction%': int(process_info[0]),
             'dmg reduction chance%': int(process_info[1])}
@@ -461,6 +480,7 @@ def parse_ls_process(process_type, process_info):
         '5': parse_ls_resist_element,
         '9': parse_ls_increase_bb_for_turns,
         '10': parse_ls_hc_effectiveness,
+        '11': parse_ls_hp_low_stat_boost,
         '14': parse_ls_chance_damage_reduction,
         '19': parse_ls_boost_hc_production,
         '20': parse_ls_inflict_status_ail,
