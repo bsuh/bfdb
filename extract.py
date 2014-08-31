@@ -25,23 +25,24 @@ def parse_stat_buff_process(data, process_info, index, include_hp):
     if include_hp and int(process_info[index+4]) != 0:
         data['hp% buff'] = int(process_info[index+4])
 
+def parse_bb_attack_process(data, process_info, index, include_dmg):
+    if int(process_info[index]) != 0:
+        data['bb atk%'] = int(process_info[index])
+    if int(process_info[index+1]) != 0:
+        data['bb flat atk'] = int(process_info[index+1])
+    if int(process_info[index+2]) != 0:
+        data['bb crit%'] = int(process_info[index+2])
+    if int(process_info[index+3]) != 0:
+        data['bb bc%'] = int(process_info[index+3])
+    if int(process_info[index+4]) != 0:
+        data['bb hc%'] = int(process_info[index+4])
+    if include_dmg and int(process_info[index+5]) != 0:
+        data['bb dmg%'] = int(process_info[index+5])
+
 def parse_bb_attack(process_info):
-    buffs = dict()
-
-    if int(process_info[0]) != 0:
-        buffs['bb atk%'] = int(process_info[0])
-    if int(process_info[1]) != 0:
-        buffs['bb flat atk'] = int(process_info[1])
-    if int(process_info[2]) != 0:
-        buffs['bb crit%'] = int(process_info[2])
-    if int(process_info[3]) != 0:
-        buffs['bb bc%'] = int(process_info[3])
-    if int(process_info[4]) != 0:
-        buffs['bb hc%'] = int(process_info[4])
-    if int(process_info[5]) != 0:
-        buffs['bb dmg%'] = int(process_info[5])
-
-    return buffs
+    bb = dict()
+    parse_bb_attack_process(bb, process_info, 0, True)
+    return bb
 
 def parse_bb_heal(process_info):
     return {'heal low': int(process_info[0]),
@@ -104,42 +105,17 @@ def parse_bb_apply_status_ailments(process_info):
     return ails
 
 def parse_bb_random_attack(process_info):
-    buffs = {'random attack': True}
-
-    if int(process_info[0]) != 0:
-        buffs['bb atk%'] = int(process_info[0])
-    if int(process_info[1]) != 0:
-        buffs['bb flat atk'] = int(process_info[1])
-    if int(process_info[2]) != 0:
-        buffs['bb crit%'] = int(process_info[2])
-    if int(process_info[3]) != 0:
-        buffs['bb bc%'] = int(process_info[3])
-    if int(process_info[4]) != 0:
-        buffs['bb hc%'] = int(process_info[4])
+    bb = {'random attack': True}
+    parse_bb_attack_process(bb, process_info, 0, False)
     if int(process_info[5]) != 0:
-        buffs['hits'] = int(process_info[5])
-
-    return buffs
+        bb['hits'] = int(process_info[5])
+    return bb
 
 def parse_bb_attack_hp_drain(process_info):
-    buffs = dict()
-
-    if int(process_info[0]) != 0:
-        buffs['bb atk%'] = int(process_info[0])
-    if int(process_info[1]) != 0:
-        buffs['bb flat atk'] = int(process_info[1])
-    if int(process_info[2]) != 0:
-        buffs['bb crit%'] = int(process_info[2])
-    if int(process_info[3]) != 0:
-        buffs['bb bc%'] = int(process_info[3])
-    if int(process_info[4]) != 0:
-        buffs['bb hc%'] = int(process_info[4])
-    if int(process_info[5]) != 0:
-        buffs['bb dmg%'] = int(process_info[5])
-
-    buffs['hp drain% low'] = int(process_info[6])
-    buffs['hp drain% high'] = int(process_info[7])
-    return buffs
+    bb = {'hp drain% low': int(process_info[6]),
+            'hp drain% high': int(process_info[7])}
+    parse_bb_attack_process(bb, process_info, 0, True)
+    return bb
 
 def parse_bb_negate_status_ailments_for_turns(process_info):
     return {'negate status ails turns': int(process_info[6])}
@@ -161,7 +137,7 @@ def parse_bb_boost_spark_damage(process_info):
             'buff turns': int(process_info[6])}
 
 def parse_bb_multiple_elem_attack(process_info):
-    buffs = dict()
+    bb = dict()
     elements_added = []
 
     if int(process_info[0]) != 0:
@@ -172,21 +148,9 @@ def parse_bb_multiple_elem_attack(process_info):
         elements_added.append(elements[process_info[2]])
 
     if len(elements_added) != 0:
-        buffs['bb elements'] = elements_added
-    if int(process_info[3]) != 0:
-        buffs['bb atk%'] = int(process_info[3])
-    if int(process_info[4]) != 0:
-        buffs['bb flat atk'] = int(process_info[4])
-    if int(process_info[5]) != 0:
-        buffs['bb crit%'] = int(process_info[5])
-    if int(process_info[6]) != 0:
-        buffs['bb bc%'] = int(process_info[6])
-    if int(process_info[7]) != 0:
-        buffs['bb hc%'] = int(process_info[7])
-    if int(process_info[8]) != 0:
-        buffs['bb dmg%'] = int(process_info[8])
-
-    return buffs
+        bb['bb elements'] = elements_added
+    parse_bb_attack_process(bb, process_info, 3, True)
+    return bb
 
 def parse_bb_element_change(process_info):
     elements_added = []
