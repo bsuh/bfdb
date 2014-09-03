@@ -8226,94 +8226,94 @@
       "hits": 5,
       "levels": [
         {
-          "atk% buff": 25,
+          "atk% buff": 50,
           "bb atk%": 120,
           "bb flat atk": 10,
           "bc cost": 25,
           "buff turns": 2,
           "element buffed": "fire",
-          "lord damage range": "3648~4074"
+          "lord damage range": "4019~4489"
         },
         {
-          "atk% buff": 25,
+          "atk% buff": 50,
           "bb atk%": 121,
           "bb flat atk": 11,
           "bc cost": 25,
           "buff turns": 2,
           "element buffed": "fire",
-          "lord damage range": "3663~4092"
+          "lord damage range": "4035~4507"
         },
         {
-          "atk% buff": 25,
+          "atk% buff": 50,
           "bb atk%": 122,
           "bb flat atk": 12,
           "bc cost": 25,
           "buff turns": 2,
           "element buffed": "fire",
-          "lord damage range": "3679~4110"
+          "lord damage range": "4050~4525"
         },
         {
-          "atk% buff": 25,
+          "atk% buff": 50,
           "bb atk%": 123,
           "bb flat atk": 13,
           "bc cost": 25,
           "buff turns": 2,
           "element buffed": "fire",
-          "lord damage range": "3696~4127"
+          "lord damage range": "4067~4542"
         },
         {
-          "atk% buff": 25,
+          "atk% buff": 50,
           "bb atk%": 124,
           "bb flat atk": 14,
           "bc cost": 25,
           "buff turns": 2,
           "element buffed": "fire",
-          "lord damage range": "3711~4145"
+          "lord damage range": "4083~4560"
         },
         {
-          "atk% buff": 25,
+          "atk% buff": 50,
           "bb atk%": 125,
           "bb flat atk": 15,
           "bc cost": 25,
           "buff turns": 2,
           "element buffed": "fire",
-          "lord damage range": "3728~4164"
+          "lord damage range": "4098~4578"
         },
         {
-          "atk% buff": 25,
+          "atk% buff": 50,
           "bb atk%": 126,
           "bb flat atk": 16,
           "bc cost": 25,
           "buff turns": 2,
           "element buffed": "fire",
-          "lord damage range": "3743~4181"
+          "lord damage range": "4115~4595"
         },
         {
-          "atk% buff": 25,
+          "atk% buff": 50,
           "bb atk%": 127,
           "bb flat atk": 17,
           "bc cost": 25,
           "buff turns": 2,
           "element buffed": "fire",
-          "lord damage range": "3760~4199"
+          "lord damage range": "4130~4613"
         },
         {
-          "atk% buff": 25,
+          "atk% buff": 50,
           "bb atk%": 128,
           "bb flat atk": 18,
           "bc cost": 25,
           "buff turns": 2,
           "element buffed": "fire",
-          "lord damage range": "3775~4217"
+          "lord damage range": "4146~4631"
         },
         {
-          "atk% buff": 25,
+          "atk% buff": 50,
           "bb atk%": 129,
           "bb flat atk": 19,
           "bc cost": 25,
           "buff turns": 2,
           "element buffed": "fire",
-          "lord damage range": "3791~4234"
+          "lord damage range": "4162~4648"
         }
       ],
       "max bc generated": 5,
@@ -62901,94 +62901,94 @@
       "hits": 8,
       "levels": [
         {
-          "atk% buff": 50,
+          "atk% buff": 75,
           "bb atk%": 125,
           "bb flat atk": 10,
           "bc cost": 25,
           "buff turns": 2,
           "element buffed": "fire",
-          "lord damage range": "4311~4815"
+          "lord damage range": "4702~5252"
         },
         {
-          "atk% buff": 50,
+          "atk% buff": 75,
           "bb atk%": 126,
           "bb flat atk": 11,
           "bc cost": 25,
           "buff turns": 2,
           "element buffed": "fire",
-          "lord damage range": "4327~4832"
+          "lord damage range": "4718~5269"
         },
         {
-          "atk% buff": 50,
+          "atk% buff": 75,
           "bb atk%": 127,
           "bb flat atk": 12,
           "bc cost": 25,
           "buff turns": 2,
           "element buffed": "fire",
-          "lord damage range": "4343~4851"
+          "lord damage range": "4734~5288"
         },
         {
-          "atk% buff": 50,
+          "atk% buff": 75,
           "bb atk%": 128,
           "bb flat atk": 13,
           "bc cost": 25,
           "buff turns": 2,
           "element buffed": "fire",
-          "lord damage range": "4360~4870"
+          "lord damage range": "4751~5307"
         },
         {
-          "atk% buff": 50,
+          "atk% buff": 75,
           "bb atk%": 129,
           "bb flat atk": 14,
           "bc cost": 25,
           "buff turns": 2,
           "element buffed": "fire",
-          "lord damage range": "4376~4889"
+          "lord damage range": "4768~5325"
         },
         {
-          "atk% buff": 50,
+          "atk% buff": 75,
           "bb atk%": 130,
           "bb flat atk": 15,
           "bc cost": 25,
           "buff turns": 2,
           "element buffed": "fire",
-          "lord damage range": "4394~4907"
+          "lord damage range": "4785~5344"
         },
         {
-          "atk% buff": 50,
+          "atk% buff": 75,
           "bb atk%": 131,
           "bb flat atk": 16,
           "bc cost": 25,
           "buff turns": 2,
           "element buffed": "fire",
-          "lord damage range": "4410~4925"
+          "lord damage range": "4801~5362"
         },
         {
-          "atk% buff": 50,
+          "atk% buff": 75,
           "bb atk%": 132,
           "bb flat atk": 17,
           "bc cost": 25,
           "buff turns": 2,
           "element buffed": "fire",
-          "lord damage range": "4426~4944"
+          "lord damage range": "4817~5380"
         },
         {
-          "atk% buff": 50,
+          "atk% buff": 75,
           "bb atk%": 133,
           "bb flat atk": 18,
           "bc cost": 25,
           "buff turns": 2,
           "element buffed": "fire",
-          "lord damage range": "4443~4962"
+          "lord damage range": "4834~5399"
         },
         {
-          "atk% buff": 50,
+          "atk% buff": 75,
           "bb atk%": 134,
           "bb flat atk": 19,
           "bc cost": 25,
           "buff turns": 2,
           "element buffed": "fire",
-          "lord damage range": "4460~4981"
+          "lord damage range": "4851~5418"
         }
       ],
       "max bc generated": 8,
