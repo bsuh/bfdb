@@ -25,6 +25,9 @@ def parse_unit(unit, skills, bbs, leader_skills, dictionary):
     data['max bc generated'] = data['hits'] * int(skill['n9h7p02P'])
     data['lord damage range'] = '~'.join(map(str, damage_range(data['lord atk'])))
 
+    if 'imQJdg64' in unit:
+        data['imps'] = parse_imps(unit['imQJdg64'].split(':'))
+
     if unit['nj9Lw7mV'] != '0':
         data['bb'] = parse_bb(data, unit['nj9Lw7mV'], skills, bbs, dictionary)
 

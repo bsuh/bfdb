@@ -27,6 +27,12 @@ def not_zero(a):
 def bb_gauge(a):
     return int(a)/100
 
+def parse_imps(args):
+    return {'max hp': args[0],
+            'max atk': args[1],
+            'max def': args[2],
+            'max rec': args[3]}
+
 def handle_process_format(process_format, process_info):
     data = {}
     for entry in process_format:
