@@ -1,5 +1,6 @@
 from util import *
 
+
 def parse_bb_multiple_elem_attack(process_info):
     elements_added = []
 
@@ -13,6 +14,7 @@ def parse_bb_multiple_elem_attack(process_info):
     if len(elements_added) != 0:
         return {'bb elements': elements_added}
     return {}
+
 
 def parse_bb_element_change(process_info):
     elements_added = []
@@ -109,11 +111,13 @@ bb_process_format = {
     '31': ((0, 'increase bb gauge', bb_gauge),)
 }
 
+
 def parse_bb_process(process_type, process_info):
     if process_type in bb_process_format:
         return handle_process_format(bb_process_format[process_type],
                                      process_info.split(','))
     return {}
+
 
 def parse_bb_level(process_types, process_infos):
     process_data = {}
@@ -129,6 +133,7 @@ def parse_bb_level(process_types, process_infos):
 
     return process_data
 
+
 def parse_bb(unit_data, bb_id, skills, bbs, dictionary):
     data = dict()
 
@@ -137,10 +142,13 @@ def parse_bb(unit_data, bb_id, skills, bbs, dictionary):
 
     data['name'] = dictionary[skill['0nxpBDz2']]
     data['desc'] = dictionary[skill['qp37xTDh']]
-    for process_type, atk_frames in zip(skill['hjAy9St3'].split('@'), skill['6Aou5M9r'].split('@')):
+    for process_type, atk_frames in zip(skill['hjAy9St3'].split('@'),
+                                        skill['6Aou5M9r'].split('@')):
         if process_type in ['1', '14', '29']:
             data['hits'] = len(atk_frames.split(','))
-            data['hit dmg% distribution'] = [int(hit.split(':')[1]) for hit in atk_frames.split(',')]
+            data['hit dmg% distribution'] = [
+                int(hit.split(':')[1]) for hit in atk_frames.split(',')
+            ]
             data['max bc generated'] = data['hits'] * int(skill['n9h7p02P'])
 
     data['levels'] = []
@@ -150,9 +158,11 @@ def parse_bb(unit_data, bb_id, skills, bbs, dictionary):
     for level_info in levels_info:
         level, bc_cost, misc = level_info.split(':')
         level_data = {'bc cost': int(bc_cost)/100}
-        level_data.update(parse_bb_level(skill['hjAy9St3'].split('@'), misc.split('@')))
+        level_data.update(parse_bb_level(skill['hjAy9St3'].split('@'),
+                                         misc.split('@')))
         if 'hits' in level_data:
-            level_data['max bc generated'] = level_data['hits'] * int(skill['n9h7p02P'])
+            level_data['max bc generated'] = level_data['hits'] * int(
+                skill['n9h7p02P'])
 
         if 'bb atk%' in level_data:
             total_atk = unit_data['lord atk']
@@ -161,10 +171,13 @@ def parse_bb(unit_data, bb_id, skills, bbs, dictionary):
 
             total_atk = total_atk * (1 + float(modifier) / 100)
             total_atk += level_data.get('bb flat atk', 0)
-            total_atk = total_atk * (1 + float(level_data.get('bb dmg%', 0)) / 100)
-            total_atk = total_atk * float(sum(data.get('hit dmg% distribution', [100]))) / 100
+            total_atk = total_atk * (1 + float(level_data.get('bb dmg%', 0))
+                                     / 100)
+            total_atk = total_atk * float(sum(
+                data.get('hit dmg% distribution', [100]))) / 100
             total_atk = int(total_atk)
-            level_data['lord damage range'] = '~'.join(map(str, damage_range(total_atk)))
+            level_data['lord damage range'] = '~'.join(
+                map(str, damage_range(total_atk)))
 
         assert int(level) == len(data['levels']) + 1
         data['levels'].append(level_data)

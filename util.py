@@ -17,15 +17,19 @@ ailments = {
     '6': 'paralysis%'
 }
 
+
 def damage_range(atk):
     return (int((atk * 0.9) + (atk / 32)),
             int(atk + (atk / 25)))
 
+
 def not_zero(a):
     return int(a) != 0
 
+
 def bb_gauge(a):
     return int(a)/100
+
 
 def handle_process_format(process_format, process_info):
     data = {}
@@ -56,7 +60,7 @@ def handle_process_format(process_format, process_info):
         if hasattr(value, '__call__'):
             value = value(process_info[idx2])
 
-        if predicate(process_info[idx2]) == True:
+        if predicate(process_info[idx2]) is True:
             data[key] = value
 
     return data

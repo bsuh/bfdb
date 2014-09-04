@@ -1,14 +1,18 @@
 from util import *
 
+
 def parse_elements_buffed(process_info):
     buffs = dict()
 
     if process_info[0] != '0':
-        buffs['elements buffed'] = buffs.get('elements buffed', []) + [elements[process_info[0]]]
+        buffs['elements buffed'] = buffs.get('elements buffed', []) + [
+            elements[process_info[0]]]
     if process_info[1] != '0':
-        buffs['elements buffed'] = buffs.get('elements buffed', []) + [elements[process_info[1]]]
+        buffs['elements buffed'] = buffs.get('elements buffed', []) + [
+            elements[process_info[1]]]
 
     return buffs
+
 
 def crit_elem_weakness(x):
     return float(x)*100
@@ -46,7 +50,8 @@ ls_process_format = {
            (1, 'def% buff', int, not_zero),
            (2, 'rec% buff', int, not_zero),
            (3, 'crit% buff', int, not_zero),
-           ([5, 4], lambda s: 'hp %s %% buff requirement' % ('above' if int(s) == 1 else 'below'), int, not_zero)),
+           ([5, 4], lambda s: 'hp %s %% buff requirement' %
+            ('above' if int(s) == 1 else 'below'), int, not_zero)),
 
     '14': ((0, 'dmg reduction%', int),
            (1, 'dmg reduction chance%', int)),
@@ -101,14 +106,21 @@ ls_process_format = {
 
     '48': ((0, 'reduced bb bc cost%', int),),
 
-    '50': ((0, lambda el: '%s units do extra elemental weakness dmg' % elements[el], True, not_zero),
-           (1, lambda el: '%s units do extra elemental weakness dmg' % elements[el], True, not_zero),
-           (2, lambda el: '%s units do extra elemental weakness dmg' % elements[el], True, not_zero),
-           (3, lambda el: '%s units do extra elemental weakness dmg' % elements[el], True, not_zero),
-           (4, lambda el: '%s units do extra elemental weakness dmg' % elements[el], True, not_zero),
-           (5, lambda el: '%s units do extra elemental weakness dmg' % elements[el], True, not_zero),
+    '50': ((0, lambda el: '%s units do extra elemental weakness dmg' %
+            elements[el], True, not_zero),
+           (1, lambda el: '%s units do extra elemental weakness dmg' %
+            elements[el], True, not_zero),
+           (2, lambda el: '%s units do extra elemental weakness dmg' %
+            elements[el], True, not_zero),
+           (3, lambda el: '%s units do extra elemental weakness dmg' %
+            elements[el], True, not_zero),
+           (4, lambda el: '%s units do extra elemental weakness dmg' %
+            elements[el], True, not_zero),
+           (5, lambda el: '%s units do extra elemental weakness dmg' %
+            elements[el], True, not_zero),
            (6, 'dmg% for elemental weakness', crit_elem_weakness)),
 }
+
 
 def parse_ls_process(process_type, process_info):
     if process_type in ls_process_format:
@@ -116,13 +128,15 @@ def parse_ls_process(process_type, process_info):
                                      process_info.split(','))
     return {}
 
+
 def parse_leader_skill(unit_data, leader_skill, dictionary):
     data = dict()
 
     data['name'] = dictionary[leader_skill['dJPf9a5v']]
     data['desc'] = dictionary[leader_skill['qp37xTDh']]
 
-    for process_type, process_info in zip(leader_skill['hjAy9St3'].split('@'), leader_skill['2Smu5Mtq'].split('@')):
+    for process_type, process_info in zip(leader_skill['hjAy9St3'].split('@'),
+                                          leader_skill['2Smu5Mtq'].split('@')):
         process_data = parse_ls_process(process_type, process_info)
         if 'elements buffed' in process_data and 'elements buffed' in data:
             data['elements buffed'] += process_data.pop('elements buffed')
