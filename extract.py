@@ -9,7 +9,7 @@ from braveburst import parse_bb
 def parse_unit(unit, skills, bbs, leader_skills, dictionary):
     data = dict()
 
-    data['name'] = dictionary[unit['utP1c0CD']]
+    data['name'] = dictionary.get(unit['utP1c0CD'], unit['utP1c0CD'])
     data['element'] = elements[unit['iNy0ZU5M']]
     data['rarity'] = int(unit['7ofj5xa1'])
     data['base hp'] = int(unit['UZ1Bj7w2'])

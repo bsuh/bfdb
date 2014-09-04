@@ -119,8 +119,8 @@ def parse_ls_process(process_type, process_info):
 def parse_leader_skill(unit_data, leader_skill, dictionary):
     data = dict()
 
-    data['name'] = dictionary[leader_skill['dJPf9a5v']]
-    data['desc'] = dictionary[leader_skill['qp37xTDh']]
+    data['name'] = dictionary.get(leader_skill['dJPf9a5v'], leader_skill['dJPf9a5v'])
+    data['desc'] = dictionary.get(leader_skill['qp37xTDh'], leader_skill['qp37xTDh'])
 
     for process_type, process_info in zip(leader_skill['hjAy9St3'].split('@'), leader_skill['2Smu5Mtq'].split('@')):
         process_data = parse_ls_process(process_type, process_info)

@@ -135,8 +135,8 @@ def parse_bb(unit_data, bb_id, skills, bbs, dictionary):
     skill = skills[bb_id]
     bb = bbs[bb_id]
 
-    data['name'] = dictionary[skill['0nxpBDz2']]
-    data['desc'] = dictionary[skill['qp37xTDh']]
+    data['name'] = dictionary.get(skill['0nxpBDz2'], skill['0nxpBDz2'])
+    data['desc'] = dictionary.get(skill['qp37xTDh'], skill['qp37xTDh'])
     for process_type, atk_frames in zip(skill['hjAy9St3'].split('@'), skill['6Aou5M9r'].split('@')):
         if process_type in ['1', '14', '29']:
             data['hits'] = len(atk_frames.split(','))
