@@ -10,7 +10,7 @@ from braveburst import parse_bb
 def parse_unit(unit, skills, bbs, leader_skills, dictionary):
     data = dict()
 
-    data['name'] = dictionary[unit[UNIT_NAME]]
+    data['name'] = dictionary.get(unit[UNIT_NAME], unit[UNIT_NAME])
     data['element'] = elements[unit[UNIT_ELEMENT]]
     data['rarity'] = int(unit[UNIT_RARITY])
     data['base hp'] = int(unit[UNIT_BASE_HP])
@@ -28,6 +28,9 @@ def parse_unit(unit, skills, bbs, leader_skills, dictionary):
     data['max bc generated'] = data['hits'] * int(skill[DROP_CHECK_CNT])
     data['lord damage range'] = '~'.join(
         map(str, damage_range(data['lord atk'])))
+
+    if UNIT_IMP in unit:
+        data[UNIT_IMP] = parse_imps(unit[UNIT_IMP].split(':'))
 
     if unit[BB_ID] != '0':
         data['bb'] = parse_bb(data, unit[BB_ID], skills, bbs, dictionary)

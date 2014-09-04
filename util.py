@@ -9,6 +9,7 @@ UNIT_BASE_DEF = 'q78KoWsg'
 UNIT_LORD_DEF = '32INDST4'
 UNIT_BASE_REC = '92ij6UGB'
 UNIT_LORD_REC = 'X9P3AN5d'
+UNIT_IMP = 'imQJdg64'
 DMG_FRAME = '6Aou5M9r'
 DROP_CHECK_CNT = 'n9h7p02P'
 BB_ID = 'nj9Lw7mV'
@@ -52,6 +53,13 @@ def not_zero(a):
 
 def bb_gauge(a):
     return int(a)/100
+
+
+def parse_imps(args):
+    return {'max hp': args[0],
+            'max atk': args[1],
+            'max def': args[2],
+            'max rec': args[3]}
 
 
 def handle_process_format(process_format, process_info):

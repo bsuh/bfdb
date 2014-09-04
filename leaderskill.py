@@ -56,7 +56,11 @@ ls_process_format = {
     '14': ((0, 'dmg reduction%', int),
            (1, 'dmg reduction chance%', int)),
 
-    '19': ((1, 'hc production%', int),),
+    '19': ((0, 'bc production%', int),
+           (1, 'hc production%', int),
+           (2, 'item production%', int),
+           (3, 'zel production%', int),
+           (4, 'karma production%', int),),
 
     '20': (((0, 1), ailments.get, int, not_zero),
            ((2, 3), ailments.get, int, not_zero),
@@ -132,8 +136,8 @@ def parse_ls_process(process_type, process_info):
 def parse_leader_skill(unit_data, leader_skill, dictionary):
     data = dict()
 
-    data['name'] = dictionary[leader_skill[LS_NAME]]
-    data['desc'] = dictionary[leader_skill[DESC]]
+    data['name'] = dictionary.get(leader_skill[LS_NAME], leader_skill[LS_NAME])
+    data['desc'] = dictionary.get(leader_skill[DESC], leader_skill[DESC])
 
     for process_type, process_info in zip(
             leader_skill[PROCESS_TYPE].split('@'),
