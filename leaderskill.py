@@ -56,11 +56,11 @@ ls_process_format = {
     '14': ((0, 'dmg reduction%', int),
            (1, 'dmg reduction chance%', int)),
 
-    '19': ((0, 'bc production%', int),
-           (1, 'hc production%', int),
-           (2, 'item production%', int),
-           (3, 'zel production%', int),
-           (4, 'karma production%', int),),
+    '19': ((0, 'bc production%', int, not_zero),
+           (1, 'hc production%', int, not_zero),
+           (2, 'item production%', int, not_zero),
+           (3, 'zel production%', int, not_zero),
+           (4, 'karma production%', int, not_zero)),
 
     '20': (((0, 1), ailments.get, int, not_zero),
            ((2, 3), ailments.get, int, not_zero),
