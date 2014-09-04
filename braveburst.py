@@ -92,6 +92,11 @@ bb_process_format = {
     '19': ((0, 'increase bb gauge gradual', bb_gauge),
            (1, 'increase bb gauge gradual turns', int)),
 
+    '20': ((0, 'bc fill when attacked high', bb_gauge),
+           (1, 'bc fill when attacked low', bb_gauge),
+           (2, 'bc fill when attacked%', int),
+           (3, 'bc fill when attacked turns', int)),
+
     '22': ((0, 'defense% ignore', int),
            (1, 'defense% ignore turns', int)),
 
