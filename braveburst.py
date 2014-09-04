@@ -140,29 +140,30 @@ def parse_bb(unit_data, bb_id, skills, bbs, dictionary):
     skill = skills[bb_id]
     bb = bbs[bb_id]
 
-    data['name'] = dictionary[skill['0nxpBDz2']]
-    data['desc'] = dictionary[skill['qp37xTDh']]
-    for process_type, atk_frames in zip(skill['hjAy9St3'].split('@'),
-                                        skill['6Aou5M9r'].split('@')):
+    data['name'] = dictionary[skill[BB_NAME]]
+    data['desc'] = dictionary[skill[DESC]]
+    for process_type, atk_frames in zip(skill[PROCESS_TYPE].split('@'),
+                                        skill[DMG_FRAME].split('@')):
         if process_type in ['1', '14', '29']:
             data['hits'] = len(atk_frames.split(','))
             data['hit dmg% distribution'] = [
                 int(hit.split(':')[1]) for hit in atk_frames.split(',')
             ]
-            data['max bc generated'] = data['hits'] * int(skill['n9h7p02P'])
+            data['max bc generated'] = data['hits'] * int(
+                skill[DROP_CHECK_CNT])
 
     data['levels'] = []
 
-    levels_info = bb['Kn51uR4Y'].split('|')
+    levels_info = bb[BB_LEVELS].split('|')
 
     for level_info in levels_info:
         level, bc_cost, misc = level_info.split(':')
         level_data = {'bc cost': int(bc_cost)/100}
-        level_data.update(parse_bb_level(skill['hjAy9St3'].split('@'),
+        level_data.update(parse_bb_level(skill[PROCESS_TYPE].split('@'),
                                          misc.split('@')))
         if 'hits' in level_data:
             level_data['max bc generated'] = level_data['hits'] * int(
-                skill['n9h7p02P'])
+                skill[DROP_CHECK_CNT])
 
         if 'bb atk%' in level_data:
             total_atk = unit_data['lord atk']

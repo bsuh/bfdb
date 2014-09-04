@@ -132,11 +132,12 @@ def parse_ls_process(process_type, process_info):
 def parse_leader_skill(unit_data, leader_skill, dictionary):
     data = dict()
 
-    data['name'] = dictionary[leader_skill['dJPf9a5v']]
-    data['desc'] = dictionary[leader_skill['qp37xTDh']]
+    data['name'] = dictionary[leader_skill[LS_NAME]]
+    data['desc'] = dictionary[leader_skill[DESC]]
 
-    for process_type, process_info in zip(leader_skill['hjAy9St3'].split('@'),
-                                          leader_skill['2Smu5Mtq'].split('@')):
+    for process_type, process_info in zip(
+            leader_skill[PROCESS_TYPE].split('@'),
+            leader_skill[LS_PROCESS].split('@')):
         process_data = parse_ls_process(process_type, process_info)
         if 'elements buffed' in process_data and 'elements buffed' in data:
             data['elements buffed'] += process_data.pop('elements buffed')

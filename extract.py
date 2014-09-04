@@ -10,34 +10,34 @@ from braveburst import parse_bb
 def parse_unit(unit, skills, bbs, leader_skills, dictionary):
     data = dict()
 
-    data['name'] = dictionary[unit['utP1c0CD']]
-    data['element'] = elements[unit['iNy0ZU5M']]
-    data['rarity'] = int(unit['7ofj5xa1'])
-    data['base hp'] = int(unit['UZ1Bj7w2'])
-    data['lord hp'] = int(unit['3WMz78t6'])
-    data['base atk'] = int(unit['i9Tn7kYr'])
-    data['lord atk'] = int(unit['omuyP54D'])
-    data['base def'] = int(unit['q78KoWsg'])
-    data['lord def'] = int(unit['32INDST4'])
-    data['base rec'] = int(unit['92ij6UGB'])
-    data['lord rec'] = int(unit['X9P3AN5d'])
-    data['hits'] = len(unit['6Aou5M9r'].split(','))
+    data['name'] = dictionary[unit[UNIT_NAME]]
+    data['element'] = elements[unit[UNIT_ELEMENT]]
+    data['rarity'] = int(unit[UNIT_RARITY])
+    data['base hp'] = int(unit[UNIT_BASE_HP])
+    data['lord hp'] = int(unit[UNIT_LORD_HP])
+    data['base atk'] = int(unit[UNIT_BASE_ATK])
+    data['lord atk'] = int(unit[UNIT_LORD_ATK])
+    data['base def'] = int(unit[UNIT_BASE_DEF])
+    data['lord def'] = int(unit[UNIT_LORD_DEF])
+    data['base rec'] = int(unit[UNIT_BASE_REC])
+    data['lord rec'] = int(unit[UNIT_LORD_REC])
+    data['hits'] = len(unit[DMG_FRAME].split(','))
     data['hit dmg% distribution'] = [
-        int(hit.split(':')[1]) for hit in unit['6Aou5M9r'].split(',')
+        int(hit.split(':')[1]) for hit in unit[DMG_FRAME].split(',')
     ]
-    data['max bc generated'] = data['hits'] * int(skill['n9h7p02P'])
+    data['max bc generated'] = data['hits'] * int(skill[DROP_CHECK_CNT])
     data['lord damage range'] = '~'.join(
         map(str, damage_range(data['lord atk'])))
 
-    if unit['nj9Lw7mV'] != '0':
-        data['bb'] = parse_bb(data, unit['nj9Lw7mV'], skills, bbs, dictionary)
+    if unit[BB_ID] != '0':
+        data['bb'] = parse_bb(data, unit[BB_ID], skills, bbs, dictionary)
 
-    if unit['iEFZ6H19'] != '0':
-        data['sbb'] = parse_bb(data, unit['iEFZ6H19'], skills, bbs, dictionary)
+    if unit[SBB_ID] != '0':
+        data['sbb'] = parse_bb(data, unit[SBB_ID], skills, bbs, dictionary)
 
-    if unit['oS3kTZ2W'] != '0':
+    if unit[LS_ID] != '0':
         data['leader skill'] = parse_leader_skill(
-            data, leader_skills[unit['oS3kTZ2W']], dictionary)
+            data, leader_skills[unit[LS_ID]], dictionary)
 
     return data
 
@@ -57,16 +57,15 @@ if __name__ == '__main__':
 
                         skills = dict()
                         for skill in skills_js:
-                            skills[skill['nj9Lw7mV']] = skill
+                            skills[skill[BB_ID]] = skill
 
                         bbs = dict()
                         for bb in bbs_js:
-                            bbs[bb['nj9Lw7mV']] = bb
+                            bbs[bb[BB_ID]] = bb
 
                         leader_skills = dict()
                         for leader_skill in leader_skills_js:
-                            leader_skills[
-                                leader_skill['oS3kTZ2W']] = leader_skill
+                            leader_skills[leader_skill[LS_ID]] = leader_skill
 
                         units_data = {}
                         for unit in units:
