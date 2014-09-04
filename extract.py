@@ -3,141 +3,11 @@
 import json
 import glob
 
-def chunks(l, n):
-    """ Yield successive n-sized chunks from l.
-    """
-    for i in xrange(0, len(l), n):
-        yield l[i:i+n]
-
 def damage_range(atk):
     return (int((atk * 0.9) + (atk / 32)),
             int(atk + (atk / 25)))
 
-def parse_stat_buff_process(data, process_info, index, include_hp):
-    if int(process_info[index]) != 0:
-        data['atk% buff'] = int(process_info[index])
-    if int(process_info[index+1]) != 0:
-        data['def% buff'] = int(process_info[index+1])
-    if int(process_info[index+2]) != 0:
-        data['rec% buff'] = int(process_info[index+2])
-    if int(process_info[index+3]) != 0:
-        data['crit% buff'] = int(process_info[index+3])
-    if include_hp and int(process_info[index+4]) != 0:
-        data['hp% buff'] = int(process_info[index+4])
-
-def parse_bb_attack_process(data, process_info, index, include_dmg):
-    if int(process_info[index]) != 0:
-        data['bb atk%'] = int(process_info[index])
-    if int(process_info[index+1]) != 0:
-        data['bb flat atk'] = int(process_info[index+1])
-    if int(process_info[index+2]) != 0:
-        data['bb crit%'] = int(process_info[index+2])
-    if int(process_info[index+3]) != 0:
-        data['bb bc%'] = int(process_info[index+3])
-    if int(process_info[index+4]) != 0:
-        data['bb hc%'] = int(process_info[index+4])
-    if include_dmg and int(process_info[index+5]) != 0:
-        data['bb dmg%'] = int(process_info[index+5])
-
-def parse_bb_attack(process_info):
-    bb = dict()
-    parse_bb_attack_process(bb, process_info, 0, True)
-    return bb
-
-def parse_bb_heal(process_info):
-    return {'heal low': int(process_info[0]),
-            'heal high': int(process_info[1])}
-
-def parse_bb_gradual_heal(process_info):
-    return {'gradual heal low': int(process_info[0]),
-            'gradual heal high': int(process_info[1]),
-            'gradual heal turns': int(process_info[3])}
-
-def parse_bb_bb_fill_gauge_to_max(process_info):
-    return {'self fill bb gauge': True}
-
-elements = {
-    '0': 'all',
-    '1': 'fire',
-    '2': 'water',
-    '3': 'earth',
-    '4': 'thunder',
-    '5': 'light',
-    '6': 'dark'
-}
-
-def parse_bb_buff_stats(process_info):
-    buffs = {'element buffed': elements[process_info[0]],
-             'buff turns': int(process_info[5])}
-
-    parse_stat_buff_process(buffs, process_info, 1, False)
-    return buffs
-
-def parse_bb_buff_drop_rate(process_info):
-    buffs = dict()
-
-    if int(process_info[0]) != 0:
-        buffs['bc drop rate% buff'] = int(process_info[0])
-    if int(process_info[1]) != 0:
-        buffs['hc drop rate% buff'] = int(process_info[1])
-
-    return buffs
-
-def parse_bb_angel_idol(process_info):
-    return {'angel idol effect this turn': True}
-
-def parse_bb_remove_status_ailments(process_info):
-    return {'remove all status ailments': True}
-
-ailments = {
-    '1': 'poison%',
-    '2': 'weaken%',
-    '3': 'sick%',
-    '4': 'injury%',
-    '5': 'curse%',
-    '6': 'paralysis%'
-}
-def parse_bb_apply_status_ailments(process_info):
-    ails = {}
-    for ail, percent in chunks(process_info[:-1], 2):
-        if ail != '0':
-            ails[ailments[ail]] = int(percent)
-    return ails
-
-def parse_bb_random_attack(process_info):
-    bb = {'random attack': True}
-    parse_bb_attack_process(bb, process_info, 0, False)
-    if int(process_info[5]) != 0:
-        bb['hits'] = int(process_info[5])
-    return bb
-
-def parse_bb_attack_hp_drain(process_info):
-    bb = {'hp drain% low': int(process_info[6]),
-            'hp drain% high': int(process_info[7])}
-    parse_bb_attack_process(bb, process_info, 0, True)
-    return bb
-
-def parse_bb_negate_status_ailments_for_turns(process_info):
-    return {'negate status ails turns': int(process_info[6])}
-
-def parse_bb_damage_reduction(process_info):
-    return {'dmg% reduction': int(process_info[0]),
-            'dmg% reduction turns': int(process_info[1])}
-
-def parse_bb_increase_bb_for_turns(process_info):
-    return {'increase bb gauge gradual': int(process_info[0])/100,
-            'increase bb gauge gradual turns': int(process_info[1])}
-
-def parse_bb_defense_ignore(process_info):
-    return {'defense% ignore': int(process_info[0]),
-            'defense% ignore turns': int(process_info[1])}
-
-def parse_bb_boost_spark_damage(process_info):
-    return {'spark dmg% buff': int(process_info[0]),
-            'buff turns': int(process_info[6])}
-
 def parse_bb_multiple_elem_attack(process_info):
-    bb = dict()
     elements_added = []
 
     if int(process_info[0]) != 0:
@@ -148,9 +18,8 @@ def parse_bb_multiple_elem_attack(process_info):
         elements_added.append(elements[process_info[2]])
 
     if len(elements_added) != 0:
-        bb['bb elements'] = elements_added
-    parse_bb_attack_process(bb, process_info, 3, True)
-    return bb
+        return {'bb elements': elements_added}
+    return {}
 
 def parse_bb_element_change(process_info):
     elements_added = []
@@ -166,34 +35,150 @@ def parse_bb_element_change(process_info):
     return {'elements added': elements_added,
             'elements added turns': int(process_info[6])}
 
-def parse_bb_increase_bb_gauge(process_info):
-    return {'increase bb gauge': int(process_info[0])/100}
+def not_zero(a):
+    return int(a) != 0
+
+def bb_gauge(a):
+    return int(a)/100
+
+elements = {
+    '0': 'all',
+    '1': 'fire',
+    '2': 'water',
+    '3': 'earth',
+    '4': 'thunder',
+    '5': 'light',
+    '6': 'dark'
+}
+
+ailments = {
+    '1': 'poison%',
+    '2': 'weaken%',
+    '3': 'sick%',
+    '4': 'injury%',
+    '5': 'curse%',
+    '6': 'paralysis%'
+}
+
+bb_process_format = {
+    '1': ((0, 'bb atk%', int, not_zero),
+          (1, 'bb flat atk', int, not_zero),
+          (2, 'bb crit%', int, not_zero),
+          (3, 'bb bc%', int, not_zero),
+          (4, 'bb hc%', int, not_zero),
+          (5, 'bb dmg%', int, not_zero)),
+
+    '2': ((0, 'heal low', int),
+          (1, 'heal high', int)),
+
+    '3': ((0, 'gradual heal low', int),
+          (1, 'gradual heal high', int),
+          (3, 'gradual heal turns', int)),
+
+    '4': ((0, 'bb bc fill', int, not_zero),
+          (1, 'bb bc fill%', int, not_zero)),
+
+    '5': ((0, 'element buffed', elements.get),
+          (1, 'atk% buff', int, not_zero),
+          (2, 'def% buff', int, not_zero),
+          (3, 'rec% buff', int, not_zero),
+          (4, 'crit% buff', int, not_zero),
+          (5, 'buff turns', int)),
+
+    '6': ((0, 'bc drop rate% buff', int, not_zero),
+          (1, 'hc drop rate% buff', int, not_zero)),
+
+    '7': ((0, 'angel idol effect this turn', True),),
+
+    '10': ((0, 'remove all status ailments', True),),
+
+    '11': (((0, 1), ailments.get, int, not_zero),
+           ((2, 3), ailments.get, int, not_zero),
+           ((4, 5), ailments.get, int, not_zero),
+           ((6, 7), ailments.get, int, not_zero)),
+
+    '13': ((0, 'random attack', True),
+           (0, 'bb atk%', int, not_zero),
+           (1, 'bb flat atk', int, not_zero),
+           (2, 'bb crit%', int, not_zero),
+           (3, 'bb bc%', int, not_zero),
+           (4, 'bb hc%', int, not_zero),
+           (5, 'hits', int, not_zero)),
+
+    '14': ((0, 'bb atk%', int, not_zero),
+           (1, 'bb flat atk', int, not_zero),
+           (2, 'bb crit%', int, not_zero),
+           (3, 'bb bc%', int, not_zero),
+           (4, 'bb hc%', int, not_zero),
+           (5, 'bb dmg%', int, not_zero),
+           (6, 'hp drain% low', int),
+           (7, 'hp drain% high', int)),
+
+    '17': ((6, 'negate status ails turns', int),),
+
+    '18': ((0, 'dmg% reduction', int),
+           (1, 'dmg% reduction turns', int)),
+
+    '19': ((0, 'increase bb gauge gradual', bb_gauge),
+           (1, 'increase bb gauge gradual turns', int)),
+
+    '22': ((0, 'defense% ignore', int),
+           (1, 'defense% ignore turns', int)),
+
+    '23': ((0, 'spark dmg% buff', int),
+           (6, 'buff turns', int)),
+
+    '29': (parse_bb_multiple_elem_attack,
+           (3, 'bb atk%', int, not_zero),
+           (4, 'bb flat atk', int, not_zero),
+           (5, 'bb crit%', int, not_zero),
+           (6, 'bb bc%', int, not_zero),
+           (7, 'bb hc%', int, not_zero),
+           (8, 'bb dmg%', int, not_zero)),
+
+    '30': (parse_bb_element_change,),
+
+    '31': ((0, 'increase bb gauge', bb_gauge),)
+}
+
+def handle_process_format(process_format, process_info):
+    data = {}
+    for entry in process_format:
+        if hasattr(entry, '__call__'):
+            data.update(entry(process_info))
+            continue
+
+        idx = entry[0]
+        if hasattr(idx, '__iter__'):
+            idx, idx2 = idx
+        else:
+            idx2 = idx
+
+        key = entry[1]
+        value = entry[2]
+        if len(entry) > 3:
+            predicate = entry[3]
+        else:
+            predicate = lambda x: True
+
+        if idx >= len(process_info) <= idx2:
+            continue
+
+        if hasattr(key, '__call__'):
+            key = key(process_info[idx])
+
+        if hasattr(value, '__call__'):
+            value = value(process_info[idx2])
+
+        if predicate(process_info[idx2]) == True:
+            data[key] = value
+
+    return data
 
 def parse_bb_process(process_type, process_info):
-    fns = {
-        '1': parse_bb_attack,
-        '2': parse_bb_heal,
-        '3': parse_bb_gradual_heal,
-        '4': parse_bb_bb_fill_gauge_to_max,
-        '5': parse_bb_buff_stats,
-        '6': parse_bb_buff_drop_rate,
-        '7': parse_bb_angel_idol,
-        '10': parse_bb_remove_status_ailments,
-        '11': parse_bb_apply_status_ailments,
-        '13': parse_bb_random_attack,
-        '14': parse_bb_attack_hp_drain,
-        '17': parse_bb_negate_status_ailments_for_turns,
-        '18': parse_bb_damage_reduction,
-        '19': parse_bb_increase_bb_for_turns,
-        #'20': parse_bb_chance_of_bb_filling_and_increases_fill_rate,
-        '22': parse_bb_defense_ignore,
-        '23': parse_bb_boost_spark_damage,
-        '29': parse_bb_multiple_elem_attack,
-        '30': parse_bb_element_change,
-        '31': parse_bb_increase_bb_gauge
-        }
-    if process_type in fns:
-        return fns[process_type](process_info.split(','))
+    if process_type in bb_process_format:
+        return handle_process_format(bb_process_format[process_type],
+                                     process_info.split(','))
     return {}
 
 def parse_bb_level(process_types, process_infos):
@@ -252,12 +237,7 @@ def parse_bb(unit_data, bb_id, skills, bbs, dictionary):
 
     return data
 
-def parse_ls_stat_boost_all_types(process_info):
-    buffs = dict()
-    parse_stat_buff_process(buffs, process_info, 0, True)
-    return buffs
-
-def parse_ls_stat_boost_types(process_info):
+def parse_elements_buffed(process_info):
     buffs = dict()
 
     if process_info[0] != '0':
@@ -265,166 +245,112 @@ def parse_ls_stat_boost_types(process_info):
     if process_info[1] != '0':
         buffs['elements buffed'] = buffs.get('elements buffed', []) + [elements[process_info[1]]]
 
-    parse_stat_buff_process(buffs, process_info, 2, True)
     return buffs
 
-def parse_ls_resist_ails(process_info):
-    buffs = dict()
-
-    if int(process_info[0]) != 0:
-        buffs['poison resist%'] = int(process_info[0])
-    if int(process_info[1]) != 0:
-        buffs['weaken resist%'] = int(process_info[1])
-    if int(process_info[2]) != 0:
-        buffs['sick resist%'] = int(process_info[2])
-    if int(process_info[3]) != 0:
-        buffs['injury resist%'] = int(process_info[3])
-    if int(process_info[4]) != 0:
-        buffs['curse resist%'] = int(process_info[4])
-    if int(process_info[5]) != 0:
-        buffs['paralysis resist%'] = int(process_info[5])
-
-    return buffs
-
-def parse_ls_resist_element(process_info):
-    return {'%s resist%%' % elements[process_info[0]]: int(process_info[1])}
-
-def parse_ls_increase_bb_for_turns(process_info):
-    return {'bc fill per turn': int(process_info[0])/100}
-
-def parse_ls_hc_effectiveness(process_info):
-    return {'hc effectiveness%': int(process_info[0])}
-
-def parse_ls_stat_boost_by_hp_condition(process_info):
-    buffs = {}
-
-    if int(process_info[0]) != 0:
-        buffs['atk% buff'] = int(process_info[0])
-    if int(process_info[1]) != 0:
-        raise 'Guessed path'
-        buffs['def% buff'] = int(process_info[1])
-    if int(process_info[2]) != 0:
-        raise 'Guessed path'
-        buffs['rec% buff'] = int(process_info[2])
-    if int(process_info[3]) != 0:
-        raise 'Guessed path'
-        buffs['crit% buff'] = int(process_info[3])
-    if int(process_info[4]) != 0:
-        buffs['hp %s %% buff requirement' %
-                ('above' if process_info[5] == 1 else 'below')] = int(process_info[4])
-
-    return buffs
-
-def parse_ls_chance_damage_reduction(process_info):
-    return {'dmg reduction%': int(process_info[0]),
-            'dmg reduction chance%': int(process_info[1])}
-
-def parse_ls_boost_hc_production(process_info):
-    return {'hc production%': int(process_info[1])}
-
-def parse_ls_inflict_status_ail(process_info):
-    ails = {}
-    for ail, percent in chunks(process_info, 2):
-        if ail != '0':
-            ails[ailments[ail]] = int(percent)
-    return ails
-
-def parse_ls_boost_for_first_turns(process_info):
-    return {'first x turns atk%': int(process_info[0]),
-            'first x turns def%': int(process_info[1]),
-            'first x turns': int(process_info[2])}
-
-def parse_ls_bb_gauge_fill_when_attacked(process_info):
-    return {'bc fill when attacked low': int(process_info[0])/100,
-            'bc fill when attacked high': int(process_info[1])/100,
-            'bc fill when attacked%': int(process_info[2])}
-
-def parse_ls_chance_ignore_def(process_info):
-    return {'ignore def%': int(process_info[0])}
-
-def parse_ls_boost_with_spark(process_info):
-    buffs = dict()
-
-    if int(process_info[0]) != 0:
-        buffs['damage% for spark'] = int(process_info[0])
-    if int(process_info[1]) != 0:
-        buffs['bc drop% for spark'] = int(process_info[1])
-    if int(process_info[2]) != 0:
-        buffs['hc drop% for spark'] = int(process_info[2])
-    if int(process_info[3]) != 0:
-        raise 'Guessed path hit'
-        buffs['item drop% for spark'] = int(process_info[3])
-    if int(process_info[4]) != 0:
-        buffs['zel drop% for spark'] = int(process_info[4])
-    if int(process_info[5]) != 0:
-        buffs['karma drop% for spark'] = int(process_info[5])
-
-    return buffs
-
-def parse_ls_bb_gauge_fill_rate(process_info):
-    return {'bb gauge fill rate%': int(process_info[0])}
-
-def parse_ls_boost_crit_damage(process_info):
-    return {'dmg% for crits': float(process_info[0])*100}
-
-def parse_ls_chance_bb_fill_when_attacking(process_info):
-    return {'bc fill when attacking low': int(process_info[0])/100,
-            'bc fill when attacking high': int(process_info[1])/100,
-            'bc fill when attacking%': int(process_info[2])}
-
-def parse_ls_rainbow_boost(process_info):
-    buffs = {'unique elements required': int(process_info[0])}
-    parse_stat_buff_process(buffs, process_info, 1, True)
-    return buffs
+def crit_elem_weakness(x):
+    return float(x)*100
 
 genders = {'0': 'genderless', '1': 'male', '2': 'female'}
-def parse_ls_gender_boost(process_info):
-    buffs = {'gender required': genders[process_info[0][0]]}
-    parse_stat_buff_process(buffs, process_info, 1, True)
-    return buffs
 
-def parse_ls_chance_1_damage(process_info):
-    return {'take 1 dmg%': int(process_info[0])}
+ls_process_format = {
+    '1': ((0, 'atk% buff', int, not_zero),
+          (1, 'def% buff', int, not_zero),
+          (2, 'rec% buff', int, not_zero),
+          (3, 'crit% buff', int, not_zero),
+          (4, 'hp% buff', int, not_zero)),
 
-def parse_ls_reduced_bb_cost(process_info):
-    return {'reduced bb bc cost%': int(process_info[0])}
+    '2': (parse_elements_buffed,
+          (2, 'atk% buff', int, not_zero),
+          (3, 'def% buff', int, not_zero),
+          (4, 'rec% buff', int, not_zero),
+          (5, 'crit% buff', int, not_zero),
+          (6, 'hp% buff', int, not_zero)),
 
-def parse_ls_boost_elemental_weakness_damage(process_info):
-    buffs = {'dmg% for elemental weakness': float(process_info[6])*100}
+    '4': ((0, 'poison resist%', int, not_zero),
+          (1, 'weaken resist%', int, not_zero),
+          (2, 'sick resist%', int, not_zero),
+          (3, 'injury resist%', int, not_zero),
+          (4, 'curse resist%', int, not_zero),
+          (5, 'paralysis resist%', int, not_zero)),
 
-    for element in process_info[:-1]:
-        if element != '0':
-            buffs['%s units do extra elemental weakness dmg' % elements[element]] = True
- 
-    return buffs
+    '5': (([0, 1], lambda el: '%s resist%%' % elements[el], int),),
+
+    '9': ((0, 'bc fill per turn', bb_gauge),),
+
+    '10': ((0, 'hc effectiveness%', int),),
+
+    '11': ((0, 'atk% buff', int, not_zero),
+           (1, 'def% buff', int, not_zero),
+           (2, 'rec% buff', int, not_zero),
+           (3, 'crit% buff', int, not_zero),
+           ([5, 4], lambda s: 'hp %s %% buff requirement' % ('above' if int(s) == 1 else 'below'), int, not_zero)),
+
+    '14': ((0, 'dmg reduction%', int),
+           (1, 'dmg reduction chance%', int)),
+
+    '19': ((1, 'hc production%', int),),
+
+    '20': (((0, 1), ailments.get, int, not_zero),
+           ((2, 3), ailments.get, int, not_zero),
+           ((4, 5), ailments.get, int, not_zero),
+           ((6, 7), ailments.get, int, not_zero)),
+
+    '21': ((0, 'first x turns atk%', int, not_zero),
+           (1, 'first x turns def%', int, not_zero),
+           (2, 'first x turns', int)),
+
+    '25': ((0, 'bc fill when attacked low', bb_gauge),
+           (1, 'bc fill when attacked high', bb_gauge),
+           (2, 'bc fill when attacked%', int)),
+
+    '29': ((0, 'ignore def%', int),),
+
+    '31': ((0, 'damage% for spark', int, not_zero),
+           (1, 'bc drop% for spark', int, not_zero),
+           (2, 'hc drop% for spark', int, not_zero),
+           (3, 'item drop% for spark GUESSED', int, not_zero),
+           (4, 'zel drop% for spark', int, not_zero),
+           (5, 'karma drop% for spark', int, not_zero)),
+
+    '32': ((0, 'bb gauge fill rate%', int),),
+
+    '34': ((0, 'dmg% for crits', crit_elem_weakness),),
+
+    '35': ((0, 'bc fill when attacking low', bb_gauge),
+           (1, 'bc fill when attacking high', bb_gauge),
+           (2, 'bc fill when attacking%', int)),
+
+    '41': ((0, 'unique elements required', int),
+           (1, 'atk% buff', int, not_zero),
+           (2, 'def% buff', int, not_zero),
+           (3, 'rec% buff', int, not_zero),
+           (4, 'crit% buff', int, not_zero),
+           (5, 'hp% buff', int, not_zero)),
+
+    '42': ((0, 'gender required', lambda s: genders[s[0]]),
+           (1, 'atk% buff', int, not_zero),
+           (2, 'def% buff', int, not_zero),
+           (3, 'rec% buff', int, not_zero),
+           (4, 'crit% buff', int, not_zero),
+           (5, 'hp% buff', int, not_zero)),
+
+    '43': ((0, 'take 1 dmg%', int),),
+
+    '48': ((0, 'reduced bb bc cost%', int),),
+
+    '50': ((0, lambda el: '%s units do extra elemental weakness dmg' % elements[el], True, not_zero),
+           (1, lambda el: '%s units do extra elemental weakness dmg' % elements[el], True, not_zero),
+           (2, lambda el: '%s units do extra elemental weakness dmg' % elements[el], True, not_zero),
+           (3, lambda el: '%s units do extra elemental weakness dmg' % elements[el], True, not_zero),
+           (4, lambda el: '%s units do extra elemental weakness dmg' % elements[el], True, not_zero),
+           (5, lambda el: '%s units do extra elemental weakness dmg' % elements[el], True, not_zero),
+           (6, 'dmg% for elemental weakness', crit_elem_weakness)),
+}
 
 def parse_ls_process(process_type, process_info):
-    fns = {
-        '1': parse_ls_stat_boost_all_types,
-        '2': parse_ls_stat_boost_types,
-        '4': parse_ls_resist_ails,
-        '5': parse_ls_resist_element,
-        '9': parse_ls_increase_bb_for_turns,
-        '10': parse_ls_hc_effectiveness,
-        '11': parse_ls_stat_boost_by_hp_condition,
-        '14': parse_ls_chance_damage_reduction,
-        '19': parse_ls_boost_hc_production,
-        '20': parse_ls_inflict_status_ail,
-        '21': parse_ls_boost_for_first_turns,
-        '25': parse_ls_bb_gauge_fill_when_attacked,
-        '29': parse_ls_chance_ignore_def,
-        '31': parse_ls_boost_with_spark,
-        '32': parse_ls_bb_gauge_fill_rate,
-        '34': parse_ls_boost_crit_damage,
-        '35': parse_ls_chance_bb_fill_when_attacking,
-        '41': parse_ls_rainbow_boost,
-        '42': parse_ls_gender_boost,
-        '43': parse_ls_chance_1_damage,
-        '48': parse_ls_reduced_bb_cost,
-        '50': parse_ls_boost_elemental_weakness_damage
-        }
-    if process_type in fns:
-        return fns[process_type](process_info.split(','))
+    if process_type in ls_process_format:
+        return handle_process_format(ls_process_format[process_type],
+                                     process_info.split(','))
     return {}
 
 def parse_leader_skill(unit_data, leader_skill, dictionary):

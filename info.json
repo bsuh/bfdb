@@ -61178,63 +61178,63 @@
       "levels": [
         {
           "bb atk%": 520,
+          "bb bc fill%": 100,
           "bc cost": 29,
-          "lord damage range": "10524~11754",
-          "self fill bb gauge": true
+          "lord damage range": "10524~11754"
         },
         {
           "bb atk%": 530,
+          "bb bc fill%": 100,
           "bc cost": 29,
-          "lord damage range": "10693~11943",
-          "self fill bb gauge": true
+          "lord damage range": "10693~11943"
         },
         {
           "bb atk%": 540,
+          "bb bc fill%": 100,
           "bc cost": 29,
-          "lord damage range": "10864~12133",
-          "self fill bb gauge": true
+          "lord damage range": "10864~12133"
         },
         {
           "bb atk%": 550,
+          "bb bc fill%": 100,
           "bc cost": 29,
-          "lord damage range": "11034~12322",
-          "self fill bb gauge": true
+          "lord damage range": "11034~12322"
         },
         {
           "bb atk%": 560,
+          "bb bc fill%": 100,
           "bc cost": 29,
-          "lord damage range": "11202~12512",
-          "self fill bb gauge": true
+          "lord damage range": "11202~12512"
         },
         {
           "bb atk%": 570,
+          "bb bc fill%": 100,
           "bc cost": 29,
-          "lord damage range": "11373~12702",
-          "self fill bb gauge": true
+          "lord damage range": "11373~12702"
         },
         {
           "bb atk%": 580,
+          "bb bc fill%": 100,
           "bc cost": 29,
-          "lord damage range": "11543~12891",
-          "self fill bb gauge": true
+          "lord damage range": "11543~12891"
         },
         {
           "bb atk%": 590,
+          "bb bc fill%": 100,
           "bc cost": 29,
-          "lord damage range": "11713~13081",
-          "self fill bb gauge": true
+          "lord damage range": "11713~13081"
         },
         {
           "bb atk%": 600,
+          "bb bc fill%": 100,
           "bc cost": 29,
-          "lord damage range": "11882~13271",
-          "self fill bb gauge": true
+          "lord damage range": "11882~13271"
         },
         {
           "bb atk%": 620,
+          "bb bc fill%": 100,
           "bc cost": 29,
-          "lord damage range": "12222~13650",
-          "self fill bb gauge": true
+          "lord damage range": "12222~13650"
         }
       ],
       "max bc generated": 32,
