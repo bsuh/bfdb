@@ -30,6 +30,18 @@ def parse_bb_element_change(process_info):
     return {'elements added': elements_added,
             'elements added turns': int(process_info[6])}
 
+
+def parse_bb_heal(process_info):
+    rec_added_1 = 1.0 + 1.0*(float(process_info[2])/100);
+    rec_added_2 = rec_added_1*(float(process_info[3])/100)
+    rec_added = 1.0 + (rec_added_1 + rec_added_2)/10
+    return {'rec added%': rec_added*100}
+
+
+def parse_bb_regen(process_info):
+    rec_added = (1.0 + 1.0*(float(process_info[2])/100))/10
+    return {'rec added%': rec_added*100}
+
 bb_process_format = {
     '1': ((0, 'bb atk%', int, not_zero),
           (1, 'bb flat atk', int, not_zero),
@@ -39,10 +51,12 @@ bb_process_format = {
           (5, 'bb dmg%', int, not_zero)),
 
     '2': ((0, 'heal low', int),
-          (1, 'heal high', int)),
+          (1, 'heal high', int),
+          parse_bb_heal),
 
     '3': ((0, 'gradual heal low', int),
           (1, 'gradual heal high', int),
+          parse_bb_regen,
           (3, 'gradual heal turns', int)),
 
     '4': ((0, 'bb bc fill', int, not_zero),
