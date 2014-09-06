@@ -52,7 +52,7 @@ def not_zero(a):
 
 
 def bb_gauge(a):
-    return int(a)/100
+    return int(a) / 100
 
 
 def parse_imps(args):
