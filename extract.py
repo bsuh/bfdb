@@ -9,50 +9,54 @@ from braveburst import parse_bb
 
 
 def parse_unit(unit, skills, bbs, leader_skills, ais, dictionary):
-    data = dict()
+    def get_dict_str(s):
+        return dictionary.get(s, s)
 
-    data['name'] = dictionary.get(unit[UNIT_NAME], unit[UNIT_NAME])
-    data['element'] = elements[unit[UNIT_ELEMENT]]
-    data['rarity'] = int(unit[UNIT_RARITY])
-    data['base hp'] = int(unit[UNIT_BASE_HP])
-    data['lord hp'] = int(unit[UNIT_LORD_HP])
-    data['base atk'] = int(unit[UNIT_BASE_ATK])
-    data['lord atk'] = int(unit[UNIT_LORD_ATK])
-    data['base def'] = int(unit[UNIT_BASE_DEF])
-    data['lord def'] = int(unit[UNIT_LORD_DEF])
-    data['base rec'] = int(unit[UNIT_BASE_REC])
-    data['lord rec'] = int(unit[UNIT_LORD_REC])
-    data['hits'] = len(unit[DMG_FRAME].split(','))
-    data['hit dmg% distribution'] = [
-        int(hit.split(':')[1]) for hit in unit[DMG_FRAME].split(',')
-    ]
-    data['max bc generated'] = data['hits'] * int(unit[DROP_CHECK_CNT])
-    data['lord damage range'] = '~'.join(
-        map(str, damage_range(data['lord atk'])))
-    data['ai'] = ais[unit[UNIT_AI_ID]]
+    def hit_dmg_dist(s):
+        return [int(hit.split(':')[1]) for hit in s.split(',')]
 
-    if UNIT_IMP in unit:
-        data['imp'] = parse_imps(unit[UNIT_IMP].split(':'))
+    def max_bc_gen(s, data):
+        return int(s) * data['hits']
 
-    if unit[BB_ID] != '0':
-        data['bb'] = parse_bb(data, unit[BB_ID], skills, bbs, dictionary)
+    def _damage_range(s):
+        return '~'.join(map(str, damage_range(int(s))))
 
-    if unit[SBB_ID] != '0':
-        data['sbb'] = parse_bb(data, unit[SBB_ID], skills, bbs, dictionary)
+    def _parse_bb(bb_id, data):
+        return parse_bb(data, bb_id, skills, bbs, dictionary)
 
-    if unit[LS_ID] != '0':
-        data['leader skill'] = parse_leader_skill(
-            data, leader_skills[unit[LS_ID]], dictionary)
+    def parse_ls(ls_id, data):
+        return parse_leader_skill(data, leader_skills[ls_id], dictionary)
 
-    return data
+    unit_format = ((UNIT_NAME, 'name', get_dict_str),
+                   (UNIT_ELEMENT, 'element', elements.get),
+                   (UNIT_RARITY, 'rarity', int),
+                   (UNIT_BASE_HP, 'base hp', int),
+                   (UNIT_LORD_HP, 'lord hp', int),
+                   (UNIT_BASE_ATK, 'base atk', int),
+                   (UNIT_LORD_ATK, 'lord atk', int),
+                   (UNIT_BASE_DEF, 'base def', int),
+                   (UNIT_LORD_DEF, 'lord def', int),
+                   (UNIT_BASE_REC, 'base rec', int),
+                   (UNIT_LORD_REC, 'lord rec', int),
+                   (DMG_FRAME, 'hits', lambda s: len(s.split(','))),
+                   (DMG_FRAME, 'hit dmg% distribution', hit_dmg_dist),
+                   (DROP_CHECK_CNT, 'max bc generated', max_bc_gen),
+                   (UNIT_LORD_ATK, 'lord damage range', _damage_range),
+                   (UNIT_AI_ID, 'ai', ais.get),
+                   (UNIT_IMP, 'imp', lambda s: parse_imps(s.split(':'))),
+                   (BB_ID, 'bb', _parse_bb, not_zero),
+                   (SBB_ID, 'sbb', _parse_bb, not_zero),
+                   (LS_ID, 'leader skill', parse_ls, not_zero))
 
+    return handle_format(unit_format, unit)
 
-ai_format = ((AI_ID, 'id', str),
-             (AI_CHANCE, 'chance%', float),
-             (AI_TARGET, 'target', str),
-             (AI_ACTION_PARAMS, 'action', lambda s: s.split('@')[0]))
 
 def parse_ai(ai):
+    ai_format = ((AI_ID, 'id', str),
+                 (AI_CHANCE, 'chance%', float),
+                 (AI_TARGET, 'target', str),
+                 (AI_ACTION_PARAMS, 'action', lambda s: s.split('@')[0]))
+
     return handle_format(ai_format, ai)
 
 if __name__ == '__main__':

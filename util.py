@@ -74,6 +74,8 @@ def parse_imps(args):
 
 
 def handle_format(fmt, obj):
+    import inspect
+
     data = {}
     for entry in fmt:
         if hasattr(entry, '__call__'):
@@ -101,14 +103,27 @@ def handle_format(fmt, obj):
             continue
         if type(idx2) != int and idx not in obj:
             continue
+        if predicate(obj[idx2]) is not True:
+            continue
 
         if hasattr(key, '__call__'):
-            key = key(obj[idx])
+            args = [obj[idx]]
+            try:
+                if len(inspect.getargspec(key).args) > 1:
+                    args.append(data)
+            except TypeError:
+                pass
+            key = key(*args)
 
         if hasattr(value, '__call__'):
-            value = value(obj[idx2])
+            args = [obj[idx2]]
+            try:
+                if len(inspect.getargspec(value).args) > 1:
+                    args.append(data)
+            except TypeError:
+                pass
+            value = value(*args)
 
-        if predicate(obj[idx2]) is True:
-            data[key] = value
+        data[key] = value
 
     return data
