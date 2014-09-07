@@ -22,6 +22,11 @@ LS_PROCESS = '2Smu5Mtq'
 PROCESS_TYPE = 'hjAy9St3'
 DESC = 'qp37xTDh'
 
+REQ_HEADER_TAG = 'F4q6i9xe'
+REQ_ID = 'Hhgi79M1'
+REQ_BODY_TAG = 'a3vSYuq2'
+REQ_BODY = 'Kn51uR4Y'
+
 elements = {
     '0': 'all',
     '1': 'fire',
