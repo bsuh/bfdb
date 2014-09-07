@@ -30,7 +30,7 @@ def parse_unit(unit, skills, bbs, leader_skills, dictionary):
         map(str, damage_range(data['lord atk'])))
 
     if UNIT_IMP in unit:
-        data[UNIT_IMP] = parse_imps(unit[UNIT_IMP].split(':'))
+        data['imp'] = parse_imps(unit[UNIT_IMP].split(':'))
 
     if unit[BB_ID] != '0':
         data['bb'] = parse_bb(data, unit[BB_ID], skills, bbs, dictionary)
