@@ -1,7 +1,8 @@
 #!/usr/bin/python
 
-import json
 import glob
+import json
+import sys
 from util import *
 from leaderskill import parse_leader_skill
 from braveburst import parse_bb
@@ -45,11 +46,15 @@ def parse_unit(unit, skills, bbs, leader_skills, dictionary):
     return data
 
 if __name__ == '__main__':
-    with open(glob.glob('Ver*_2r9cNSdt.json')[-1]) as f:
-        with open(glob.glob('sgtext_dictionary_*.csv')[-1]) as f2:
-            with open(glob.glob('Ver*_zLIvD5o2.json')[-1]) as f3:
-                with open(glob.glob('Ver*_wkCyV73D.json')[-1]) as f4:
-                    with open(glob.glob('Ver*_4dE8UKcw.json')[-1]) as f5:
+    _dir = 'data/decoded_dat/'
+    if len(sys.argv) > 1:
+        _dir = sys.argv[1]
+
+    with open(glob.glob(_dir+'Ver*_2r9cNSdt*')[-1]) as f:
+        with open(glob.glob('data/dictionary_raw.txt')[-1]) as f2:
+            with open(glob.glob(_dir+'Ver*_zLIvD5o2*')[-1]) as f3:
+                with open(glob.glob(_dir+'Ver*_wkCyV73D*')[-1]) as f4:
+                    with open(glob.glob(_dir+'Ver*_4dE8UKcw*')[-1]) as f5:
                         units = json.load(f)
                         skills_js = json.load(f4)
                         bbs_js = json.load(f3)
