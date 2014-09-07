@@ -32,15 +32,16 @@ def parse_bb_element_change(process_info):
 
 
 def parse_bb_heal(process_info):
-    rec_added_1 = 1.0 + 1.0*(float(process_info[2])/100);
-    rec_added_2 = rec_added_1*(float(process_info[3])/100)
-    rec_added = 1.0 + (rec_added_1 + rec_added_2)/10
-    return {'rec added%': rec_added*100}
+    rec_added_1 = 1 + float(process_info[2]) / 100
+    rec_added_2 = rec_added_1 * float(process_info[3]) / 100
+    rec_added = 100 + (rec_added_1 + rec_added_2) * 10
+    return {'rec added%': rec_added}
 
 
 def parse_bb_regen(process_info):
-    rec_added = (1.0 + 1.0*(float(process_info[2])/100))/10
-    return {'rec added%': rec_added*100}
+    rec_added = (1 + 1 * float(process_info[2]) / 100) / 10
+    return {'rec added%': rec_added * 100}
+
 
 bb_process_format = {
     '1': ((0, 'bb atk%', int, not_zero),
