@@ -73,11 +73,11 @@ def parse_imps(args):
             'max rec': args[3]}
 
 
-def handle_process_format(process_format, process_info):
+def handle_format(fmt, obj):
     data = {}
-    for entry in process_format:
+    for entry in fmt:
         if hasattr(entry, '__call__'):
-            data.update(entry(process_info))
+            data.update(entry(obj))
             continue
 
         idx = entry[0]
@@ -93,16 +93,22 @@ def handle_process_format(process_format, process_info):
         else:
             predicate = lambda x: True
 
-        if idx >= len(process_info) <= idx2:
+        if type(idx) == int and idx >= len(obj):
+            continue
+        if type(idx2) == int and idx2 >= len(obj):
+            continue
+        if type(idx) != int and idx not in obj:
+            continue
+        if type(idx2) != int and idx not in obj:
             continue
 
         if hasattr(key, '__call__'):
-            key = key(process_info[idx])
+            key = key(obj[idx])
 
         if hasattr(value, '__call__'):
-            value = value(process_info[idx2])
+            value = value(obj[idx2])
 
-        if predicate(process_info[idx2]) is True:
+        if predicate(obj[idx2]) is True:
             data[key] = value
 
     return data

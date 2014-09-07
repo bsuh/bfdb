@@ -134,8 +134,8 @@ bb_process_format = {
 
 def parse_bb_process(process_type, process_info):
     if process_type in bb_process_format:
-        return handle_process_format(bb_process_format[process_type],
-                                     process_info.split(','))
+        return handle_format(bb_process_format[process_type],
+                             process_info.split(','))
     return {}
 
 
