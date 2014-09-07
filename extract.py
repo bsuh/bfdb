@@ -47,17 +47,13 @@ def parse_unit(unit, skills, bbs, leader_skills, ais, dictionary):
     return data
 
 
+ai_format = ((AI_ID, 'id', str),
+             (AI_CHANCE, 'chance%', float),
+             (AI_TARGET, 'target', str),
+             (AI_ACTION_PARAMS, 'action', lambda s: s.split('@')[0]))
+
 def parse_ai(ai):
-    data = dict()
-
-    data['id'] = ai[AI_ID]
-    # python doesn't like the mix of byte strings and unicode strings
-    # data['name'] = ai[AI_NAME]
-    data['chance%'] = float(ai[AI_CHANCE])
-    data['target'] = ai[AI_TARGET]
-    data['action'] = ai[AI_ACTION_PARAMS].split('@')[0]
-
-    return data
+    return handle_format(ai_format, ai)
 
 if __name__ == '__main__':
     def key_by_id(lst, id_str):
