@@ -51,7 +51,8 @@ def parse_ai(ai):
     data = dict()
 
     data['id'] = ai[AI_ID]
-    #data['name'] = ai[AI_NAME] #python doesn't like the mix of byte strings and unicode strings
+    # python doesn't like the mix of byte strings and unicode strings
+    # data['name'] = ai[AI_NAME]
     data['chance%'] = float(ai[AI_CHANCE])
     data['target'] = ai[AI_TARGET]
     data['action'] = ai[AI_ACTION_PARAMS].split('@')[0]
@@ -59,6 +60,9 @@ def parse_ai(ai):
     return data
 
 if __name__ == '__main__':
+    def key_by_id(lst, id_str):
+        return {obj[id_str]: obj for obj in lst}
+
     _dir = 'data/decoded_dat/'
     if len(sys.argv) > 1:
         _dir = sys.argv[1]
@@ -78,17 +82,9 @@ if __name__ == '__main__':
                                 line.split('^')[:2] for line in f2.readlines()
                             ])
 
-                            skills = dict()
-                            for skill in skills_js:
-                                skills[skill[BB_ID]] = skill
-
-                            bbs = dict()
-                            for bb in bbs_js:
-                                bbs[bb[BB_ID]] = bb
-
-                            leader_skills = dict()
-                            for leader_skill in leader_skills_js:
-                                leader_skills[leader_skill[LS_ID]] = leader_skill
+                            skills = key_by_id(skills_js, BB_ID)
+                            bbs = key_by_id(bbs_js, BB_ID)
+                            leader_skills = key_by_id(leader_skills_js, LS_ID)
 
                             ais = dict()
                             for ai in ai_js:
@@ -102,7 +98,8 @@ if __name__ == '__main__':
                             units_data = {}
                             for unit in units:
                                 unit_data = parse_unit(
-                                    unit, skills, bbs, leader_skills, ais, dictionary)
+                                    unit, skills, bbs, leader_skills,
+                                    ais, dictionary)
                                 units_data[unit_data['name']] = unit_data
                                 unit_data.pop('name')
 
