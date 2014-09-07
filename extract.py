@@ -26,7 +26,7 @@ def parse_unit(unit, skills, bbs, leader_skills, dictionary):
     data['hit dmg% distribution'] = [
         int(hit.split(':')[1]) for hit in unit[DMG_FRAME].split(',')
     ]
-    data['max bc generated'] = data['hits'] * int(skill[DROP_CHECK_CNT])
+    data['max bc generated'] = data['hits'] * int(unit[DROP_CHECK_CNT])
     data['lord damage range'] = '~'.join(
         map(str, damage_range(data['lord atk'])))
 

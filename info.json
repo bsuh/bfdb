@@ -120,7 +120,7 @@
     "lord def": 1487,
     "lord hp": 5381,
     "lord rec": 2060,
-    "max bc generated": 5,
+    "max bc generated": 15,
     "rarity": 6,
     "sbb": {
       "desc": "Greatly recovers HP & boosts Atk and gradually recovers HP for all allies for 3 turns",
@@ -347,7 +347,7 @@
     "lord def": 845,
     "lord hp": 2780,
     "lord rec": 951,
-    "max bc generated": 4,
+    "max bc generated": 12,
     "rarity": 3
   },
   "Advisor Weiss": {
@@ -438,7 +438,7 @@
     "lord def": 473,
     "lord hp": 2838,
     "lord rec": 987,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 2
   },
   "Aero": {
@@ -532,7 +532,7 @@
     "lord def": 634,
     "lord hp": 3020,
     "lord rec": 423,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 2
   },
   "Al-mi'raj": {
@@ -620,7 +620,7 @@
     "lord def": 455,
     "lord hp": 1725,
     "lord rec": 960,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 2
   },
   "Alice": {
@@ -724,7 +724,7 @@
     "lord def": 645,
     "lord hp": 2680,
     "lord rec": 1400,
-    "max bc generated": 3,
+    "max bc generated": 9,
     "rarity": 3
   },
   "Alpha Behemoth": {
@@ -824,7 +824,7 @@
     "lord def": 1507,
     "lord hp": 5090,
     "lord rec": 876,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 5
   },
   "Alpha Tree Altri": {
@@ -929,7 +929,7 @@
     "lord def": 1705,
     "lord hp": 6082,
     "lord rec": 1320,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 6,
     "sbb": {
       "desc": "Greatly recovers HP & removes status ailments and negates them for all allies for 3 turns",
@@ -1105,7 +1105,7 @@
     "lord def": 462,
     "lord hp": 1980,
     "lord rec": 233,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 1
   },
   "Angel Maria": {
@@ -1198,7 +1198,7 @@
     "lord def": 819,
     "lord hp": 2540,
     "lord rec": 1030,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Arcane Solo Eric": {
@@ -1367,7 +1367,7 @@
     "lord def": 1786,
     "lord hp": 5992,
     "lord rec": 1733,
-    "max bc generated": 9,
+    "max bc generated": 18,
     "rarity": 6,
     "sbb": {
       "desc": "15 combo random Dark elemental attack on all enemies & adds Light element to attack and slightly increases BB gauge for 3 turns",
@@ -1630,7 +1630,7 @@
     "lord def": 737,
     "lord hp": 2620,
     "lord rec": 560,
-    "max bc generated": 2,
+    "max bc generated": 4,
     "rarity": 2
   },
   "Archer Lario": {
@@ -1728,7 +1728,7 @@
     "lord def": 502,
     "lord hp": 2742,
     "lord rec": 952,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 2
   },
   "Assassin Oboro": {
@@ -1829,7 +1829,7 @@
     "lord def": 819,
     "lord hp": 2828,
     "lord rec": 877,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 3
   },
   "Azrael": {
@@ -1938,7 +1938,7 @@
     "lord def": 876,
     "lord hp": 3320,
     "lord rec": 665,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Azure Blade Lucina": {
@@ -2087,7 +2087,7 @@
     "lord def": 1333,
     "lord hp": 4089,
     "lord rec": 1078,
-    "max bc generated": 7,
+    "max bc generated": 21,
     "rarity": 4
   },
   "Azure Goddess Lucina": {
@@ -2247,7 +2247,7 @@
     "lord def": 1921,
     "lord hp": 5847,
     "lord rec": 1523,
-    "max bc generated": 12,
+    "max bc generated": 36,
     "rarity": 6,
     "sbb": {
       "desc": "16 combo Water elemental attack on single enemy & boost to Atk for all Units and Earth element added to attack for 3 turns",
@@ -2558,7 +2558,7 @@
     "lord def": 1625,
     "lord hp": 4951,
     "lord rec": 1300,
-    "max bc generated": 10,
+    "max bc generated": 30,
     "rarity": 5
   },
   "Bahamut": {
@@ -2680,7 +2680,7 @@
     "lord def": 944,
     "lord hp": 3788,
     "lord rec": 716,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Bandit Zaza": {
@@ -2779,7 +2779,7 @@
     "lord def": 701,
     "lord hp": 2170,
     "lord rec": 190,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 2
   },
   "Bard Elton": {
@@ -2882,7 +2882,7 @@
     "lord def": 1226,
     "lord hp": 3229,
     "lord rec": 1076,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 3
   },
   "Bat Mimic": {
@@ -2900,7 +2900,7 @@
     "lord def": 666,
     "lord hp": 2188,
     "lord rec": 666,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 4
   },
   "Battle Girl Ophelia": {
@@ -3004,7 +3004,7 @@
     "lord def": 1255,
     "lord hp": 4498,
     "lord rec": 1256,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 4
   },
   "Beast King Zegar": {
@@ -3123,7 +3123,7 @@
     "lord def": 1001,
     "lord hp": 4761,
     "lord rec": 956,
-    "max bc generated": 8,
+    "max bc generated": 16,
     "rarity": 5
   },
   "Beast Zegar": {
@@ -3229,7 +3229,7 @@
     "lord def": 392,
     "lord hp": 2620,
     "lord rec": 315,
-    "max bc generated": 2,
+    "max bc generated": 4,
     "rarity": 2
   },
   "Behemoth": {
@@ -3324,7 +3324,7 @@
     "lord def": 1027,
     "lord hp": 3380,
     "lord rec": 473,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 3
   },
   "Bishop Merith": {
@@ -3417,7 +3417,7 @@
     "lord def": 1029,
     "lord hp": 3902,
     "lord rec": 1241,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Black Lotus Lunaris": {
@@ -3543,7 +3543,7 @@
     "lord def": 1949,
     "lord hp": 5905,
     "lord rec": 1475,
-    "max bc generated": 10,
+    "max bc generated": 20,
     "rarity": 6,
     "sbb": {
       "desc": "13 combo powerful Dark attack on all enemies & all status ailments healed and nullified for 3 turns",
@@ -3749,7 +3749,7 @@
     "lord def": 1190,
     "lord hp": 3979,
     "lord rec": 572,
-    "max bc generated": 2,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Black Rose Elize": {
@@ -3851,7 +3851,7 @@
     "lord def": 673,
     "lord hp": 2442,
     "lord rec": 686,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 2
   },
   "Blacksmith Galant": {
@@ -3948,7 +3948,7 @@
     "lord def": 868,
     "lord hp": 2060,
     "lord rec": 375,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 2
   },
   "Blade Emperor Zelban": {
@@ -4086,7 +4086,7 @@
     "lord def": 1829,
     "lord hp": 5524,
     "lord rec": 2000,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 6,
     "sbb": {
       "desc": "12 combo Earth elemental attack on all enemies & boost in Def for all Units and Earth element added to attack for 3 turns",
@@ -4345,7 +4345,7 @@
     "lord def": 1417,
     "lord hp": 4805,
     "lord rec": 1610,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 5
   },
   "Blade Hero Zelban": {
@@ -4480,7 +4480,7 @@
     "lord def": 1532,
     "lord hp": 5072,
     "lord rec": 1809,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 5
   },
   "Blade Queen Sefia": {
@@ -4603,7 +4603,7 @@
     "lord def": 1615,
     "lord hp": 5167,
     "lord rec": 988,
-    "max bc generated": 8,
+    "max bc generated": 16,
     "rarity": 5
   },
   "Blade Storm Sefia": {
@@ -4724,7 +4724,7 @@
     "lord def": 1350,
     "lord hp": 4250,
     "lord rec": 750,
-    "max bc generated": 8,
+    "max bc generated": 16,
     "rarity": 4
   },
   "Blaze Guru Bran": {
@@ -4879,7 +4879,7 @@
     "lord def": 1805,
     "lord hp": 5400,
     "lord rec": 2000,
-    "max bc generated": 8,
+    "max bc generated": 24,
     "rarity": 6,
     "sbb": {
       "desc": "16 combo powerful Thunder attack on all enemies & boost to Def and Fire element added to attack for all allies for 3 turns",
@@ -5189,7 +5189,7 @@
     "lord def": 1305,
     "lord hp": 4743,
     "lord rec": 1305,
-    "max bc generated": 8,
+    "max bc generated": 16,
     "rarity": 5
   },
   "Blazing Mare": {
@@ -5328,7 +5328,7 @@
     "lord def": 1550,
     "lord hp": 4802,
     "lord rec": 1550,
-    "max bc generated": 9,
+    "max bc generated": 18,
     "rarity": 5
   },
   "Bolt Goddess Amy": {
@@ -5452,7 +5452,7 @@
     "lord def": 1624,
     "lord hp": 5570,
     "lord rec": 1394,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 5
   },
   "Bolt Knight Amy": {
@@ -5573,7 +5573,7 @@
     "lord def": 1400,
     "lord hp": 4668,
     "lord rec": 1140,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Bolt Magus Rashil": {
@@ -5696,7 +5696,7 @@
     "lord def": 1612,
     "lord hp": 4796,
     "lord rec": 1708,
-    "max bc generated": 5,
+    "max bc generated": 15,
     "rarity": 5
   },
   "Bolt Mallet Elulu": {
@@ -5805,7 +5805,7 @@
     "lord def": 962,
     "lord hp": 4051,
     "lord rec": 1960,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Bolt Pike Amy": {
@@ -5923,7 +5923,7 @@
     "lord def": 1066,
     "lord hp": 3708,
     "lord rec": 952,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Bolt Sibyl Zele": {
@@ -6076,7 +6076,7 @@
     "lord def": 1241,
     "lord hp": 4875,
     "lord rec": 1286,
-    "max bc generated": 8,
+    "max bc generated": 16,
     "rarity": 5
   },
   "Bordebegia": {
@@ -6208,7 +6208,7 @@
     "lord def": 1653,
     "lord hp": 6222,
     "lord rec": 1562,
-    "max bc generated": 9,
+    "max bc generated": 18,
     "rarity": 6,
     "sbb": {
       "desc": "15 combo powerful Fire attack on all enemies & boost in Spark damage and critical hit rate for 3 turns",
@@ -6440,7 +6440,7 @@
     "lord def": 1205,
     "lord hp": 5010,
     "lord rec": 1620,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 5
   },
   "Boxer Nemia": {
@@ -6548,7 +6548,7 @@
     "lord def": 406,
     "lord hp": 2504,
     "lord rec": 375,
-    "max bc generated": 3,
+    "max bc generated": 9,
     "rarity": 2
   },
   "Brave Hero Alma": {
@@ -6654,7 +6654,7 @@
     "lord def": 1284,
     "lord hp": 4527,
     "lord rec": 1536,
-    "max bc generated": 6,
+    "max bc generated": 18,
     "rarity": 5
   },
   "Brave Knight Karl": {
@@ -6757,7 +6757,7 @@
     "lord def": 1356,
     "lord hp": 4565,
     "lord rec": 1082,
-    "max bc generated": 3,
+    "max bc generated": 9,
     "rarity": 4
   },
   "Brawler Nemia": {
@@ -6867,7 +6867,7 @@
     "lord def": 627,
     "lord hp": 3224,
     "lord rec": 576,
-    "max bc generated": 4,
+    "max bc generated": 12,
     "rarity": 3
   },
   "Bruiser Galant": {
@@ -6965,7 +6965,7 @@
     "lord def": 1064,
     "lord hp": 2550,
     "lord rec": 585,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 3
   },
   "Burning Vargas": {
@@ -7068,7 +7068,7 @@
     "lord def": 806,
     "lord hp": 2517,
     "lord rec": 702,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Burny": {
@@ -7157,7 +7157,7 @@
     "lord def": 367,
     "lord hp": 1628,
     "lord rec": 273,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 1
   },
   "Burst Frog": {
@@ -7177,7 +7177,7 @@
     "lord def": 700,
     "lord hp": 3300,
     "lord rec": 50,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Cait Sith": {
@@ -7272,7 +7272,7 @@
     "lord def": 709,
     "lord hp": 2325,
     "lord rec": 1120,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 3
   },
   "Captain Mega": {
@@ -7374,7 +7374,7 @@
     "lord def": 660,
     "lord hp": 2820,
     "lord rec": 1360,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Cavalryman Sodis": {
@@ -7500,7 +7500,7 @@
     "lord def": 1600,
     "lord hp": 5600,
     "lord rec": 1309,
-    "max bc generated": 6,
+    "max bc generated": 18,
     "rarity": 5
   },
   "Centurion Melchio": {
@@ -7617,7 +7617,7 @@
     "lord def": 1483,
     "lord hp": 5015,
     "lord rec": 1477,
-    "max bc generated": 9,
+    "max bc generated": 27,
     "rarity": 5
   },
   "Cerberus": {
@@ -7735,7 +7735,7 @@
     "lord def": 806,
     "lord hp": 2610,
     "lord rec": 455,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Champ Fist Dilma": {
@@ -7851,7 +7851,7 @@
     "lord def": 1110,
     "lord hp": 5011,
     "lord rec": 1804,
-    "max bc generated": 3,
+    "max bc generated": 15,
     "rarity": 5
   },
   "Champion Aem": {
@@ -7953,7 +7953,7 @@
     "lord def": 831,
     "lord hp": 4250,
     "lord rec": 850,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 4
   },
   "Commander Mega": {
@@ -8060,7 +8060,7 @@
     "lord def": 1064,
     "lord hp": 4169,
     "lord rec": 1851,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 5
   },
   "Commander Weiss": {
@@ -8154,7 +8154,7 @@
     "lord def": 826,
     "lord hp": 4326,
     "lord rec": 1740,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 4
   },
   "Cowboy Heidt": {
@@ -8276,7 +8276,7 @@
     "lord def": 897,
     "lord hp": 3240,
     "lord rec": 523,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Crimson Wing Blaze": {
@@ -8410,7 +8410,7 @@
     "lord def": 1143,
     "lord hp": 4130,
     "lord rec": 1180,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 4
   },
   "Crow Tengu": {
@@ -8494,7 +8494,7 @@
     "lord def": 1130,
     "lord hp": 3020,
     "lord rec": 764,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 4
   },
   "Crusher God Uda": {
@@ -8605,7 +8605,7 @@
     "lord def": 1950,
     "lord hp": 6032,
     "lord rec": 1702,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 6,
     "sbb": {
       "desc": "15 combo powerful Thunder attack on all enemies & boost to BC drop rate for 3 turns",
@@ -8807,7 +8807,7 @@
     "lord def": 1644,
     "lord hp": 5100,
     "lord rec": 1455,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 5
   },
   "Cyborg Lilith": {
@@ -8905,7 +8905,7 @@
     "lord def": 1200,
     "lord hp": 3990,
     "lord rec": 1100,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 4
   },
   "Cyborg Lilith II": {
@@ -9006,7 +9006,7 @@
     "lord def": 1521,
     "lord hp": 5002,
     "lord rec": 1400,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 5
   },
   "Cyclops": {
@@ -9115,7 +9115,7 @@
     "lord def": 655,
     "lord hp": 3216,
     "lord rec": 396,
-    "max bc generated": 3,
+    "max bc generated": 12,
     "rarity": 3
   },
   "Dalimaone": {
@@ -9220,7 +9220,7 @@
     "lord def": 1523,
     "lord hp": 5011,
     "lord rec": 1106,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 5
   },
   "Damsel Estia": {
@@ -9351,7 +9351,7 @@
     "lord def": 1175,
     "lord hp": 3954,
     "lord rec": 1300,
-    "max bc generated": 8,
+    "max bc generated": 16,
     "rarity": 4
   },
   "Dancer May": {
@@ -9442,7 +9442,7 @@
     "lord def": 435,
     "lord hp": 1672,
     "lord rec": 472,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 1
   },
   "Dark Arts Dia": {
@@ -9605,7 +9605,7 @@
     "lord def": 1012,
     "lord hp": 3929,
     "lord rec": 1430,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Dark Arts Lily": {
@@ -9718,7 +9718,7 @@
     "lord def": 958,
     "lord hp": 3741,
     "lord rec": 1133,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Dark Blade Lico": {
@@ -9825,7 +9825,7 @@
     "lord def": 1050,
     "lord hp": 4250,
     "lord rec": 1020,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Dark Blade Zephyr": {
@@ -9951,7 +9951,7 @@
     "lord def": 1293,
     "lord hp": 4557,
     "lord rec": 1118,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 4
   },
   "Dark Bulb": {
@@ -9971,7 +9971,7 @@
     "lord def": 700,
     "lord hp": 2600,
     "lord rec": 200,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Dark Charm Lunaris": {
@@ -10089,7 +10089,7 @@
     "lord def": 1407,
     "lord hp": 4070,
     "lord rec": 1040,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 4
   },
   "Dark Crystal": {
@@ -10110,7 +10110,7 @@
     "lord def": 500,
     "lord hp": 3500,
     "lord rec": 500,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 5
   },
   "Dark Curse Lunaris": {
@@ -10232,7 +10232,7 @@
     "lord def": 1650,
     "lord hp": 5323,
     "lord rec": 1250,
-    "max bc generated": 8,
+    "max bc generated": 16,
     "rarity": 5
   },
   "Dark Idol": {
@@ -10254,7 +10254,7 @@
     "lord def": 500,
     "lord hp": 2300,
     "lord rec": 100,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Dark Nymph": {
@@ -10274,7 +10274,7 @@
     "lord def": 300,
     "lord hp": 1100,
     "lord rec": 300,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 1
   },
   "Dark Pot": {
@@ -10296,7 +10296,7 @@
     "lord def": 300,
     "lord hp": 2700,
     "lord rec": 200,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Dark Princess Dia": {
@@ -10462,7 +10462,7 @@
     "lord def": 1213,
     "lord hp": 4812,
     "lord rec": 1710,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 5
   },
   "Dark Spirit": {
@@ -10484,7 +10484,7 @@
     "lord def": 400,
     "lord hp": 1800,
     "lord rec": 200,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 2
   },
   "Dark Swords Logan": {
@@ -10598,7 +10598,7 @@
     "lord def": 1185,
     "lord hp": 3932,
     "lord rec": 952,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 4
   },
   "Dark Totem": {
@@ -10619,7 +10619,7 @@
     "lord def": 700,
     "lord hp": 3300,
     "lord rec": 50,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Dark Tunes Eric": {
@@ -10784,7 +10784,7 @@
     "lord def": 1511,
     "lord hp": 5093,
     "lord rec": 1476,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 5
   },
   "Dark Warlord Zephyr": {
@@ -10920,7 +10920,7 @@
     "lord def": 1850,
     "lord hp": 6304,
     "lord rec": 1603,
-    "max bc generated": 9,
+    "max bc generated": 18,
     "rarity": 6,
     "sbb": {
       "desc": "None",
@@ -11184,7 +11184,7 @@
     "lord def": 1587,
     "lord hp": 5621,
     "lord rec": 1361,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 5
   },
   "Dean": {
@@ -11287,7 +11287,7 @@
     "lord def": 1014,
     "lord hp": 3632,
     "lord rec": 1190,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Death God Lodaga": {
@@ -11399,7 +11399,7 @@
     "lord def": 1121,
     "lord hp": 4405,
     "lord rec": 827,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 5
   },
   "Death Idol Kikuri": {
@@ -11530,7 +11530,7 @@
     "lord def": 1651,
     "lord hp": 6055,
     "lord rec": 1720,
-    "max bc generated": 12,
+    "max bc generated": 24,
     "rarity": 6,
     "sbb": {
       "desc": "15 combo powerful Dark attack on all enemies & probable Curse effect",
@@ -11729,7 +11729,7 @@
     "lord def": 1400,
     "lord hp": 4876,
     "lord rec": 755,
-    "max bc generated": 3,
+    "max bc generated": 12,
     "rarity": 5
   },
   "Defiant God Luther": {
@@ -11867,7 +11867,7 @@
     "lord def": 1718,
     "lord hp": 6021,
     "lord rec": 1718,
-    "max bc generated": 10,
+    "max bc generated": 20,
     "rarity": 6,
     "sbb": {
       "desc": "28 combo powerful Fire attack on all enemies & boost in Spark damage for 3 turns ",
@@ -12114,7 +12114,7 @@
     "lord def": 1450,
     "lord hp": 5062,
     "lord rec": 1450,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 5
   },
   "Demon Blade Lico": {
@@ -12223,7 +12223,7 @@
     "lord def": 1130,
     "lord hp": 5310,
     "lord rec": 1370,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 5
   },
   "Disciple Mare": {
@@ -12358,7 +12358,7 @@
     "lord def": 1285,
     "lord hp": 3998,
     "lord rec": 1285,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 4
   },
   "Disciple Zebra": {
@@ -12467,7 +12467,7 @@
     "lord def": 820,
     "lord hp": 3550,
     "lord rec": 1120,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 4
   },
   "Divine Light Alyut": {
@@ -12592,7 +12592,7 @@
     "lord def": 1920,
     "lord hp": 6182,
     "lord rec": 1811,
-    "max bc generated": 9,
+    "max bc generated": 27,
     "rarity": 6,
     "sbb": {
       "desc": "14 combo powerful Light attack on all enemies & slightly increases HP and BB for 3 turns",
@@ -12819,7 +12819,7 @@
     "lord def": 966,
     "lord hp": 2300,
     "lord rec": 670,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Dragon Graven": {
@@ -12921,7 +12921,7 @@
     "lord def": 1242,
     "lord hp": 4220,
     "lord rec": 765,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 4
   },
   "Dragon Hero Zephu": {
@@ -13036,7 +13036,7 @@
     "lord def": 1032,
     "lord hp": 4971,
     "lord rec": 807,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 5
   },
   "Dragon Mimic": {
@@ -13054,7 +13054,7 @@
     "lord def": 666,
     "lord hp": 3188,
     "lord rec": 666,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 5
   },
   "Dragoon Zephu": {
@@ -13167,7 +13167,7 @@
     "lord def": 792,
     "lord hp": 4140,
     "lord rec": 556,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 4
   },
   "Drake Angel Aisha": {
@@ -13277,7 +13277,7 @@
     "lord def": 1602,
     "lord hp": 6071,
     "lord rec": 1688,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 6,
     "sbb": {
       "desc": "15 combo powerful Fire attack on all enemies & boosts critical hit rate for 3 turns",
@@ -13491,7 +13491,7 @@
     "lord def": 977,
     "lord hp": 3543,
     "lord rec": 1088,
-    "max bc generated": 2,
+    "max bc generated": 4,
     "rarity": 3
   },
   "Drake God Lodin": {
@@ -13605,7 +13605,7 @@
     "lord def": 1164,
     "lord hp": 4600,
     "lord rec": 1488,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 5
   },
   "Drake Lord Aisha": {
@@ -13707,7 +13707,7 @@
     "lord def": 1250,
     "lord hp": 4485,
     "lord rec": 1276,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 4
   },
   "Drake Queen Aisha": {
@@ -13814,7 +13814,7 @@
     "lord def": 1489,
     "lord hp": 5311,
     "lord rec": 1532,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 5
   },
   "Drakeborn Lodin": {
@@ -13926,7 +13926,7 @@
     "lord def": 990,
     "lord hp": 3781,
     "lord rec": 1291,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 4
   },
   "Dryad": {
@@ -14027,7 +14027,7 @@
     "lord def": 998,
     "lord hp": 3150,
     "lord rec": 700,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Duel-GX": {
@@ -14167,7 +14167,7 @@
     "lord def": 1347,
     "lord hp": 4204,
     "lord rec": 1189,
-    "max bc generated": 12,
+    "max bc generated": 24,
     "rarity": 4
   },
   "Duel-GX II": {
@@ -14307,7 +14307,7 @@
     "lord def": 1535,
     "lord hp": 5215,
     "lord rec": 1325,
-    "max bc generated": 12,
+    "max bc generated": 24,
     "rarity": 5
   },
   "Duel-SGX": {
@@ -14451,7 +14451,7 @@
     "lord def": 1833,
     "lord hp": 5676,
     "lord rec": 1520,
-    "max bc generated": 15,
+    "max bc generated": 30,
     "rarity": 6,
     "sbb": {
       "desc": "20 combo Dark elemental attack on all enemies & boosts critical hit rate and adds Dark element to attack for 3 turns",
@@ -14735,7 +14735,7 @@
     "lord def": 1400,
     "lord hp": 6000,
     "lord rec": 1250,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 6,
     "sbb": {
       "desc": "10 combo powerful Light attack on all enemies & probable Paralysis effect",
@@ -14916,7 +14916,7 @@
     "lord def": 742,
     "lord hp": 1840,
     "lord rec": 450,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 2
   },
   "Dwarf Prince": {
@@ -15024,7 +15024,7 @@
     "lord def": 963,
     "lord hp": 2170,
     "lord rec": 650,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 3
   },
   "Earth Bulb": {
@@ -15046,7 +15046,7 @@
     "lord def": 740,
     "lord hp": 2700,
     "lord rec": 300,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Earth Crystal": {
@@ -15067,7 +15067,7 @@
     "lord def": 450,
     "lord hp": 4000,
     "lord rec": 450,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 5
   },
   "Earth Ghost": {
@@ -15085,7 +15085,7 @@
     "lord def": 122,
     "lord hp": 1100,
     "lord rec": 122,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 3
   },
   "Earth God": {
@@ -15105,7 +15105,7 @@
     "lord def": 122,
     "lord hp": 2200,
     "lord rec": 122,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Earth Idol": {
@@ -15127,7 +15127,7 @@
     "lord def": 500,
     "lord hp": 2300,
     "lord rec": 100,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Earth King": {
@@ -15146,7 +15146,7 @@
     "lord def": 122,
     "lord hp": 1650,
     "lord rec": 122,
-    "max bc generated": 2,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Earth Knight Edea": {
@@ -15273,7 +15273,7 @@
     "lord def": 1400,
     "lord hp": 4275,
     "lord rec": 1116,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 4
   },
   "Earth Nymph": {
@@ -15293,7 +15293,7 @@
     "lord def": 300,
     "lord hp": 1100,
     "lord rec": 300,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 1
   },
   "Earth Pike Lance": {
@@ -15397,7 +15397,7 @@
     "lord def": 1162,
     "lord hp": 3173,
     "lord rec": 613,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Earth Pot": {
@@ -15419,7 +15419,7 @@
     "lord def": 700,
     "lord hp": 2700,
     "lord rec": 200,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Earth Spirit": {
@@ -15441,7 +15441,7 @@
     "lord def": 400,
     "lord hp": 1800,
     "lord rec": 200,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 2
   },
   "Earth Totem": {
@@ -15462,7 +15462,7 @@
     "lord def": 700,
     "lord hp": 3300,
     "lord rec": 50,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Earthly Il & Mina": {
@@ -15569,7 +15569,7 @@
     "lord def": 1296,
     "lord hp": 4356,
     "lord rec": 1333,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Edea": {
@@ -15692,7 +15692,7 @@
     "lord def": 1056,
     "lord hp": 3495,
     "lord rec": 969,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 3
   },
   "Eight Blade Sefia": {
@@ -15813,7 +15813,7 @@
     "lord def": 1088,
     "lord hp": 3345,
     "lord rec": 510,
-    "max bc generated": 8,
+    "max bc generated": 16,
     "rarity": 3
   },
   "Elimo": {
@@ -15934,7 +15934,7 @@
     "lord def": 902,
     "lord hp": 3100,
     "lord rec": 1275,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Eliza": {
@@ -16082,7 +16082,7 @@
     "lord def": 1025,
     "lord hp": 3755,
     "lord rec": 1207,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 4
   },
   "Emilia": {
@@ -16196,7 +16196,7 @@
     "lord def": 871,
     "lord hp": 3120,
     "lord rec": 875,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 3
   },
   "Empress Lidith": {
@@ -16307,7 +16307,7 @@
     "lord def": 1067,
     "lord hp": 4645,
     "lord rec": 1696,
-    "max bc generated": 9,
+    "max bc generated": 18,
     "rarity": 5
   },
   "Empusa": {
@@ -16400,7 +16400,7 @@
     "lord def": 585,
     "lord hp": 1755,
     "lord rec": 675,
-    "max bc generated": 2,
+    "max bc generated": 4,
     "rarity": 2
   },
   "Empyreal Drake Lodin": {
@@ -16519,7 +16519,7 @@
     "lord def": 1532,
     "lord hp": 5173,
     "lord rec": 1824,
-    "max bc generated": 9,
+    "max bc generated": 18,
     "rarity": 6,
     "sbb": {
       "desc": "14 combo Thunder elemental attack on all enemies, increases BB gauge fill rate and adds Thunder element to attack for 3 turns",
@@ -16755,7 +16755,7 @@
     "lord def": 960,
     "lord hp": 2430,
     "lord rec": 1082,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Estia": {
@@ -16882,7 +16882,7 @@
     "lord def": 1000,
     "lord hp": 2985,
     "lord rec": 1130,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 3
   },
   "Evil Blades Logan": {
@@ -17008,7 +17008,7 @@
     "lord def": 1500,
     "lord hp": 4899,
     "lord rec": 1221,
-    "max bc generated": 6,
+    "max bc generated": 18,
     "rarity": 5
   },
   "Evil God Kajah": {
@@ -17127,7 +17127,7 @@
     "lord def": 1751,
     "lord hp": 6059,
     "lord rec": 1355,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 6,
     "sbb": {
       "desc": "15 combo massive Dark attack on all enemies & probable Injury effect ",
@@ -17338,7 +17338,7 @@
     "lord def": 1492,
     "lord hp": 5089,
     "lord rec": 1141,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 5
   },
   "Executioner Shida": {
@@ -17446,7 +17446,7 @@
     "lord def": 1016,
     "lord hp": 4444,
     "lord rec": 1553,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 5
   },
   "Fairy": {
@@ -17542,7 +17542,7 @@
     "lord def": 373,
     "lord hp": 2010,
     "lord rec": 900,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 2
   },
   "Felneus": {
@@ -17648,7 +17648,7 @@
     "lord def": 1603,
     "lord hp": 5378,
     "lord rec": 1586,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 6,
     "sbb": {
       "desc": "10 combo powerful Water attack on all enemies & boost to BC drop rate for 3 turns",
@@ -17831,7 +17831,7 @@
     "lord def": 574,
     "lord hp": 1948,
     "lord rec": 448,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 2
   },
   "Final Apostle Tiara": {
@@ -17978,7 +17978,7 @@
     "lord def": 1768,
     "lord hp": 5435,
     "lord rec": 2233,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 6,
     "sbb": {
       "desc": "12 combo Water elemental attack on all enemies & gradually recovers HP and adds Water element to attack for all allies for 3 turns",
@@ -18256,7 +18256,7 @@
     "lord def": 758,
     "lord hp": 4008,
     "lord rec": 677,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 4
   },
   "Fire Bulb": {
@@ -18278,7 +18278,7 @@
     "lord def": 750,
     "lord hp": 2500,
     "lord rec": 200,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Fire Crystal": {
@@ -18299,7 +18299,7 @@
     "lord def": 500,
     "lord hp": 3500,
     "lord rec": 450,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 5
   },
   "Fire Dance Ramna": {
@@ -18436,7 +18436,7 @@
     "lord def": 1352,
     "lord hp": 5281,
     "lord rec": 1761,
-    "max bc generated": 6,
+    "max bc generated": 18,
     "rarity": 5
   },
   "Fire Ghost": {
@@ -18454,7 +18454,7 @@
     "lord def": 123,
     "lord hp": 1000,
     "lord rec": 120,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 3
   },
   "Fire God": {
@@ -18474,7 +18474,7 @@
     "lord def": 123,
     "lord hp": 2000,
     "lord rec": 120,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Fire God Lava": {
@@ -18587,7 +18587,7 @@
     "lord def": 1330,
     "lord hp": 4680,
     "lord rec": 1274,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 5
   },
   "Fire God Vargas": {
@@ -18694,7 +18694,7 @@
     "lord def": 1230,
     "lord hp": 3917,
     "lord rec": 1082,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 5
   },
   "Fire Idol": {
@@ -18716,7 +18716,7 @@
     "lord def": 500,
     "lord hp": 2300,
     "lord rec": 100,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Fire King": {
@@ -18735,7 +18735,7 @@
     "lord def": 123,
     "lord hp": 1500,
     "lord rec": 120,
-    "max bc generated": 2,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Fire King Vargas": {
@@ -18840,7 +18840,7 @@
     "lord def": 989,
     "lord hp": 3201,
     "lord rec": 845,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Fire Knight Agni": {
@@ -18950,7 +18950,7 @@
     "lord def": 937,
     "lord hp": 4346,
     "lord rec": 687,
-    "max bc generated": 9,
+    "max bc generated": 18,
     "rarity": 4
   },
   "Fire Knight Lava": {
@@ -19054,7 +19054,7 @@
     "lord def": 1153,
     "lord hp": 3948,
     "lord rec": 1085,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Fire Nymph": {
@@ -19074,7 +19074,7 @@
     "lord def": 300,
     "lord hp": 1100,
     "lord rec": 300,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 1
   },
   "Fire Pot": {
@@ -19096,7 +19096,7 @@
     "lord def": 600,
     "lord hp": 2500,
     "lord rec": 200,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Fire Princess Lyn": {
@@ -19196,7 +19196,7 @@
     "lord def": 794,
     "lord hp": 3002,
     "lord rec": 1023,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Fire Samba Ramna": {
@@ -19338,7 +19338,7 @@
     "lord def": 1535,
     "lord hp": 5951,
     "lord rec": 2094,
-    "max bc generated": 7,
+    "max bc generated": 21,
     "rarity": 6,
     "sbb": {
       "desc": "13 combo powerful Fire attack on all enemies, boost to Def & boost to Atk of Fire types for 3 turns",
@@ -19483,7 +19483,7 @@
     "lord def": 400,
     "lord hp": 1800,
     "lord rec": 200,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 2
   },
   "Fire Step Ramna": {
@@ -19616,7 +19616,7 @@
     "lord def": 1200,
     "lord hp": 4211,
     "lord rec": 1331,
-    "max bc generated": 5,
+    "max bc generated": 15,
     "rarity": 4
   },
   "Fire Totem": {
@@ -19637,7 +19637,7 @@
     "lord def": 700,
     "lord hp": 3300,
     "lord rec": 50,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Firedrake": {
@@ -19735,7 +19735,7 @@
     "lord def": 951,
     "lord hp": 3375,
     "lord rec": 465,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Freya": {
@@ -19886,7 +19886,7 @@
     "lord def": 1069,
     "lord hp": 3910,
     "lord rec": 1110,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 4
   },
   "Frost Queen Stya": {
@@ -19998,7 +19998,7 @@
     "lord def": 800,
     "lord hp": 3103,
     "lord rec": 1459,
-    "max bc generated": 10,
+    "max bc generated": 20,
     "rarity": 4
   },
   "Frozen Rose Elize": {
@@ -20114,7 +20114,7 @@
     "lord def": 908,
     "lord hp": 3181,
     "lord rec": 920,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 3
   },
   "Gaia Armor Edea": {
@@ -20252,7 +20252,7 @@
     "lord def": 1806,
     "lord hp": 5578,
     "lord rec": 1543,
-    "max bc generated": 10,
+    "max bc generated": 20,
     "rarity": 6,
     "sbb": {
       "desc": "12 combo Earth elemental attack on single enemy, probable Poison and Sick effect, and decreases damage taken for 1 turn for all allies",
@@ -20486,7 +20486,7 @@
     "lord def": 763,
     "lord hp": 3875,
     "lord rec": 704,
-    "max bc generated": 5,
+    "max bc generated": 15,
     "rarity": 4
   },
   "Gaia King Lugina": {
@@ -20597,7 +20597,7 @@
     "lord def": 1300,
     "lord hp": 5430,
     "lord rec": 1200,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 5
   },
   "Gaians Il & Mina": {
@@ -20714,7 +20714,7 @@
     "lord def": 1644,
     "lord hp": 5923,
     "lord rec": 1752,
-    "max bc generated": 8,
+    "max bc generated": 16,
     "rarity": 6,
     "sbb": {
       "desc": "13 combo powerful Earth attack on all enemies & boost to Rec and HP for 3 turns",
@@ -20948,7 +20948,7 @@
     "lord def": 715,
     "lord hp": 2799,
     "lord rec": 656,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 2
   },
   "Garroter Shida": {
@@ -21054,7 +21054,7 @@
     "lord def": 850,
     "lord hp": 3417,
     "lord rec": 1350,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 4
   },
   "Gemini Il & Mina": {
@@ -21164,7 +21164,7 @@
     "lord def": 1534,
     "lord hp": 5279,
     "lord rec": 1572,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 5
   },
   "General Weiss": {
@@ -21259,7 +21259,7 @@
     "lord def": 1130,
     "lord hp": 5157,
     "lord rec": 1926,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 5
   },
   "Genius Elimo": {
@@ -21382,7 +21382,7 @@
     "lord def": 1376,
     "lord hp": 4680,
     "lord rec": 1873,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 5
   },
   "Geomancer Claris": {
@@ -21473,7 +21473,7 @@
     "lord def": 600,
     "lord hp": 1812,
     "lord rec": 514,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 1
   },
   "Gloomy": {
@@ -21562,7 +21562,7 @@
     "lord def": 260,
     "lord hp": 1410,
     "lord rec": 260,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 1
   },
   "Glowy": {
@@ -21651,7 +21651,7 @@
     "lord def": 580,
     "lord hp": 1587,
     "lord rec": 390,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 1
   },
   "Goblin": {
@@ -21753,7 +21753,7 @@
     "lord def": 330,
     "lord hp": 1860,
     "lord rec": 170,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 1
   },
   "God Arm Galant": {
@@ -21852,7 +21852,7 @@
     "lord def": 1324,
     "lord hp": 3276,
     "lord rec": 725,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 4
   },
   "God Atro": {
@@ -21955,7 +21955,7 @@
     "lord def": 1325,
     "lord hp": 3730,
     "lord rec": 1325,
-    "max bc generated": 3,
+    "max bc generated": 12,
     "rarity": 5
   },
   "God Blade Mifune": {
@@ -22055,7 +22055,7 @@
     "lord def": 659,
     "lord hp": 2993,
     "lord rec": 728,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "God Eater Lira": {
@@ -22172,7 +22172,7 @@
     "lord def": 1795,
     "lord hp": 5850,
     "lord rec": 1795,
-    "max bc generated": 8,
+    "max bc generated": 16,
     "rarity": 6,
     "sbb": {
       "desc": "13 combo powerful massive Dark attack on single enemy",
@@ -22361,7 +22361,7 @@
     "lord def": 1368,
     "lord hp": 5239,
     "lord rec": 847,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 5
   },
   "God Phoenix": {
@@ -22465,7 +22465,7 @@
     "lord def": 1517,
     "lord hp": 4995,
     "lord rec": 951,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 5
   },
   "God Tree Eltri": {
@@ -22569,7 +22569,7 @@
     "lord def": 1577,
     "lord hp": 5052,
     "lord rec": 988,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 5
   },
   "Goddess Axe Michele": {
@@ -22714,7 +22714,7 @@
     "lord def": 1505,
     "lord hp": 5532,
     "lord rec": 1794,
-    "max bc generated": 15,
+    "max bc generated": 30,
     "rarity": 6,
     "sbb": {
       "desc": "18 combo Fire elemental attack on all enemies, boosts Atk & adds Fire element to attack for 3 turns",
@@ -22990,7 +22990,7 @@
     "lord def": 1309,
     "lord hp": 4707,
     "lord rec": 1304,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 5
   },
   "Goddess Tilith": {
@@ -23101,7 +23101,7 @@
     "lord def": 1600,
     "lord hp": 5300,
     "lord rec": 2000,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 5
   },
   "Gold Knight Rina": {
@@ -23217,7 +23217,7 @@
     "lord def": 1452,
     "lord hp": 5362,
     "lord rec": 1500,
-    "max bc generated": 4,
+    "max bc generated": 12,
     "rarity": 5
   },
   "Gold Queen Rina": {
@@ -23336,7 +23336,7 @@
     "lord def": 1731,
     "lord hp": 6000,
     "lord rec": 1753,
-    "max bc generated": 5,
+    "max bc generated": 15,
     "rarity": 6,
     "sbb": {
       "desc": "10 combo powerful Thunder attack on all enemies & probable Paralysis and Curse effect",
@@ -23553,7 +23553,7 @@
     "lord def": 1188,
     "lord hp": 4248,
     "lord rec": 1320,
-    "max bc generated": 3,
+    "max bc generated": 9,
     "rarity": 4
   },
   "Golem": {
@@ -23640,7 +23640,7 @@
     "lord def": 1358,
     "lord hp": 4642,
     "lord rec": 639,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 4
   },
   "Gorgon": {
@@ -23751,7 +23751,7 @@
     "lord def": 858,
     "lord hp": 2355,
     "lord rec": 858,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Goth Idol Kikuri": {
@@ -23876,7 +23876,7 @@
     "lord def": 1472,
     "lord hp": 5278,
     "lord rec": 1536,
-    "max bc generated": 10,
+    "max bc generated": 30,
     "rarity": 5
   },
   "Goth Kikuri": {
@@ -23997,7 +23997,7 @@
     "lord def": 1215,
     "lord hp": 4356,
     "lord rec": 1245,
-    "max bc generated": 8,
+    "max bc generated": 24,
     "rarity": 4
   },
   "Grahdens": {
@@ -24197,7 +24197,7 @@
     "lord def": 1700,
     "lord hp": 5112,
     "lord rec": 1500,
-    "max bc generated": 10,
+    "max bc generated": 20,
     "rarity": 5
   },
   "Gravion": {
@@ -24299,7 +24299,7 @@
     "lord def": 1836,
     "lord hp": 6173,
     "lord rec": 1245,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 6,
     "sbb": {
       "desc": "12 combo massive Earth attack on all enemies ",
@@ -24484,7 +24484,7 @@
     "lord def": 990,
     "lord hp": 3824,
     "lord rec": 945,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 4
   },
   "Great Golem": {
@@ -24582,7 +24582,7 @@
     "lord def": 1625,
     "lord hp": 5496,
     "lord rec": 782,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 5
   },
   "Great Sage Mimir": {
@@ -24675,7 +24675,7 @@
     "lord def": 1030,
     "lord hp": 3880,
     "lord rec": 1269,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Great Thief Leon": {
@@ -24793,7 +24793,7 @@
     "lord def": 1002,
     "lord hp": 3404,
     "lord rec": 1150,
-    "max bc generated": 8,
+    "max bc generated": 16,
     "rarity": 4
   },
   "Great Tree Alneu": {
@@ -24894,7 +24894,7 @@
     "lord def": 1056,
     "lord hp": 3352,
     "lord rec": 562,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Guardian Chief Sodis": {
@@ -25026,7 +25026,7 @@
     "lord def": 1903,
     "lord hp": 6302,
     "lord rec": 1551,
-    "max bc generated": 8,
+    "max bc generated": 24,
     "rarity": 6,
     "sbb": {
       "desc": "12 combo powerful Light attack on all enemies & boost to Spark damage and Atk for Light types for 3 turns",
@@ -25405,7 +25405,7 @@
     "lord def": 1369,
     "lord hp": 5400,
     "lord rec": 1442,
-    "max bc generated": 13,
+    "max bc generated": 26,
     "rarity": 5
   },
   "Gun King Douglas": {
@@ -25656,7 +25656,7 @@
     "lord def": 1258,
     "lord hp": 3955,
     "lord rec": 1350,
-    "max bc generated": 11,
+    "max bc generated": 22,
     "rarity": 4
   },
   "Gunner Douglas": {
@@ -25906,7 +25906,7 @@
     "lord def": 1041,
     "lord hp": 4347,
     "lord rec": 992,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 4
   },
   "Hail Gigantron Reeze": {
@@ -26037,7 +26037,7 @@
     "lord def": 1601,
     "lord hp": 6406,
     "lord rec": 1522,
-    "max bc generated": 10,
+    "max bc generated": 20,
     "rarity": 6,
     "sbb": {
       "desc": "14 combo powerful Water attack on all enemies & great boost to own Atk, Def, and Rec for 3 turns",
@@ -26297,7 +26297,7 @@
     "lord def": 1314,
     "lord hp": 5456,
     "lord rec": 1245,
-    "max bc generated": 9,
+    "max bc generated": 18,
     "rarity": 5
   },
   "Half Blood Lira": {
@@ -26405,7 +26405,7 @@
     "lord def": 1318,
     "lord hp": 4452,
     "lord rec": 1308,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Harpy": {
@@ -26491,7 +26491,7 @@
     "lord def": 376,
     "lord hp": 2136,
     "lord rec": 201,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 1
   },
   "Havoc Angel Ronel": {
@@ -26619,7 +26619,7 @@
     "lord def": 1731,
     "lord hp": 6032,
     "lord rec": 1800,
-    "max bc generated": 8,
+    "max bc generated": 16,
     "rarity": 6,
     "sbb": {
       "desc": "14 combo powerful Thunder attack on all enemies & boost to BC and HC drop rate for 3 turns",
@@ -26836,7 +26836,7 @@
     "lord def": 1144,
     "lord hp": 4144,
     "lord rec": 1522,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 4
   },
   "Havoc God Luly": {
@@ -26958,7 +26958,7 @@
     "lord def": 1502,
     "lord hp": 5905,
     "lord rec": 2100,
-    "max bc generated": 8,
+    "max bc generated": 16,
     "rarity": 6,
     "sbb": {
       "desc": "12 combo powerful Earth attack on all enemies & boost to HC drop rate and Atk for Earth types for 3 turns",
@@ -27197,7 +27197,7 @@
     "lord def": 1382,
     "lord hp": 5312,
     "lord rec": 1750,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 5
   },
   "Hawkeye Lario": {
@@ -27301,7 +27301,7 @@
     "lord def": 899,
     "lord hp": 4249,
     "lord rec": 1512,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 4
   },
   "Head Bandit Zaza": {
@@ -27413,7 +27413,7 @@
     "lord def": 952,
     "lord hp": 2700,
     "lord rec": 405,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Head Chef Lancia": {
@@ -27534,7 +27534,7 @@
     "lord def": 1339,
     "lord hp": 4774,
     "lord rec": 1804,
-    "max bc generated": 3,
+    "max bc generated": 9,
     "rarity": 5
   },
   "Head Thief Leon": {
@@ -27648,7 +27648,7 @@
     "lord def": 905,
     "lord hp": 2892,
     "lord rec": 935,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 3
   },
   "Healer Merith": {
@@ -27741,7 +27741,7 @@
     "lord def": 731,
     "lord hp": 2475,
     "lord rec": 850,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 2
   },
   "Heaven's Bolt Amy": {
@@ -27873,7 +27873,7 @@
     "lord def": 1694,
     "lord hp": 6254,
     "lord rec": 1582,
-    "max bc generated": 9,
+    "max bc generated": 18,
     "rarity": 6,
     "sbb": {
       "desc": "13 combo powerful Thunder attack on all enemies & probable Injury and Weak effect",
@@ -28089,7 +28089,7 @@
     "lord def": 1598,
     "lord hp": 5800,
     "lord rec": 1702,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 6,
     "sbb": {
       "desc": "Massive Thunder elemental attack on all enemies",
@@ -28280,7 +28280,7 @@
     "lord def": 956,
     "lord hp": 3245,
     "lord rec": 423,
-    "max bc generated": 1,
+    "max bc generated": 4,
     "rarity": 3
   },
   "Hell Keep Alice": {
@@ -28392,7 +28392,7 @@
     "lord def": 1333,
     "lord hp": 5057,
     "lord rec": 2055,
-    "max bc generated": 7,
+    "max bc generated": 21,
     "rarity": 6,
     "sbb": {
       "desc": "13 combo powerful Dark attack on all enemies & greatly recovers HP for all allies",
@@ -28615,7 +28615,7 @@
     "lord def": 917,
     "lord hp": 3772,
     "lord rec": 689,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 4
   },
   "Hellborn Dilias": {
@@ -28732,7 +28732,7 @@
     "lord def": 1263,
     "lord hp": 5344,
     "lord rec": 1059,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 6,
     "sbb": {
       "desc": "10 combo powerful Dark attack on all enemies & probable Curse effect",
@@ -28916,7 +28916,7 @@
     "lord def": 780,
     "lord hp": 2305,
     "lord rec": 739,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 2
   },
   "Hero Alma": {
@@ -29020,7 +29020,7 @@
     "lord def": 1023,
     "lord hp": 3477,
     "lord rec": 1218,
-    "max bc generated": 5,
+    "max bc generated": 15,
     "rarity": 4
   },
   "High Dancer May": {
@@ -29113,7 +29113,7 @@
     "lord def": 648,
     "lord hp": 2070,
     "lord rec": 675,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 2
   },
   "High Elf": {
@@ -29216,7 +29216,7 @@
     "lord def": 1283,
     "lord hp": 3975,
     "lord rec": 1050,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 4
   },
   "High Roller Zeul": {
@@ -29327,7 +29327,7 @@
     "lord def": 1010,
     "lord hp": 3756,
     "lord rec": 765,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Hobgoblin": {
@@ -29438,7 +29438,7 @@
     "lord def": 669,
     "lord hp": 3427,
     "lord rec": 463,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Holy Arms Douglas": {
@@ -29832,7 +29832,7 @@
     "lord def": 1782,
     "lord hp": 5999,
     "lord rec": 1443,
-    "max bc generated": 10,
+    "max bc generated": 20,
     "rarity": 6,
     "sbb": {
       "desc": "15 combo powerful Light attack on all enemies & probable Paralysis effect",
@@ -30036,7 +30036,7 @@
     "lord def": 1603,
     "lord hp": 5272,
     "lord rec": 1010,
-    "max bc generated": 5,
+    "max bc generated": 15,
     "rarity": 6,
     "sbb": {
       "desc": "10 combo Earth elemental attack on all enemies & great boost to all allies' Def for 3 turns",
@@ -30249,7 +30249,7 @@
     "lord def": 1578,
     "lord hp": 3880,
     "lord rec": 918,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 5
   },
   "Holy Flame Vargas": {
@@ -30360,7 +30360,7 @@
     "lord def": 1456,
     "lord hp": 5313,
     "lord rec": 1376,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 6,
     "sbb": {
       "desc": "10 combo powerful Fire attack on all enemies & great boost to all allies' Atk for 3 turns",
@@ -30579,7 +30579,7 @@
     "lord def": 1674,
     "lord hp": 6211,
     "lord rec": 1241,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 6,
     "sbb": {
       "desc": "10 combo powerful Light attack on all enemies & large boost to HC drop rate",
@@ -30779,7 +30779,7 @@
     "lord def": 1351,
     "lord hp": 5097,
     "lord rec": 1701,
-    "max bc generated": 6,
+    "max bc generated": 18,
     "rarity": 6,
     "sbb": {
       "desc": "12 combo Water Elemental attack on all enemies & gradual recovery to all allies' HP for 3 turns",
@@ -31002,7 +31002,7 @@
     "lord def": 1104,
     "lord hp": 3014,
     "lord rec": 1104,
-    "max bc generated": 2,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Holy Knight Will": {
@@ -31104,7 +31104,7 @@
     "lord def": 1183,
     "lord hp": 4356,
     "lord rec": 702,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 4
   },
   "Holy Light Atro": {
@@ -31212,7 +31212,7 @@
     "lord def": 1605,
     "lord hp": 5035,
     "lord rec": 1605,
-    "max bc generated": 4,
+    "max bc generated": 16,
     "rarity": 6,
     "sbb": {
       "desc": "9 combo Light elemental attack on all enemies & boost to all allies' Atk and Def for 3 turns",
@@ -31436,7 +31436,7 @@
     "lord def": 931,
     "lord hp": 3160,
     "lord rec": 1253,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 3
   },
   "Holy Master Aem": {
@@ -31540,7 +31540,7 @@
     "lord def": 1000,
     "lord hp": 5167,
     "lord rec": 1014,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 5
   },
   "Holy Queen Luna": {
@@ -31640,7 +31640,7 @@
     "lord def": 1290,
     "lord hp": 2840,
     "lord rec": 634,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Holy Shock Emilia": {
@@ -31767,7 +31767,7 @@
     "lord def": 1582,
     "lord hp": 5749,
     "lord rec": 1582,
-    "max bc generated": 10,
+    "max bc generated": 20,
     "rarity": 6,
     "sbb": {
       "desc": "13 combo powerful Thunder attack on all enemies & probable Paralysis and Weak effect",
@@ -32002,7 +32002,7 @@
     "lord def": 1105,
     "lord hp": 3745,
     "lord rec": 675,
-    "max bc generated": 10,
+    "max bc generated": 20,
     "rarity": 4
   },
   "Holy Thunder Eze": {
@@ -32109,7 +32109,7 @@
     "lord def": 1230,
     "lord hp": 5460,
     "lord rec": 971,
-    "max bc generated": 3,
+    "max bc generated": 15,
     "rarity": 6,
     "sbb": {
       "desc": "10 combo Thunder elemental attack on all enemies & great boost to all allies' Atk for 3 turns",
@@ -32340,7 +32340,7 @@
     "lord def": 1654,
     "lord hp": 5480,
     "lord rec": 1577,
-    "max bc generated": 7,
+    "max bc generated": 21,
     "rarity": 5
   },
   "Homusubi": {
@@ -32466,7 +32466,7 @@
     "lord def": 1202,
     "lord hp": 4705,
     "lord rec": 1144,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 4
   },
   "Horseman Sodis": {
@@ -32590,7 +32590,7 @@
     "lord def": 1363,
     "lord hp": 4576,
     "lord rec": 1116,
-    "max bc generated": 5,
+    "max bc generated": 15,
     "rarity": 4
   },
   "Hot Chef Lancia": {
@@ -32710,7 +32710,7 @@
     "lord def": 1148,
     "lord hp": 4097,
     "lord rec": 1534,
-    "max bc generated": 2,
+    "max bc generated": 6,
     "rarity": 4
   },
   "Hot Rocket Cayena": {
@@ -32822,7 +32822,7 @@
     "lord def": 1230,
     "lord hp": 4250,
     "lord rec": 1100,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 4
   },
   "Hrungnir": {
@@ -32932,7 +32932,7 @@
     "lord def": 990,
     "lord hp": 2852,
     "lord rec": 520,
-    "max bc generated": 2,
+    "max bc generated": 4,
     "rarity": 3
   },
   "Ice Apostle Tiara": {
@@ -33076,7 +33076,7 @@
     "lord def": 1354,
     "lord hp": 4867,
     "lord rec": 2055,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 5
   },
   "Ice Fortress Oulu": {
@@ -33165,7 +33165,7 @@
     "lord def": 1959,
     "lord hp": 6397,
     "lord rec": 1421,
-    "max bc generated": 8,
+    "max bc generated": 16,
     "rarity": 6,
     "sbb": {
       "desc": "Boosts Def and reduces damage taken by half for 1 turn",
@@ -33358,7 +33358,7 @@
     "lord def": 1127,
     "lord hp": 3815,
     "lord rec": 1461,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 5
   },
   "Ice Keep Copra": {
@@ -33441,7 +33441,7 @@
     "lord def": 1434,
     "lord hp": 4771,
     "lord rec": 809,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Ice Knight Sergio": {
@@ -33548,7 +33548,7 @@
     "lord def": 1307,
     "lord hp": 5050,
     "lord rec": 1376,
-    "max bc generated": 7,
+    "max bc generated": 21,
     "rarity": 5
   },
   "Ice Mage Dean": {
@@ -33653,7 +33653,7 @@
     "lord def": 1274,
     "lord hp": 4470,
     "lord rec": 1350,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 4
   },
   "Ice Master Dean": {
@@ -33767,7 +33767,7 @@
     "lord def": 1642,
     "lord hp": 5756,
     "lord rec": 1761,
-    "max bc generated": 8,
+    "max bc generated": 16,
     "rarity": 6,
     "sbb": {
       "desc": "Greatly recovers HP & removes all status ailments for all allies",
@@ -33948,7 +33948,7 @@
     "lord def": 901,
     "lord hp": 3055,
     "lord rec": 1195,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 4
   },
   "Ice Ruler Sergio": {
@@ -34052,7 +34052,7 @@
     "lord def": 1064,
     "lord hp": 4099,
     "lord rec": 1068,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 4
   },
   "Ice Selena": {
@@ -34154,7 +34154,7 @@
     "lord def": 734,
     "lord hp": 2442,
     "lord rec": 825,
-    "max bc generated": 2,
+    "max bc generated": 4,
     "rarity": 3
   },
   "Ice Tower Tesla": {
@@ -34238,7 +34238,7 @@
     "lord def": 1715,
     "lord hp": 5688,
     "lord rec": 980,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 5
   },
   "Ice Warrior Karl": {
@@ -34346,7 +34346,7 @@
     "lord def": 1523,
     "lord hp": 5323,
     "lord rec": 1389,
-    "max bc generated": 6,
+    "max bc generated": 18,
     "rarity": 5
   },
   "Ice Wizard Dean": {
@@ -34453,7 +34453,7 @@
     "lord def": 1424,
     "lord hp": 5102,
     "lord rec": 1652,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 5
   },
   "Ifrit": {
@@ -34547,7 +34547,7 @@
     "lord def": 884,
     "lord hp": 2858,
     "lord rec": 502,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 3
   },
   "Imp": {
@@ -34631,7 +34631,7 @@
     "lord def": 325,
     "lord hp": 2125,
     "lord rec": 190,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 2
   },
   "Impenetrable Darvan": {
@@ -34783,7 +34783,7 @@
     "lord def": 1789,
     "lord hp": 6291,
     "lord rec": 1564,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 6,
     "sbb": {
       "desc": "14 combo Earth elemental attack on single enemy, probable Injury and Paralysis effect & Water element added to attack for 3 turns",
@@ -35018,7 +35018,7 @@
     "lord def": 585,
     "lord hp": 2722,
     "lord rec": 396,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 3
   },
   "Inferno Princess Dia": {
@@ -35188,7 +35188,7 @@
     "lord def": 1433,
     "lord hp": 5643,
     "lord rec": 1948,
-    "max bc generated": 10,
+    "max bc generated": 20,
     "rarity": 6,
     "sbb": {
       "desc": "16 combo powerful Fire attack on all enemies & adds Thunder element to attack and boosts BC production for 3 turns",
@@ -35459,7 +35459,7 @@
     "lord def": 1774,
     "lord hp": 5844,
     "lord rec": 1471,
-    "max bc generated": 9,
+    "max bc generated": 27,
     "rarity": 6,
     "sbb": {
       "desc": "16 combo Dark elemental attack on all enemies & own Def decreased by half, plus enormous boost to Atk for 3 turns",
@@ -35692,7 +35692,7 @@
     "lord def": 786,
     "lord hp": 3417,
     "lord rec": 1600,
-    "max bc generated": 2,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Iron Magress": {
@@ -35781,7 +35781,7 @@
     "lord def": 795,
     "lord hp": 2775,
     "lord rec": 216,
-    "max bc generated": 1,
+    "max bc generated": 4,
     "rarity": 2
   },
   "Iron Shield Darvan": {
@@ -35924,7 +35924,7 @@
     "lord def": 1271,
     "lord hp": 4331,
     "lord rec": 1105,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Ivy Goddess Nalmika": {
@@ -36101,7 +36101,7 @@
     "lord def": 1732,
     "lord hp": 6054,
     "lord rec": 1835,
-    "max bc generated": 8,
+    "max bc generated": 16,
     "rarity": 6,
     "sbb": {
       "desc": "14 combo powerful Earth attack on single enemy & chance of inflicting a random status ailment ",
@@ -36418,7 +36418,7 @@
     "lord def": 1490,
     "lord hp": 5184,
     "lord rec": 1576,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 5
   },
   "Jewel Ghost": {
@@ -36436,7 +36436,7 @@
     "lord def": 123,
     "lord hp": 1300,
     "lord rec": 123,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 2
   },
   "Jewel God": {
@@ -36454,7 +36454,7 @@
     "lord def": 123,
     "lord hp": 2300,
     "lord rec": 123,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 4
   },
   "Jewel King": {
@@ -36472,7 +36472,7 @@
     "lord def": 123,
     "lord hp": 1800,
     "lord rec": 123,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 3
   },
   "Kagutsuchi": {
@@ -36602,7 +36602,7 @@
     "lord def": 1421,
     "lord hp": 5541,
     "lord rec": 1372,
-    "max bc generated": 8,
+    "max bc generated": 16,
     "rarity": 5
   },
   "Kajah": {
@@ -36715,7 +36715,7 @@
     "lord def": 1243,
     "lord hp": 4272,
     "lord rec": 966,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Keymaster Gilnea": {
@@ -36853,7 +36853,7 @@
     "lord def": 1100,
     "lord hp": 4650,
     "lord rec": 1600,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Kikuri": {
@@ -36970,7 +36970,7 @@
     "lord def": 938,
     "lord hp": 3424,
     "lord rec": 1071,
-    "max bc generated": 6,
+    "max bc generated": 18,
     "rarity": 3
   },
   "King Behemoth": {
@@ -37068,7 +37068,7 @@
     "lord def": 1297,
     "lord hp": 4304,
     "lord rec": 743,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 4
   },
   "King Burny": {
@@ -37163,7 +37163,7 @@
     "lord def": 629,
     "lord hp": 2268,
     "lord rec": 533,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 2
   },
   "King Gloomy": {
@@ -37258,7 +37258,7 @@
     "lord def": 520,
     "lord hp": 2018,
     "lord rec": 520,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 2
   },
   "King Glowy": {
@@ -37353,7 +37353,7 @@
     "lord def": 870,
     "lord hp": 2207,
     "lord rec": 665,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 2
   },
   "King Mossy": {
@@ -37448,7 +37448,7 @@
     "lord def": 787,
     "lord hp": 2425,
     "lord rec": 551,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 2
   },
   "King Sparky": {
@@ -37543,7 +37543,7 @@
     "lord def": 629,
     "lord hp": 2268,
     "lord rec": 533,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 2
   },
   "King Squirty": {
@@ -37638,7 +37638,7 @@
     "lord def": 672,
     "lord hp": 2244,
     "lord rec": 734,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 2
   },
   "Knight Aem": {
@@ -37739,7 +37739,7 @@
     "lord def": 619,
     "lord hp": 3345,
     "lord rec": 645,
-    "max bc generated": 2,
+    "max bc generated": 4,
     "rarity": 3
   },
   "Knight Agni": {
@@ -37847,7 +37847,7 @@
     "lord def": 726,
     "lord hp": 3720,
     "lord rec": 490,
-    "max bc generated": 8,
+    "max bc generated": 16,
     "rarity": 3
   },
   "Knight Atro": {
@@ -37946,7 +37946,7 @@
     "lord def": 910,
     "lord hp": 2397,
     "lord rec": 910,
-    "max bc generated": 1,
+    "max bc generated": 4,
     "rarity": 3
   },
   "Knight Sergio": {
@@ -38045,7 +38045,7 @@
     "lord def": 816,
     "lord hp": 3375,
     "lord rec": 870,
-    "max bc generated": 2,
+    "max bc generated": 4,
     "rarity": 3
   },
   "Knight Will": {
@@ -38143,7 +38143,7 @@
     "lord def": 938,
     "lord hp": 3490,
     "lord rec": 475,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 3
   },
   "Knight Zephu": {
@@ -38254,7 +38254,7 @@
     "lord def": 660,
     "lord hp": 3435,
     "lord rec": 419,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 3
   },
   "Lancia": {
@@ -38374,7 +38374,7 @@
     "lord def": 880,
     "lord hp": 3170,
     "lord rec": 1241,
-    "max bc generated": 2,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Lava": {
@@ -38476,7 +38476,7 @@
     "lord def": 898,
     "lord hp": 3100,
     "lord rec": 850,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Lava Phoenix": {
@@ -38578,7 +38578,7 @@
     "lord def": 1320,
     "lord hp": 4202,
     "lord rec": 810,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Legatus Melchio": {
@@ -38700,7 +38700,7 @@
     "lord def": 1811,
     "lord hp": 5511,
     "lord rec": 1811,
-    "max bc generated": 13,
+    "max bc generated": 39,
     "rarity": 6,
     "sbb": {
       "desc": "15 combo Fire, Water, Earth, Lightning, and Light elemental attack on all enemies & negates all status ailments and adds Light element to attack for 3 turns",
@@ -38992,7 +38992,7 @@
     "lord def": 1488,
     "lord hp": 4085,
     "lord rec": 1077,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 5
   },
   "Legion": {
@@ -39097,7 +39097,7 @@
     "lord def": 1404,
     "lord hp": 4637,
     "lord rec": 1409,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 5
   },
   "Legionary Melchio": {
@@ -39213,7 +39213,7 @@
     "lord def": 1280,
     "lord hp": 4111,
     "lord rec": 1280,
-    "max bc generated": 8,
+    "max bc generated": 24,
     "rarity": 4
   },
   "Legnaura": {
@@ -39317,7 +39317,7 @@
     "lord def": 1102,
     "lord hp": 3163,
     "lord rec": 1118,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 4
   },
   "Legtos": {
@@ -39420,7 +39420,7 @@
     "lord def": 924,
     "lord hp": 2380,
     "lord rec": 1064,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Lemenara": {
@@ -39525,7 +39525,7 @@
     "lord def": 1512,
     "lord hp": 4755,
     "lord rec": 1424,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 5
   },
   "Lemia": {
@@ -39635,7 +39635,7 @@
     "lord def": 840,
     "lord hp": 3100,
     "lord rec": 1080,
-    "max bc generated": 3,
+    "max bc generated": 9,
     "rarity": 3
   },
   "Leorone": {
@@ -39750,7 +39750,7 @@
     "lord def": 1711,
     "lord hp": 5944,
     "lord rec": 2000,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 6,
     "sbb": {
       "desc": "10 combo powerful Light attack on all enemies & great boost to Atk, Def, and Rec for all allies",
@@ -39972,7 +39972,7 @@
     "lord def": 1049,
     "lord hp": 3179,
     "lord rec": 601,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 3
   },
   "Leviathan": {
@@ -40071,7 +40071,7 @@
     "lord def": 1094,
     "lord hp": 3240,
     "lord rec": 513,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Lich": {
@@ -40173,7 +40173,7 @@
     "lord def": 1011,
     "lord hp": 3855,
     "lord rec": 1013,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 4
   },
   "Light Blade Alyut": {
@@ -40292,7 +40292,7 @@
     "lord def": 1411,
     "lord hp": 4373,
     "lord rec": 1264,
-    "max bc generated": 6,
+    "max bc generated": 18,
     "rarity": 4
   },
   "Light Bulb": {
@@ -40314,7 +40314,7 @@
     "lord def": 710,
     "lord hp": 2500,
     "lord rec": 250,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Light Crystal": {
@@ -40335,7 +40335,7 @@
     "lord def": 550,
     "lord hp": 3200,
     "lord rec": 550,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 5
   },
   "Light Ghost": {
@@ -40353,7 +40353,7 @@
     "lord def": 125,
     "lord hp": 950,
     "lord rec": 125,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 3
   },
   "Light God": {
@@ -40373,7 +40373,7 @@
     "lord def": 125,
     "lord hp": 1850,
     "lord rec": 125,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Light Idol": {
@@ -40395,7 +40395,7 @@
     "lord def": 500,
     "lord hp": 2300,
     "lord rec": 100,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Light King": {
@@ -40414,7 +40414,7 @@
     "lord def": 125,
     "lord hp": 1400,
     "lord rec": 125,
-    "max bc generated": 2,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Light Lord Mimir": {
@@ -40507,7 +40507,7 @@
     "lord def": 765,
     "lord hp": 2460,
     "lord rec": 837,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 2
   },
   "Light Nymph": {
@@ -40527,7 +40527,7 @@
     "lord def": 300,
     "lord hp": 1100,
     "lord rec": 300,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 1
   },
   "Light Pot": {
@@ -40549,7 +40549,7 @@
     "lord def": 500,
     "lord hp": 2800,
     "lord rec": 400,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Light Spirit": {
@@ -40571,7 +40571,7 @@
     "lord def": 400,
     "lord hp": 1800,
     "lord rec": 200,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 2
   },
   "Light Totem": {
@@ -40592,7 +40592,7 @@
     "lord def": 700,
     "lord hp": 3300,
     "lord rec": 50,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Lightning Sage Bran": {
@@ -40743,7 +40743,7 @@
     "lord def": 1519,
     "lord hp": 4728,
     "lord rec": 1655,
-    "max bc generated": 7,
+    "max bc generated": 21,
     "rarity": 5
   },
   "Lilin": {
@@ -40837,7 +40837,7 @@
     "lord def": 532,
     "lord hp": 2005,
     "lord rec": 540,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 2
   },
   "Lizard Man": {
@@ -40950,7 +40950,7 @@
     "lord def": 857,
     "lord hp": 2971,
     "lord rec": 808,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 3
   },
   "Loch": {
@@ -41053,7 +41053,7 @@
     "lord def": 988,
     "lord hp": 3660,
     "lord rec": 1105,
-    "max bc generated": 3,
+    "max bc generated": 9,
     "rarity": 3
   },
   "Loch Ness": {
@@ -41154,7 +41154,7 @@
     "lord def": 1354,
     "lord hp": 4125,
     "lord rec": 783,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Lorand": {
@@ -41275,7 +41275,7 @@
     "lord def": 702,
     "lord hp": 3170,
     "lord rec": 901,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Lotus Axe Michele": {
@@ -41416,7 +41416,7 @@
     "lord def": 1210,
     "lord hp": 4804,
     "lord rec": 1582,
-    "max bc generated": 12,
+    "max bc generated": 24,
     "rarity": 5
   },
   "Lubradine": {
@@ -41529,7 +41529,7 @@
     "lord def": 1470,
     "lord hp": 5294,
     "lord rec": 1764,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 5
   },
   "Lugina": {
@@ -41636,7 +41636,7 @@
     "lord def": 1110,
     "lord hp": 4650,
     "lord rec": 950,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 4
   },
   "Luna": {
@@ -41732,7 +41732,7 @@
     "lord def": 855,
     "lord hp": 1829,
     "lord rec": 270,
-    "max bc generated": 2,
+    "max bc generated": 4,
     "rarity": 2
   },
   "Luther": {
@@ -41854,7 +41854,7 @@
     "lord def": 1190,
     "lord hp": 4255,
     "lord rec": 1190,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Mad God Zebra": {
@@ -41965,7 +41965,7 @@
     "lord def": 973,
     "lord hp": 4104,
     "lord rec": 1430,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 5
   },
   "Madia": {
@@ -42115,7 +42115,7 @@
     "lord def": 1232,
     "lord hp": 3951,
     "lord rec": 950,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 4
   },
   "Magic Riffs Eric": {
@@ -42279,7 +42279,7 @@
     "lord def": 1257,
     "lord hp": 4239,
     "lord rec": 1229,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 4
   },
   "Magician Lily": {
@@ -42392,7 +42392,7 @@
     "lord def": 630,
     "lord hp": 2315,
     "lord rec": 672,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 2
   },
   "Magistra Lira": {
@@ -42504,7 +42504,7 @@
     "lord def": 1568,
     "lord hp": 5198,
     "lord rec": 1568,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 5
   },
   "Magma Knight Agni": {
@@ -42616,7 +42616,7 @@
     "lord def": 1202,
     "lord hp": 5343,
     "lord rec": 961,
-    "max bc generated": 10,
+    "max bc generated": 20,
     "rarity": 5
   },
   "Maiden Bayley": {
@@ -42708,7 +42708,7 @@
     "lord def": 967,
     "lord hp": 3143,
     "lord rec": 1150,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Maiden Cayena": {
@@ -42809,7 +42809,7 @@
     "lord def": 940,
     "lord hp": 3280,
     "lord rec": 950,
-    "max bc generated": 8,
+    "max bc generated": 16,
     "rarity": 3
   },
   "Maiden Fennia": {
@@ -42899,7 +42899,7 @@
     "lord def": 1007,
     "lord hp": 2880,
     "lord rec": 1228,
-    "max bc generated": 2,
+    "max bc generated": 4,
     "rarity": 3
   },
   "Maiden Lico": {
@@ -42994,7 +42994,7 @@
     "lord def": 898,
     "lord hp": 3250,
     "lord rec": 912,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Maiden Serin": {
@@ -43102,7 +43102,7 @@
     "lord def": 1015,
     "lord hp": 3012,
     "lord rec": 1112,
-    "max bc generated": 11,
+    "max bc generated": 22,
     "rarity": 3
   },
   "Maiden Vanila": {
@@ -43229,7 +43229,7 @@
     "lord def": 960,
     "lord hp": 3250,
     "lord rec": 960,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 3
   },
   "Malnaplis": {
@@ -43332,7 +43332,7 @@
     "lord def": 1552,
     "lord hp": 4900,
     "lord rec": 927,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 5
   },
   "Malvan": {
@@ -43427,7 +43427,7 @@
     "lord def": 1067,
     "lord hp": 3649,
     "lord rec": 615,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 4
   },
   "Mandragora": {
@@ -43513,7 +43513,7 @@
     "lord def": 532,
     "lord hp": 1836,
     "lord rec": 270,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 1
   },
   "Marksman Lario": {
@@ -43611,7 +43611,7 @@
     "lord def": 801,
     "lord hp": 3515,
     "lord rec": 1064,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Master Lorand": {
@@ -43736,7 +43736,7 @@
     "lord def": 1140,
     "lord hp": 4983,
     "lord rec": 1334,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 5
   },
   "Mech Arms Grybe": {
@@ -43850,7 +43850,7 @@
     "lord def": 1167,
     "lord hp": 4333,
     "lord rec": 1222,
-    "max bc generated": 5,
+    "max bc generated": 15,
     "rarity": 4
   },
   "Mech Cannon Grybe": {
@@ -43967,7 +43967,7 @@
     "lord def": 1312,
     "lord hp": 5369,
     "lord rec": 1496,
-    "max bc generated": 6,
+    "max bc generated": 18,
     "rarity": 5
   },
   "Mech God Grybe": {
@@ -44094,7 +44094,7 @@
     "lord def": 1484,
     "lord hp": 6043,
     "lord rec": 1721,
-    "max bc generated": 10,
+    "max bc generated": 30,
     "rarity": 6,
     "sbb": {
       "desc": "15 combo powerful Thunder attack on all enemies, probable Weak effect & boost to Atk for Thunder types",
@@ -44318,7 +44318,7 @@
     "lord def": 840,
     "lord hp": 2698,
     "lord rec": 390,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 2
   },
   "Meltia": {
@@ -44422,7 +44422,7 @@
     "lord def": 1555,
     "lord hp": 4972,
     "lord rec": 1151,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 5
   },
   "Memetes": {
@@ -44531,7 +44531,7 @@
     "lord def": 700,
     "lord hp": 2876,
     "lord rec": 434,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Merman": {
@@ -44634,7 +44634,7 @@
     "lord def": 462,
     "lord hp": 1735,
     "lord rec": 312,
-    "max bc generated": 2,
+    "max bc generated": 4,
     "rarity": 1
   },
   "Metal Ghost": {
@@ -44652,7 +44652,7 @@
     "lord def": 123,
     "lord hp": 1000,
     "lord rec": 123,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 3
   },
   "Metal God": {
@@ -44672,7 +44672,7 @@
     "lord def": 123,
     "lord hp": 2000,
     "lord rec": 123,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Metal King": {
@@ -44691,7 +44691,7 @@
     "lord def": 123,
     "lord hp": 1500,
     "lord rec": 123,
-    "max bc generated": 2,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Metal Mimic": {
@@ -44709,7 +44709,7 @@
     "lord def": 9999,
     "lord hp": 20,
     "lord rec": 1,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 5
   },
   "Mifune": {
@@ -44805,7 +44805,7 @@
     "lord def": 305,
     "lord hp": 1850,
     "lord rec": 400,
-    "max bc generated": 2,
+    "max bc generated": 4,
     "rarity": 2
   },
   "Mimic": {
@@ -44823,7 +44823,7 @@
     "lord def": 666,
     "lord hp": 1188,
     "lord rec": 666,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 3
   },
   "Minotaur": {
@@ -44913,7 +44913,7 @@
     "lord def": 393,
     "lord hp": 2680,
     "lord rec": 190,
-    "max bc generated": 1,
+    "max bc generated": 4,
     "rarity": 2
   },
   "Miracle Bulb": {
@@ -44939,7 +44939,7 @@
     "lord def": 650,
     "lord hp": 2700,
     "lord rec": 200,
-    "max bc generated": 9,
+    "max bc generated": 27,
     "rarity": 3
   },
   "Miracle Totem": {
@@ -44961,7 +44961,7 @@
     "lord def": 1000,
     "lord hp": 5000,
     "lord rec": 1000,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 5
   },
   "Mossy": {
@@ -45050,7 +45050,7 @@
     "lord def": 501,
     "lord hp": 1745,
     "lord rec": 286,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 1
   },
   "Mother Earth Edea": {
@@ -45181,7 +45181,7 @@
     "lord def": 1656,
     "lord hp": 5016,
     "lord rec": 1404,
-    "max bc generated": 8,
+    "max bc generated": 16,
     "rarity": 5
   },
   "Mother Snow Stya": {
@@ -45296,7 +45296,7 @@
     "lord def": 1175,
     "lord hp": 4253,
     "lord rec": 1700,
-    "max bc generated": 11,
+    "max bc generated": 22,
     "rarity": 5
   },
   "Mountaineer Talos": {
@@ -45404,7 +45404,7 @@
     "lord def": 1068,
     "lord hp": 3014,
     "lord rec": 1016,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 3
   },
   "Nalmika": {
@@ -45573,7 +45573,7 @@
     "lord def": 1241,
     "lord hp": 4347,
     "lord rec": 1304,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 4
   },
   "Nature God Lance": {
@@ -45678,7 +45678,7 @@
     "lord def": 1378,
     "lord hp": 3894,
     "lord rec": 805,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 5
   },
   "Necromancer Lemia": {
@@ -45791,7 +45791,7 @@
     "lord def": 1056,
     "lord hp": 4020,
     "lord rec": 1320,
-    "max bc generated": 5,
+    "max bc generated": 15,
     "rarity": 4
   },
   "Night Sibyl Madia": {
@@ -45945,7 +45945,7 @@
     "lord def": 1477,
     "lord hp": 4783,
     "lord rec": 1110,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 5
   },
   "Ninja Oboro": {
@@ -46044,7 +46044,7 @@
     "lord def": 624,
     "lord hp": 2259,
     "lord rec": 720,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 2
   },
   "Noble Fist Dilma": {
@@ -46163,7 +46163,7 @@
     "lord def": 1481,
     "lord hp": 6055,
     "lord rec": 2037,
-    "max bc generated": 4,
+    "max bc generated": 20,
     "rarity": 6,
     "sbb": {
       "desc": "2 combo massive Earth attack on all enemies, adds chance of ignoring opponents' Def when attacking for all allies for 2 turns & fully recovers own HP for 3 turns",
@@ -46419,7 +46419,7 @@
     "lord def": 1125,
     "lord hp": 4166,
     "lord rec": 1315,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Nyx": {
@@ -46514,7 +46514,7 @@
     "lord def": 1000,
     "lord hp": 3317,
     "lord rec": 984,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 4
   },
   "Ocypete": {
@@ -46608,7 +46608,7 @@
     "lord def": 753,
     "lord hp": 3941,
     "lord rec": 503,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 3
   },
   "Ogre": {
@@ -46712,7 +46712,7 @@
     "lord def": 715,
     "lord hp": 2771,
     "lord rec": 520,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 3
   },
   "Omega Behemoth": {
@@ -46815,7 +46815,7 @@
     "lord def": 1661,
     "lord hp": 5556,
     "lord rec": 1193,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 6,
     "sbb": {
       "desc": "7 combo powerful Thunder attack on all enemies & boost in Spark damage for 3 turns",
@@ -47001,7 +47001,7 @@
     "lord def": 455,
     "lord hp": 2210,
     "lord rec": 322,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 2
   },
   "Orthos": {
@@ -47102,7 +47102,7 @@
     "lord def": 554,
     "lord hp": 2175,
     "lord rec": 248,
-    "max bc generated": 2,
+    "max bc generated": 4,
     "rarity": 2
   },
   "Paladin Paris": {
@@ -47205,7 +47205,7 @@
     "lord def": 1290,
     "lord hp": 4130,
     "lord rec": 1110,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 4
   },
   "Paula": {
@@ -47351,7 +47351,7 @@
     "lord def": 1138,
     "lord hp": 3689,
     "lord rec": 1256,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Pegasus": {
@@ -47465,7 +47465,7 @@
     "lord def": 865,
     "lord hp": 2820,
     "lord rec": 938,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Phee": {
@@ -47581,7 +47581,7 @@
     "lord def": 1344,
     "lord hp": 4253,
     "lord rec": 1472,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 4
   },
   "Phoenix": {
@@ -47682,7 +47682,7 @@
     "lord def": 1064,
     "lord hp": 3310,
     "lord rec": 532,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Phoenix Reborn": {
@@ -47787,7 +47787,7 @@
     "lord def": 1567,
     "lord hp": 5815,
     "lord rec": 1833,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 6,
     "sbb": {
       "desc": "Gradually recovers a great amount of HP for all allies over 3 turns & 8 combo Fire elemental attack on all enemies",
@@ -47996,7 +47996,7 @@
     "lord def": 700,
     "lord hp": 1876,
     "lord rec": 248,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 2
   },
   "Pirate Verica": {
@@ -48092,7 +48092,7 @@
     "lord def": 532,
     "lord hp": 2561,
     "lord rec": 300,
-    "max bc generated": 2,
+    "max bc generated": 4,
     "rarity": 2
   },
   "Pistol God Heidt": {
@@ -48225,7 +48225,7 @@
     "lord def": 1359,
     "lord hp": 4869,
     "lord rec": 905,
-    "max bc generated": 10,
+    "max bc generated": 20,
     "rarity": 5
   },
   "Pixy King Leore": {
@@ -48344,7 +48344,7 @@
     "lord def": 1049,
     "lord hp": 4946,
     "lord rec": 1348,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 5
   },
   "Pixy Leore": {
@@ -48456,7 +48456,7 @@
     "lord def": 675,
     "lord hp": 3252,
     "lord rec": 930,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 3
   },
   "Pixy Lord Leore": {
@@ -48580,7 +48580,7 @@
     "lord def": 1422,
     "lord hp": 5805,
     "lord rec": 1716,
-    "max bc generated": 9,
+    "max bc generated": 18,
     "rarity": 6,
     "sbb": {
       "desc": "14 combo Earth elemental attack on all enemies, probable Weak effect, and recovers HP for all allies",
@@ -48818,7 +48818,7 @@
     "lord def": 924,
     "lord hp": 4122,
     "lord rec": 1080,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 4
   },
   "Platinum Nekky": {
@@ -48845,7 +48845,7 @@
     "lord def": 1000,
     "lord hp": 4000,
     "lord rec": 1300,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 5
   },
   "Plunderer Verica": {
@@ -48955,7 +48955,7 @@
     "lord def": 800,
     "lord hp": 3155,
     "lord rec": 552,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 3
   },
   "Poet Elton": {
@@ -49058,7 +49058,7 @@
     "lord def": 869,
     "lord hp": 2461,
     "lord rec": 769,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 2
   },
   "Polar Angel Tiara": {
@@ -49201,7 +49201,7 @@
     "lord def": 1198,
     "lord hp": 3914,
     "lord rec": 1788,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Polevik": {
@@ -49293,7 +49293,7 @@
     "lord def": 870,
     "lord hp": 2415,
     "lord rec": 506,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 2
   },
   "Priest Merith": {
@@ -49384,7 +49384,7 @@
     "lord def": 525,
     "lord hp": 1770,
     "lord rec": 602,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 1
   },
   "Priestess Maria": {
@@ -49475,7 +49475,7 @@
     "lord def": 567,
     "lord hp": 2160,
     "lord rec": 870,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 2
   },
   "Princess Emilia": {
@@ -49589,7 +49589,7 @@
     "lord def": 1122,
     "lord hp": 3972,
     "lord rec": 1085,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Princess Estia": {
@@ -49724,7 +49724,7 @@
     "lord def": 1300,
     "lord hp": 4986,
     "lord rec": 1650,
-    "max bc generated": 10,
+    "max bc generated": 20,
     "rarity": 5
   },
   "Princess Lidith": {
@@ -49828,7 +49828,7 @@
     "lord def": 657,
     "lord hp": 3075,
     "lord rec": 1125,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 3
   },
   "Prodigy Themis": {
@@ -49963,7 +49963,7 @@
     "lord def": 1165,
     "lord hp": 4134,
     "lord rec": 1452,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 4
   },
   "Professor Lorand": {
@@ -50086,7 +50086,7 @@
     "lord def": 972,
     "lord hp": 4122,
     "lord rec": 1095,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Pugilist Dilma": {
@@ -50201,7 +50201,7 @@
     "lord def": 877,
     "lord hp": 3981,
     "lord rec": 1422,
-    "max bc generated": 2,
+    "max bc generated": 10,
     "rarity": 4
   },
   "Pyromancer Liza": {
@@ -50295,7 +50295,7 @@
     "lord def": 994,
     "lord hp": 3788,
     "lord rec": 1161,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Quake Fist Nemia": {
@@ -50409,7 +50409,7 @@
     "lord def": 1052,
     "lord hp": 4854,
     "lord rec": 1089,
-    "max bc generated": 6,
+    "max bc generated": 18,
     "rarity": 5
   },
   "Queen Lidith": {
@@ -50517,7 +50517,7 @@
     "lord def": 845,
     "lord hp": 3585,
     "lord rec": 1425,
-    "max bc generated": 8,
+    "max bc generated": 16,
     "rarity": 4
   },
   "Rage Beast Zegar": {
@@ -50627,7 +50627,7 @@
     "lord def": 634,
     "lord hp": 3260,
     "lord rec": 538,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 3
   },
   "Raid Bolt Fennia": {
@@ -50742,7 +50742,7 @@
     "lord def": 1387,
     "lord hp": 5378,
     "lord rec": 1501,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 5
   },
   "Raid Bomb Fennia": {
@@ -50855,7 +50855,7 @@
     "lord def": 1195,
     "lord hp": 3944,
     "lord rec": 1351,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Rakshasa Lord Vishra": {
@@ -50983,7 +50983,7 @@
     "lord def": 1823,
     "lord hp": 5821,
     "lord rec": 1455,
-    "max bc generated": 9,
+    "max bc generated": 18,
     "rarity": 6,
     "sbb": {
       "desc": "13 combo powerful Fire attack on all enemies & chance of BB gauge filling when attacked and increases fill rate for 3 turns",
@@ -51228,7 +51228,7 @@
     "lord def": 1567,
     "lord hp": 4862,
     "lord rec": 1181,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 5
   },
   "Rameldria": {
@@ -51351,7 +51351,7 @@
     "lord def": 1155,
     "lord hp": 4424,
     "lord rec": 850,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 5
   },
   "Ramia": {
@@ -51442,7 +51442,7 @@
     "lord def": 498,
     "lord hp": 2595,
     "lord rec": 338,
-    "max bc generated": 2,
+    "max bc generated": 4,
     "rarity": 2
   },
   "Rantoul": {
@@ -51538,7 +51538,7 @@
     "lord def": 700,
     "lord hp": 1950,
     "lord rec": 900,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 2
   },
   "Ray Sibyl Sola": {
@@ -51692,7 +51692,7 @@
     "lord def": 1484,
     "lord hp": 4701,
     "lord rec": 1600,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 5
   },
   "Rebel Angel Elsel": {
@@ -51816,7 +51816,7 @@
     "lord def": 1519,
     "lord hp": 5392,
     "lord rec": 1568,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 5
   },
   "Red Axe Michele": {
@@ -51955,7 +51955,7 @@
     "lord def": 982,
     "lord hp": 3828,
     "lord rec": 1416,
-    "max bc generated": 10,
+    "max bc generated": 20,
     "rarity": 4
   },
   "Red Blade Farlon": {
@@ -52065,7 +52065,7 @@
     "lord def": 1580,
     "lord hp": 5500,
     "lord rec": 1580,
-    "max bc generated": 7,
+    "max bc generated": 21,
     "rarity": 5
   },
   "Red Shadow Oboro": {
@@ -52170,7 +52170,7 @@
     "lord def": 1186,
     "lord hp": 4615,
     "lord rec": 1371,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 5
   },
   "Red Slash Farlon": {
@@ -52276,7 +52276,7 @@
     "lord def": 1340,
     "lord hp": 4230,
     "lord rec": 1340,
-    "max bc generated": 5,
+    "max bc generated": 15,
     "rarity": 4
   },
   "Red Swordsman Farlon": {
@@ -52388,7 +52388,7 @@
     "lord def": 1800,
     "lord hp": 6202,
     "lord rec": 1800,
-    "max bc generated": 8,
+    "max bc generated": 24,
     "rarity": 6,
     "sbb": {
       "desc": "12 combo Fire elemental attack on all enemies & own Def decreased by half and massive boost to Atk power for 3 turns",
@@ -52618,7 +52618,7 @@
     "lord def": 563,
     "lord hp": 2680,
     "lord rec": 390,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 2
   },
   "Rose Sibyl Paula": {
@@ -52771,7 +52771,7 @@
     "lord def": 1400,
     "lord hp": 4504,
     "lord rec": 1400,
-    "max bc generated": 8,
+    "max bc generated": 16,
     "rarity": 5
   },
   "Royal Dancer May": {
@@ -52864,7 +52864,7 @@
     "lord def": 957,
     "lord hp": 3648,
     "lord rec": 1126,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Royal Elimo": {
@@ -52986,7 +52986,7 @@
     "lord def": 1176,
     "lord hp": 3900,
     "lord rec": 1596,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Royal Guard Paris": {
@@ -53092,7 +53092,7 @@
     "lord def": 1570,
     "lord hp": 5000,
     "lord rec": 1330,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 5
   },
   "Royal Guard Xenon": {
@@ -53221,7 +53221,7 @@
     "lord def": 1225,
     "lord hp": 4125,
     "lord rec": 1090,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 4
   },
   "Ruin Goddess Zellha": {
@@ -53353,7 +53353,7 @@
     "lord def": 1703,
     "lord hp": 6040,
     "lord rec": 1896,
-    "max bc generated": 8,
+    "max bc generated": 16,
     "rarity": 6,
     "sbb": {
       "desc": "30 combo powerful Light attack on all enemies & probable Injury and Weak effect ",
@@ -53598,7 +53598,7 @@
     "lord def": 1474,
     "lord hp": 5070,
     "lord rec": 1612,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 5
   },
   "Ryujin Mifune": {
@@ -53701,7 +53701,7 @@
     "lord def": 928,
     "lord hp": 3682,
     "lord rec": 961,
-    "max bc generated": 5,
+    "max bc generated": 15,
     "rarity": 5
   },
   "Sacred Flame Lava": {
@@ -53816,7 +53816,7 @@
     "lord def": 1581,
     "lord hp": 5689,
     "lord rec": 1508,
-    "max bc generated": 8,
+    "max bc generated": 16,
     "rarity": 6,
     "sbb": {
       "desc": "12 combo powerful Fire attack on all enemies & adds defense ignoring effect to all allies' attack for 2 turns",
@@ -54067,7 +54067,7 @@
     "lord def": 1251,
     "lord hp": 3953,
     "lord rec": 1367,
-    "max bc generated": 6,
+    "max bc generated": 18,
     "rarity": 4
   },
   "Sage Mimir": {
@@ -54158,7 +54158,7 @@
     "lord def": 570,
     "lord hp": 1756,
     "lord rec": 567,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 1
   },
   "Sahuagin": {
@@ -54269,7 +54269,7 @@
     "lord def": 721,
     "lord hp": 2325,
     "lord rec": 680,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 2
   },
   "Saint Maria": {
@@ -54363,7 +54363,7 @@
     "lord def": 942,
     "lord hp": 3464,
     "lord rec": 1126,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 4
   },
   "Salamander": {
@@ -54449,7 +54449,7 @@
     "lord def": 675,
     "lord hp": 2528,
     "lord rec": 270,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 2
   },
   "Samurai Mifune": {
@@ -54547,7 +54547,7 @@
     "lord def": 533,
     "lord hp": 2540,
     "lord rec": 600,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Scar Blade Zelban": {
@@ -54681,7 +54681,7 @@
     "lord def": 1356,
     "lord hp": 4103,
     "lord rec": 1542,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 4
   },
   "Scylla": {
@@ -54791,7 +54791,7 @@
     "lord def": 766,
     "lord hp": 3100,
     "lord rec": 585,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 3
   },
   "Scythe Alice": {
@@ -54896,7 +54896,7 @@
     "lord def": 863,
     "lord hp": 3450,
     "lord rec": 1610,
-    "max bc generated": 3,
+    "max bc generated": 9,
     "rarity": 4
   },
   "Scythe God Alice": {
@@ -55004,7 +55004,7 @@
     "lord def": 1171,
     "lord hp": 3986,
     "lord rec": 1898,
-    "max bc generated": 5,
+    "max bc generated": 15,
     "rarity": 5
   },
   "Sea King Mega": {
@@ -55115,7 +55115,7 @@
     "lord def": 1264,
     "lord hp": 5215,
     "lord rec": 1910,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 6,
     "sbb": {
       "desc": "11 combo powerful Water attack on all enemies & large boost to BC drop rate ",
@@ -55319,7 +55319,7 @@
     "lord def": 950,
     "lord hp": 3701,
     "lord rec": 705,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 4
   },
   "Selena": {
@@ -55410,7 +55410,7 @@
     "lord def": 468,
     "lord hp": 1830,
     "lord rec": 693,
-    "max bc generated": 2,
+    "max bc generated": 4,
     "rarity": 2
   },
   "Shadow Oboro": {
@@ -55513,7 +55513,7 @@
     "lord def": 989,
     "lord hp": 3545,
     "lord rec": 1102,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 4
   },
   "Shida": {
@@ -55617,7 +55617,7 @@
     "lord def": 633,
     "lord hp": 2925,
     "lord rec": 1029,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 3
   },
   "Shock Bow Loch": {
@@ -55722,7 +55722,7 @@
     "lord def": 1296,
     "lord hp": 4500,
     "lord rec": 1275,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Shock Mage Rashil": {
@@ -55844,7 +55844,7 @@
     "lord def": 1268,
     "lord hp": 3849,
     "lord rec": 1343,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Shrine Girl Amul": {
@@ -55949,7 +55949,7 @@
     "lord def": 690,
     "lord hp": 2428,
     "lord rec": 857,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 2
   },
   "Sir Sancus Xenon": {
@@ -56081,7 +56081,7 @@
     "lord def": 1432,
     "lord hp": 5244,
     "lord rec": 1310,
-    "max bc generated": 8,
+    "max bc generated": 16,
     "rarity": 5
   },
   "Siren": {
@@ -56184,7 +56184,7 @@
     "lord def": 1256,
     "lord hp": 4213,
     "lord rec": 780,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 4
   },
   "Skeleton": {
@@ -56284,7 +56284,7 @@
     "lord def": 302,
     "lord hp": 1695,
     "lord rec": 151,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 1
   },
   "Skeleton King": {
@@ -56391,7 +56391,7 @@
     "lord def": 538,
     "lord hp": 2295,
     "lord rec": 377,
-    "max bc generated": 2,
+    "max bc generated": 4,
     "rarity": 2
   },
   "Skull Lord": {
@@ -56503,7 +56503,7 @@
     "lord def": 656,
     "lord hp": 3106,
     "lord rec": 460,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 3
   },
   "Sky Angel Kushra": {
@@ -56624,7 +56624,7 @@
     "lord def": 1276,
     "lord hp": 4459,
     "lord rec": 1306,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 4
   },
   "Sky Angel Vanila": {
@@ -56791,7 +56791,7 @@
     "lord def": 1288,
     "lord hp": 5259,
     "lord rec": 1370,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 5
   },
   "Sky Boss Grafl": {
@@ -56905,7 +56905,7 @@
     "lord def": 952,
     "lord hp": 2700,
     "lord rec": 405,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 3
   },
   "Sky Emperor Grafl": {
@@ -57019,7 +57019,7 @@
     "lord def": 914,
     "lord hp": 3353,
     "lord rec": 1124,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 4
   },
   "Sky Hero Athena": {
@@ -57124,7 +57124,7 @@
     "lord def": 1215,
     "lord hp": 3245,
     "lord rec": 750,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 4
   },
   "Sky King Falma": {
@@ -57230,7 +57230,7 @@
     "lord def": 1020,
     "lord hp": 4025,
     "lord rec": 1095,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 4
   },
   "Sky Knight Falma": {
@@ -57332,7 +57332,7 @@
     "lord def": 770,
     "lord hp": 3450,
     "lord rec": 763,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Sky Legend Falma": {
@@ -57440,7 +57440,7 @@
     "lord def": 1232,
     "lord hp": 4990,
     "lord rec": 1213,
-    "max bc generated": 8,
+    "max bc generated": 16,
     "rarity": 5
   },
   "Sky Mage Rashil": {
@@ -57566,7 +57566,7 @@
     "lord def": 1868,
     "lord hp": 5721,
     "lord rec": 1983,
-    "max bc generated": 7,
+    "max bc generated": 21,
     "rarity": 6,
     "sbb": {
       "desc": "Greatly recovers HP for all allies, boosts critical hit rate for 3 turns, and renders self able to withstand a KO",
@@ -57783,7 +57783,7 @@
     "lord def": 701,
     "lord hp": 2170,
     "lord rec": 190,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 2
   },
   "Sky Queen Vanila": {
@@ -57946,7 +57946,7 @@
     "lord def": 1095,
     "lord hp": 4155,
     "lord rec": 1138,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 4
   },
   "Smith Lord Galant": {
@@ -58046,7 +58046,7 @@
     "lord def": 1483,
     "lord hp": 4380,
     "lord rec": 1011,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 5
   },
   "Snow Blade Stya": {
@@ -58154,7 +58154,7 @@
     "lord def": 689,
     "lord hp": 2430,
     "lord rec": 1022,
-    "max bc generated": 8,
+    "max bc generated": 16,
     "rarity": 3
   },
   "Snow Cub Signas": {
@@ -58266,7 +58266,7 @@
     "lord def": 1275,
     "lord hp": 4473,
     "lord rec": 1000,
-    "max bc generated": 4,
+    "max bc generated": 12,
     "rarity": 4
   },
   "Snow Lion Signas": {
@@ -58380,7 +58380,7 @@
     "lord def": 1365,
     "lord hp": 5680,
     "lord rec": 1100,
-    "max bc generated": 5,
+    "max bc generated": 15,
     "rarity": 5
   },
   "Snow Queen Signas": {
@@ -58500,7 +58500,7 @@
     "lord def": 1533,
     "lord hp": 6373,
     "lord rec": 1432,
-    "max bc generated": 7,
+    "max bc generated": 21,
     "rarity": 6,
     "sbb": {
       "desc": "11 combo powerful Water attack on all enemies, probable Injury effect & boost to Atk for Water types for 3 turns",
@@ -58773,7 +58773,7 @@
     "lord def": 1255,
     "lord hp": 4616,
     "lord rec": 1347,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 5
   },
   "Sola": {
@@ -58923,7 +58923,7 @@
     "lord def": 1239,
     "lord hp": 3807,
     "lord rec": 1392,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 4
   },
   "Sorceress Lily": {
@@ -59022,7 +59022,7 @@
     "lord def": 420,
     "lord hp": 1650,
     "lord rec": 468,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 1
   },
   "Soul Keeper Lemia": {
@@ -59140,7 +59140,7 @@
     "lord def": 1261,
     "lord hp": 4796,
     "lord rec": 1547,
-    "max bc generated": 8,
+    "max bc generated": 24,
     "rarity": 5
   },
   "Soul Vortex Lemia": {
@@ -59263,7 +59263,7 @@
     "lord def": 1600,
     "lord hp": 5677,
     "lord rec": 1799,
-    "max bc generated": 9,
+    "max bc generated": 18,
     "rarity": 6,
     "sbb": {
       "desc": "12 combo Dark elemental attack on all enemies & chance of inflicting a random status ailment",
@@ -59505,7 +59505,7 @@
     "lord def": 640,
     "lord hp": 3309,
     "lord rec": 614,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 3
   },
   "Sparky": {
@@ -59594,7 +59594,7 @@
     "lord def": 367,
     "lord hp": 1628,
     "lord rec": 273,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 1
   },
   "Spear Arms Raydn": {
@@ -59722,7 +59722,7 @@
     "lord def": 1619,
     "lord hp": 5376,
     "lord rec": 1505,
-    "max bc generated": 5,
+    "max bc generated": 15,
     "rarity": 5
   },
   "Spear Fist Raydn": {
@@ -59845,7 +59845,7 @@
     "lord def": 1382,
     "lord hp": 4378,
     "lord rec": 1191,
-    "max bc generated": 3,
+    "max bc generated": 9,
     "rarity": 4
   },
   "Spear King Raydn": {
@@ -59979,7 +59979,7 @@
     "lord def": 1911,
     "lord hp": 6022,
     "lord rec": 1679,
-    "max bc generated": 7,
+    "max bc generated": 21,
     "rarity": 6,
     "sbb": {
       "desc": "14 combo powerful Water attack on all enemies, boost to Spark damage for 3 turns & adds defense ignoring effect to all allies' attack for 2 turns",
@@ -60191,7 +60191,7 @@
     "lord def": 700,
     "lord hp": 1852,
     "lord rec": 700,
-    "max bc generated": 1,
+    "max bc generated": 4,
     "rarity": 2
   },
   "Squirty": {
@@ -60280,7 +60280,7 @@
     "lord def": 392,
     "lord hp": 1596,
     "lord rec": 408,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 1
   },
   "Star King Nekky": {
@@ -60384,7 +60384,7 @@
     "lord def": 1230,
     "lord hp": 4350,
     "lord rec": 1550,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 5
   },
   "Star Prince Nekky": {
@@ -60486,7 +60486,7 @@
     "lord def": 1100,
     "lord hp": 3960,
     "lord rec": 1400,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 4
   },
   "Steel Shield Darvan": {
@@ -60632,7 +60632,7 @@
     "lord def": 1522,
     "lord hp": 5243,
     "lord rec": 1341,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 5
   },
   "Storm Wing Cerise": {
@@ -60791,7 +60791,7 @@
     "lord def": 1220,
     "lord hp": 4650,
     "lord rec": 1000,
-    "max bc generated": 13,
+    "max bc generated": 26,
     "rarity": 4
   },
   "Strategist Weiss": {
@@ -60884,7 +60884,7 @@
     "lord def": 715,
     "lord hp": 3630,
     "lord rec": 1425,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Stya": {
@@ -60986,7 +60986,7 @@
     "lord def": 462,
     "lord hp": 1932,
     "lord rec": 936,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 2
   },
   "Succubus": {
@@ -61080,7 +61080,7 @@
     "lord def": 798,
     "lord hp": 2445,
     "lord rec": 804,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 3
   },
   "Sunshine Luna": {
@@ -61178,7 +61178,7 @@
     "lord def": 1040,
     "lord hp": 2508,
     "lord rec": 502,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Swordswoman Seria": {
@@ -61281,7 +61281,7 @@
     "lord def": 1200,
     "lord hp": 4060,
     "lord rec": 1300,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Sylph": {
@@ -61357,7 +61357,7 @@
     "lord def": 742,
     "lord hp": 1928,
     "lord rec": 405,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 2
   },
   "Taskmaster Lorand": {
@@ -61487,7 +61487,7 @@
     "lord def": 1405,
     "lord hp": 5555,
     "lord rec": 1525,
-    "max bc generated": 6,
+    "max bc generated": 18,
     "rarity": 6,
     "sbb": {
       "desc": "8 combo massive Fire elemental attack on single enemy & greatly boosts Unit's own Atk, Def, and Rec for 3 turns",
@@ -61722,7 +61722,7 @@
     "lord def": 1792,
     "lord hp": 6005,
     "lord rec": 1649,
-    "max bc generated": 9,
+    "max bc generated": 18,
     "rarity": 6,
     "sbb": {
       "desc": "16 combo massive Light attack on single enemy & fills own BB gauge to max",
@@ -61923,7 +61923,7 @@
     "lord def": 1207,
     "lord hp": 5111,
     "lord rec": 2203,
-    "max bc generated": 4,
+    "max bc generated": 16,
     "rarity": 6,
     "sbb": {
       "desc": "8 combo Thunder elemental attack on all enemies, probable Injury effect, and slightly increases BB gauge for 3 turns",
@@ -62131,7 +62131,7 @@
     "lord def": 635,
     "lord hp": 2220,
     "lord rec": 630,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 2
   },
   "Thunder Bulb": {
@@ -62153,7 +62153,7 @@
     "lord def": 720,
     "lord hp": 2400,
     "lord rec": 300,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Thunder Cat Parmi": {
@@ -62273,7 +62273,7 @@
     "lord def": 804,
     "lord hp": 3542,
     "lord rec": 953,
-    "max bc generated": 8,
+    "max bc generated": 16,
     "rarity": 3
   },
   "Thunder Crystal": {
@@ -62294,7 +62294,7 @@
     "lord def": 450,
     "lord hp": 3000,
     "lord rec": 450,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 5
   },
   "Thunder Eze": {
@@ -62392,7 +62392,7 @@
     "lord def": 687,
     "lord hp": 2749,
     "lord rec": 426,
-    "max bc generated": 1,
+    "max bc generated": 4,
     "rarity": 3
   },
   "Thunder Ghost": {
@@ -62410,7 +62410,7 @@
     "lord def": 120,
     "lord hp": 900,
     "lord rec": 120,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 3
   },
   "Thunder God": {
@@ -62430,7 +62430,7 @@
     "lord def": 120,
     "lord hp": 1800,
     "lord rec": 120,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Thunder God Eze": {
@@ -62535,7 +62535,7 @@
     "lord def": 1006,
     "lord hp": 4233,
     "lord rec": 770,
-    "max bc generated": 3,
+    "max bc generated": 12,
     "rarity": 5
   },
   "Thunder Idol": {
@@ -62557,7 +62557,7 @@
     "lord def": 500,
     "lord hp": 2300,
     "lord rec": 100,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Thunder Kick Zeln": {
@@ -62659,7 +62659,7 @@
     "lord def": 780,
     "lord hp": 4021,
     "lord rec": 768,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 4
   },
   "Thunder King": {
@@ -62678,7 +62678,7 @@
     "lord def": 120,
     "lord hp": 1350,
     "lord rec": 120,
-    "max bc generated": 2,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Thunder King Eze": {
@@ -62780,7 +62780,7 @@
     "lord def": 838,
     "lord hp": 3509,
     "lord rec": 565,
-    "max bc generated": 2,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Thunder Nymph": {
@@ -62800,7 +62800,7 @@
     "lord def": 300,
     "lord hp": 1100,
     "lord rec": 300,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 1
   },
   "Thunder Pot": {
@@ -62822,7 +62822,7 @@
     "lord def": 400,
     "lord hp": 2600,
     "lord rec": 300,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Thunder Punt Zeln": {
@@ -62926,7 +62926,7 @@
     "lord def": 1033,
     "lord hp": 4926,
     "lord rec": 1115,
-    "max bc generated": 6,
+    "max bc generated": 24,
     "rarity": 5
   },
   "Thunder Spirit": {
@@ -62948,7 +62948,7 @@
     "lord def": 400,
     "lord hp": 1800,
     "lord rec": 200,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 2
   },
   "Thunder Totem": {
@@ -62969,7 +62969,7 @@
     "lord def": 700,
     "lord hp": 3300,
     "lord rec": 50,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Thunderbird": {
@@ -63078,7 +63078,7 @@
     "lord def": 721,
     "lord hp": 3064,
     "lord rec": 750,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Tilith": {
@@ -63187,7 +63187,7 @@
     "lord def": 1340,
     "lord hp": 4500,
     "lord rec": 1680,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 4
   },
   "Time Lord Claris": {
@@ -63280,7 +63280,7 @@
     "lord def": 1098,
     "lord hp": 3970,
     "lord rec": 1188,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Time Mage Claris": {
@@ -63373,7 +63373,7 @@
     "lord def": 792,
     "lord hp": 2520,
     "lord rec": 784,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 2
   },
   "Tinkerer Elulu": {
@@ -63478,7 +63478,7 @@
     "lord def": 600,
     "lord hp": 2750,
     "lord rec": 1416,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 3
   },
   "Titan Wing Blaze": {
@@ -63616,7 +63616,7 @@
     "lord def": 1345,
     "lord hp": 5360,
     "lord rec": 1298,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 5
   },
   "Titania": {
@@ -63718,7 +63718,7 @@
     "lord def": 634,
     "lord hp": 2414,
     "lord rec": 1050,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 3
   },
   "Traveler Alma": {
@@ -63802,7 +63802,7 @@
     "lord def": 652,
     "lord hp": 2210,
     "lord rec": 705,
-    "max bc generated": 3,
+    "max bc generated": 9,
     "rarity": 2
   },
   "Trent": {
@@ -63885,7 +63885,7 @@
     "lord def": 686,
     "lord hp": 1950,
     "lord rec": 893,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 2
   },
   "Twin Arms Rickel": {
@@ -64032,7 +64032,7 @@
     "lord def": 1325,
     "lord hp": 5565,
     "lord rec": 2238,
-    "max bc generated": 16,
+    "max bc generated": 32,
     "rarity": 6,
     "sbb": {
       "desc": "20 combo massive Water attack on single enemy & probable Paralysis and Poison effect",
@@ -64274,7 +64274,7 @@
     "lord def": 965,
     "lord hp": 4092,
     "lord rec": 1617,
-    "max bc generated": 10,
+    "max bc generated": 20,
     "rarity": 4
   },
   "Twin Gem Rickel": {
@@ -64398,7 +64398,7 @@
     "lord def": 703,
     "lord hp": 3100,
     "lord rec": 1326,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 3
   },
   "Twin Shot Rickel": {
@@ -64538,7 +64538,7 @@
     "lord def": 1150,
     "lord hp": 4972,
     "lord rec": 1950,
-    "max bc generated": 14,
+    "max bc generated": 28,
     "rarity": 5
   },
   "Twins Il & Mina": {
@@ -64642,7 +64642,7 @@
     "lord def": 995,
     "lord hp": 3402,
     "lord rec": 1122,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Tyrant Goddess Phee": {
@@ -64766,7 +64766,7 @@
     "lord def": 1858,
     "lord hp": 5976,
     "lord rec": 2052,
-    "max bc generated": 10,
+    "max bc generated": 20,
     "rarity": 6,
     "sbb": {
       "desc": "15 combo powerful Water attack on all enemies, large boost to HC drop rate & boost to HC drop rate for 3 turns",
@@ -64991,7 +64991,7 @@
     "lord def": 1590,
     "lord hp": 5056,
     "lord rec": 1765,
-    "max bc generated": 8,
+    "max bc generated": 16,
     "rarity": 5
   },
   "Uda": {
@@ -65094,7 +65094,7 @@
     "lord def": 1353,
     "lord hp": 4280,
     "lord rec": 1211,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Ultra Blade Aem": {
@@ -65200,7 +65200,7 @@
     "lord def": 1436,
     "lord hp": 5934,
     "lord rec": 1471,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 6,
     "sbb": {
       "desc": "10 combo powerful Light attack on all enemies & boost to BC drop rate for 3 turns",
@@ -65391,7 +65391,7 @@
     "lord def": 964,
     "lord hp": 3345,
     "lord rec": 480,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Unflinching Themis": {
@@ -65527,7 +65527,7 @@
     "lord def": 1394,
     "lord hp": 4985,
     "lord rec": 1727,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 5
   },
   "Unholy Magress": {
@@ -65635,7 +65635,7 @@
     "lord def": 1659,
     "lord hp": 5942,
     "lord rec": 960,
-    "max bc generated": 4,
+    "max bc generated": 16,
     "rarity": 6,
     "sbb": {
       "desc": "9 combo Dark elemental attack on all enemies & great boost to all allies' Def for 3 turns",
@@ -65847,7 +65847,7 @@
     "lord def": 658,
     "lord hp": 2246,
     "lord rec": 752,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 2
   },
   "Valkyrie": {
@@ -65948,7 +65948,7 @@
     "lord def": 924,
     "lord hp": 2550,
     "lord rec": 450,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 3
   },
   "Vampire": {
@@ -66046,7 +66046,7 @@
     "lord def": 740,
     "lord hp": 3112,
     "lord rec": 825,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Vine Pike Lance": {
@@ -66149,7 +66149,7 @@
     "lord def": 938,
     "lord hp": 2500,
     "lord rec": 455,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Vorpal Wing Cerise": {
@@ -66312,7 +66312,7 @@
     "lord def": 1500,
     "lord hp": 5850,
     "lord rec": 1100,
-    "max bc generated": 15,
+    "max bc generated": 30,
     "rarity": 5
   },
   "War Captain Mega": {
@@ -66415,7 +66415,7 @@
     "lord def": 910,
     "lord hp": 3666,
     "lord rec": 1550,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 4
   },
   "War Demon Vishra": {
@@ -66533,7 +66533,7 @@
     "lord def": 1235,
     "lord hp": 3872,
     "lord rec": 940,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 4
   },
   "War Girl Ophelia": {
@@ -66639,7 +66639,7 @@
     "lord def": 1431,
     "lord hp": 5542,
     "lord rec": 1539,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 5
   },
   "War Queen Ophelia": {
@@ -66751,7 +66751,7 @@
     "lord def": 1601,
     "lord hp": 6248,
     "lord rec": 1722,
-    "max bc generated": 7,
+    "max bc generated": 14,
     "rarity": 6,
     "sbb": {
       "desc": "13 combo Earth elemental attack on all enemies & slightly increases BB gauge for 3 turns",
@@ -66973,7 +66973,7 @@
     "lord def": 1515,
     "lord hp": 5150,
     "lord rec": 1265,
-    "max bc generated": 12,
+    "max bc generated": 24,
     "rarity": 5
   },
   "Warlock Liza": {
@@ -67065,7 +67065,7 @@
     "lord def": 675,
     "lord hp": 2400,
     "lord rec": 696,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 2
   },
   "Warrior Eze": {
@@ -67153,7 +67153,7 @@
     "lord def": 420,
     "lord hp": 2070,
     "lord rec": 210,
-    "max bc generated": 1,
+    "max bc generated": 4,
     "rarity": 2
   },
   "Water Bulb": {
@@ -67175,7 +67175,7 @@
     "lord def": 730,
     "lord hp": 2300,
     "lord rec": 400,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Water Crystal": {
@@ -67196,7 +67196,7 @@
     "lord def": 500,
     "lord hp": 3500,
     "lord rec": 550,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 5
   },
   "Water Ghost": {
@@ -67214,7 +67214,7 @@
     "lord def": 123,
     "lord hp": 1000,
     "lord rec": 125,
-    "max bc generated": 1,
+    "max bc generated": 2,
     "rarity": 3
   },
   "Water God": {
@@ -67234,7 +67234,7 @@
     "lord def": 123,
     "lord hp": 2000,
     "lord rec": 125,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 5
   },
   "Water Idol": {
@@ -67256,7 +67256,7 @@
     "lord def": 500,
     "lord hp": 2300,
     "lord rec": 100,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Water King": {
@@ -67275,7 +67275,7 @@
     "lord def": 123,
     "lord hp": 1500,
     "lord rec": 125,
-    "max bc generated": 2,
+    "max bc generated": 4,
     "rarity": 4
   },
   "Water Nymph": {
@@ -67295,7 +67295,7 @@
     "lord def": 300,
     "lord hp": 1100,
     "lord rec": 300,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 1
   },
   "Water Pot": {
@@ -67317,7 +67317,7 @@
     "lord def": 800,
     "lord hp": 2300,
     "lord rec": 400,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Water Spirit": {
@@ -67339,7 +67339,7 @@
     "lord def": 400,
     "lord hp": 1800,
     "lord rec": 200,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 2
   },
   "Water Totem": {
@@ -67360,7 +67360,7 @@
     "lord def": 700,
     "lord hp": 3300,
     "lord rec": 50,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Wendigo": {
@@ -67451,7 +67451,7 @@
     "lord def": 770,
     "lord hp": 2295,
     "lord rec": 332,
-    "max bc generated": 2,
+    "max bc generated": 4,
     "rarity": 2
   },
   "White Lebra": {
@@ -67563,7 +67563,7 @@
     "lord def": 1233,
     "lord hp": 4408,
     "lord rec": 1525,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Wild Bandit Zaza": {
@@ -67677,7 +67677,7 @@
     "lord def": 1079,
     "lord hp": 3291,
     "lord rec": 556,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 4
   },
   "Wild Cat Parmi": {
@@ -67783,7 +67783,7 @@
     "lord def": 646,
     "lord hp": 2685,
     "lord rec": 657,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 2
   },
   "Wild Slash Bayley": {
@@ -67889,7 +67889,7 @@
     "lord def": 1289,
     "lord hp": 5278,
     "lord rec": 1556,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 5
   },
   "Wise Mage Elimo": {
@@ -68014,7 +68014,7 @@
     "lord def": 1524,
     "lord hp": 5338,
     "lord rec": 2184,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 6,
     "sbb": {
       "desc": "Greatly recovers HP, boosts Def for 3 turns, and decreases damage taken for 1 turn for all allies",
@@ -68218,7 +68218,7 @@
     "lord def": 450,
     "lord hp": 1700,
     "lord rec": 494,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 1
   },
   "World Tree Altro": {
@@ -68321,7 +68321,7 @@
     "lord def": 1380,
     "lord hp": 4274,
     "lord rec": 824,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 4
   },
   "Worldly Themis": {
@@ -68461,7 +68461,7 @@
     "lord def": 1645,
     "lord hp": 5925,
     "lord rec": 2021,
-    "max bc generated": 10,
+    "max bc generated": 20,
     "rarity": 6,
     "sbb": {
       "desc": "Greatly recovers HP for all allies & adds Dark element to attack and boosts Rec for all allies for 3 turns",
@@ -68718,7 +68718,7 @@
     "lord def": 728,
     "lord hp": 2890,
     "lord rec": 453,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 3
   },
   "Xenon": {
@@ -68846,7 +68846,7 @@
     "lord def": 1019,
     "lord hp": 3235,
     "lord rec": 965,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 3
   },
   "Xenon & Estia": {
@@ -69002,7 +69002,7 @@
     "lord def": 1400,
     "lord hp": 5445,
     "lord rec": 1200,
-    "max bc generated": 10,
+    "max bc generated": 20,
     "rarity": 5
   },
   "Xipe Totec": {
@@ -69097,7 +69097,7 @@
     "lord def": 1124,
     "lord hp": 3256,
     "lord rec": 1105,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 4
   },
   "Zahhak": {
@@ -69209,7 +69209,7 @@
     "lord def": 981,
     "lord hp": 3239,
     "lord rec": 660,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 3
   },
   "Zazabis": {
@@ -69323,7 +69323,7 @@
     "lord def": 1373,
     "lord hp": 4775,
     "lord rec": 1358,
-    "max bc generated": 6,
+    "max bc generated": 12,
     "rarity": 5
   },
   "Zele": {
@@ -69471,7 +69471,7 @@
     "lord def": 977,
     "lord hp": 4028,
     "lord rec": 1141,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 4
   },
   "Zellha": {
@@ -69593,7 +69593,7 @@
     "lord def": 1235,
     "lord hp": 4264,
     "lord rec": 1350,
-    "max bc generated": 4,
+    "max bc generated": 8,
     "rarity": 4
   },
   "Zeln": {
@@ -69691,7 +69691,7 @@
     "lord def": 420,
     "lord hp": 2612,
     "lord rec": 420,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 2
   },
   "Zephu": {
@@ -69800,7 +69800,7 @@
     "lord def": 420,
     "lord hp": 2700,
     "lord rec": 198,
-    "max bc generated": 3,
+    "max bc generated": 6,
     "rarity": 2
   },
   "Zeus Bow Loch": {
@@ -69907,7 +69907,7 @@
     "lord def": 1470,
     "lord hp": 5230,
     "lord rec": 1552,
-    "max bc generated": 5,
+    "max bc generated": 10,
     "rarity": 5
   }
 }
