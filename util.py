@@ -58,12 +58,39 @@ def damage_range(atk):
             int(atk + (atk / 25)))
 
 
+def damage_range_bb(unit, skill, bb_level):
+    total_atk = unit['lord atk']
+    modifier = bb_level['bb atk%']
+    modifier += bb_level.get('atk% buff', 0)
+
+    total_atk = total_atk * (1 + float(modifier) / 100)
+    total_atk += bb_level.get('bb flat atk', 0)
+    total_atk = total_atk * (1 + float(bb_level.get('bb dmg%', 0))
+                             / 100)
+    total_atk = total_atk * float(sum(
+        skill.get('hit dmg% distribution', [100]))) / 100
+    total_atk = int(total_atk)
+    return damage_range(total_atk)
+
+
+def dmg_str(limits):
+    return '~'.join(map(str, limits))
+
+
 def not_zero(a):
     return int(a) != 0
 
 
 def bb_gauge(a):
     return int(a) / 100
+
+
+def hits(atk_frames):
+    return len(atk_frames.split(','))
+
+
+def hit_dmg_dist(atk_frames):
+    return [int(hit.split(':')[1]) for hit in atk_frames.split(',')]
 
 
 def parse_imps(args):

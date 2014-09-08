@@ -10,9 +10,6 @@ from braveburst import parse_bb
 
 
 def parse_unit(unit, skills, bbs, leader_skills, ais, dictionary):
-    def hit_dmg_dist(s):
-        return [int(hit.split(':')[1]) for hit in s.split(',')]
-
     def max_bc_gen(s, data):
         return int(s) * data['hits']
 
@@ -20,7 +17,7 @@ def parse_unit(unit, skills, bbs, leader_skills, ais, dictionary):
         return '~'.join(map(str, damage_range(int(s))))
 
     def _parse_bb(bb_id, data):
-        return parse_bb(data, bb_id, skills, bbs, dictionary)
+        return parse_bb(data, skills[bb_id], bbs[bb_id], dictionary)
 
     def parse_ls(ls_id, data):
         return parse_leader_skill(data, leader_skills[ls_id], dictionary)
@@ -36,7 +33,7 @@ def parse_unit(unit, skills, bbs, leader_skills, ais, dictionary):
                    (UNIT_LORD_DEF, 'lord def', int),
                    (UNIT_BASE_REC, 'base rec', int),
                    (UNIT_LORD_REC, 'lord rec', int),
-                   (DMG_FRAME, 'hits', lambda s: len(s.split(','))),
+                   (DMG_FRAME, 'hits', hits),
                    (DMG_FRAME, 'hit dmg% distribution', hit_dmg_dist),
                    (DROP_CHECK_CNT, 'max bc generated', max_bc_gen),
                    (UNIT_LORD_ATK, 'lord damage range', _damage_range),

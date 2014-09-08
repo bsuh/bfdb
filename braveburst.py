@@ -117,53 +117,54 @@ def parse_bb_level(process_types, process_infos):
     return process_data
 
 
-def parse_bb(unit_data, bb_id, skills, bbs, dictionary):
-    data = dict()
+def parse_bb_levels(unit_data, skill_data, skill, bb):
+    skill_level_format = (
+        (1, 'bc cost', bb_gauge),
 
-    skill = skills[bb_id]
-    bb = bbs[bb_id]
+        lambda lvl: parse_bb_level(skill[PROCESS_TYPE].split('@'),
+                                   lvl[2].split('@')),
 
-    data['name'] = dictionary.get(skill[BB_NAME], skill[BB_NAME])
-    data['desc'] = dictionary.get(skill[DESC], skill[DESC])
-    for process_type, atk_frames in zip(skill[PROCESS_TYPE].split('@'),
-                                        skill[DMG_FRAME].split('@')):
-        if process_type in ['1', '14', '29']:
-            data['hits'] = len(atk_frames.split(','))
-            data['hit dmg% distribution'] = [
-                int(hit.split(':')[1]) for hit in atk_frames.split(',')
-            ]
-            data['max bc generated'] = data['hits'] * int(
-                skill[DROP_CHECK_CNT])
+        ([], 'max bc generated',
+         lambda data: data['hits'] * int(skill[DROP_CHECK_CNT]),
+         lambda data: 'hits' in data),
 
-    data['levels'] = []
+        ([], 'lord damage range',
+         lambda data: dmg_str(damage_range_bb(unit_data, skill_data, data)),
+         lambda data: 'bb atk%' in data)
+    )
 
-    levels_info = bb[BB_LEVELS].split('|')
+    return [handle_format(skill_level_format, level_info.split(':'))
+            for level_info in bb[BB_LEVELS].split('|')]
 
-    for level_info in levels_info:
-        level, bc_cost, misc = level_info.split(':')
-        level_data = {'bc cost': int(bc_cost)/100}
-        level_data.update(parse_bb_level(skill[PROCESS_TYPE].split('@'),
-                                         misc.split('@')))
-        if 'hits' in level_data:
-            level_data['max bc generated'] = level_data['hits'] * int(
-                skill[DROP_CHECK_CNT])
 
-        if 'bb atk%' in level_data:
-            total_atk = unit_data['lord atk']
-            modifier = level_data['bb atk%']
-            modifier += level_data.get('atk% buff', 0)
+def parse_bb(unit_data, skill, bb, dictionary):
+    atk_process_types = {'1', '14', '29'}
 
-            total_atk = total_atk * (1 + float(modifier) / 100)
-            total_atk += level_data.get('bb flat atk', 0)
-            total_atk = total_atk * (1 + float(level_data.get('bb dmg%', 0))
-                                     / 100)
-            total_atk = total_atk * float(sum(
-                data.get('hit dmg% distribution', [100]))) / 100
-            total_atk = int(total_atk)
-            level_data['lord damage range'] = '~'.join(
-                map(str, damage_range(total_atk)))
+    def get_skill_atk_frame(process_types, action_frames):
+        for process_type, action_frame in zip(process_types.split('@'),
+                                              action_frames.split('@')):
+            if process_type in atk_process_types:
+                return action_frame
 
-        assert int(level) == len(data['levels']) + 1
-        data['levels'].append(level_data)
+    skill_format = ((BB_NAME, 'name', get_dict_str(dictionary)),
+                    (DESC, 'desc', get_dict_str(dictionary)),
 
-    return data
+                    ([PROCESS_TYPE, DMG_FRAME], 'hits',
+                     lambda p, a: hits(get_skill_atk_frame(p, a)),
+                     lambda p: not set(p.split('@')).isdisjoint(
+                         atk_process_types)),
+
+                    ([PROCESS_TYPE, DMG_FRAME], 'hit dmg% distribution',
+                     lambda p, a: hit_dmg_dist(get_skill_atk_frame(p, a)),
+                     lambda p, a, data: 'hits' in data),
+
+                    (DROP_CHECK_CNT, 'max bc generated',
+                     lambda x, data: data['hits'] * int(x),
+                     lambda x, data: 'hits' in data),
+
+                    ([], 'levels', lambda data: parse_bb_levels(unit_data,
+                                                                data,
+                                                                skill,
+                                                                bb)))
+
+    return handle_format(skill_format, skill)
