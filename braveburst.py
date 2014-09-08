@@ -1,7 +1,7 @@
 from util import *
 
 
-bb_process_format = {
+skill_level_process_format = {
     '1': ((0, 'bb atk%', int, not_zero),
           (1, 'bb flat atk', int, not_zero),
           (2, 'bb crit%', int, not_zero),
@@ -95,34 +95,35 @@ bb_process_format = {
 }
 
 
-def parse_bb_process(process_type, process_info):
-    if process_type in bb_process_format:
-        return handle_format(bb_process_format[process_type],
+def parse_skill_level_process(process_type, process_info):
+    if process_type in skill_level_process_format:
+        return handle_format(skill_level_process_format[process_type],
                              process_info.split(','))
     return {}
 
 
-def parse_bb_level(process_types, process_infos):
-    process_data = {}
+def parse_skill_level_processes(process_types, process_infos):
+    level_data = {}
     for process_type, process_info in zip(process_types, process_infos):
-        bb_data = parse_bb_process(process_type, process_info)
-        if 'elements added' in bb_data and 'elements added' in process_data:
-            process_data['elements added'] += bb_data.pop('elements added')
+        process_data = parse_skill_level_process(process_type,
+                                                 process_info)
+        if 'elements added' in process_data and 'elements added' in level_data:
+            level_data['elements added'] += process_data.pop('elements added')
 
-        if 'bb elements' in bb_data and 'bb elements' in process_data:
-            process_data['bb elements'] += bb_data.pop('bb elements')
+        if 'bb elements' in process_data and 'bb elements' in level_data:
+            level_data['bb elements'] += process_data.pop('bb elements')
 
-        process_data.update(bb_data)
+        level_data.update(process_data)
 
-    return process_data
+    return level_data
 
 
-def parse_bb_levels(unit_data, skill_data, skill, bb):
+def parse_skill_levels(unit_data, skill_data, skill, skill_levels):
     skill_level_format = (
         (1, 'bc cost', bb_gauge),
 
-        lambda lvl: parse_bb_level(skill[PROCESS_TYPE].split('@'),
-                                   lvl[2].split('@')),
+        lambda lvl: parse_skill_level_processes(
+            skill[PROCESS_TYPE].split('@'), lvl[2].split('@')),
 
         ([], 'max bc generated',
          lambda data: data['hits'] * int(skill[DROP_CHECK_CNT]),
@@ -134,10 +135,10 @@ def parse_bb_levels(unit_data, skill_data, skill, bb):
     )
 
     return [handle_format(skill_level_format, level_info.split(':'))
-            for level_info in bb[BB_LEVELS].split('|')]
+            for level_info in skill_levels[SKILL_LEVELS_PROCESSES].split('|')]
 
 
-def parse_bb(unit_data, skill, bb, dictionary):
+def parse_skill(unit_data, skill, skill_levels, dictionary):
     atk_process_types = {'1', '14', '29'}
 
     def get_skill_atk_frame(process_types, action_frames):
@@ -162,9 +163,7 @@ def parse_bb(unit_data, skill, bb, dictionary):
                      lambda x, data: data['hits'] * int(x),
                      lambda x, data: 'hits' in data),
 
-                    ([], 'levels', lambda data: parse_bb_levels(unit_data,
-                                                                data,
-                                                                skill,
-                                                                bb)))
+                    ([], 'levels', lambda data: parse_skill_levels(
+                        unit_data, data, skill, skill_levels)))
 
     return handle_format(skill_format, skill)

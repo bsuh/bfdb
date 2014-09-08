@@ -6,7 +6,7 @@ import json
 import sys
 from util import *
 from leaderskill import parse_leader_skill
-from braveburst import parse_bb
+from braveburst import parse_skill
 
 
 def parse_unit(unit, skills, bbs, leader_skills, ais, dictionary):
@@ -16,8 +16,8 @@ def parse_unit(unit, skills, bbs, leader_skills, ais, dictionary):
     def _damage_range(s):
         return '~'.join(map(str, damage_range(int(s))))
 
-    def _parse_bb(bb_id, data):
-        return parse_bb(data, skills[bb_id], bbs[bb_id], dictionary)
+    def _parse_skill(bb_id, data):
+        return parse_skill(data, skills[bb_id], bbs[bb_id], dictionary)
 
     def parse_ls(ls_id, data):
         return parse_leader_skill(data, leader_skills[ls_id], dictionary)
@@ -39,8 +39,8 @@ def parse_unit(unit, skills, bbs, leader_skills, ais, dictionary):
                    (UNIT_LORD_ATK, 'lord damage range', _damage_range),
                    (UNIT_AI_ID, 'ai', ais.get),
                    (UNIT_IMP, 'imp', lambda s: parse_imps(s.split(':'))),
-                   (BB_ID, 'bb', _parse_bb, not_zero),
-                   (SBB_ID, 'sbb', _parse_bb, not_zero),
+                   (BB_ID, 'bb', _parse_skill, not_zero),
+                   (SBB_ID, 'sbb', _parse_skill, not_zero),
                    (LS_ID, 'leader skill', parse_ls, not_zero))
 
     return handle_format(unit_format, unit)
@@ -82,7 +82,7 @@ if __name__ == '__main__':
         return {obj[id_str]: obj for obj in lst}
 
     skills = key_by_id(jsons['skill'], BB_ID)
-    bbs = key_by_id(jsons['skill level'], BB_ID)
+    skill_levels = key_by_id(jsons['skill level'], BB_ID)
     leader_skills = key_by_id(jsons['leader skill'], LS_ID)
 
     ais = collections.defaultdict(list)
@@ -93,7 +93,7 @@ if __name__ == '__main__':
 
     units_data = {}
     for unit in jsons['unit']:
-        unit_data = parse_unit(unit, skills, bbs, leader_skills,
+        unit_data = parse_unit(unit, skills, skill_levels, leader_skills,
                                ais, jsons['dict'])
         units_data[unit_data['name']] = unit_data
         unit_data.pop('name')
