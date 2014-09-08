@@ -1,48 +1,6 @@
 from util import *
 
 
-def parse_bb_multiple_elem_attack(process_info):
-    elements_added = []
-
-    if int(process_info[0]) != 0:
-        elements_added.append(elements[process_info[0]])
-    if int(process_info[1]) != 0:
-        elements_added.append(elements[process_info[1]])
-    if int(process_info[2]) != 0:
-        elements_added.append(elements[process_info[2]])
-
-    if len(elements_added) != 0:
-        return {'bb elements': elements_added}
-    return {}
-
-
-def parse_bb_element_change(process_info):
-    elements_added = []
-
-    if int(process_info[0]) != 0:
-        elements_added.append(elements[process_info[0]])
-    if int(process_info[1]) != 0:
-        elements_added.append(elements[process_info[1]])
-    if int(process_info[2]) != 0:
-        raise 'Guessed path'
-        elements_added.append(elements[process_info[2]])
-
-    return {'elements added': elements_added,
-            'elements added turns': int(process_info[6])}
-
-
-def parse_bb_heal(process_info):
-    rec_added_1 = 1 + float(process_info[2]) / 100
-    rec_added_2 = rec_added_1 * float(process_info[3]) / 100
-    rec_added = 100 + (rec_added_1 + rec_added_2) * 10
-    return {'rec added% (heal)': rec_added}
-
-
-def parse_bb_regen(process_info):
-    rec_added = (1 + 1 * float(process_info[2]) / 100) / 10
-    return {'rec added% (regen)': rec_added * 100}
-
-
 bb_process_format = {
     '1': ((0, 'bb atk%', int, not_zero),
           (1, 'bb flat atk', int, not_zero),
@@ -53,11 +11,13 @@ bb_process_format = {
 
     '2': ((0, 'heal low', int),
           (1, 'heal high', int),
-          parse_bb_heal),
+          ([2, 3], 'rec added% (heal)',
+           lambda x, y: 100 + ((1 + float(x) / 100) *
+                               (1 + float(y) / 100) * 10))),
 
     '3': ((0, 'gradual heal low', int),
           (1, 'gradual heal high', int),
-          parse_bb_regen,
+          (2, 'rec added% (regen)', lambda x: (1 + float(x) / 100) * 10),
           (3, 'gradual heal turns', int)),
 
     '4': ((0, 'bb bc fill', int, not_zero),
@@ -118,7 +78,8 @@ bb_process_format = {
     '23': ((0, 'spark dmg% buff', int),
            (6, 'buff turns', int)),
 
-    '29': (parse_bb_multiple_elem_attack,
+    '29': (([0, 1, 2], 'bb elements',
+            lambda x, y, z: map(elements.get, filter(not_zero, [x, y, z]))),
            (3, 'bb atk%', int, not_zero),
            (4, 'bb flat atk', int, not_zero),
            (5, 'bb crit%', int, not_zero),
@@ -126,7 +87,9 @@ bb_process_format = {
            (7, 'bb hc%', int, not_zero),
            (8, 'bb dmg%', int, not_zero)),
 
-    '30': (parse_bb_element_change,),
+    '30': (([0, 1, 2], 'elements added',
+            lambda x, y, z: map(elements.get, filter(not_zero, [x, y, z]))),
+           (6, 'elements added turns', int)),
 
     '31': ((0, 'increase bb gauge', bb_gauge),)
 }
@@ -144,10 +107,10 @@ def parse_bb_level(process_types, process_infos):
     for process_type, process_info in zip(process_types, process_infos):
         bb_data = parse_bb_process(process_type, process_info)
         if 'elements added' in bb_data and 'elements added' in process_data:
-            data['elements added'] += bb_data.pop('elements added')
+            process_data['elements added'] += bb_data.pop('elements added')
 
         if 'bb elements' in bb_data and 'bb elements' in process_data:
-            data['bb elements'] += bb_data.pop('bb elements')
+            process_data['bb elements'] += bb_data.pop('bb elements')
 
         process_data.update(bb_data)
 
