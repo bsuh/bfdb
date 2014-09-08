@@ -1,104 +1,107 @@
 #!/usr/bin/python
 
-import json
+import collections
 import glob
+import json
+import sys
 from util import *
 from leaderskill import parse_leader_skill
 from braveburst import parse_bb
 
 
 def parse_unit(unit, skills, bbs, leader_skills, ais, dictionary):
-    data = dict()
+    def get_dict_str(s):
+        return dictionary.get(s, s)
 
-    data['name'] = dictionary.get(unit[UNIT_NAME], unit[UNIT_NAME])
-    data['element'] = elements[unit[UNIT_ELEMENT]]
-    data['rarity'] = int(unit[UNIT_RARITY])
-    data['base hp'] = int(unit[UNIT_BASE_HP])
-    data['lord hp'] = int(unit[UNIT_LORD_HP])
-    data['base atk'] = int(unit[UNIT_BASE_ATK])
-    data['lord atk'] = int(unit[UNIT_LORD_ATK])
-    data['base def'] = int(unit[UNIT_BASE_DEF])
-    data['lord def'] = int(unit[UNIT_LORD_DEF])
-    data['base rec'] = int(unit[UNIT_BASE_REC])
-    data['lord rec'] = int(unit[UNIT_LORD_REC])
-    data['hits'] = len(unit[DMG_FRAME].split(','))
-    data['hit dmg% distribution'] = [
-        int(hit.split(':')[1]) for hit in unit[DMG_FRAME].split(',')
-    ]
-    data['max bc generated'] = data['hits'] * int(skill[DROP_CHECK_CNT])
-    data['lord damage range'] = '~'.join(
-        map(str, damage_range(data['lord atk'])))
-    data['ai'] = ais[unit[UNIT_AI_ID]]
+    def hit_dmg_dist(s):
+        return [int(hit.split(':')[1]) for hit in s.split(',')]
 
-    if UNIT_IMP in unit:
-        data['imp'] = parse_imps(unit[UNIT_IMP].split(':'))
+    def max_bc_gen(s, data):
+        return int(s) * data['hits']
 
-    if unit[BB_ID] != '0':
-        data['bb'] = parse_bb(data, unit[BB_ID], skills, bbs, dictionary)
+    def _damage_range(s):
+        return '~'.join(map(str, damage_range(int(s))))
 
-    if unit[SBB_ID] != '0':
-        data['sbb'] = parse_bb(data, unit[SBB_ID], skills, bbs, dictionary)
+    def _parse_bb(bb_id, data):
+        return parse_bb(data, bb_id, skills, bbs, dictionary)
 
-    if unit[LS_ID] != '0':
-        data['leader skill'] = parse_leader_skill(
-            data, leader_skills[unit[LS_ID]], dictionary)
+    def parse_ls(ls_id, data):
+        return parse_leader_skill(data, leader_skills[ls_id], dictionary)
 
-    return data
+    unit_format = ((UNIT_NAME, 'name', get_dict_str),
+                   (UNIT_ELEMENT, 'element', elements.get),
+                   (UNIT_RARITY, 'rarity', int),
+                   (UNIT_BASE_HP, 'base hp', int),
+                   (UNIT_LORD_HP, 'lord hp', int),
+                   (UNIT_BASE_ATK, 'base atk', int),
+                   (UNIT_LORD_ATK, 'lord atk', int),
+                   (UNIT_BASE_DEF, 'base def', int),
+                   (UNIT_LORD_DEF, 'lord def', int),
+                   (UNIT_BASE_REC, 'base rec', int),
+                   (UNIT_LORD_REC, 'lord rec', int),
+                   (DMG_FRAME, 'hits', lambda s: len(s.split(','))),
+                   (DMG_FRAME, 'hit dmg% distribution', hit_dmg_dist),
+                   (DROP_CHECK_CNT, 'max bc generated', max_bc_gen),
+                   (UNIT_LORD_ATK, 'lord damage range', _damage_range),
+                   (UNIT_AI_ID, 'ai', ais.get),
+                   (UNIT_IMP, 'imp', lambda s: parse_imps(s.split(':'))),
+                   (BB_ID, 'bb', _parse_bb, not_zero),
+                   (SBB_ID, 'sbb', _parse_bb, not_zero),
+                   (LS_ID, 'leader skill', parse_ls, not_zero))
+
+    return handle_format(unit_format, unit)
 
 
 def parse_ai(ai):
-    data = dict()
+    ai_format = ((AI_ID, 'id', str),
+                 (AI_CHANCE, 'chance%', float),
+                 (AI_TARGET, 'target', str),
+                 (AI_ACTION_PARAMS, 'action', lambda s: s.split('@')[0]))
 
-    data['id'] = ai[AI_ID]
-    #data['name'] = ai[AI_NAME] #python doesn't like the mix of byte strings and unicode strings
-    data['chance%'] = float(ai[AI_CHANCE])
-    data['target'] = ai[AI_TARGET]
-    data['action'] = ai[AI_ACTION_PARAMS].split('@')[0]
-
-    return data
+    return handle_format(ai_format, ai)
 
 if __name__ == '__main__':
-    with open(glob.glob('Ver*_2r9cNSdt.json')[-1]) as f:
-        with open(glob.glob('sgtext_dictionary_*.csv')[-1]) as f2:
-            with open(glob.glob('Ver*_zLIvD5o2.json')[-1]) as f3:
-                with open(glob.glob('Ver*_wkCyV73D.json')[-1]) as f4:
-                    with open(glob.glob('Ver*_4dE8UKcw.json')[-1]) as f5:
-                        with open(glob.glob('Ver*_XkBhe70R.json')[-1]) as f6:
-                        units = json.load(f)
-                        skills_js = json.load(f4)
-                        bbs_js = json.load(f3)
-                        leader_skills_js = json.load(f5)
-                        ai_js = json.load(f6)
-                        dictionary = dict([
-                            line.split('^')[:2] for line in f2.readlines()
-                        ])
+    _dir = 'data/decoded_dat/'
+    if len(sys.argv) > 1:
+        _dir = sys.argv[1]
 
-                        skills = dict()
-                        for skill in skills_js:
-                            skills[skill[BB_ID]] = skill
+    files = {
+        'dict': 'data/dictionary_raw.txt',
+        'unit':         _dir + 'Ver*_2r9cNSdt*',
+        'skill level':  _dir + 'Ver*_zLIvD5o2*',
+        'skill':        _dir + 'Ver*_wkCyV73D*',
+        'leader skill': _dir + 'Ver*_4dE8UKcw*',
+        'ai':           _dir + 'Ver*_XkBhe70R*',
+    }
 
-                        bbs = dict()
-                        for bb in bbs_js:
-                            bbs[bb[BB_ID]] = bb
+    jsons = {}
+    for name, filename in files.iteritems():
+        with open(glob.glob(filename)[-1]) as f:
+            if f.name.split('.')[-1] == 'txt':
+                jsons[name] = dict([
+                    line.split('^')[:2] for line in f.readlines()
+                ])
+            else:
+                jsons[name] = json.load(f)
 
-                        leader_skills = dict()
-                        for leader_skill in leader_skills_js:
-                            leader_skills[leader_skill[LS_ID]] = leader_skill
+    def key_by_id(lst, id_str):
+        return {obj[id_str]: obj for obj in lst}
 
-                        ais = dict()
-                            for ai in ai_js:
-                                ai_data = parse_ai(ai)
-                                if ai_data['id'] in ais:
-                                    ais[ai_data['id']].append(ai_data)
-                                else:
-                                    ais[ai_data['id']] = [ai_data]
-                                ai_data.pop('id')
+    skills = key_by_id(jsons['skill'], BB_ID)
+    bbs = key_by_id(jsons['skill level'], BB_ID)
+    leader_skills = key_by_id(jsons['leader skill'], LS_ID)
 
-                        units_data = {}
-                        for unit in units:
-                            unit_data = parse_unit(
-                                unit, skills, bbs, leader_skills, ais, dictionary)
-                            units_data[unit_data['name']] = unit_data
-                            unit_data.pop('name')
+    ais = collections.defaultdict(list)
+    for ai in jsons['ai']:
+        ai_data = parse_ai(ai)
+        ais[ai_data['id']].append(ai_data)
+        ai_data.pop('id')
 
-                        print json.dumps(units_data)
+    units_data = {}
+    for unit in jsons['unit']:
+        unit_data = parse_unit(unit, skills, bbs, leader_skills,
+                               ais, jsons['dict'])
+        units_data[unit_data['name']] = unit_data
+        unit_data.pop('name')
+
+    print json.dumps(units_data)

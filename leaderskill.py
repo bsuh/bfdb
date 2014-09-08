@@ -130,8 +130,8 @@ ls_process_format = {
 
 def parse_ls_process(process_type, process_info):
     if process_type in ls_process_format:
-        return handle_process_format(ls_process_format[process_type],
-                                     process_info.split(','))
+        return handle_format(ls_process_format[process_type],
+                             process_info.split(','))
     return {}
 
 

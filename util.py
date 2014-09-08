@@ -28,6 +28,11 @@ AI_TARGET = 'VBj9u0ot'
 AI_ACTION_PARAMS = 'Hhgi79M1'
 AI_NAME = 'L8PCsu0K'
 
+REQ_HEADER_TAG = 'F4q6i9xe'
+REQ_ID = 'Hhgi79M1'
+REQ_BODY_TAG = 'a3vSYuq2'
+REQ_BODY = 'Kn51uR4Y'
+
 elements = {
     '0': 'all',
     '1': 'fire',
@@ -68,11 +73,13 @@ def parse_imps(args):
             'max rec': args[3]}
 
 
-def handle_process_format(process_format, process_info):
+def handle_format(fmt, obj):
+    import inspect
+
     data = {}
-    for entry in process_format:
+    for entry in fmt:
         if hasattr(entry, '__call__'):
-            data.update(entry(process_info))
+            data.update(entry(obj))
             continue
 
         idx = entry[0]
@@ -88,16 +95,35 @@ def handle_process_format(process_format, process_info):
         else:
             predicate = lambda x: True
 
-        if idx >= len(process_info) <= idx2:
+        if type(idx) == int and idx >= len(obj):
+            continue
+        if type(idx2) == int and idx2 >= len(obj):
+            continue
+        if type(idx) != int and idx not in obj:
+            continue
+        if type(idx2) != int and idx not in obj:
+            continue
+        if predicate(obj[idx2]) is not True:
             continue
 
         if hasattr(key, '__call__'):
-            key = key(process_info[idx])
+            args = [obj[idx]]
+            try:
+                if len(inspect.getargspec(key).args) > 1:
+                    args.append(data)
+            except TypeError:
+                pass
+            key = key(*args)
 
         if hasattr(value, '__call__'):
-            value = value(process_info[idx2])
+            args = [obj[idx2]]
+            try:
+                if len(inspect.getargspec(value).args) > 1:
+                    args.append(data)
+            except TypeError:
+                pass
+            value = value(*args)
 
-        if predicate(process_info[idx2]) is True:
-            data[key] = value
+        data[key] = value
 
     return data
