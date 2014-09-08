@@ -10,9 +10,6 @@ from braveburst import parse_bb
 
 
 def parse_unit(unit, skills, bbs, leader_skills, ais, dictionary):
-    def get_dict_str(s):
-        return dictionary.get(s, s)
-
     def hit_dmg_dist(s):
         return [int(hit.split(':')[1]) for hit in s.split(',')]
 
@@ -28,7 +25,7 @@ def parse_unit(unit, skills, bbs, leader_skills, ais, dictionary):
     def parse_ls(ls_id, data):
         return parse_leader_skill(data, leader_skills[ls_id], dictionary)
 
-    unit_format = ((UNIT_NAME, 'name', get_dict_str),
+    unit_format = ((UNIT_NAME, 'name', get_dict_str(dictionary)),
                    (UNIT_ELEMENT, 'element', elements.get),
                    (UNIT_RARITY, 'rarity', int),
                    (UNIT_BASE_HP, 'base hp', int),

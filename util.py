@@ -77,6 +77,10 @@ def second_int(_, a):
     return int(a)
 
 
+def get_dict_str(dictionary):
+    return lambda s: dictionary.get(s, s)
+
+
 def handle_format(fmt, obj):
     import inspect
 
