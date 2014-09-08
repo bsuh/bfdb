@@ -77,10 +77,10 @@ bb_process_format = {
 
     '10': ((0, 'remove all status ailments', True),),
 
-    '11': (((0, 1), ailments.get, int, not_zero),
-           ((2, 3), ailments.get, int, not_zero),
-           ((4, 5), ailments.get, int, not_zero),
-           ((6, 7), ailments.get, int, not_zero)),
+    '11': (([0, 1], ailments.get, second_int, not_zero),
+           ([2, 3], ailments.get, second_int, not_zero),
+           ([4, 5], ailments.get, second_int, not_zero),
+           ([6, 7], ailments.get, second_int, not_zero)),
 
     '13': ((0, 'random attack', True),
            (0, 'bb atk%', int, not_zero),

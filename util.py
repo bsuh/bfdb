@@ -73,6 +73,10 @@ def parse_imps(args):
             'max rec': args[3]}
 
 
+def second_int(_, a):
+    return int(a)
+
+
 def handle_format(fmt, obj):
     import inspect
 
@@ -82,11 +86,9 @@ def handle_format(fmt, obj):
             data.update(entry(obj))
             continue
 
-        idx = entry[0]
-        if hasattr(idx, '__iter__'):
-            idx, idx2 = idx
-        else:
-            idx2 = idx
+        indices = entry[0]
+        if not hasattr(indices, '__iter__'):
+            indices = [indices]
 
         key = entry[1]
         value = entry[2]
@@ -95,34 +97,31 @@ def handle_format(fmt, obj):
         else:
             predicate = lambda x: True
 
-        if type(idx) == int and idx >= len(obj):
+        skip = False
+        for idx in indices:
+            skip |= type(idx) == int and idx >= len(obj)
+            skip |= type(idx) != int and idx not in obj
+
+        if skip:
             continue
-        if type(idx2) == int and idx2 >= len(obj):
-            continue
-        if type(idx) != int and idx not in obj:
-            continue
-        if type(idx2) != int and idx not in obj:
-            continue
-        if predicate(obj[idx2]) is not True:
+
+        args = map(obj.__getitem__, indices) + [data]
+
+        def _call(fn, args):
+            try:
+                num_args = len(inspect.getargspec(fn).args)
+            except TypeError:
+                num_args = 1
+            return fn(*args[:num_args])
+
+        if _call(predicate, args) is not True:
             continue
 
         if hasattr(key, '__call__'):
-            args = [obj[idx]]
-            try:
-                if len(inspect.getargspec(key).args) > 1:
-                    args.append(data)
-            except TypeError:
-                pass
-            key = key(*args)
+            key = _call(key, args)
 
         if hasattr(value, '__call__'):
-            args = [obj[idx2]]
-            try:
-                if len(inspect.getargspec(value).args) > 1:
-                    args.append(data)
-            except TypeError:
-                pass
-            value = value(*args)
+            value = _call(value, args)
 
         data[key] = value
 

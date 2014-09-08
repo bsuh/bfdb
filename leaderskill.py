@@ -40,7 +40,7 @@ ls_process_format = {
           (4, 'curse resist%', int, not_zero),
           (5, 'paralysis resist%', int, not_zero)),
 
-    '5': (([0, 1], lambda el: '%s resist%%' % elements[el], int),),
+    '5': (([0, 1], lambda el: '%s resist%%' % elements[el], second_int),),
 
     '9': ((0, 'bc fill per turn', bb_gauge),),
 
@@ -51,7 +51,7 @@ ls_process_format = {
            (2, 'rec% buff', int, not_zero),
            (3, 'crit% buff', int, not_zero),
            ([5, 4], lambda s: 'hp %s %% buff requirement' %
-            ('above' if int(s) == 1 else 'below'), int, not_zero)),
+            ('above' if int(s) == 1 else 'below'), second_int, not_zero)),
 
     '14': ((0, 'dmg reduction%', int),
            (1, 'dmg reduction chance%', int)),
@@ -62,10 +62,10 @@ ls_process_format = {
            (3, 'zel production%', int, not_zero),
            (4, 'karma production%', int, not_zero)),
 
-    '20': (((0, 1), ailments.get, int, not_zero),
-           ((2, 3), ailments.get, int, not_zero),
-           ((4, 5), ailments.get, int, not_zero),
-           ((6, 7), ailments.get, int, not_zero)),
+    '20': (([0, 1], ailments.get, second_int, not_zero),
+           ([2, 3], ailments.get, second_int, not_zero),
+           ([4, 5], ailments.get, second_int, not_zero),
+           ([6, 7], ailments.get, second_int, not_zero)),
 
     '21': ((0, 'first x turns atk%', int, not_zero),
            (1, 'first x turns def%', int, not_zero),
