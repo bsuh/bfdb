@@ -33,6 +33,17 @@ REQ_ID = 'Hhgi79M1'
 REQ_BODY_TAG = 'a3vSYuq2'
 REQ_BODY = 'Kn51uR4Y'
 
+ITEM_NAME = 'c7Z6xDB2'
+ITEM_RARITY = '7ofj5xa1'
+ITEM_SELL_PRICE = 'eKtE6k0n'
+ITEM_MAX_STACK = 'm9gd5h1u'
+ITEM_ID = 'kixHbe54'
+ITEM_MAX_EQUIPPED = 't1i2vIbT'
+ITEM_PROCESS = '2Smu5Mtq'
+ITEM_TARGET_TYPE = 'moWQ30GH'
+ITEM_TARGET_AREA = '6E2fGPWT'
+ITEM_TYPE = 'h0K7wjeH'
+
 elements = {
     '0': 'all',
     '1': 'fire',
