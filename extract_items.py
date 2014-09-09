@@ -26,65 +26,72 @@ def parse_sphere_effect(item, data, dictionary):
 
 
 def parse_item(item, dictionary):
-    data = dict()
-    data['name'] = dictionary.get(item[ITEM_NAME], item[ITEM_NAME])
-    data['desc'] = dictionary.get(item[DESC], item[DESC])
-    data['rarity'] = int(item[ITEM_RARITY])
-    data['sell_price'] = int(item[ITEM_SELL_PRICE])
-    data['max_stack'] = int(item[ITEM_MAX_STACK])
-    data['id'] = int(item[ITEM_ID])
-    if item[ITEM_TYPE] == '0':
-        data['type'] = 'other'
-    elif item[ITEM_TYPE] == '1':
-        data['type'] = 'consumable'
-        data['max equipped'] = int(item[item_params[ITEM_MAX_EQUIPPED]])
-        data['effect'] = parse_item_effect(item, data)
-    elif item[ITEM_TYPE] == '2':
-        data['type'] = 'material'
-    elif item[ITEM_TYPE] == '3':
-        data['type'] = 'sphere'
-        data['effect'] = parse_sphere_effect(item, data, dictionary)
-    return data
+    def get_dict_str(s):
+        return dictionary.get(s, s)
+
+    def parse_type(item_data):
+        data = dict()
+        item_type = item_data[ITEM_TYPE]
+        if item_type == '0':
+            data['type'] = 'other'
+        elif item_type == '1':
+            data['type'] = 'consumable'
+            data['max equipped'] = int(item[ITEM_MAX_EQUIPPED])
+            data['effect'] = parse_item_effect(item_data, data)
+        elif item_type == '2':
+            data['type'] = 'material'
+        elif item_type == '3':
+            data['type'] = 'sphere'
+            data['effect'] = parse_sphere_effect(item_data, data, dictionary)
+        return data
+
+    item_format = ((ITEM_NAME, 'name', get_dict_str),
+                   (DESC, 'desc', get_dict_str),
+                   (ITEM_RARITY, 'rarity', int),
+                   (ITEM_SELL_PRICE, 'sell_price', int),
+                   (ITEM_MAX_STACK, 'max_stack', int),
+                   (ITEM_ID, 'id', int),
+                   (ITEM_TYPE, 'type', item_types.get),
+                   (parse_type))
+
+    return handle_format(item_format, item)
 
 if __name__ == '__main__':
-    subdirectory = 'data/decoded_dat'
+    _dir = 'data/decoded_dat/'
     if len(sys.argv) > 1:
-        subdirectory = sys.argv[1]
-    with open(glob.glob(subdirectory + 'Ver*_2r9cNSdt*')[-1]) as f:
-        with open(glob.glob('data/dictionary_raw.txt')[-1]) as f2:
-            with open(glob.glob(subdirectory + 'Ver*_zLIvD5o2*')[-1]) as f3:
-                with open(glob.glob(subdirectory + 'Ver*_wkCyV73D*')[-1]) as f4:
-                    with open(glob.glob(subdirectory + 'Ver*_4dE8UKcw*')[-1]) as f5:
-                        with open(glob.glob(subdirectory + 'Ver*_83JWTCGy.dat.json')[-1]) as f6:
-                            units = json.load(f)
-                            skills_js = json.load(f4)
-                            bbs_js = json.load(f3)
-                            leader_skills_js = json.load(f5)
-                            items = json.load(f6)
-                            dictionary = dict([line.split('^')[:2] for line in f2.readlines()])
+        _dir = sys.argv[1]
 
-                            skills = dict()
-                            for skill in skills_js:
-                                if skill['h6UL9A1B'] not in ['1', '2', '3']:
-                                    print dictionary[skill['0nxpBDz2']], dictionary[skill['qp37xTDh']], 'type:', skill['h6UL9A1B']
+    files = {
+        'dict': 'data/dictionary_raw.txt',
+        'unit':         _dir + 'Ver*_2r9cNSdt*',
+        'skill level':  _dir + 'Ver*_zLIvD5o2*',
+        'skill':        _dir + 'Ver*_wkCyV73D*',
+        'leader skill': _dir + 'Ver*_4dE8UKcw*',
+        'ai':           _dir + 'Ver*_XkBhe70R*',
+        'items':        _dir + 'Ver*_83JWTCGy*',
+    }
 
-                                skills[skill['nj9Lw7mV']] = skill
+    jsons = {}
+    for name, filename in files.iteritems():
+        with open(glob.glob(filename)[-1]) as f:
+            if f.name.split('.')[-1] == 'txt':
+                jsons[name] = dict([
+                    line.split('^')[:2] for line in f.readlines()
+                ])
+            else:
+                jsons[name] = json.load(f)
 
-                            bbs = dict()
-                            for bb in bbs_js:
-                                bbs[bb['nj9Lw7mV']] = bb
+    def key_by_id(lst, id_str):
+        return {obj[id_str]: obj for obj in lst}
 
-                            leader_skills = dict()
-                            for leader_skill in leader_skills_js:
-                                leader_skills[leader_skill['oS3kTZ2W']] = leader_skill
+    skills = key_by_id(jsons['skill'], BB_ID)
+    bbs = key_by_id(jsons['skill level'], BB_ID)
+    leader_skills = key_by_id(jsons['leader skill'], LS_ID)
 
-                            items_data = {}
-                            for item in items:
-                                item_data = parse_item(item, dictionary)
-                                items_data[item_data['name']] = item_data
-                                item_data.pop('name')
+    items_data = {}
+    for item in jsons['items']:
+        item_data = parse_item(item, jsons['dict'])
+        items_data[item_data['name']] = item_data
+        item_data.pop('name')
 
-                            if 'jp' in sys.argv:
-                                print json.dumps(items_data, sort_keys=True, indent=4, ensure_ascii=False).encode('utf8')
-                            else:
-                                print json.dumps(items_data, sort_keys=True, indent=4)
+    print json.dumps(items_data)

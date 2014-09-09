@@ -22,6 +22,6 @@ item_process_format = {
 
 def parse_item_process(process_type, process_info):
     if process_type in item_process_format:
-        return handle_process_format(item_process_format[process_type],
+        return handle_format(item_process_format[process_type],
                                      process_info.split(','))
     return parse_bb_process(process_type, process_info)

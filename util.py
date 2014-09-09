@@ -63,6 +63,13 @@ ailments = {
     '6': 'paralysis%'
 }
 
+item_types = {
+    '0': 'other',
+    '1': 'consumable',
+    '2': 'material',
+    '3': 'sphere'
+}
+
 
 def damage_range(atk):
     return (int((atk * 0.9) + (atk / 32)),
