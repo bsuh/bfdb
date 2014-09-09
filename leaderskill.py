@@ -77,6 +77,9 @@ ls_process_format = {
            (3, 'first x turns crit% GUESSED', int, not_zero),
            (4, 'first x turns', int)),
 
+    '23': ((0, 'battle end bc fill low', bb_gauge),
+           (1, 'battle end bc fill high', bb_gauge)),
+
     '25': ((0, 'bc fill when attacked low', bb_gauge),
            (1, 'bc fill when attacked high', bb_gauge),
            (2, 'bc fill when attacked%', int)),
