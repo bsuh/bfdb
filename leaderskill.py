@@ -56,6 +56,10 @@ ls_process_format = {
     '14': ((0, 'dmg reduction%', int),
            (1, 'dmg reduction chance%', int)),
 
+    '17': ((0, 'hp drain% low', int),
+           (1, 'hp drain% high', int),
+           (2, 'hp drain chance%', int))
+
     '19': ((0, 'bc production%', int, not_zero),
            (1, 'hc production%', int, not_zero),
            (2, 'item production%', int, not_zero),
