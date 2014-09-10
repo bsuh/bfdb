@@ -56,6 +56,10 @@ ls_process_format = {
     '14': ((0, 'dmg reduction%', int),
            (1, 'dmg reduction chance%', int)),
 
+    '17': ((0, 'hp drain% low', int),
+           (1, 'hp drain% high', int),
+           (2, 'hp drain chance%', int)),
+
     '19': ((0, 'bc production%', int, not_zero),
            (1, 'hc production%', int, not_zero),
            (2, 'item production%', int, not_zero),
@@ -73,11 +77,21 @@ ls_process_format = {
            (3, 'first x turns crit% GUESSED', int, not_zero),
            (4, 'first x turns', int)),
 
+    '23': ((0, 'battle end bc fill low', bb_gauge),
+           (1, 'battle end bc fill high', bb_gauge)),
+
     '25': ((0, 'bc fill when attacked low', bb_gauge),
            (1, 'bc fill when attacked high', bb_gauge),
            (2, 'bc fill when attacked%', int)),
 
     '29': ((0, 'ignore def%', int),),
+
+    '30': ((0, 'atk% buff', int, not_zero),
+           (1, 'def% buff', int, not_zero),
+           (2, 'rec% buff', int, not_zero),
+           (3, 'crit% buff', int, not_zero),
+           ([5, 4], lambda s: 'bb gauge %s %% buff requirement' % 
+            ('above' if int(s) == 1 else 'below'), int, not_zero)),
 
     '31': ((0, 'damage% for spark', int, not_zero),
            (1, 'bc drop% for spark', int, not_zero),
