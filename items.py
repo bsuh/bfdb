@@ -1,5 +1,5 @@
 from util import *
-from braveburst import parse_bb_process
+from braveburst import parse_skill_level_process
 
 
 def parse_item_remove_status_ailments(process_info):
@@ -20,8 +20,9 @@ item_process_format = {
     '10': (parse_item_remove_status_ailments,),
 }
 
+
 def parse_item_process(process_type, process_info):
     if process_type in item_process_format:
         return handle_format(item_process_format[process_type],
-                                     process_info.split(','))
-    return parse_bb_process(process_type, process_info)
+                             process_info.split(','))
+    return parse_skill_level_process(process_type, process_info)

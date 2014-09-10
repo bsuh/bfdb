@@ -90,7 +90,7 @@ ls_process_format = {
            (1, 'def% buff', int, not_zero),
            (2, 'rec% buff', int, not_zero),
            (3, 'crit% buff', int, not_zero),
-           ([5, 4], lambda s: 'bb gauge %s %% buff requirement' % 
+           ([5, 4], lambda s: 'bb gauge %s %% buff requirement' %
             ('above' if int(s) == 1 else 'below'), int, not_zero)),
 
     '31': ((0, 'damage% for spark', int, not_zero),

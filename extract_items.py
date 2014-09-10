@@ -5,22 +5,29 @@ import glob
 import sys
 from util import *
 from leaderskill import parse_ls_process
-from braveburst import parse_bb
 from items import *
 
 
 def parse_item_effect(item, data):
     effects = dict()
-    for process_type, process_info in zip(item[PROCESS_TYPE].split('@'), item[ITEM_PROCESS].split('@')):
+    for process_type, process_info in zip(item[PROCESS_TYPE].split('@'),
+                                          item[ITEM_PROCESS].split('@')):
         effects.update(parse_item_process(process_type, process_info))
-    effects['target_type'] = 'enemy' if item[ITEM_TARGET_TYPE] == '2' else 'self'
-    effects['target_area'] = 'single' if item[ITEM_TARGET_AREA] == '1' else 'aoe'
+    if item[ITEM_TARGET_TYPE] == '2':
+        effects['target_type'] = 'enemy'
+    else:
+        effects['target_type'] = 'self'
+    if item[ITEM_TARGET_TYPE] == '1':
+        effects['target_area'] = 'single'
+    else:
+        effects['target_area'] = 'aoe'
     return effects
 
 
 def parse_sphere_effect(item, data, dictionary):
     effects = dict()
-    for process_type, process_info in zip(item[PROCESS_TYPE].split('@'), item[ITEM_PROCESS].split('@')):
+    for process_type, process_info in zip(item[PROCESS_TYPE].split('@'),
+                                          item[ITEM_PROCESS].split('@')):
         effects.update(parse_ls_process(process_type, process_info))
     return effects
 
