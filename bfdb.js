@@ -49,6 +49,15 @@ $(function () {
       }
     });
 
+    var colors = {
+      'fire': 'rgb(214, 39, 40)',
+      'light': 'rgb(247, 182, 210)',
+      'thunder': 'rgb(255, 127, 14)',
+      'dark': 'rgb(127, 127, 127)',
+      'water': 'rgb(31, 119, 180)',
+      'earth': 'rgb(44, 160, 44)',
+    };
+
     var _data = _.map(grouped, function (list, groupVar) {
       return {
         key: groupVar,
@@ -60,7 +69,8 @@ $(function () {
           }, unit)
         }), function (point) {
           return isFinite(point.x) && isFinite(point.y);
-        })
+        }),
+        color: colors[groupVar]
       };
     });
 
@@ -70,6 +80,9 @@ $(function () {
         .showDistX(true)
         .showDistY(true)
         .color(d3.scale.category10().range());
+
+      chart.xAxis.axisLabel($('#xSelect option:selected').text());
+      chart.yAxis.axisLabel($('#ySelect option:selected').text());
 
       chart.tooltipContent(function(key, x, y, e, graph) {
         lastPoint = e.point;
