@@ -133,6 +133,18 @@ $(function () {
 
       series: _data
     });
+
+    var enableDataLabels = true;
+    $('#datalabels').off().click(function () {
+      $('#chart').highcharts().series.forEach(function (series) {
+        series.update({
+          dataLabels: {
+            enabled: enableDataLabels
+          }
+        });
+      });
+      enableDataLabels = !enableDataLabels;
+    });
   }
 
   $('select').change(draw);
