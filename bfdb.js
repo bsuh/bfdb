@@ -10,7 +10,8 @@ $(function () {
     });
 
     data = _.filter(data, function (unit) {
-      return (unit.name != 'Metal Mimic');
+      return (unit.name != 'Metal Mimic') &&
+        (unit.name != 'Creator Maxwell');
     });
 
     draw();
