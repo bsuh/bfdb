@@ -128,7 +128,16 @@ $(function () {
       },
 
       xAxis: {
-        gridLineWidth: 1
+        gridLineWidth: 1,
+        title: {
+          text: $('#xSelect option:selected').text()
+        }
+      },
+
+      yAxis: {
+        title: {
+          text: $('#ySelect option:selected').text()
+        }
       },
 
       series: _data
