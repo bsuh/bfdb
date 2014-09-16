@@ -39,15 +39,9 @@ $(function () {
 
     var min = groupQuery(_.min(data, groupQuery));
     var max = groupQuery(_.max(data, groupQuery)) + 1;
-    var tier = (max - min) / 5;
 
     var grouped = _.groupBy(data, function (unit) {
-      var result = groupQuery(unit);
-      if (typeof result === 'number' && max - min > 10) {
-        return Math.floor(Math.floor((result - min) / tier) * tier + min);
-      } else {
-        return result;
-      }
+      return groupQuery(unit);
     });
 
     var colors = {
