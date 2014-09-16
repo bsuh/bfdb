@@ -53,52 +53,85 @@ $(function () {
       'earth': 'rgb(44, 160, 44)',
     };
 
+    function defaultColor(i) {
+      var colors = d3.scale.category10().range();
+      return colors[i % colors.length];
+    }
+
+    var i = 0;
     var _data = _.map(grouped, function (list, groupVar) {
+      i += 1;
       return {
-        key: groupVar,
-        values: _.filter(_.map(list, function (unit) {
-          return _.extend({
+        name: groupVar,
+        data: _.filter(_.map(list, function (unit) {
+          return {
             x: xQuery(unit),
             y: yQuery(unit),
-            size: sizeQuery(unit),
-          }, unit)
+            z: sizeQuery(unit),
+            extra: unit
+          };
         }), function (point) {
           return isFinite(point.x) && isFinite(point.y);
         }),
-        color: colors[groupVar]
+        color: colors[groupVar] || defaultColor(i-1)
       };
     });
 
-    var lastPoint;
-    nv.addGraph(function() {
-      var chart = nv.models.scatterChart()
-        .showDistX(true)
-        .showDistY(true)
-        .color(d3.scale.category10().range());
+    $('#chart').highcharts({
+      chart: {
+        type: 'bubble',
+        zoomType: 'xy',
+      },
 
-      chart.xAxis.axisLabel($('#xSelect option:selected').text());
-      chart.yAxis.axisLabel($('#ySelect option:selected').text());
+      title: {
+        text: null
+      },
 
-      chart.tooltipContent(function(key, x, y, e, graph) {
-        lastPoint = e.point;
-        return '<h3>' + e.point.name + '</h3><p>' +
-          $('#groupSelect option:selected').text() + ': ' + groupQuery(e.point) +
-          '<br/>' +
-          $('#sizeSelect option:selected').text() + ': ' + e.point.size + '</p>';
-      });
+      legend: {
+        layout: 'horizontal',
+        align: 'right',
+        verticalAlign: 'top',
+        x: 0,
+        y: -10,
+        floating: true,
+        backgroundColor: '#FFFFFF',
+      },
 
-      d3.select('#chart svg')
-        .datum(_data)
-        .call(chart);
+      tooltip: {
+        headerFormat: '<span style="font-size: 16px">{point.point.extra.name}</span><br/>',
+        pointFormat: $('#ySelect option:selected').text() + ': {point.y}<br/>' +
+          $('#xSelect option:selected').text() + ': {point.x}<br/>' +
+          $('#sizeSelect option:selected').text() + ': {point.z}'
+      },
 
-      nv.utils.windowResize(chart.update);
+      plotOptions: {
+        bubble: {
+          maxSize: 32/Math.PI,
+          minSize: 8/Math.PI,
+          dataLabels: {
+            enabled: false,
+            formatter: function () {
+              return this.point.extra.name;
+            }
+          }
+        },
 
-      return chart;
-    }, function () {
-      d3.selectAll('.nv-point-paths').on('click', function () {
-        $('#detailedinfo').html(JSON.stringify(
-          _.omit(lastPoint, ['x', 'y', 'size', 'series']), null, 2));
-      });
+        series: {
+          point: {
+            events: {
+              click: function () {
+                $('#detailedinfo').html(JSON.stringify(this.extra, null, 2));
+              }
+            }
+          }
+        }
+      },
+
+      xAxis: {
+        gridLineWidth: 1
+      },
+
+      series: _data
     });
   }
 
