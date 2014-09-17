@@ -1,5 +1,43 @@
 window.jsel = JSONSelect.match
 
+window.calc_michele_dmg = function (unit) {
+  function upperDmg(atk) {
+    return Math.round(atk  + (atk / 25));
+  }
+
+  function damageRangeBB(skill, bbLvl) {
+    var totalAtk = unit['lord atk'],
+        modifier = bbLvl['bb atk%']
+
+    modifier += bbLvl['atk% buff'] || 115;
+
+    totalAtk = totalAtk * (1 + modifier / 100);
+    totalAtk += bbLvl['bb flat atk'] || 0;
+    totalAtk = totalAtk * (1 + (bbLvl['bb dmg%'] || 0) / 100);
+    totalAtk = totalAtk * _.reduce(skill['hit dmg% distribution'] || [100],
+                                   function (x, y) {
+                                     return x + y;
+                                   }, 0) / 100;
+    totalAtk = Math.round(totalAtk);
+
+    return upperDmg(totalAtk);
+  }
+
+  var dmg = Math.round(Number(unit['lord damage range'].split('~')[1]) * 2.15);
+
+  if (jsel('.bb ."bb atk%"', unit).length) {
+    dmg = Math.max(dmg,
+                   damageRangeBB(unit.bb, _.last(unit.bb.levels)))
+  }
+
+  if (jsel('.sbb ."bb atk%"', unit).length) {
+    dmg = Math.max(dmg,
+                   damageRangeBB(unit.sbb, _.last(unit.sbb.levels)))
+  }
+
+  return dmg;
+};
+
 $(function () {
   var data;
 
