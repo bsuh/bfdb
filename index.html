@@ -39,8 +39,8 @@
                                 <option value="unit['lord def']">Def</option>
                                 <option value="unit['lord rec']">Rec</option>
                                 <option value="Number(unit['lord damage range'].split('~')[1])">Attack Lord Damage</option>
-                                <option value="jsel('.bb .&quot;lord damage range&quot;', unit)[0] && Number(jsel('.bb .&quot;lord damage range&quot;', unit)[0].split('~')[1])">BB Lord Damage</option>
-                                <option value="jsel('.sbb .&quot;lord damage range&quot;', unit)[0] && Number(jsel('.sbb .&quot;lord damage range&quot;', unit)[0].split('~')[1])">SBB Lord Damage</option>
+                                <option value="jsel('.bb .levels > :last-child .&quot;lord damage range&quot;', unit)[0] &amp;&amp; Number(jsel('.bb .levels > :last-child .&quot;lord damage range&quot;', unit)[0].split('~')[1])">BB Lord Damage</option>
+                                <option value="jsel('.sbb .levels > :last-child .&quot;lord damage range&quot;', unit)[0] &amp;&amp; Number(jsel('.sbb .levels > :last-child .&quot;lord damage range&quot;', unit)[0].split('~')[1])">SBB Lord Damage</option>
                                 <option value="Math.max(_.map(jsel('.&quot;lord damage range&quot;', unit), (s) -> Number(s.split('~')[1]))...)" selected>Max Lord Damage</option>
                                 <option value="calc_michele_dmg(unit)">Max Lord Damage w/ Michele</option>
                                 <option value="unit.hits">Hits</option>
@@ -76,8 +76,8 @@
                                 <option value="unit['lord def']">Def</option>
                                 <option value="unit['lord rec']">Rec</option>
                                 <option value="Number(unit['lord damage range'].split('~')[1])">Attack Lord Damage</option>
-                                <option value="jsel('.bb .&quot;lord damage range&quot;', unit)[0] && Number(jsel('.bb .&quot;lord damage range&quot;', unit)[0].split('~')[1])">BB Lord Damage</option>
-                                <option value="jsel('.sbb .&quot;lord damage range&quot;', unit)[0] && Number(jsel('.sbb .&quot;lord damage range&quot;', unit)[0].split('~')[1])">SBB Lord Damage</option>
+                                <option value="jsel('.bb .levels > :last-child .&quot;lord damage range&quot;', unit)[0] &amp;&amp; Number(jsel('.bb .levels > :last-child .&quot;lord damage range&quot;', unit)[0].split('~')[1])">BB Lord Damage</option>
+                                <option value="jsel('.sbb .levels > :last-child .&quot;lord damage range&quot;', unit)[0] &amp;&amp; Number(jsel('.sbb .levels > :last-child .&quot;lord damage range&quot;', unit)[0].split('~')[1])">SBB Lord Damage</option>
                                 <option value="Math.max(_.map(jsel('.&quot;lord damage range&quot;', unit), (s) -> Number(s.split('~')[1]))...)">Max Lord Damage</option>
                                 <option value="calc_michele_dmg(unit)">Max Lord Damage w/ Michele</option>
                                 <option value="unit.hits">Hits</option>
@@ -113,8 +113,8 @@
                                 <option value="unit['lord def']">Def</option>
                                 <option value="unit['lord rec']" selected>Rec</option>
                                 <option value="Number(unit['lord damage range'].split('~')[1])">Attack Lord Damage</option>
-                                <option value="jsel('.bb .&quot;lord damage range&quot;', unit)[0] && Number(jsel('.bb .&quot;lord damage range&quot;', unit)[0].split('~')[1])">BB Lord Damage</option>
-                                <option value="jsel('.sbb .&quot;lord damage range&quot;', unit)[0] && Number(jsel('.sbb .&quot;lord damage range&quot;', unit)[0].split('~')[1])">SBB Lord Damage</option>
+                                <option value="jsel('.bb .levels > :last-child .&quot;lord damage range&quot;', unit)[0] &amp;&amp; Number(jsel('.bb .levels > :last-child .&quot;lord damage range&quot;', unit)[0].split('~')[1])">BB Lord Damage</option>
+                                <option value="jsel('.sbb .levels > :last-child .&quot;lord damage range&quot;', unit)[0] &amp;&amp; Number(jsel('.sbb .levels > :last-child .&quot;lord damage range&quot;', unit)[0].split('~')[1])">SBB Lord Damage</option>
                                 <option value="Math.max(_.map(jsel('.&quot;lord damage range&quot;', unit), (s) -> Number(s.split('~')[1]))...)">Max Lord Damage</option>
                                 <option value="calc_michele_dmg(unit)">Max Lord Damage w/ Michele</option>
                                 <option value="unit.hits">Hits</option>
