@@ -48,8 +48,7 @@ $(function () {
     });
 
     data = _.filter(data, function (unit) {
-      return (unit.name != 'Metal Mimic') &&
-        (unit.name != 'Creator Maxwell');
+      return unit.name != 'Metal Mimic';
     });
 
     draw();
