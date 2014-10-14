@@ -2989,7 +2989,7 @@
     "max bc generated": 36,
     "rarity": 6,
     "sbb": {
-      "desc": "16 combo Water elemental attack on single enemy & boost to Atk for all Units and Earth element added to attack for 3 turns",
+      "desc": "16 combo Water elemental attack on all enemies & boost to Atk for all Units and Earth element added to attack for 3 turns",
       "hit dmg% distribution": [
         10,
         7,
@@ -16926,6 +16926,159 @@
     "max bc generated": 14,
     "rarity": 4
   },
+  "Diva Hatsune Miku": {
+    "ai": [
+      {
+        "action": "skill",
+        "chance%": 60,
+        "target": "random"
+      },
+      {
+        "action": "skill",
+        "chance%": 20,
+        "target": "atk_max"
+      },
+      {
+        "action": "attack",
+        "chance%": 30,
+        "target": "hp_min"
+      },
+      {
+        "action": "attack",
+        "chance%": 100,
+        "target": "random"
+      }
+    ],
+    "base atk": 750,
+    "base def": 740,
+    "base hp": 2500,
+    "base rec": 720,
+    "bb": {
+      "desc": "12 combo Earth elemental attack on all enemies & gradually recovers BB gauge for 3 turns",
+      "hit dmg% distribution": [
+        9,
+        8,
+        8,
+        9,
+        8,
+        8,
+        9,
+        8,
+        8,
+        9,
+        8,
+        8
+      ],
+      "hits": 12,
+      "levels": [
+        {
+          "bb atk%": 50,
+          "bb flat atk": 50,
+          "bc cost": 20,
+          "increase bb gauge gradual": 2,
+          "increase bb gauge gradual turns": 3,
+          "lord damage range": "1611~1799"
+        },
+        {
+          "bb atk%": 60,
+          "bb flat atk": 50,
+          "bc cost": 20,
+          "increase bb gauge gradual": 2,
+          "increase bb gauge gradual turns": 3,
+          "lord damage range": "1714~1915"
+        },
+        {
+          "bb atk%": 70,
+          "bb flat atk": 50,
+          "bc cost": 20,
+          "increase bb gauge gradual": 2,
+          "increase bb gauge gradual turns": 3,
+          "lord damage range": "1819~2032"
+        },
+        {
+          "bb atk%": 80,
+          "bb flat atk": 50,
+          "bc cost": 20,
+          "increase bb gauge gradual": 2,
+          "increase bb gauge gradual turns": 3,
+          "lord damage range": "1923~2148"
+        },
+        {
+          "bb atk%": 90,
+          "bb flat atk": 50,
+          "bc cost": 20,
+          "increase bb gauge gradual": 2,
+          "increase bb gauge gradual turns": 3,
+          "lord damage range": "2028~2265"
+        },
+        {
+          "bb atk%": 100,
+          "bb flat atk": 50,
+          "bc cost": 20,
+          "increase bb gauge gradual": 2,
+          "increase bb gauge gradual turns": 3,
+          "lord damage range": "2132~2381"
+        },
+        {
+          "bb atk%": 110,
+          "bb flat atk": 50,
+          "bc cost": 20,
+          "increase bb gauge gradual": 2,
+          "increase bb gauge gradual turns": 3,
+          "lord damage range": "2236~2498"
+        },
+        {
+          "bb atk%": 120,
+          "bb flat atk": 50,
+          "bc cost": 20,
+          "increase bb gauge gradual": 2,
+          "increase bb gauge gradual turns": 3,
+          "lord damage range": "2340~2614"
+        },
+        {
+          "bb atk%": 130,
+          "bb flat atk": 50,
+          "bc cost": 20,
+          "increase bb gauge gradual": 2,
+          "increase bb gauge gradual turns": 3,
+          "lord damage range": "2445~2731"
+        },
+        {
+          "bb atk%": 150,
+          "bb flat atk": 50,
+          "bc cost": 20,
+          "increase bb gauge gradual": 2,
+          "increase bb gauge gradual turns": 3,
+          "lord damage range": "2654~2964"
+        }
+      ],
+      "max bc generated": 12,
+      "name": "Starlight Song"
+    },
+    "element": "earth",
+    "hit dmg% distribution": [
+      10,
+      10,
+      20,
+      20,
+      20,
+      20
+    ],
+    "hits": 6,
+    "leader skill": {
+      "bb gauge fill rate%": 25,
+      "bc fill per turn": 3,
+      "desc": "Fills BB gauge hugely after each turn & boosts the BB gauge fill rate",
+      "name": " Concert of Light"
+    },
+    "lord atk": 1120,
+    "lord damage range": "1043~1164",
+    "lord def": 1080,
+    "lord hp": 3900,
+    "lord rec": 1000,
+    "max bc generated": 12,
+    "rarity": 4
+  },
   "Divine Emperor Orwen": {
     "ai": [
       {
@@ -19879,6 +20032,181 @@
       "max bc generated": 10,
       "name": "Stardust Flare"
     }
+  },
+  "Duetto Megurine Luka": {
+    "ai": [
+      {
+        "action": "skill",
+        "chance%": 60,
+        "target": "random"
+      },
+      {
+        "action": "skill",
+        "chance%": 20,
+        "target": "atk_max"
+      },
+      {
+        "action": "attack",
+        "chance%": 30,
+        "target": "hp_min"
+      },
+      {
+        "action": "attack",
+        "chance%": 100,
+        "target": "random"
+      }
+    ],
+    "base atk": 880,
+    "base def": 600,
+    "base hp": 2700,
+    "base rec": 930,
+    "bb": {
+      "desc": "12 combo Dark elemental attack on all enemies & gradually recovers HP for 3 turns",
+      "hit dmg% distribution": [
+        9,
+        8,
+        8,
+        9,
+        8,
+        8,
+        9,
+        8,
+        8,
+        9,
+        8,
+        8
+      ],
+      "hits": 12,
+      "levels": [
+        {
+          "bb atk%": 50,
+          "bb flat atk": 50,
+          "bc cost": 20,
+          "gradual heal high": 700,
+          "gradual heal low": 600,
+          "gradual heal turns": 3,
+          "lord damage range": "1931~2158",
+          "rec added% (regen)": 10
+        },
+        {
+          "bb atk%": 60,
+          "bb flat atk": 50,
+          "bc cost": 20,
+          "gradual heal high": 720,
+          "gradual heal low": 620,
+          "gradual heal turns": 3,
+          "lord damage range": "2058~2298",
+          "rec added% (regen)": 10
+        },
+        {
+          "bb atk%": 70,
+          "bb flat atk": 50,
+          "bc cost": 20,
+          "gradual heal high": 740,
+          "gradual heal low": 640,
+          "gradual heal turns": 3,
+          "lord damage range": "2183~2438",
+          "rec added% (regen)": 10
+        },
+        {
+          "bb atk%": 80,
+          "bb flat atk": 50,
+          "bc cost": 20,
+          "gradual heal high": 760,
+          "gradual heal low": 660,
+          "gradual heal turns": 3,
+          "lord damage range": "2309~2579",
+          "rec added% (regen)": 10
+        },
+        {
+          "bb atk%": 90,
+          "bb flat atk": 50,
+          "bc cost": 20,
+          "gradual heal high": 780,
+          "gradual heal low": 680,
+          "gradual heal turns": 3,
+          "lord damage range": "2434~2719",
+          "rec added% (regen)": 10
+        },
+        {
+          "bb atk%": 100,
+          "bb flat atk": 50,
+          "bc cost": 20,
+          "gradual heal high": 800,
+          "gradual heal low": 700,
+          "gradual heal turns": 3,
+          "lord damage range": "2560~2860",
+          "rec added% (regen)": 10
+        },
+        {
+          "bb atk%": 110,
+          "bb flat atk": 50,
+          "bc cost": 20,
+          "gradual heal high": 820,
+          "gradual heal low": 720,
+          "gradual heal turns": 3,
+          "lord damage range": "2686~3000",
+          "rec added% (regen)": 10
+        },
+        {
+          "bb atk%": 120,
+          "bb flat atk": 50,
+          "bc cost": 20,
+          "gradual heal high": 840,
+          "gradual heal low": 740,
+          "gradual heal turns": 3,
+          "lord damage range": "2812~3140",
+          "rec added% (regen)": 10
+        },
+        {
+          "bb atk%": 130,
+          "bb flat atk": 50,
+          "bc cost": 20,
+          "gradual heal high": 860,
+          "gradual heal low": 760,
+          "gradual heal turns": 3,
+          "lord damage range": "2936~3280",
+          "rec added% (regen)": 10
+        },
+        {
+          "bb atk%": 150,
+          "bb flat atk": 50,
+          "bc cost": 20,
+          "gradual heal high": 880,
+          "gradual heal low": 780,
+          "gradual heal turns": 3,
+          "lord damage range": "3189~3562",
+          "rec added% (regen)": 10
+        }
+      ],
+      "max bc generated": 12,
+      "name": "Future Song"
+    },
+    "element": "dark",
+    "hit dmg% distribution": [
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      30
+    ],
+    "hits": 8,
+    "leader skill": {
+      "desc": "Boosts HC drop rate & hugely boosts Rec rate",
+      "hc effectiveness%": 50,
+      "hc production%": 20,
+      "name": "Noble Smile"
+    },
+    "lord atk": 1350,
+    "lord damage range": "1257~1404",
+    "lord def": 1050,
+    "lord hp": 4100,
+    "lord rec": 1450,
+    "max bc generated": 16,
+    "rarity": 4
   },
   "Dwarf": {
     "ai": [
@@ -31170,6 +31498,177 @@
     "lord hp": 4707,
     "lord rec": 1304,
     "max bc generated": 12,
+    "rarity": 5
+  },
+  "Goddess Hatsune Miku": {
+    "ai": [
+      {
+        "action": "skill",
+        "chance%": 60,
+        "target": "random"
+      },
+      {
+        "action": "skill",
+        "chance%": 20,
+        "target": "atk_max"
+      },
+      {
+        "action": "attack",
+        "chance%": 30,
+        "target": "hp_min"
+      },
+      {
+        "action": "attack",
+        "chance%": 100,
+        "target": "random"
+      }
+    ],
+    "base atk": 1030,
+    "base def": 1000,
+    "base hp": 3500,
+    "base rec": 900,
+    "bb": {
+      "desc": "27 combo Earth elemental attack on all enemies & gradually recovers BB gauge for 3 turns",
+      "hit dmg% distribution": [
+        4,
+        4,
+        3,
+        4,
+        4,
+        4,
+        3,
+        4,
+        4,
+        3,
+        4,
+        4,
+        4,
+        3,
+        4,
+        4,
+        4,
+        3,
+        4,
+        4,
+        3,
+        4,
+        4,
+        3,
+        4,
+        3,
+        4
+      ],
+      "hits": 27,
+      "levels": [
+        {
+          "bb atk%": 90,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "increase bb gauge gradual": 3,
+          "increase bb gauge gradual turns": 3,
+          "lord damage range": "2815~3144"
+        },
+        {
+          "bb atk%": 100,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "increase bb gauge gradual": 3,
+          "increase bb gauge gradual turns": 3,
+          "lord damage range": "2959~3305"
+        },
+        {
+          "bb atk%": 110,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "increase bb gauge gradual": 3,
+          "increase bb gauge gradual turns": 3,
+          "lord damage range": "3101~3464"
+        },
+        {
+          "bb atk%": 120,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "increase bb gauge gradual": 3,
+          "increase bb gauge gradual turns": 3,
+          "lord damage range": "3244~3624"
+        },
+        {
+          "bb atk%": 130,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "increase bb gauge gradual": 3,
+          "increase bb gauge gradual turns": 3,
+          "lord damage range": "3388~3784"
+        },
+        {
+          "bb atk%": 140,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "increase bb gauge gradual": 3,
+          "increase bb gauge gradual turns": 3,
+          "lord damage range": "3531~3944"
+        },
+        {
+          "bb atk%": 150,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "increase bb gauge gradual": 3,
+          "increase bb gauge gradual turns": 3,
+          "lord damage range": "3675~4104"
+        },
+        {
+          "bb atk%": 160,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "increase bb gauge gradual": 3,
+          "increase bb gauge gradual turns": 3,
+          "lord damage range": "3818~4265"
+        },
+        {
+          "bb atk%": 170,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "increase bb gauge gradual": 3,
+          "increase bb gauge gradual turns": 3,
+          "lord damage range": "3961~4425"
+        },
+        {
+          "bb atk%": 190,
+          "bb flat atk": 100,
+          "bc cost": 25,
+          "increase bb gauge gradual": 3,
+          "increase bb gauge gradual turns": 3,
+          "lord damage range": "4248~4745"
+        }
+      ],
+      "max bc generated": 27,
+      "name": "Shining Stage"
+    },
+    "element": "earth",
+    "hit dmg% distribution": [
+      12,
+      11,
+      11,
+      11,
+      11,
+      11,
+      11,
+      11,
+      11
+    ],
+    "hits": 9,
+    "leader skill": {
+      "bb gauge fill rate%": 25,
+      "bc fill per turn": 3,
+      "desc": "Fills BB gauge hugely after each turn & boosts the BB gauge fill rate",
+      "name": " Concert of Light"
+    },
+    "lord atk": 1539,
+    "lord damage range": "1433~1600",
+    "lord def": 1439,
+    "lord hp": 4939,
+    "lord rec": 1839,
+    "max bc generated": 18,
     "rarity": 5
   },
   "Goddess Tilith": {
@@ -43753,7 +44252,7 @@
     "hits": 8,
     "leader skill": {
       "bc fill per turn": 3,
-      "desc": "ターン経過で大幅にBBゲージが増加＆ハートクリスタルの回復量がアップ",
+      "desc": "BB gauge fills hugely after each turn & boost in effectiveness of Heart Crystals",
       "hc effectiveness%": 25,
       "name": "Love Palpitations"
     },
@@ -47829,7 +48328,7 @@
     "max bc generated": 16,
     "rarity": 6,
     "sbb": {
-      "desc": "14 combo powerful Earth attack on single enemy & chance of inflicting a random status ailment ",
+      "desc": "14 combo powerful Earth attack on all enemies & chance of inflicting a random status ailment",
       "hit dmg% distribution": [
         10,
         8,
@@ -83777,7 +84276,7 @@
     "max bc generated": 20,
     "rarity": 6,
     "sbb": {
-      "desc": "15 combo powerful Water attack on all enemies, large boost to HC drop rate & boost to HC drop rate for 3 turns",
+      "desc": "15 combo powerful Water attack on all enemies & large boost to HC drop rate for 3 turns",
       "hit dmg% distribution": [
         7,
         7,
@@ -88601,7 +89100,7 @@
     "hits": 10,
     "leader skill": {
       "atk% buff": 50,
-      "desc": "50% boost to Atk power of all Units & when 5 elements or more are present small boost in HC production",
+      "desc": "50% boost to Atk power of all Units when 5 elements or more are present & small boost in HC production",
       "hc production%": 20,
       "name": "Five Light's Mercy",
       "unique elements required": 5
